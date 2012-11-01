@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="M" format="1">
-  <advance width="1843"/>
+  <advance width="1815"/>
   <unicode hex="004D"/>
   <outline>
     <contour>
       <point x="154" y="0" type="line"/>
       <point x="479" y="0" type="line"/>
       <point x="479" y="1074" type="line"/>
-      <point x="811" y="186" type="line"/>
-      <point x="1032" y="186" type="line"/>
-      <point x="1364" y="1078" type="line"/>
-      <point x="1364" y="0" type="line"/>
-      <point x="1689" y="0" type="line"/>
-      <point x="1687" y="1490" type="line"/>
-      <point x="1229" y="1490" type="line"/>
-      <point x="921" y="662" type="line"/>
-      <point x="602" y="1490" type="line"/>
+      <point x="797" y="269" type="line"/>
+      <point x="1018" y="269" type="line"/>
+      <point x="1336" y="1078" type="line"/>
+      <point x="1336" y="0" type="line"/>
+      <point x="1661" y="0" type="line"/>
+      <point x="1659" y="1490" type="line"/>
+      <point x="1215" y="1490" type="line"/>
+      <point x="907" y="725" type="line"/>
+      <point x="588" y="1490" type="line"/>
       <point x="154" y="1490" type="line"/>
     </contour>
   </outline>
@@ -43,7 +43,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1843</integer>
+          <integer>1815</integer>
         </dict>
       </dict>
     </dict>
