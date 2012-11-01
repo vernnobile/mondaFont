@@ -8,10 +8,10 @@
       <point x="440" y="0" type="line"/>
       <point x="440" y="710" type="line"/>
       <point x="470" y="796"/>
-      <point x="565" y="832"/>
-      <point x="684" y="842" type="curve"/>
-      <point x="684" y="1097" type="line"/>
-      <point x="594" y="1111"/>
+      <point x="588" y="832"/>
+      <point x="707" y="842" type="curve"/>
+      <point x="713" y="1097" type="line"/>
+      <point x="623" y="1111"/>
       <point x="491" y="1014"/>
       <point x="440" y="932" type="curve"/>
       <point x="440" y="1080" type="line"/>
