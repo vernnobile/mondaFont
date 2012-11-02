@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="e" format="1">
-  <advance width="1150"/>
+  <advance width="1155"/>
   <unicode hex="0065"/>
   <outline>
     <contour>
       <point x="1028" y="552" type="line"/>
       <point x="266" y="552" type="line"/>
-      <point x="266" y="670" type="line"/>
-      <point x="1028" y="670" type="line"/>
+      <point x="266" y="661" type="line"/>
+      <point x="1028" y="661" type="line"/>
     </contour>
     <component base="c"/>
   </outline>
@@ -324,7 +324,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1150</integer>
+          <integer>1155</integer>
         </dict>
       </dict>
     </dict>

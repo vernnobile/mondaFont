@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="c" format="1">
-  <advance width="1150"/>
+  <advance width="1151"/>
   <unicode hex="0063"/>
   <outline>
     <contour>
-      <point x="849.0" y="669.0" type="line"/>
-      <point x="849.0" y="771.0" type="line" smooth="yes"/>
-      <point x="849.0" y="933.0"/>
+      <point x="849" y="661" type="line"/>
+      <point x="849" y="790" type="line" smooth="yes"/>
+      <point x="849" y="952"/>
       <point x="750.0" y="954.0"/>
       <point x="577.0" y="954.0" type="curve" smooth="yes"/>
       <point x="414.0" y="954.0"/>
@@ -17,12 +17,12 @@
       <point x="404.0" y="126.0"/>
       <point x="577.0" y="126.0" type="curve" smooth="yes"/>
       <point x="740.0" y="126.0"/>
-      <point x="849.0" y="147.0"/>
-      <point x="849.0" y="309.0" type="curve" smooth="yes"/>
-      <point x="849" y="416" type="line"/>
-      <point x="1028" y="416" type="line"/>
-      <point x="1028" y="310" type="line" smooth="yes"/>
-      <point x="1028" y="89"/>
+      <point x="849" y="124"/>
+      <point x="849" y="286" type="curve" smooth="yes"/>
+      <point x="849" y="393" type="line"/>
+      <point x="1028" y="393" type="line"/>
+      <point x="1028" y="287" type="line" smooth="yes"/>
+      <point x="1028" y="66"/>
       <point x="941.0" y="-24.0"/>
       <point x="577.0" y="-24.0" type="curve" smooth="yes"/>
       <point x="229.0" y="-24.0"/>
@@ -30,12 +30,12 @@
       <point x="119.0" y="310.0" type="curve" smooth="yes"/>
       <point x="119.0" y="770.0" type="line" smooth="yes"/>
       <point x="119.0" y="1000.0"/>
-      <point x="293" y="1104"/>
+      <point x="274" y="1104"/>
       <point x="577" y="1104" type="curve" smooth="yes"/>
       <point x="877" y="1104"/>
-      <point x="1028" y="1000"/>
-      <point x="1028" y="770" type="curve" smooth="yes"/>
-      <point x="1028" y="669" type="line"/>
+      <point x="1028" y="1019"/>
+      <point x="1028" y="789" type="curve" smooth="yes"/>
+      <point x="1028" y="661" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -62,7 +62,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1150</integer>
+          <integer>1151</integer>
         </dict>
       </dict>
     </dict>
