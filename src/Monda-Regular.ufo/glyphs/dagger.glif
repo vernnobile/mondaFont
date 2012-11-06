@@ -4,6 +4,11 @@
   <unicode hex="2020"/>
   <outline>
     <contour>
+      <point x="224" y="1271" type="line"/>
+      <point x="224" y="993" type="line"/>
+      <point x="65" y="993" type="line"/>
+      <point x="65" y="781" type="line"/>
+      <point x="224" y="781" type="line"/>
       <point x="224" y="0" type="line"/>
       <point x="436" y="0" type="line"/>
       <point x="436" y="781" type="line"/>
@@ -11,11 +16,6 @@
       <point x="595" y="993" type="line"/>
       <point x="436" y="993" type="line"/>
       <point x="436" y="1271" type="line"/>
-      <point x="224" y="1271" type="line"/>
-      <point x="224" y="993" type="line"/>
-      <point x="65" y="993" type="line"/>
-      <point x="65" y="781" type="line"/>
-      <point x="224" y="781" type="line"/>
     </contour>
   </outline>
   <lib>

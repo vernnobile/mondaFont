@@ -4,6 +4,15 @@
   <unicode hex="2021"/>
   <outline>
     <contour>
+      <point x="224" y="1271" type="line"/>
+      <point x="224" y="1059" type="line"/>
+      <point x="65" y="1059" type="line"/>
+      <point x="65" y="847" type="line"/>
+      <point x="224" y="847" type="line"/>
+      <point x="224" y="583" type="line"/>
+      <point x="65" y="583" type="line"/>
+      <point x="65" y="371" type="line"/>
+      <point x="224" y="371" type="line"/>
       <point x="224" y="0" type="line"/>
       <point x="436" y="0" type="line"/>
       <point x="436" y="371" type="line"/>
@@ -15,15 +24,6 @@
       <point x="595" y="1059" type="line"/>
       <point x="436" y="1059" type="line"/>
       <point x="436" y="1271" type="line"/>
-      <point x="224" y="1271" type="line"/>
-      <point x="224" y="1059" type="line"/>
-      <point x="65" y="1059" type="line"/>
-      <point x="65" y="847" type="line"/>
-      <point x="224" y="847" type="line"/>
-      <point x="224" y="583" type="line"/>
-      <point x="65" y="583" type="line"/>
-      <point x="65" y="371" type="line"/>
-      <point x="224" y="371" type="line"/>
     </contour>
   </outline>
   <lib>
