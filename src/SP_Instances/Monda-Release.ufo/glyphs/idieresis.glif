@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="idieresis" format="1">
+  <advance width="419"/>
+  <unicode hex="00EF"/>
+  <outline>
+    <contour>
+      <point x="96" y="1084" type="line"/>
+      <point x="359" y="1084" type="line"/>
+      <point x="359" y="0" type="line"/>
+      <point x="96" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="-62" y="1186" type="line"/>
+      <point x="-62" y="1415" type="line"/>
+      <point x="203" y="1415" type="line"/>
+      <point x="203" y="1186" type="line"/>
+    </contour>
+    <contour>
+      <point x="397" y="1186" type="line"/>
+      <point x="397" y="1415" type="line"/>
+      <point x="664" y="1415" type="line"/>
+      <point x="664" y="1186" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>idieresis</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>419</integer>
+        </dict>
+      </dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

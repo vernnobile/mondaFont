@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="F" format="1">
-  <advance width="1011"/>
+  <advance width="1083"/>
   <unicode hex="0046"/>
   <outline>
     <contour>
-      <point x="141" y="1459" type="line"/>
-      <point x="944" y="1459" type="line"/>
-      <point x="944" y="1223" type="line"/>
-      <point x="461" y="1223" type="line"/>
-      <point x="461" y="850" type="line"/>
-      <point x="898" y="850" type="line"/>
-      <point x="898" y="631" type="line"/>
-      <point x="461" y="631" type="line"/>
-      <point x="461" y="0" type="line"/>
-      <point x="141" y="0" type="line"/>
+      <point x="171" y="0" type="line"/>
+      <point x="372" y="0" type="line"/>
+      <point x="372" y="664" type="line"/>
+      <point x="946" y="664" type="line"/>
+      <point x="946" y="814" type="line"/>
+      <point x="372" y="814" type="line"/>
+      <point x="372" y="1296" type="line"/>
+      <point x="991" y="1296" type="line"/>
+      <point x="991" y="1446" type="line"/>
+      <point x="171" y="1446" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -35,12 +35,12 @@
           <dict>
           </dict>
           <key>name</key>
-          <string>F</string>
+          <string>E</string>
           <key>unicodes</key>
           <array>
           </array>
           <key>width</key>
-          <integer>1011</integer>
+          <integer>1083</integer>
         </dict>
       </dict>
     </dict>

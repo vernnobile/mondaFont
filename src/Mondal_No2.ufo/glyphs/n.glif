@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="n" format="1">
-  <advance width="1129"/>
+  <advance width="1138"/>
   <unicode hex="006E"/>
   <outline>
     <contour>
@@ -50,7 +50,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1129</integer>
+          <integer>1138</integer>
         </dict>
       </dict>
     </dict>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Lslash" format="1">
+  <advance width="722"/>
+  <unicode hex="0141"/>
+  <outline>
+    <contour>
+      <point x="82" y="1459" type="line"/>
+      <point x="370" y="1459" type="line"/>
+      <point x="370" y="956" type="line"/>
+      <point x="626" y="1031" type="line"/>
+      <point x="626" y="889" type="line"/>
+      <point x="370" y="814" type="line"/>
+      <point x="370" y="194" type="line"/>
+      <point x="700" y="194" type="line"/>
+      <point x="700" y="0" type="line"/>
+      <point x="82" y="0" type="line"/>
+      <point x="82" y="708" type="line"/>
+      <point x="11" y="679" type="line"/>
+      <point x="11" y="822" type="line"/>
+      <point x="82" y="850" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>Lslash</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>722</integer>
+        </dict>
+      </dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
