@@ -197,6 +197,12 @@
 				<string>fi</string>
 				<string>fl</string>
 				<string>s.alt</string>
+				<string>p</string>
+				<string>a.alt</string>
+				<string>b.alt</string>
+				<string>g</string>
+				<string>a.alt2</string>
+				<string>q</string>
 			</array>
 			<key>type</key>
 			<string>glyphList</string>
@@ -347,6 +353,7 @@
 		<string>g</string>
 		<string>a.alt2</string>
 		<string>q</string>
+		<string>m</string>
 	</array>
 </dict>
 </plist>

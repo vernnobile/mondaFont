@@ -206,6 +206,8 @@
 	<string>logicalnot.glif</string>
 	<key>lslash</key>
 	<string>lslash.glif</string>
+	<key>m</key>
+	<string>m.glif</string>
 	<key>macron</key>
 	<string>macron.glif</string>
 	<key>minus</key>
