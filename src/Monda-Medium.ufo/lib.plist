@@ -187,6 +187,9 @@
 				<string>a.alt</string>
 				<string>b.alt</string>
 				<string>a.alt2</string>
+				<string>copyright</string>
+				<string>registered</string>
+				<string>semicolon</string>
 			</array>
 			<key>type</key>
 			<string>glyphList</string>
@@ -342,6 +345,8 @@
 		<string>copyright</string>
 		<string>registered</string>
 		<string>semicolon</string>
+		<string>aring</string>
+		<string>ring</string>
 	</array>
 </dict>
 </plist>

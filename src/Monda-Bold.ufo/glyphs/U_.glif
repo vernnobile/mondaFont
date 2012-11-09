@@ -5,23 +5,22 @@
   <outline>
     <contour>
       <point x="1047" y="1490" type="line"/>
-      <point x="1047" y="434" type="line" smooth="yes"/>
-      <point x="1047" y="274"/>
+      <point x="1047" y="457" type="line" smooth="yes"/>
+      <point x="1047" y="297"/>
       <point x="985" y="237"/>
       <point x="775" y="237" type="curve" smooth="yes"/>
       <point x="568" y="237"/>
-      <point x="485" y="270"/>
-      <point x="485" y="434" type="curve" smooth="yes"/>
+      <point x="485" y="293"/>
+      <point x="485" y="457" type="curve" smooth="yes"/>
       <point x="485" y="1490" type="line"/>
       <point x="146" y="1490" type="line"/>
-      <point x="146" y="443" type="line" smooth="yes"/>
-      <point x="146" y="156"/>
-      <point x="256" y="-24"/>
-      <point x="692" y="-24" type="curve" smooth="yes"/>
-      <point x="857" y="-24" type="line" smooth="yes"/>
-      <point x="1293" y="-24"/>
-      <point x="1386" y="173"/>
-      <point x="1386" y="460" type="curve" smooth="yes"/>
+      <point x="146" y="466" type="line" smooth="yes"/>
+      <point x="146" y="179"/>
+      <point x="256.0" y="-24.0"/>
+      <point x="775" y="-24" type="curve"/>
+      <point x="1293.0" y="-24.0"/>
+      <point x="1386" y="196"/>
+      <point x="1386" y="483" type="curve" smooth="yes"/>
       <point x="1386" y="1490" type="line"/>
     </contour>
   </outline>
@@ -39,9 +38,9 @@
           <key>name</key>
           <string></string>
           <key>x</key>
-          <integer>712</integer>
+          <integer>775</integer>
           <key>y</key>
-          <integer>265</integer>
+          <integer>245</integer>
         </dict>
       </array>
       <key>com.typemytype.robofont.layerData</key>

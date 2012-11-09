@@ -1,24 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="asterisk" format="1">
-  <advance width="954"/>
+  <advance width="990"/>
   <unicode hex="002A"/>
   <outline>
     <contour>
-      <point x="131" y="806" type="line"/>
-      <point x="314" y="710" type="line"/>
-      <point x="489" y="904" type="line"/>
-      <point x="664" y="710" type="line"/>
-      <point x="850" y="806" type="line"/>
-      <point x="713" y="996" type="line"/>
-      <point x="917" y="1074" type="line"/>
-      <point x="856" y="1239" type="line"/>
-      <point x="637" y="1139" type="line"/>
-      <point x="675" y="1359" type="line"/>
-      <point x="302" y="1359" type="line"/>
-      <point x="343" y="1140" type="line"/>
-      <point x="124" y="1238" type="line"/>
-      <point x="63" y="1075" type="line"/>
-      <point x="265" y="997" type="line"/>
+      <point x="827.0" y="1295.0" type="line"/>
+      <point x="908.0" y="1134.0" type="line"/>
+      <point x="518.0" y="977.0" type="line"/>
+      <point x="471.0" y="1068.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="162.0" y="750.0" type="line"/>
+      <point x="82.0" y="911.0" type="line"/>
+      <point x="471.0" y="1068.0" type="line"/>
+      <point x="518.0" y="977.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="897.0" y="875.0" type="line"/>
+      <point x="802.0" y="722.0" type="line"/>
+      <point x="468.0" y="979.0" type="line"/>
+      <point x="521.0" y="1066.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="92.0" y="1170.0" type="line"/>
+      <point x="187.0" y="1323.0" type="line"/>
+      <point x="521.0" y="1066.0" type="line"/>
+      <point x="468.0" y="979.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="584.0" y="599.0" type="line"/>
+      <point x="406.0" y="599.0" type="line"/>
+      <point x="444.0" y="1023.0" type="line"/>
+      <point x="545.0" y="1023.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="406.0" y="1446.0" type="line"/>
+      <point x="584.0" y="1446.0" type="line"/>
+      <point x="545.0" y="1023.0" type="line"/>
+      <point x="444.0" y="1023.0" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -45,7 +64,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>954</integer>
+          <integer>990</integer>
         </dict>
       </dict>
     </dict>
