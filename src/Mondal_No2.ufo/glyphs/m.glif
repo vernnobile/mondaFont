@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="m" format="1">
-  <advance width="1786"/>
+  <advance width="1781"/>
   <unicode hex="006D"/>
   <outline>
     <contour>
@@ -9,12 +9,12 @@
       <point x="1140" y="1104"/>
       <point x="1294" y="1104" type="curve" smooth="yes"/>
       <point x="1555" y="1104"/>
-      <point x="1648" y="959"/>
-      <point x="1648" y="787" type="curve" smooth="yes"/>
-      <point x="1648" y="0" type="line"/>
-      <point x="1460" y="0" type="line"/>
-      <point x="1460" y="800" type="line" smooth="yes"/>
-      <point x="1460" y="907"/>
+      <point x="1643" y="959"/>
+      <point x="1643" y="787" type="curve" smooth="yes"/>
+      <point x="1643" y="0" type="line"/>
+      <point x="1455" y="0" type="line"/>
+      <point x="1455" y="800" type="line" smooth="yes"/>
+      <point x="1455" y="907"/>
       <point x="1377" y="959"/>
       <point x="1246" y="959" type="curve" smooth="yes"/>
       <point x="1062" y="959"/>
@@ -69,7 +69,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1786</integer>
+          <integer>1781</integer>
         </dict>
       </dict>
     </dict>

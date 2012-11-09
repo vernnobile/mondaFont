@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="M" format="1">
-  <advance width="1817"/>
+  <advance width="1841"/>
   <unicode hex="004D"/>
   <outline>
     <contour>
       <point x="155" y="0" type="line"/>
       <point x="480" y="0" type="line"/>
       <point x="480" y="1074" type="line"/>
-      <point x="798" y="269" type="line"/>
-      <point x="1019" y="269" type="line"/>
-      <point x="1337" y="1078" type="line"/>
-      <point x="1337" y="0" type="line"/>
-      <point x="1662" y="0" type="line"/>
-      <point x="1660" y="1490" type="line"/>
-      <point x="1216" y="1490" type="line"/>
-      <point x="908" y="725" type="line"/>
+      <point x="810" y="399" type="line"/>
+      <point x="1031" y="399" type="line"/>
+      <point x="1361" y="1078" type="line"/>
+      <point x="1361" y="0" type="line"/>
+      <point x="1686" y="0" type="line"/>
+      <point x="1684" y="1490" type="line"/>
+      <point x="1240" y="1490" type="line"/>
+      <point x="920" y="855" type="line"/>
       <point x="589" y="1490" type="line"/>
       <point x="155" y="1490" type="line"/>
     </contour>
@@ -43,7 +43,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1817</integer>
+          <integer>1841</integer>
         </dict>
       </dict>
     </dict>
