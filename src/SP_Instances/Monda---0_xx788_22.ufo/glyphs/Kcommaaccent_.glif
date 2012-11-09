@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Kcommaaccent" format="1">
+  <advance width="1174"/>
+  <unicode hex="0136"/>
+  <outline>
+    <contour>
+      <point x="89" y="0" type="line"/>
+      <point x="390" y="0" type="line"/>
+      <point x="390" y="540" type="line"/>
+      <point x="488" y="681" type="line"/>
+      <point x="893" y="0" type="line"/>
+      <point x="1206" y="0" type="line"/>
+      <point x="869" y="880" type="line"/>
+      <point x="1184" y="1490" type="line"/>
+      <point x="810" y="1490" type="line"/>
+      <point x="390" y="924" type="line"/>
+      <point x="390" y="1490" type="line"/>
+      <point x="89" y="1490" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>Kcommaaccent</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1174</integer>
+        </dict>
+      </dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

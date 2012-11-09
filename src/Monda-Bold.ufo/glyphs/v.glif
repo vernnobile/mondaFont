@@ -6,11 +6,11 @@
     <contour>
       <point x="330" y="0" type="line"/>
       <point x="678" y="0" type="line"/>
-      <point x="984" y="1080" type="line"/>
-      <point x="676" y="1080" type="line"/>
+      <point x="984" y="1076" type="line"/>
+      <point x="676" y="1076" type="line"/>
       <point x="517" y="329" type="line"/>
-      <point x="321" y="1080" type="line"/>
-      <point x="24" y="1080" type="line"/>
+      <point x="321" y="1076" type="line"/>
+      <point x="24" y="1076" type="line"/>
     </contour>
   </outline>
   <lib>

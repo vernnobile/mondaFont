@@ -38,11 +38,11 @@
       <point x="745.0" y="649.0" type="line"/>
     </contour>
     <contour>
-      <point x="1056.0" y="1081.0" type="line"/>
+      <point x="1056" y="1076" type="line"/>
       <point x="1056" y="-27" type="line"/>
       <point x="745" y="6" type="line"/>
       <point x="745.0" y="856.0" type="line"/>
-      <point x="845.0" y="1081.0" type="line"/>
+      <point x="845" y="1076" type="line"/>
     </contour>
     <contour>
       <point x="241" y="-134" type="line"/>

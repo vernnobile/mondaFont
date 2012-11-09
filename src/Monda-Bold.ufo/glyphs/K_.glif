@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="K" format="1">
-  <advance width="1389"/>
+  <advance width="1435"/>
   <unicode hex="004B"/>
   <outline>
     <contour>
       <point x="155" y="0" type="line"/>
       <point x="494" y="0" type="line"/>
       <point x="494" y="584" type="line"/>
-      <point x="579" y="685" type="line"/>
-      <point x="989" y="0" type="line"/>
-      <point x="1377" y="0" type="line"/>
-      <point x="893" y="800" type="line"/>
-      <point x="1336" y="1490" type="line"/>
-      <point x="962" y="1490" type="line"/>
+      <point x="585" y="685" type="line"/>
+      <point x="1037" y="0" type="line"/>
+      <point x="1440" y="0" type="line"/>
+      <point x="884" y="807" type="line"/>
+      <point x="1406" y="1490" type="line"/>
+      <point x="1016" y="1490" type="line"/>
       <point x="494" y="817" type="line"/>
       <point x="494" y="1490" type="line"/>
       <point x="155" y="1490" type="line"/>
@@ -42,7 +42,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1389</integer>
+          <integer>1435</integer>
         </dict>
       </dict>
     </dict>

@@ -22,8 +22,8 @@
       <point x="612" y="1104"/>
       <point x="469" y="1031"/>
       <point x="431" y="944" type="curve"/>
-      <point x="431" y="1080" type="line"/>
-      <point x="121" y="1080" type="line"/>
+      <point x="431" y="1076" type="line"/>
+      <point x="121" y="1076" type="line"/>
     </contour>
   </outline>
   <lib>

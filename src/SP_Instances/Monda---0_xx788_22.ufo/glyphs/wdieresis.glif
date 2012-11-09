@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="wdieresis" format="1">
+  <advance width="1222"/>
+  <unicode hex="1E85"/>
+  <outline>
+    <contour>
+      <point x="180" y="0" type="line"/>
+      <point x="420" y="0" type="line"/>
+      <point x="617" y="638" type="line"/>
+      <point x="800" y="0" type="line"/>
+      <point x="1040" y="0" type="line"/>
+      <point x="1200" y="1080" type="line"/>
+      <point x="985" y="1080" type="line"/>
+      <point x="890" y="401" type="line"/>
+      <point x="809" y="1080" type="line"/>
+      <point x="438" y="1080" type="line"/>
+      <point x="341" y="414" type="line"/>
+      <point x="255" y="1080" type="line"/>
+      <point x="22" y="1080" type="line"/>
+    </contour>
+    <contour>
+      <point x="214" y="1189" type="line"/>
+      <point x="503" y="1189" type="line"/>
+      <point x="503" y="1444" type="line"/>
+      <point x="214" y="1444" type="line"/>
+    </contour>
+    <contour>
+      <point x="726" y="1189" type="line"/>
+      <point x="1016" y="1189" type="line"/>
+      <point x="1016" y="1444" type="line"/>
+      <point x="726" y="1444" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>wdieresis</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1222</integer>
+        </dict>
+      </dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

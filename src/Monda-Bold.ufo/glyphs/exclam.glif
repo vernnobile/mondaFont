@@ -1,19 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="exclam" format="1">
-  <advance width="553"/>
+  <advance width="730.0"/>
   <unicode hex="0021"/>
   <outline>
     <contour>
-      <point x="138" y="0" type="line"/>
-      <point x="407" y="0" type="line"/>
-      <point x="407" y="262" type="line"/>
-      <point x="138" y="262" type="line"/>
+      <point x="224.0" y="0.0" type="line"/>
+      <point x="493.0" y="0.0" type="line"/>
+      <point x="493.0" y="262.0" type="line"/>
+      <point x="224.0" y="262.0" type="line"/>
     </contour>
     <contour>
-      <point x="143" y="1490" type="line"/>
-      <point x="425" y="1490" type="line"/>
-      <point x="316" y="371" type="line"/>
-      <point x="233" y="371" type="line"/>
+      <point x="199.0" y="1490.0" type="curve"/>
+      <point x="531.0" y="1490.0" type="line"/>
+      <point x="531.0" y="1104.0"/>
+      <point x="489.0" y="926"/>
+      <point x="411.0" y="403" type="curve"/>
+      <point x="319.0" y="403" type="line"/>
+      <point x="241.0" y="926"/>
+      <point x="199.0" y="1104.0"/>
     </contour>
   </outline>
   <lib>
@@ -40,7 +44,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>553</integer>
+          <real>730.0</real>
         </dict>
       </dict>
     </dict>

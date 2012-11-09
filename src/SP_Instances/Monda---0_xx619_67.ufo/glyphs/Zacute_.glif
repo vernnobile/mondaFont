@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Zacute" format="1">
+  <advance width="1050"/>
+  <unicode hex="0179"/>
+  <outline>
+    <contour>
+      <point x="327" y="1563" type="line"/>
+      <point x="495" y="1563" type="line"/>
+      <point x="725" y="1928" type="line"/>
+      <point x="439" y="1928" type="line"/>
+    </contour>
+    <contour>
+      <point x="66" y="0" type="line"/>
+      <point x="979" y="0" type="line"/>
+      <point x="979" y="207" type="line"/>
+      <point x="431" y="207" type="line"/>
+      <point x="979" y="1299" type="line"/>
+      <point x="979" y="1489" type="line"/>
+      <point x="112" y="1489" type="line"/>
+      <point x="112" y="1282" type="line"/>
+      <point x="611" y="1282" type="line"/>
+      <point x="66" y="189" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>Zacute</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1050</integer>
+        </dict>
+      </dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

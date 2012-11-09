@@ -24,6 +24,20 @@
 		<real>0.0</real>
 		<real>0.7</real>
 	</array>
+	<key>com.typemytype.robofont.compileSettings.MacRomanFirst</key>
+	<integer>1</integer>
+	<key>com.typemytype.robofont.compileSettings.autohint</key>
+	<integer>0</integer>
+	<key>com.typemytype.robofont.compileSettings.checkOutlines</key>
+	<integer>0</integer>
+	<key>com.typemytype.robofont.compileSettings.decompose</key>
+	<integer>1</integer>
+	<key>com.typemytype.robofont.compileSettings.generateFormat</key>
+	<integer>0</integer>
+	<key>com.typemytype.robofont.compileSettings.path</key>
+	<string>/Users/vern/GitHub/mondaFont/src/Monda-Medium.otf</string>
+	<key>com.typemytype.robofont.compileSettings.releaseMode</key>
+	<integer>0</integer>
 	<key>com.typemytype.robofont.foreground.layerStrokeColor</key>
 	<array>
 		<real>0.5</real>
@@ -190,6 +204,8 @@
 				<string>copyright</string>
 				<string>registered</string>
 				<string>semicolon</string>
+				<string>aring</string>
+				<string>ring</string>
 			</array>
 			<key>type</key>
 			<string>glyphList</string>

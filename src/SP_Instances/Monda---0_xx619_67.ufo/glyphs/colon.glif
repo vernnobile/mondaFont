@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="colon" format="1">
+  <advance width="428"/>
+  <unicode hex="003A"/>
+  <outline>
+    <contour>
+      <point x="82" y="742" type="line"/>
+      <point x="348" y="742" type="line"/>
+      <point x="348" y="1004" type="line"/>
+      <point x="82" y="1004" type="line"/>
+    </contour>
+    <contour>
+      <point x="82" y="125" type="line"/>
+      <point x="348" y="125" type="line"/>
+      <point x="348" y="386" type="line"/>
+      <point x="82" y="386" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>colon</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>428</integer>
+        </dict>
+      </dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

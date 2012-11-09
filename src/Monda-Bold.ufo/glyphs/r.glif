@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="r" format="1">
-  <advance width="820"/>
+  <advance width="843"/>
   <unicode hex="0072"/>
   <outline>
     <contour>
@@ -14,8 +14,8 @@
       <point x="716" y="1111"/>
       <point x="487" y="1044"/>
       <point x="436" y="962" type="curve"/>
-      <point x="436" y="1080" type="line"/>
-      <point x="126" y="1080" type="line"/>
+      <point x="436" y="1076" type="line"/>
+      <point x="126" y="1076" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -42,7 +42,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>820</integer>
+          <integer>843</integer>
         </dict>
       </dict>
     </dict>
