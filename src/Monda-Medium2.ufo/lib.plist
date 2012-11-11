@@ -28,7 +28,7 @@
 	<key>com.typemytype.robofont.compileSettings.generateFormat</key>
 	<integer>1</integer>
 	<key>com.typemytype.robofont.compileSettings.path</key>
-	<string>/Users/vern/Github/mondaFont/src/Monda-Medium2.ttf</string>
+	<string>/Users/vern/Github/mondaFont/src/Monda-Medium.ttf</string>
 	<key>com.typemytype.robofont.compileSettings.releaseMode</key>
 	<integer>0</integer>
 	<key>com.typemytype.robofont.layerOrder</key>
