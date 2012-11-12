@@ -340,6 +340,7 @@
 		<string>minus</string>
 		<string>fi</string>
 		<string>fl</string>
+		<string>oslash</string>
 	</array>
 </dict>
 </plist>

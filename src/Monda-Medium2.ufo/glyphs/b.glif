@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="b" format="1">
-  <advance width="1196"/>
+  <advance width="1198"/>
   <unicode hex="0062"/>
   <outline>
     <contour>
@@ -34,10 +34,10 @@
       <point x="341" y="77"/>
     </contour>
     <contour>
-      <point x="320" y="4" type="line"/>
-      <point x="181" y="4" type="line"/>
-      <point x="181" y="1440" type="line"/>
-      <point x="369" y="1440" type="line"/>
+      <point x="320" y="0" type="line"/>
+      <point x="181" y="0" type="line"/>
+      <point x="181" y="1446" type="line"/>
+      <point x="369" y="1446" type="line"/>
       <point x="369" y="145" type="line"/>
     </contour>
   </outline>
