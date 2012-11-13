@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="M" format="1">
-  <advance width="1740"/>
+  <advance width="1772"/>
   <unicode hex="004D"/>
   <outline>
     <contour>
-      <point x="208" y="0" type="line"/>
-      <point x="208" y="1446" type="line"/>
-      <point x="393" y="1446" type="line"/>
-      <point x="871" y="638" type="line"/>
-      <point x="1354" y="1446" type="line"/>
-      <point x="1532" y="1446" type="line"/>
-      <point x="1532" y="0" type="line"/>
-      <point x="1342" y="0" type="line"/>
-      <point x="1342" y="1121" type="line"/>
-      <point x="946" y="458" type="line"/>
-      <point x="797" y="458" type="line"/>
-      <point x="400" y="1117" type="line"/>
-      <point x="400" y="0" type="line"/>
+      <point x="224" y="0" type="line"/>
+      <point x="224" y="1446" type="line"/>
+      <point x="409" y="1446" type="line"/>
+      <point x="887" y="638" type="line"/>
+      <point x="1370" y="1446" type="line"/>
+      <point x="1548" y="1446" type="line"/>
+      <point x="1548" y="0" type="line"/>
+      <point x="1358" y="0" type="line"/>
+      <point x="1358" y="1121" type="line"/>
+      <point x="962" y="458" type="line"/>
+      <point x="813" y="458" type="line"/>
+      <point x="416" y="1117" type="line"/>
+      <point x="416" y="0" type="line"/>
     </contour>
   </outline>
   <lib>

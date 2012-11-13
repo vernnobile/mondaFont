@@ -26,9 +26,9 @@
 	<key>com.typemytype.robofont.compileSettings.decompose</key>
 	<integer>0</integer>
 	<key>com.typemytype.robofont.compileSettings.generateFormat</key>
-	<integer>1</integer>
+	<integer>0</integer>
 	<key>com.typemytype.robofont.compileSettings.path</key>
-	<string>/Users/vern/GitHub/mondaFont/src/Monda-Medium.ttf</string>
+	<string>/Users/vern/Github/mondaFont/src/Monda-Medium.otf</string>
 	<key>com.typemytype.robofont.compileSettings.releaseMode</key>
 	<integer>0</integer>
 	<key>com.typemytype.robofont.layerOrder</key>
