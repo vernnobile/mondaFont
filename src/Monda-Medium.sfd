@@ -1,4 +1,4 @@
-SplineFontDB: 3.0
+SplineFontDB: 3.1
 FontName: Monda-Medium
 FullName: Monda Medium
 FamilyName: Monda
@@ -9,18 +9,18 @@ UnderlinePosition: 0
 UnderlineWidth: 0
 Ascent: 1638
 Descent: 410
-UFOAscent: 1638
-UFODescent: -410
+sfntRevision: 0x00010000
 LayerCount: 2
-Layer: 0 0 "Back"  1
-Layer: 1 0 "Fore"  0
+Layer: 0 0 "Back"  1 0
+Layer: 1 0 "Fore"  0 0
+XUID: [1021 14 500265001 4990899]
 FSType: 8
-OS2Version: 0
+OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
-OS2_UseTypoMetrics: 0
-CreationTime: 1352658551
-ModificationTime: 1352658692
-PfmFamily: 0
+OS2_UseTypoMetrics: 1
+CreationTime: 1352456917
+ModificationTime: 1352485840
+PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
 LineGap: 0
@@ -52,342 +52,9 @@ OS2StrikeYPos: 650
 OS2Vendor: 'newt'
 OS2CodePages: 00000001.00000000
 OS2UnicodeRanges: 0000002f.0000004c.00000002.00000000
-Lookup: 258 0 0 "'kern' Horizontal Kerning in Latin lookup 0"  {"'kern' Horizontal Kerning in Latin lookup 0 subtable"  } ['kern' ('latn' <'dflt' > ) ]
+Lookup: 258 0 0 "'kern' Horizontal Kerning lookup 0"  {"'kern' Horizontal Kerning lookup 0 subtable"  } ['kern' ('DFLT' <'dflt' > ) ]
 DEI: 91125
-LangName: 1033 "" "" "" "1.000;newt;Monda-Medium" "" "Version 1.000;PS (version unavailable);hotconv 1.0.57;makeotf.lib2.0.21895 DEVELOPMENT" 
-PickledData: "(dp1
-S'com.typemytype.robofont.segmentType'
-p2
-S'curve'
-p3
-sS'com.typemytype.robofont.sort'
-p4
-((dp5
-S'type'
-p6
-S'glyphList'
-p7
-sS'ascending'
-p8
-(S'.notdef'
-S'space'
-S'exclam'
-S'quotedbl'
-S'numbersign'
-S'percent'
-S'quotesingle'
-S'asterisk'
-S'plus'
-S'comma'
-S'hyphen'
-S'period'
-S'slash'
-S'zero'
-S'one'
-S'seven'
-S'colon'
-S'semicolon'
-S'less'
-S'equal'
-S'greater'
-S'A'
-S'B'
-S'C'
-S'D'
-S'E'
-S'F'
-S'G'
-S'H'
-S'I'
-S'J'
-S'K'
-S'L'
-S'M'
-S'N'
-S'O'
-S'P'
-S'Q'
-S'R'
-S'S'
-S'T'
-S'U'
-S'V'
-S'W'
-S'X'
-S'Y'
-S'Z'
-S'bracketleft'
-S'backslash'
-S'bracketright'
-S'asciicircum'
-S'underscore'
-S'grave'
-S'a'
-S'b'
-S'c'
-S'd'
-S'e'
-S'f'
-S'g'
-S'h'
-S'i'
-S'j'
-S'k'
-S'l'
-S'm'
-S'n'
-S'o'
-S'p'
-S'q'
-S'r'
-S's'
-S't'
-S'u'
-S'v'
-S'w'
-S'x'
-S'y'
-S'z'
-S'bar'
-S'exclamdown'
-S'cent'
-S'brokenbar'
-S'dieresis'
-S'copyright'
-S'logicalnot'
-S'registered'
-S'macron'
-S'degree'
-S'plusminus'
-S'twosuperior'
-S'threesuperior'
-S'acute'
-S'periodcentered'
-S'cedilla'
-S'onesuperior'
-S'Egrave'
-S'Eacute'
-S'Ecircumflex'
-S'Edieresis'
-S'Igrave'
-S'Iacute'
-S'Icircumflex'
-S'Idieresis'
-S'Eth'
-S'multiply'
-S'Oslash'
-S'Yacute'
-S'aring'
-S'ccedilla'
-S'igrave'
-S'iacute'
-S'icircumflex'
-S'idieresis'
-S'eth'
-S'divide'
-S'ugrave'
-S'uacute'
-S'ucircumflex'
-S'udieresis'
-S'dotlessi'
-S'Lslash'
-S'lslash'
-S'OE'
-S'Ydieresis'
-S'Zcaron'
-S'zcaron'
-S'florin'
-S'circumflex'
-S'caron'
-S'breve'
-S'dotaccent'
-S'ring'
-S'hungarumlaut'
-S'endash'
-S'emdash'
-S'dagger'
-S'daggerdbl'
-S'bullet'
-S'ellipsis'
-S'perthousand'
-S'fraction'
-S'trademark'
-S'minus'
-S'fi'
-S'fl'
-tp9
-stp10
-sS'com.robofont.robohint'
-p11
-(dp12
-S'programs'
-p13
-(dp14
-S'maxp'
-p15
-(dp16
-S'tableTag'
-p17
-S'maxp'
-p18
-sS'numGlyphs'
-p19
-I146
-sS'tableVersion'
-p20
-I20480
-ssssS'public.glyphOrder'
-p21
-(S'.notdef'
-S'space'
-S'exclam'
-S'quotedbl'
-S'numbersign'
-S'percent'
-S'quotesingle'
-S'asterisk'
-S'plus'
-S'comma'
-S'hyphen'
-S'period'
-S'slash'
-S'zero'
-S'one'
-S'seven'
-S'colon'
-S'semicolon'
-S'less'
-S'equal'
-S'greater'
-S'A'
-S'B'
-S'C'
-S'D'
-S'E'
-S'F'
-S'G'
-S'H'
-S'I'
-S'J'
-S'K'
-S'L'
-S'M'
-S'N'
-S'O'
-S'P'
-S'Q'
-S'R'
-S'S'
-S'T'
-S'U'
-S'V'
-S'W'
-S'X'
-S'Y'
-S'Z'
-S'bracketleft'
-S'backslash'
-S'bracketright'
-S'asciicircum'
-S'underscore'
-S'grave'
-S'a'
-S'b'
-S'c'
-S'd'
-S'e'
-S'f'
-S'g'
-S'h'
-S'i'
-S'j'
-S'k'
-S'l'
-S'm'
-S'n'
-S'o'
-S'p'
-S'q'
-S'r'
-S's'
-S't'
-S'u'
-S'v'
-S'w'
-S'x'
-S'y'
-S'z'
-S'bar'
-S'exclamdown'
-S'cent'
-S'brokenbar'
-S'dieresis'
-S'copyright'
-S'logicalnot'
-S'registered'
-S'macron'
-S'degree'
-S'plusminus'
-S'twosuperior'
-S'threesuperior'
-S'acute'
-S'periodcentered'
-S'cedilla'
-S'onesuperior'
-S'Egrave'
-S'Eacute'
-S'Ecircumflex'
-S'Edieresis'
-S'Igrave'
-S'Iacute'
-S'Icircumflex'
-S'Idieresis'
-S'Eth'
-S'multiply'
-S'Oslash'
-S'Yacute'
-S'aring'
-S'ccedilla'
-S'igrave'
-S'iacute'
-S'icircumflex'
-S'idieresis'
-S'eth'
-S'divide'
-S'ugrave'
-S'uacute'
-S'ucircumflex'
-S'udieresis'
-S'dotlessi'
-S'Lslash'
-S'lslash'
-S'OE'
-S'Ydieresis'
-S'Zcaron'
-S'zcaron'
-S'florin'
-S'circumflex'
-S'caron'
-S'breve'
-S'dotaccent'
-S'ring'
-S'hungarumlaut'
-S'endash'
-S'emdash'
-S'dagger'
-S'daggerdbl'
-S'bullet'
-S'ellipsis'
-S'perthousand'
-S'fraction'
-S'trademark'
-S'minus'
-S'fi'
-S'fl'
-tp22
-sS'com.typemytype.robofont.layerOrder'
-p23
-(ts."
+LangName: 1033 "" "Monda Medium" "Regular" "1.000;newt;Monda-Medium" "Monda-Medium" "Version 1.000;PS (version unavailable);hotconv 1.0.57;makeotf.lib2.0.21895 DEVELOPMENT" "" "" "" "" "" "" "" "" "" "" "Monda" "Medium" 
 Encoding: UnicodeBmp
 Compacted: 1
 UnicodeInterp: none
@@ -395,83 +62,829 @@ NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 0 25 13
-BeginPrivate: 5
+WinInfo: 0 21 11
+BeginPrivate: 4
+BlueValues 27 [-24 0 1084 1104 1446 1483]
+OtherBlues 11 [-375 -326]
 BlueScale 9 0.0202041
 BlueShift 1 0
-BlueValues 27 [-24 0 1084 1104 1446 1483]
-ForceBold 5 false
-OtherBlues 11 [-375 -326]
 EndPrivate
 BeginChars: 65537 146
 
 StartChar: .notdef
 Encoding: 65536 -1 0
 Width: 1024
-VWidth: 0
-Flags: HW
-PickledData: "(dp1
-S'com.typemytype.robofont.layerData'
-p2
-(dp3
-s."
+Flags: W
 LayerCount: 2
 Fore
 SplineSet
-204 102 m 1
- 820 102 l 1
- 820 990 l 1
- 204 990 l 1
- 204 102 l 1
 102 0 m 1
  102 1092 l 1
  922 1092 l 1
  922 0 l 1
  102 0 l 1
+204 102 m 1
+ 820 102 l 1
+ 820 990 l 1
+ 204 990 l 1
+ 204 102 l 1
+EndSplineSet
+EndChar
+
+StartChar: Eth
+Encoding: 208 208 1
+Width: 1124
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+392 196 m 0
+ 391 196 370 197 368 197 c 1
+ 368 688 l 1
+ 528 688 l 1
+ 528 829 l 1
+ 368 829 l 1
+ 368 1262 l 1
+ 387 1262 l 2
+ 590 1262 685 1244 685 1149 c 2
+ 685 324 l 2
+ 685 208 625 197 392 196 c 0
+80 0 m 1
+ 394 0 l 2
+ 994 0 1054 149 1054 467 c 2
+ 1054 1021 l 2
+ 1054 1331 972 1459 399 1459 c 2
+ 80 1459 l 1
+ 80 829 l 1
+ 9 829 l 1
+ 9 688 l 1
+ 80 688 l 1
+ 80 0 l 1
+EndSplineSet
+EndChar
+
+StartChar: eth
+Encoding: 240 240 2
+Width: 841
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+168 1309 m 1
+ 257 1309 326 1269 386 1237 c 1
+ 235 1182 l 1
+ 286 1074 l 1
+ 472 1129 l 1
+ 489 1083 496 1027 498 963 c 1
+ 433 989 353 1002 296 1002 c 0
+ 178 1002 68 918 68 768 c 2
+ 68 251 l 2
+ 68 83 204 -20 411 -20 c 0
+ 623 -20 765 83 765 251 c 2
+ 765 948 l 2
+ 765 1056 745 1150 711 1236 c 1
+ 818 1285 l 1
+ 766 1393 l 1
+ 653 1341 l 1
+ 589 1418 452 1483 232 1483 c 1
+ 168 1309 l 1
+501 753 m 2
+ 501 254 l 2
+ 501 218 490 178 411 178 c 0
+ 336 178 331 219 331 254 c 2
+ 331 748 l 2
+ 331 787 371 805 416 805 c 0
+ 461 805 501 787 501 753 c 2
+EndSplineSet
+EndChar
+
+StartChar: Lslash
+Encoding: 321 321 3
+Width: 722
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+82 1459 m 1
+ 82 850 l 1
+ 11 822 l 1
+ 11 679 l 1
+ 82 708 l 1
+ 82 0 l 1
+ 700 0 l 1
+ 700 194 l 1
+ 370 194 l 1
+ 370 814 l 1
+ 626 889 l 1
+ 626 1031 l 1
+ 370 956 l 1
+ 370 1459 l 1
+ 82 1459 l 1
+EndSplineSet
+Kerns2: 90 -7 "'kern' Horizontal Kerning lookup 0 subtable"  66 7 "'kern' Horizontal Kerning lookup 0 subtable"  58 -8 "'kern' Horizontal Kerning lookup 0 subtable"  56 -13 "'kern' Horizontal Kerning lookup 0 subtable"  55 -12 "'kern' Horizontal Kerning lookup 0 subtable"  53 -7 "'kern' Horizontal Kerning lookup 0 subtable"  34 7 "'kern' Horizontal Kerning lookup 0 subtable"  23 -20 "'kern' Horizontal Kerning lookup 0 subtable" 
+EndChar
+
+StartChar: lslash
+Encoding: 322 322 4
+Width: 490
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+125 1459 m 1
+ 125 872 l 1
+ -10 824 l 1
+ -10 684 l 1
+ 125 733 l 1
+ 125 0 l 1
+ 389 0 l 1
+ 389 831 l 1
+ 527 881 l 1
+ 527 1020 l 1
+ 389 970 l 1
+ 389 1459 l 1
+ 125 1459 l 1
+EndSplineSet
+EndChar
+
+StartChar: Yacute
+Encoding: 221 221 5
+Width: 1093
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+0 1459 m 1
+ 313 504 l 1
+ 313 0 l 1
+ 624 0 l 1
+ 624 504 l 1
+ 1093 1459 l 1
+ 781 1459 l 1
+ 706 1289 620 1003 545 833 c 1
+ 327 1459 l 1
+ 0 1459 l 1
+474 1848 m 1
+ 370 1529 l 1
+ 531 1529 l 1
+ 739 1848 l 1
+ 474 1848 l 1
+EndSplineSet
+Kerns2: 80 -58 "'kern' Horizontal Kerning lookup 0 subtable" 
+EndChar
+
+StartChar: Zcaron
+Encoding: 381 381 6
+Width: 955
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+105 1459 m 1
+ 105 1265 l 1
+ 546 1265 l 1
+ 62 180 l 1
+ 62 0 l 1
+ 888 0 l 1
+ 888 195 l 1
+ 402 195 l 1
+ 888 1279 l 1
+ 888 1459 l 1
+ 105 1459 l 1
+150 1819 m 1
+ 308 1524 l 1
+ 646 1524 l 1
+ 806 1819 l 1
+ 578 1819 l 1
+ 476 1676 l 1
+ 378 1819 l 1
+ 150 1819 l 1
+EndSplineSet
+EndChar
+
+StartChar: zcaron
+Encoding: 382 382 7
+Width: 753
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+87 1084 m 1
+ 87 898 l 1
+ 385 898 l 1
+ 46 180 l 1
+ 46 0 l 1
+ 715 0 l 1
+ 715 186 l 1
+ 370 186 l 1
+ 713 906 l 1
+ 713 1084 l 1
+ 87 1084 l 1
+80 1445 m 1
+ 238 1149 l 1
+ 576 1149 l 1
+ 736 1445 l 1
+ 507 1445 l 1
+ 406 1302 l 1
+ 307 1445 l 1
+ 80 1445 l 1
+EndSplineSet
+EndChar
+
+StartChar: onesuperior
+Encoding: 185 185 8
+Width: 315
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+117 1596 m 1
+ 105 1531 65 1488 8 1475 c 1
+ 8 1368 l 1
+ 88 1368 l 1
+ 88 639 l 1
+ 238 639 l 1
+ 238 1596 l 1
+ 117 1596 l 1
+EndSplineSet
+EndChar
+
+StartChar: threesuperior
+Encoding: 179 179 9
+Width: 428
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+387 1420 m 2
+ 387 1568 375 1602 213 1602 c 0
+ 49 1602 37 1568 37 1420 c 2
+ 37 1272 l 1
+ 186 1272 l 1
+ 186 1467 l 2
+ 186 1489 193 1500 213 1500 c 0
+ 231 1500 238 1489 238 1467 c 2
+ 238 1242 l 2
+ 238 1225 229 1215 211 1215 c 2
+ 156 1215 l 1
+ 156 1107 l 1
+ 211 1107 l 2
+ 229 1107 238 1098 238 1079 c 2
+ 238 771 l 2
+ 238 749 231 735 213 735 c 0
+ 193 735 186 749 186 771 c 2
+ 186 1046 l 1
+ 37 1046 l 1
+ 37 818 l 2
+ 37 668 49 636 217 636 c 0
+ 375 636 387 674 387 818 c 2
+ 387 1034 l 2
+ 387 1109 374 1149 315 1162 c 1
+ 374 1174 387 1212 387 1289 c 2
+ 387 1420 l 2
+EndSplineSet
+EndChar
+
+StartChar: twosuperior
+Encoding: 178 178 10
+Width: 428
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+389 1420 m 2
+ 389 1568 375 1602 213 1602 c 0
+ 51 1602 39 1568 39 1420 c 2
+ 39 1272 l 1
+ 188 1272 l 1
+ 188 1467 l 2
+ 188 1489 193 1500 213 1500 c 0
+ 233 1500 240 1489 240 1467 c 2
+ 240 1300 l 2
+ 240 1257 227 1225 217 1197 c 2
+ 41 751 l 1
+ 41 639 l 1
+ 389 639 l 1
+ 389 751 l 1
+ 195 751 l 1
+ 360 1174 l 1
+ 374 1213 389 1253 389 1296 c 2
+ 389 1420 l 2
+EndSplineSet
+EndChar
+
+StartChar: brokenbar
+Encoding: 166 166 11
+Width: 480
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+330 1266 m 1
+ 144 1266 l 1
+ 144 704 l 1
+ 330 704 l 1
+ 330 1266 l 1
+330 494 m 1
+ 144 494 l 1
+ 144 -68 l 1
+ 330 -68 l 1
+ 330 494 l 1
+EndSplineSet
+EndChar
+
+StartChar: minus
+Encoding: 8722 8722 12
+Width: 910
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+765 609 m 1
+ 138 609 l 1
+ 138 439 l 1
+ 765 439 l 1
+ 765 609 l 1
+EndSplineSet
+EndChar
+
+StartChar: multiply
+Encoding: 215 215 13
+Width: 972
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+483 652 m 1
+ 215 858 l 1
+ 96 742 l 1
+ 310 537 l 1
+ 96 330 l 1
+ 215 216 l 1
+ 483 422 l 1
+ 753 216 l 1
+ 872 330 l 1
+ 827 371 701 494 657 537 c 1
+ 872 742 l 1
+ 753 858 l 1
+ 483 652 l 1
+EndSplineSet
+EndChar
+
+StartChar: space
+Encoding: 32 32 14
+Width: 423
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: exclam
+Encoding: 33 33 15
+Width: 468
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+145 206 m 1
+ 145 0 l 1
+ 350 0 l 1
+ 350 206 l 1
+ 145 206 l 1
+147 1446 m 1
+ 204 371 l 1
+ 280 371 l 1
+ 349 1446 l 1
+ 147 1446 l 1
+EndSplineSet
+EndChar
+
+StartChar: quotedbl
+Encoding: 34 34 16
+Width: 704
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+606 1446 m 1
+ 401 1446 l 1
+ 465 870 l 1
+ 537 870 l 1
+ 606 1446 l 1
+303 1446 m 1
+ 98 1446 l 1
+ 162 870 l 1
+ 234 870 l 1
+ 303 1446 l 1
+EndSplineSet
+EndChar
+
+StartChar: numbersign
+Encoding: 35 35 17
+Width: 1509
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+72 632 m 1
+ 1414 632 l 1
+ 1414 751 l 1
+ 72 751 l 1
+ 72 632 l 1
+95 965 m 1
+ 1437 965 l 1
+ 1437 1084 l 1
+ 95 1084 l 1
+ 95 965 l 1
+923 -1 m 1
+ 1179 1446 l 1
+ 1009 1446 l 1
+ 745 -1 l 1
+ 923 -1 l 1
+449 -1 m 1
+ 705 1446 l 1
+ 535 1446 l 1
+ 271 -1 l 1
+ 449 -1 l 1
+EndSplineSet
+EndChar
+
+StartChar: percent
+Encoding: 37 37 18
+Width: 1930
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+1360 343 m 2
+ 1360 438 l 2
+ 1360 574 1372 668 1515 668 c 0
+ 1659 668 1672 574 1672 436 c 2
+ 1672 343 l 2
+ 1672 202 1653 97 1515 97 c 0
+ 1377 97 1360 202 1360 343 c 2
+1217 360 m 2
+ 1217 132 1285 -19 1515 -19 c 0
+ 1745 -19 1817 131 1817 360 c 2
+ 1817 414 l 1
+ 1815 647 1745 784 1515 784 c 0
+ 1284 784 1217 646 1217 413 c 2
+ 1217 360 l 2
+1152 1446 m 1
+ 609 0 l 1
+ 763 0 l 1
+ 1301 1446 l 1
+ 1152 1446 l 1
+113 1037 m 2
+ 113 809 181 658 411 658 c 0
+ 641 658 713 808 713 1037 c 2
+ 713 1091 l 1
+ 711 1324 641 1461 411 1461 c 0
+ 180 1461 113 1323 113 1090 c 2
+ 113 1037 l 2
+256 1020 m 2
+ 256 1115 l 2
+ 256 1251 268 1345 411 1345 c 0
+ 555 1345 568 1251 568 1113 c 2
+ 568 1020 l 2
+ 568 879 549 774 411 774 c 0
+ 273 774 256 879 256 1020 c 2
+EndSplineSet
+EndChar
+
+StartChar: quotesingle
+Encoding: 39 39 19
+Width: 401
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+303 1446 m 1
+ 98 1446 l 1
+ 162 870 l 1
+ 234 870 l 1
+ 303 1446 l 1
+EndSplineSet
+EndChar
+
+StartChar: asterisk
+Encoding: 42 42 20
+Width: 990
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+827 1295 m 1
+ 471 1068 l 1
+ 518 977 l 1
+ 908 1134 l 1
+ 827 1295 l 1
+162 750 m 1
+ 518 977 l 1
+ 471 1068 l 1
+ 82 911 l 1
+ 162 750 l 1
+897 875 m 1
+ 521 1066 l 1
+ 468 979 l 1
+ 802 722 l 1
+ 897 875 l 1
+92 1170 m 1
+ 468 979 l 1
+ 521 1066 l 1
+ 187 1323 l 1
+ 92 1170 l 1
+584 599 m 1
+ 545 1023 l 1
+ 444 1023 l 1
+ 406 599 l 1
+ 584 599 l 1
+406 1446 m 1
+ 444 1023 l 1
+ 545 1023 l 1
+ 584 1446 l 1
+ 406 1446 l 1
+EndSplineSet
+EndChar
+
+StartChar: plus
+Encoding: 43 43 21
+Width: 942
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+547 968 m 1
+ 396 968 l 1
+ 396 642 l 1
+ 120 642 l 1
+ 120 494 l 1
+ 396 494 l 1
+ 396 156 l 1
+ 547 156 l 1
+ 547 494 l 1
+ 822 494 l 1
+ 822 642 l 1
+ 547 642 l 1
+ 547 968 l 1
+EndSplineSet
+EndChar
+
+StartChar: comma
+Encoding: 44 44 22
+Width: 412
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+102 211 m 1
+ 336 211 l 1
+ 336 50 l 2
+ 336 -141 245 -284 187 -338 c 1
+ 106 -294 l 1
+ 153 -239 220 -132 220 0 c 1
+ 102 0 l 1
+ 102 211 l 1
+EndSplineSet
+EndChar
+
+StartChar: hyphen
+Encoding: 45 45 23
+Width: 942
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+822 642 m 1
+ 120 642 l 1
+ 120 494 l 1
+ 822 494 l 1
+ 822 642 l 1
+EndSplineSet
+Kerns2: 83 7 "'kern' Horizontal Kerning lookup 0 subtable"  80 7 "'kern' Horizontal Kerning lookup 0 subtable"  58 -15 "'kern' Horizontal Kerning lookup 0 subtable"  57 -7 "'kern' Horizontal Kerning lookup 0 subtable"  55 -7 "'kern' Horizontal Kerning lookup 0 subtable"  53 -10 "'kern' Horizontal Kerning lookup 0 subtable"  43 7 "'kern' Horizontal Kerning lookup 0 subtable" 
+EndChar
+
+StartChar: period
+Encoding: 46 46 24
+Width: 412
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+108 206 m 1
+ 108 0 l 1
+ 313 0 l 1
+ 313 206 l 1
+ 108 206 l 1
+EndSplineSet
+EndChar
+
+StartChar: slash
+Encoding: 47 47 25
+Width: 979
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+665 1446 m 1
+ 125 0 l 1
+ 320 0 l 1
+ 858 1446 l 1
+ 665 1446 l 1
+EndSplineSet
+EndChar
+
+StartChar: zero
+Encoding: 48 48 26
+Width: 1336
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+677 -24 m 0
+ 194 -24 145 215 145 516 c 2
+ 145 925 l 2
+ 145 1231 192 1483 677 1483 c 0
+ 1144 1483 1191 1218 1191 912 c 2
+ 1191 530 l 2
+ 1191 233 1142 -24 677 -24 c 0
+677 126 m 0
+ 935 126 990 229 990 485 c 2
+ 990 962 l 2
+ 990 1219 933 1332 677 1332 c 0
+ 423 1332 347 1219 347 962 c 2
+ 347 485 l 2
+ 347 229 421 126 677 126 c 0
+EndSplineSet
+EndChar
+
+StartChar: one
+Encoding: 49 49 27
+Width: 1098
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+1000 0 m 1
+ 1000 155 l 1
+ 193 155 l 1
+ 193 0 l 1
+ 1000 0 l 1
+724 0 m 1
+ 724 1446 l 1
+ 560 1446 l 1
+ 163 1366 l 1
+ 192 1203 l 1
+ 523 1267 l 1
+ 523 0 l 1
+ 724 0 l 1
+EndSplineSet
+EndChar
+
+StartChar: seven
+Encoding: 55 55 28
+Width: 1095
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+501 0 m 1
+ 991 1289 l 1
+ 991 1446 l 1
+ 110 1446 l 1
+ 110 1291 l 1
+ 790 1291 l 1
+ 290 0 l 1
+ 501 0 l 1
+EndSplineSet
+EndChar
+
+StartChar: colon
+Encoding: 58 58 29
+Width: 410
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+80 1023 m 1
+ 80 768 l 1
+ 331 768 l 1
+ 331 1023 l 1
+ 80 1023 l 1
+80 353 m 1
+ 80 99 l 1
+ 331 99 l 1
+ 331 353 l 1
+ 80 353 l 1
+EndSplineSet
+EndChar
+
+StartChar: semicolon
+Encoding: 59 59 30
+Width: 412
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+102 421 m 1
+ 336 421 l 1
+ 336 260 l 2
+ 336 69 245 -74 187 -128 c 1
+ 106 -84 l 1
+ 153 -29 220 78 220 210 c 1
+ 102 210 l 1
+ 102 421 l 1
+108 1084 m 1
+ 108 878 l 1
+ 313 878 l 1
+ 313 1084 l 1
+ 108 1084 l 1
+EndSplineSet
+EndChar
+
+StartChar: less
+Encoding: 60 60 31
+Width: 1230
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+1058 925 m 1
+ 1058 1144 l 1
+ 172 672 l 1
+ 172 471 l 1
+ 1058 0 l 1
+ 1058 217 l 1
+ 337 573 l 1
+ 1058 925 l 1
+EndSplineSet
+EndChar
+
+StartChar: equal
+Encoding: 61 61 32
+Width: 1217
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+207 615 m 1
+ 207 467 l 1
+ 1010 467 l 1
+ 1010 615 l 1
+ 207 615 l 1
+207 953 m 1
+ 207 805 l 1
+ 1010 805 l 1
+ 1010 953 l 1
+ 207 953 l 1
+EndSplineSet
+EndChar
+
+StartChar: greater
+Encoding: 62 62 33
+Width: 1230
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+172 219 m 1
+ 172 0 l 1
+ 1058 472 l 1
+ 1058 673 l 1
+ 172 1144 l 1
+ 172 927 l 1
+ 893 571 l 1
+ 172 219 l 1
 EndSplineSet
 EndChar
 
 StartChar: A
-Encoding: 65 65 1
+Encoding: 65 65 34
 Width: 1360
-VWidth: 0
-Flags: HW
-PickledData: "(dp1
-S'com.typemytype.robofont.layerData'
-p2
-(dp3
-s."
+Flags: W
 LayerCount: 2
 Fore
 SplineSet
-1286 -1 m 1
- 1079 -1 l 1
- 985 274 l 1
+227 408 m 1
+ 227 273 l 1
  985 273 l 1
- 377 273 l 1
- 283 -1 l 1
- 74 -1 l 1
- 594 1446 l 1
+ 985 408 l 1
+ 227 408 l 1
+1286 -1 m 1
  771 1446 l 1
- 1286 -1 l 1
-939 408 m 1
+ 594 1446 l 1
+ 74 -1 l 1
+ 283 -1 l 1
  681 1164 l 1
- 423 408 l 1
- 939 408 l 1
+ 1079 -1 l 1
+ 1286 -1 l 1
 EndSplineSet
-Kerns2: 142 -7 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  140 -7 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  139 -7 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  37 -13 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  35 -7 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  34 -7 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  32 -10 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  29 -17 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 
+Kerns2: 90 -7 "'kern' Horizontal Kerning lookup 0 subtable"  88 -7 "'kern' Horizontal Kerning lookup 0 subtable"  87 -7 "'kern' Horizontal Kerning lookup 0 subtable"  58 -13 "'kern' Horizontal Kerning lookup 0 subtable"  56 -7 "'kern' Horizontal Kerning lookup 0 subtable"  55 -7 "'kern' Horizontal Kerning lookup 0 subtable"  53 -10 "'kern' Horizontal Kerning lookup 0 subtable"  50 -17 "'kern' Horizontal Kerning lookup 0 subtable" 
 EndChar
 
 StartChar: B
-Encoding: 66 66 2
+Encoding: 66 66 35
 Width: 1399
-VWidth: 0
-Flags: HW
-PickledData: "(dp1
-S'com.typemytype.robofont.layerData'
-p2
-(dp3
-s."
+Flags: W
 LayerCount: 2
 Fore
 SplineSet
@@ -483,31 +896,24 @@ SplineSet
  1208 922 1180 809 1066 769 c 1
  1217 731 1283 572 1283 448 c 0
  1283 135 1116 -1 749 -1 c 2
-376 833 m 1
+376 149 m 1
+ 729 149 l 2
+ 953 149 1082 180 1082 446 c 0
+ 1082 578 1027 696 806 696 c 2
+ 348 696 l 1
+ 348 833 l 1
  777 833 l 2
  959 833 1007 917 1007 1047 c 0
  1007 1256 936 1295 692 1295 c 2
  376 1295 l 1
- 376 833 l 1
-376 696 m 1
  376 149 l 1
- 729 149 l 2
- 953 149 1082 180 1082 446 c 0
- 1082 578 1027 696 806 696 c 2
- 376 696 l 1
 EndSplineSet
 EndChar
 
 StartChar: C
-Encoding: 67 67 3
+Encoding: 67 67 36
 Width: 1413
-VWidth: 0
-Flags: HW
-PickledData: "(dp1
-S'com.typemytype.robofont.layerData'
-p2
-(dp3
-s."
+Flags: W
 LayerCount: 2
 Fore
 SplineSet
@@ -532,25 +938,12 @@ EndSplineSet
 EndChar
 
 StartChar: D
-Encoding: 68 68 4
+Encoding: 68 68 37
 Width: 1435
-VWidth: 0
-Flags: HW
-PickledData: "(dp1
-S'com.typemytype.robofont.layerData'
-p2
-(dp3
-s."
+Flags: W
 LayerCount: 2
 Fore
 SplineSet
-724 150 m 2
- 932 150 1089 196 1089 462 c 2
- 1089 971 l 2
- 1089 1238 930 1295 724 1295 c 2
- 376 1295 l 1
- 376 150 l 1
- 724 150 l 2
 174 0 m 1
  174 1446 l 1
  742 1446 l 2
@@ -558,151 +951,44 @@ SplineSet
  1290 482 l 2
  1290 169 1111 0 744 0 c 2
  174 0 l 1
+724 150 m 2
+ 932 150 1089 196 1089 462 c 2
+ 1089 971 l 2
+ 1089 1238 930 1295 724 1295 c 2
+ 376 1295 l 1
+ 376 150 l 1
+ 724 150 l 2
 EndSplineSet
-Kerns2: 113 -21 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  38 -25 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  37 -25 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  35 -20 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  34 -14 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  1 -21 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 
+Kerns2: 58 -25 "'kern' Horizontal Kerning lookup 0 subtable"  56 -20 "'kern' Horizontal Kerning lookup 0 subtable"  55 -14 "'kern' Horizontal Kerning lookup 0 subtable"  34 -21 "'kern' Horizontal Kerning lookup 0 subtable"  24 -21 "'kern' Horizontal Kerning lookup 0 subtable"  5 -25 "'kern' Horizontal Kerning lookup 0 subtable" 
 EndChar
 
 StartChar: E
-Encoding: 69 69 5
+Encoding: 69 69 38
 Width: 1133
-VWidth: 0
-Flags: HW
-PickledData: "(dp1
-S'com.typemytype.robofont.layerData'
-p2
-(dp3
-s."
+Flags: W
 LayerCount: 2
 Fore
 SplineSet
 174 1446 m 1
- 1037 1446 l 1
- 1037 1296 l 1
- 375 1296 l 1
- 375 814 l 1
- 976 814 l 1
- 976 664 l 1
- 375 664 l 1
- 375 150 l 1
- 1046 150 l 1
- 1046 0 l 1
  174 0 l 1
+ 1046 0 l 1
+ 1046 150 l 1
+ 375 150 l 1
+ 375 664 l 1
+ 976 664 l 1
+ 976 814 l 1
+ 375 814 l 1
+ 375 1296 l 1
+ 1037 1296 l 1
+ 1037 1446 l 1
  174 1446 l 1
 EndSplineSet
 EndChar
 
-StartChar: Eacute
-Encoding: 201 201 6
-Width: 1133
-VWidth: 0
-Flags: HW
-PickledData: "(dp1
-S'com.typemytype.robofont.layerData'
-p2
-(dp3
-s."
-LayerCount: 2
-Fore
-Refer: 43 180 N 1 0 0 1 185 491 2
-Refer: 5 69 N 1 0 0 1 0 0 3
-EndChar
-
-StartChar: Ecircumflex
-Encoding: 202 202 7
-Width: 1133
-VWidth: 0
-Flags: HW
-PickledData: "(dp1
-S'com.typemytype.robofont.layerData'
-p2
-(dp3
-s."
-LayerCount: 2
-Fore
-Refer: 60 710 N 1 0 0 1 160 496 2
-Refer: 5 69 N 1 0 0 1 0 0 3
-EndChar
-
-StartChar: Edieresis
-Encoding: 203 203 8
-Width: 1133
-VWidth: 0
-Flags: HW
-PickledData: "(dp1
-S'com.typemytype.robofont.layerData'
-p2
-(dp3
-s."
-LayerCount: 2
-Fore
-Refer: 68 168 N 1 0 0 1 138 381 2
-Refer: 5 69 N 1 0 0 1 0 0 3
-EndChar
-
-StartChar: Egrave
-Encoding: 200 200 9
-Width: 1133
-VWidth: 0
-Flags: HW
-PickledData: "(dp1
-S'com.typemytype.robofont.layerData'
-p2
-(dp3
-s."
-LayerCount: 2
-Fore
-Refer: 86 96 N 1 0 0 1 185 491 2
-Refer: 5 69 N 1 0 0 1 0 0 3
-EndChar
-
-StartChar: Eth
-Encoding: 208 208 10
-Width: 1124
-VWidth: 0
-Flags: HW
-PickledData: "(dp1
-S'com.typemytype.robofont.layerData'
-p2
-(dp3
-s."
-LayerCount: 2
-Fore
-SplineSet
-80 0 m 1
- 80 688 l 1
- 9 688 l 1
- 9 829 l 1
- 80 829 l 1
- 80 1459 l 1
- 399 1459 l 2
- 972 1459 1054 1331 1054 1021 c 2
- 1054 467 l 2
- 1054 149 994 0 394 0 c 2
- 80 0 l 1
-392 196 m 0
- 625 197 685 208 685 324 c 2
- 685 1149 l 2
- 685 1244 590 1262 387 1262 c 2
- 368 1262 l 1
- 368 829 l 1
- 528 829 l 1
- 528 688 l 1
- 368 688 l 1
- 368 197 l 1
- 370 197 391 196 392 196 c 0
-EndSplineSet
-EndChar
-
 StartChar: F
-Encoding: 70 70 11
+Encoding: 70 70 39
 Width: 1101
-VWidth: 0
-Flags: HW
-PickledData: "(dp1
-S'com.typemytype.robofont.layerData'
-p2
-(dp3
-s."
+Flags: W
 LayerCount: 2
 Fore
 SplineSet
@@ -718,22 +1004,23 @@ SplineSet
  375 0 l 1
  174 0 l 1
 EndSplineSet
-Kerns2: 124 -15 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  113 -150 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  61 7 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  1 -7 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 
+Kerns2: 84 -15 "'kern' Horizontal Kerning lookup 0 subtable"  34 -7 "'kern' Horizontal Kerning lookup 0 subtable"  29 7 "'kern' Horizontal Kerning lookup 0 subtable"  24 -150 "'kern' Horizontal Kerning lookup 0 subtable" 
 EndChar
 
 StartChar: G
-Encoding: 71 71 12
+Encoding: 71 71 40
 Width: 1412
-VWidth: 0
-Flags: HW
-PickledData: "(dp1
-S'com.typemytype.robofont.layerData'
-p2
-(dp3
-s."
+Flags: W
 LayerCount: 2
 Fore
 SplineSet
+1214 0 m 1
+ 1122 588 l 1
+ 845 588 l 1
+ 845 735 l 1
+ 1285 735 l 1
+ 1285 0 l 1
+ 1214 0 l 1
 1090 900 m 1
  1090 992 l 2
  1090 1249 992 1332 736 1332 c 0
@@ -742,17 +1029,9 @@ SplineSet
  347 199 482 126 738 126 c 0
  996 126 1090 199 1090 455 c 2
  1090 558 l 1
- 1127 558 l 1
- 1122 588 l 1
- 845 588 l 1
- 845 735 l 1
- 1285 735 l 1
  1285 558 l 1
- 1285 500 l 1
- 1285 0 l 1
- 1214 0 l 1
- 1193 135 l 1
- 1116 36 978 -24 738 -24 c 0
+ 1285 500 l 2
+ 1285 203 1203 -24 738 -24 c 0
  255 -24 145 185 145 486 c 2
  145 955 l 2
  145 1261 251 1483 736 1483 c 0
@@ -763,44 +1042,32 @@ EndSplineSet
 EndChar
 
 StartChar: H
-Encoding: 72 72 13
+Encoding: 72 72 41
 Width: 1429
-VWidth: 0
-Flags: HW
-PickledData: "(dp1
-S'com.typemytype.robofont.layerData'
-p2
-(dp3
-s."
+Flags: W
 LayerCount: 2
 Fore
 SplineSet
 174 1446 m 1
- 375 1446 l 1
- 375 807 l 1
- 1054 807 l 1
- 1054 1446 l 1
- 1255 1446 l 1
- 1255 0 l 1
- 1054 0 l 1
- 1054 659 l 1
- 375 659 l 1
- 375 0 l 1
  174 0 l 1
+ 375 0 l 1
+ 375 659 l 1
+ 1054 659 l 1
+ 1054 0 l 1
+ 1255 0 l 1
+ 1255 1446 l 1
+ 1054 1446 l 1
+ 1054 807 l 1
+ 375 807 l 1
+ 375 1446 l 1
  174 1446 l 1
 EndSplineSet
 EndChar
 
 StartChar: I
-Encoding: 73 73 14
+Encoding: 73 73 42
 Width: 971
-VWidth: 0
-Flags: HW
-PickledData: "(dp1
-S'com.typemytype.robofont.layerData'
-p2
-(dp3
-s."
+Flags: W
 LayerCount: 2
 Fore
 SplineSet
@@ -820,80 +1087,10 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: Iacute
-Encoding: 205 205 15
-Width: 971
-VWidth: 0
-Flags: HW
-PickledData: "(dp1
-S'com.typemytype.robofont.layerData'
-p2
-(dp3
-s."
-LayerCount: 2
-Fore
-Refer: 43 180 N 1 0 0 1 60 491 2
-Refer: 14 73 N 1 0 0 1 0 0 3
-EndChar
-
-StartChar: Icircumflex
-Encoding: 206 206 16
-Width: 971
-VWidth: 0
-Flags: HW
-PickledData: "(dp1
-S'com.typemytype.robofont.layerData'
-p2
-(dp3
-s."
-LayerCount: 2
-Fore
-Refer: 60 710 N 1 0 0 1 35 496 2
-Refer: 14 73 N 1 0 0 1 0 0 3
-EndChar
-
-StartChar: Idieresis
-Encoding: 207 207 17
-Width: 971
-VWidth: 0
-Flags: HW
-PickledData: "(dp1
-S'com.typemytype.robofont.layerData'
-p2
-(dp3
-s."
-LayerCount: 2
-Fore
-Refer: 68 168 N 1 0 0 1 14 381 2
-Refer: 14 73 N 1 0 0 1 0 0 3
-EndChar
-
-StartChar: Igrave
-Encoding: 204 204 18
-Width: 971
-VWidth: 0
-Flags: HW
-PickledData: "(dp1
-S'com.typemytype.robofont.layerData'
-p2
-(dp3
-s."
-LayerCount: 2
-Fore
-Refer: 86 96 N 1 0 0 1 60 491 2
-Refer: 14 73 N 1 0 0 1 0 0 3
-EndChar
-
 StartChar: J
-Encoding: 74 74 19
+Encoding: 74 74 43
 Width: 1133
-VWidth: 0
-Flags: HW
-PickledData: "(dp1
-S'com.typemytype.robofont.layerData'
-p2
-(dp3
-s."
+Flags: W
 LayerCount: 2
 Fore
 SplineSet
@@ -912,169 +1109,100 @@ EndSplineSet
 EndChar
 
 StartChar: K
-Encoding: 75 75 20
+Encoding: 75 75 44
 Width: 1319
-VWidth: 0
-Flags: HW
-PickledData: "(dp1
-S'com.typemytype.robofont.layerData'
-p2
-(dp3
-s."
+Flags: W
 LayerCount: 2
 Fore
 SplineSet
 174 1446 m 1
- 375 1446 l 1
- 375 657 l 1
- 531 844 l 1
- 1060 1446 l 1
- 1278 1446 l 1
- 734 798 l 1
- 1307 0 l 1
- 1084 0 l 1
- 593 690 l 1
- 375 468 l 1
- 375 0 l 1
  174 0 l 1
+ 375 0 l 1
+ 375 468 l 1
+ 593 690 l 1
+ 1084 0 l 1
+ 1307 0 l 1
+ 734 798 l 1
+ 1278 1446 l 1
+ 1060 1446 l 1
+ 531 844 l 1
+ 375 657 l 1
+ 375 1446 l 1
  174 1446 l 1
 EndSplineSet
-Kerns2: 90 -13 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  35 8 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  32 7 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 
+Kerns2: 56 8 "'kern' Horizontal Kerning lookup 0 subtable"  53 7 "'kern' Horizontal Kerning lookup 0 subtable"  23 -13 "'kern' Horizontal Kerning lookup 0 subtable" 
 EndChar
 
 StartChar: L
-Encoding: 76 76 21
+Encoding: 76 76 45
 Width: 1046
-VWidth: 0
-Flags: HW
-PickledData: "(dp1
-S'com.typemytype.robofont.layerData'
-p2
-(dp3
-s."
+Flags: W
 LayerCount: 2
 Fore
 SplineSet
 174 1446 m 1
- 375 1446 l 1
- 375 155 l 1
- 1002 155 l 1
- 1002 0 l 1
  174 0 l 1
+ 1002 0 l 1
+ 1002 155 l 1
+ 375 155 l 1
+ 375 1446 l 1
  174 1446 l 1
 EndSplineSet
-Kerns2: 142 -7 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  90 -20 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  42 7 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  37 -8 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  35 -13 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  34 -12 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  32 -7 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  1 7 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 
-EndChar
-
-StartChar: Lslash
-Encoding: 321 321 22
-Width: 722
-VWidth: 0
-Flags: HW
-PickledData: "(dp1
-S'com.typemytype.robofont.layerData'
-p2
-(dp3
-s."
-LayerCount: 2
-Fore
-SplineSet
-82 1459 m 1
- 370 1459 l 1
- 370 956 l 1
- 626 1031 l 1
- 626 889 l 1
- 370 814 l 1
- 370 194 l 1
- 700 194 l 1
- 700 0 l 1
- 82 0 l 1
- 82 708 l 1
- 11 679 l 1
- 11 822 l 1
- 82 850 l 1
- 82 1459 l 1
-EndSplineSet
-Kerns2: 142 -7 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  90 -20 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  42 7 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  37 -8 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  35 -13 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  34 -12 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  32 -7 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  1 7 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 
+Kerns2: 90 -7 "'kern' Horizontal Kerning lookup 0 subtable"  66 7 "'kern' Horizontal Kerning lookup 0 subtable"  58 -8 "'kern' Horizontal Kerning lookup 0 subtable"  56 -13 "'kern' Horizontal Kerning lookup 0 subtable"  55 -12 "'kern' Horizontal Kerning lookup 0 subtable"  53 -7 "'kern' Horizontal Kerning lookup 0 subtable"  34 7 "'kern' Horizontal Kerning lookup 0 subtable"  23 -20 "'kern' Horizontal Kerning lookup 0 subtable" 
 EndChar
 
 StartChar: M
-Encoding: 77 77 23
+Encoding: 77 77 46
 Width: 1672
-VWidth: 0
-Flags: HW
-PickledData: "(dp1
-S'com.typemytype.robofont.layerData'
-p2
-(dp3
-s."
+Flags: W
 LayerCount: 2
 Fore
 SplineSet
 174 0 m 1
- 174 1446 l 1
- 359 1446 l 1
- 837 638 l 1
- 1320 1446 l 1
- 1498 1446 l 1
- 1498 0 l 1
- 1308 0 l 1
- 1308 1121 l 1
- 912 458 l 1
- 763 458 l 1
- 366 1117 l 1
  366 0 l 1
+ 366 1117 l 1
+ 763 458 l 1
+ 912 458 l 1
+ 1308 1121 l 1
+ 1308 0 l 1
+ 1498 0 l 1
+ 1498 1446 l 1
+ 1320 1446 l 1
+ 837 638 l 1
+ 359 1446 l 1
+ 174 1446 l 1
  174 0 l 1
 EndSplineSet
 EndChar
 
 StartChar: N
-Encoding: 78 78 24
+Encoding: 78 78 47
 Width: 1502
-VWidth: 0
-Flags: HW
-PickledData: "(dp1
-S'com.typemytype.robofont.layerData'
-p2
-(dp3
-s."
+Flags: W
 LayerCount: 2
 Fore
 SplineSet
 174 0 m 1
- 174 1446 l 1
- 327 1446 l 1
- 1153 281 l 1
- 1153 1446 l 1
- 1328 1446 l 1
- 1328 0 l 1
- 1149 0 l 1
- 349 1115 l 1
  349 0 l 1
+ 349 1115 l 1
+ 1149 0 l 1
+ 1328 0 l 1
+ 1328 1446 l 1
+ 1153 1446 l 1
+ 1153 281 l 1
+ 327 1446 l 1
+ 174 1446 l 1
  174 0 l 1
 EndSplineSet
 EndChar
 
 StartChar: O
-Encoding: 79 79 25
+Encoding: 79 79 48
 Width: 1456
-VWidth: 0
-Flags: HW
-PickledData: "(dp1
-S'com.typemytype.robofont.layerData'
-p2
-(dp3
-s."
+Flags: W
 LayerCount: 2
 Fore
 SplineSet
-737 126 m 0
- 995 126 1110 199 1110 455 c 2
- 1110 992 l 2
- 1110 1249 993 1332 737 1332 c 0
- 483 1332 347 1249 347 992 c 2
- 347 455 l 2
- 347 199 481 126 737 126 c 0
 737 -24 m 0
  254 -24 145 185 145 486 c 2
  145 955 l 2
@@ -1082,105 +1210,23 @@ SplineSet
  1204 1483 1311 1248 1311 942 c 2
  1311 500 l 2
  1311 203 1202 -24 737 -24 c 0
-EndSplineSet
-EndChar
-
-StartChar: OE
-Encoding: 338 338 26
-Width: 1371
-VWidth: 0
-Flags: HW
-PickledData: "(dp1
-S'com.typemytype.robofont.layerData'
-p2
-(dp3
-s."
-LayerCount: 2
-Fore
-SplineSet
-768 1259 m 1
- 565 1259 l 2
- 386 1259 356 1157 356 1074 c 2
- 356 377 l 2
- 356 295 386 193 565 193 c 2
- 768 193 l 1
- 768 1259 l 1
-562 1459 m 1
- 1344 1459 l 1
- 1344 1266 l 1
- 1056 1266 l 1
- 1056 862 l 1
- 1268 862 l 1
- 1268 665 l 1
- 1056 665 l 1
- 1056 194 l 1
- 1344 194 l 1
- 1344 0 l 1
- 563 0 l 2
- 159 0 68 177 68 452 c 2
- 68 999 l 2
- 68 1265 156 1458 562 1459 c 1
-EndSplineSet
-EndChar
-
-StartChar: Oslash
-Encoding: 216 216 27
-Width: 1124
-VWidth: 0
-Flags: HW
-PickledData: "(dp1
-S'com.typemytype.robofont.layerData'
-p2
-(dp3
-s."
-LayerCount: 2
-Fore
-SplineSet
-767 1086 m 2
- 767 1167 737 1269 562 1269 c 0
- 386 1269 356 1167 356 1086 c 2
- 356 367 l 2
- 356 284 385 182 563 182 c 0
- 741 182 768 284 768 367 c 2
- 767 1086 l 2
-868 1654 m 1
- 952 1638 l 1
- 892 1426 l 1
- 1016 1348 1056 1196 1056 1012 c 2
- 1056 445 l 2
- 1056 175 966 -24 563 -24 c 0
- 469 -24 387 -18 325 -6 c 1
- 273 -195 l 1
- 190 -179 l 1
- 247 25 l 1
- 113 99 68 255 68 440 c 2
- 68 1012 l 2
- 68 1289 156 1483 562 1483 c 0
- 667 1483 759 1474 813 1459 c 1
- 868 1654 l 1
+737 126 m 0
+ 995 126 1110 199 1110 455 c 2
+ 1110 992 l 2
+ 1110 1249 993 1332 737 1332 c 0
+ 483 1332 347 1249 347 992 c 2
+ 347 455 l 2
+ 347 199 481 126 737 126 c 0
 EndSplineSet
 EndChar
 
 StartChar: P
-Encoding: 80 80 28
+Encoding: 80 80 49
 Width: 1245
-VWidth: 0
-Flags: HW
-PickledData: "(dp1
-S'com.typemytype.robofont.layerData'
-p2
-(dp3
-s."
+Flags: W
 LayerCount: 2
 Fore
 SplineSet
-376 682 m 1
- 754 682 l 2
- 929 682 952 828 953 935 c 1
- 953 1018 l 2
- 953 1118 938 1293 757 1293 c 2
- 376 1293 l 1
- 376 682 l 1
 174 0 m 1
  174 1446 l 1
  751 1446 l 2
@@ -1190,23 +1236,36 @@ SplineSet
  376 529 l 1
  376 0 l 1
  174 0 l 1
+376 682 m 1
+ 754 682 l 2
+ 929 682 952 828 953 935 c 1
+ 953 1018 l 2
+ 953 1118 938 1293 757 1293 c 2
+ 376 1293 l 1
+ 376 682 l 1
 EndSplineSet
-Kerns2: 113 -60 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  35 7 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  1 -7 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 
+Kerns2: 56 7 "'kern' Horizontal Kerning lookup 0 subtable"  34 -7 "'kern' Horizontal Kerning lookup 0 subtable"  24 -60 "'kern' Horizontal Kerning lookup 0 subtable" 
 EndChar
 
 StartChar: Q
-Encoding: 81 81 29
+Encoding: 81 81 50
 Width: 1444
-VWidth: 0
-Flags: HW
-PickledData: "(dp1
-S'com.typemytype.robofont.layerData'
-p2
-(dp3
-s."
+Flags: W
 LayerCount: 2
 Fore
 SplineSet
+667 -10 m 1
+ 820 35 l 1
+ 1047 -308 l 1
+ 906 -384 l 1
+ 667 -10 l 1
+737 -24 m 0
+ 254 -24 145 185 145 486 c 2
+ 145 955 l 2
+ 145 1261 252 1483 737 1483 c 0
+ 1204 1483 1311 1248 1311 942 c 2
+ 1311 500 l 2
+ 1311 203 1202 -24 737 -24 c 0
 737 126 m 0
  995 126 1110 199 1110 455 c 2
  1110 992 l 2
@@ -1214,32 +1273,30 @@ SplineSet
  483 1332 347 1249 347 992 c 2
  347 455 l 2
  347 199 481 126 737 126 c 0
-855 -18 m 1
- 1047 -308 l 1
- 906 -384 l 1
- 675 -23 l 1
- 244 -6 145 198 145 486 c 2
- 145 955 l 2
- 145 1261 252 1483 737 1483 c 0
- 1204 1483 1311 1248 1311 942 c 2
- 1311 500 l 2
- 1311 230 1221 18 855 -18 c 1
 EndSplineSet
 EndChar
 
 StartChar: R
-Encoding: 82 82 30
+Encoding: 82 82 51
 Width: 1347
-VWidth: 0
-Flags: HW
-PickledData: "(dp1
-S'com.typemytype.robofont.layerData'
-p2
-(dp3
-s."
+Flags: W
 LayerCount: 2
 Fore
 SplineSet
+754 636 m 1
+ 931 692 l 1
+ 1238 0 l 1
+ 1026 0 l 1
+ 754 636 l 1
+174 0 m 1
+ 174 1446 l 1
+ 798 1446 l 2
+ 1041 1446 1196 1320 1202 1024 c 1
+ 1202 969 l 2
+ 1202 657 1032 566 786 566 c 2
+ 376 566 l 1
+ 376 0 l 1
+ 174 0 l 1
 376 719 m 1
  790 719 l 2
  965 719 999 840 1000 947 c 1
@@ -1247,318 +1304,321 @@ SplineSet
  1000 1118 985 1293 804 1293 c 2
  376 1293 l 1
  376 719 l 1
-174 0 m 1
- 174 1446 l 1
- 798 1446 l 2
- 1041 1446 1196 1320 1202 1024 c 1
- 1202 969 l 2
- 1202 746 1115 636 976 591 c 1
- 1238 0 l 1
- 1026 0 l 1
- 784 566 l 1
- 376 566 l 1
- 376 0 l 1
- 174 0 l 1
 EndSplineSet
 EndChar
 
 StartChar: S
-Encoding: 83 83 31
+Encoding: 83 83 52
 Width: 1228
-VWidth: 0
-Flags: HW
-PickledData: "(dp1
-S'com.typemytype.robofont.layerData'
-p2
-(dp3
-s."
+Flags: W
 LayerCount: 2
 Fore
 SplineSet
 114 209 m 1
- 206 323 l 1
- 288 237 434 130 634 130 c 0
- 818 130 931 196 947 352 c 1
- 956 476 902 550 741 620 c 2
- 454 744 l 2
- 281 819 133 900 140 1118 c 0
- 148 1379 372 1481 622 1481 c 0
- 889 1481 1045 1367 1110 1280 c 1
- 1022 1164 l 1
- 947 1255 821 1328 634 1332 c 1
- 435 1334 338 1256 329 1143 c 0
- 321 1046 351 975 507 908 c 2
- 811 777 l 2
- 983 703 1135 617 1130 379 c 1
- 1126 122 931 -27 627 -23 c 1
- 418 -18 219 72 114 209 c 1
+ 219 72 418 -18 627 -23 c 1
+ 931 -27 1126 122 1130 379 c 1
+ 1135 617 983 703 811 777 c 2
+ 507 908 l 2
+ 351 975 321 1046 329 1143 c 0
+ 338 1256 435 1334 634 1332 c 1
+ 821 1328 947 1255 1022 1164 c 1
+ 1110 1280 l 1
+ 1045 1367 889 1481 622 1481 c 0
+ 372 1481 148 1379 140 1118 c 0
+ 133 900 281 819 454 744 c 2
+ 741 620 l 2
+ 902 550 956 476 947 352 c 1
+ 931 196 818 130 634 130 c 0
+ 434 130 288 237 206 323 c 1
+ 114 209 l 1
 EndSplineSet
 EndChar
 
 StartChar: T
-Encoding: 84 84 32
+Encoding: 84 84 53
 Width: 1063
-VWidth: 0
-Flags: HW
-PickledData: "(dp1
-S'com.typemytype.robofont.layerData'
-p2
-(dp3
-s."
+Flags: W
 LayerCount: 2
 Fore
 SplineSet
 44 1446 m 1
- 1019 1446 l 1
- 1019 1281 l 1
- 632 1281 l 1
- 632 0 l 1
- 431 0 l 1
- 431 1281 l 1
  44 1281 l 1
+ 431 1281 l 1
+ 431 0 l 1
+ 632 0 l 1
+ 632 1281 l 1
+ 1019 1281 l 1
+ 1019 1446 l 1
  44 1446 l 1
 EndSplineSet
-Kerns2: 142 -10 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  140 -10 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  133 -8 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  124 -8 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  121 -7 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  113 -20 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  108 -7 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  90 -7 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  72 -7 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  61 -10 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  55 -7 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  42 -7 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  32 10 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  3 -35 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  1 -10 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 
+Kerns2: 90 -10 "'kern' Horizontal Kerning lookup 0 subtable"  88 -10 "'kern' Horizontal Kerning lookup 0 subtable"  86 -8 "'kern' Horizontal Kerning lookup 0 subtable"  84 -8 "'kern' Horizontal Kerning lookup 0 subtable"  83 -7 "'kern' Horizontal Kerning lookup 0 subtable"  80 -7 "'kern' Horizontal Kerning lookup 0 subtable"  70 -7 "'kern' Horizontal Kerning lookup 0 subtable"  68 -7 "'kern' Horizontal Kerning lookup 0 subtable"  66 -7 "'kern' Horizontal Kerning lookup 0 subtable"  53 10 "'kern' Horizontal Kerning lookup 0 subtable"  36 -35 "'kern' Horizontal Kerning lookup 0 subtable"  34 -10 "'kern' Horizontal Kerning lookup 0 subtable"  29 -10 "'kern' Horizontal Kerning lookup 0 subtable"  24 -20 "'kern' Horizontal Kerning lookup 0 subtable"  23 -7 "'kern' Horizontal Kerning lookup 0 subtable" 
 EndChar
 
 StartChar: U
-Encoding: 85 85 33
+Encoding: 85 85 54
 Width: 1378
-VWidth: 0
-Flags: HW
-PickledData: "(dp1
-S'com.typemytype.robofont.layerData'
-p2
-(dp3
-s."
+Flags: W
 LayerCount: 2
 Fore
 SplineSet
 131 446 m 2
- 131 1446 l 1
- 333 1446 l 1
- 333 440 l 2
- 333 174 501 126 702 126 c 0
- 905 126 1051 174 1051 440 c 2
- 1051 1446 l 1
+ 131 175 229 -24 702 -24 c 0
+ 1155 -24 1253 192 1253 460 c 2
  1253 1446 l 1
- 1253 460 l 2
- 1253 192 1155 -24 702 -24 c 0
- 229 -24 131 175 131 446 c 2
+ 1051 1446 l 1
+ 1051 440 l 2
+ 1051 174 905 126 702 126 c 0
+ 501 126 333 174 333 440 c 2
+ 333 1446 l 1
+ 131 1446 l 1
+ 131 446 l 2
 EndSplineSet
 EndChar
 
 StartChar: V
-Encoding: 86 86 34
+Encoding: 86 86 55
 Width: 1269
-VWidth: 0
-Flags: HW
-PickledData: "(dp1
-S'com.typemytype.robofont.layerData'
-p2
-(dp3
-s."
+Flags: W
 LayerCount: 2
 Fore
 SplineSet
 51 1446 m 1
- 258 1446 l 1
- 656 294 l 1
- 1054 1446 l 1
- 1263 1446 l 1
- 743 0 l 1
  566 0 l 1
+ 743 0 l 1
+ 1263 1446 l 1
+ 1054 1446 l 1
+ 656 294 l 1
+ 258 1446 l 1
  51 1446 l 1
 EndSplineSet
-Kerns2: 113 -13 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  61 -7 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  1 -7 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 
+Kerns2: 34 -7 "'kern' Horizontal Kerning lookup 0 subtable"  29 -7 "'kern' Horizontal Kerning lookup 0 subtable"  24 -13 "'kern' Horizontal Kerning lookup 0 subtable" 
 EndChar
 
 StartChar: W
-Encoding: 87 87 35
+Encoding: 87 87 56
 Width: 1843
-VWidth: 0
-Flags: HW
-PickledData: "(dp1
-S'com.typemytype.robofont.layerData'
-p2
-(dp3
-s."
+Flags: W
 LayerCount: 2
 Fore
 SplineSet
-55 1446 m 1
- 232 1446 l 1
- 514 346 l 1
- 806 1446 l 1
- 854 1446 l 1
- 980 1446 l 1
- 1021 1446 l 1
- 1327 346 l 1
- 1605 1446 l 1
- 1788 1446 l 1
- 1407 0 l 1
+854 1446 m 1
  1255 0 l 1
- 917 1217 l 1
- 585 0 l 1
+ 1407 0 l 1
+ 1788 1446 l 1
+ 1605 1446 l 1
+ 1327 346 l 1
+ 1021 1446 l 1
+ 854 1446 l 1
+55 1446 m 1
  433 0 l 1
+ 585 0 l 1
+ 980 1446 l 1
+ 806 1446 l 1
+ 514 346 l 1
+ 232 1446 l 1
  55 1446 l 1
 EndSplineSet
-Kerns2: 142 10 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  133 7 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  121 7 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  113 -8 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  108 7 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  91 8 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  72 7 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  42 7 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 
+Kerns2: 90 10 "'kern' Horizontal Kerning lookup 0 subtable"  86 7 "'kern' Horizontal Kerning lookup 0 subtable"  83 7 "'kern' Horizontal Kerning lookup 0 subtable"  80 7 "'kern' Horizontal Kerning lookup 0 subtable"  74 8 "'kern' Horizontal Kerning lookup 0 subtable"  70 7 "'kern' Horizontal Kerning lookup 0 subtable"  66 7 "'kern' Horizontal Kerning lookup 0 subtable"  24 -8 "'kern' Horizontal Kerning lookup 0 subtable" 
 EndChar
 
 StartChar: X
-Encoding: 88 88 36
+Encoding: 88 88 57
 Width: 1185
-VWidth: 0
-Flags: HW
-PickledData: "(dp1
-S'com.typemytype.robofont.layerData'
-p2
-(dp3
-s."
+Flags: W
 LayerCount: 2
 Fore
 SplineSet
-690 734 m 1
+941 0 m 1
  1159 0 l 1
- 941 0 l 1
- 584 568 l 1
- 222 0 l 1
- 26 0 l 1
- 482 731 l 1
- 33 1446 l 1
  236 1446 l 1
- 586 898 l 1
+ 33 1446 l 1
+ 941 0 l 1
+1144 1446 m 1
  927 1446 l 1
+ 26 0 l 1
+ 222 0 l 1
  1144 1446 l 1
- 690 734 l 1
 EndSplineSet
-Kerns2: 90 -7 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 
+Kerns2: 23 -7 "'kern' Horizontal Kerning lookup 0 subtable" 
 EndChar
 
 StartChar: Y
-Encoding: 89 89 37
+Encoding: 89 89 58
 Width: 1217
-VWidth: 0
-Flags: HW
-PickledData: "(dp1
-S'com.typemytype.robofont.layerData'
-p2
-(dp3
-s."
+Flags: W
 LayerCount: 2
 Fore
 SplineSet
 14 1446 m 1
- 215 1446 l 1
- 620 724 l 1
- 1008 1446 l 1
- 1203 1446 l 1
- 720 568 l 1
- 720 0 l 1
- 519 0 l 1
  519 568 l 1
+ 519 0 l 1
+ 720 0 l 1
+ 720 568 l 1
+ 1203 1446 l 1
+ 1008 1446 l 1
+ 620 724 l 1
+ 215 1446 l 1
  14 1446 l 1
 EndSplineSet
-Kerns2: 113 -18 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  108 -47 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  90 -13 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  61 -7 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  1 -10 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 
-EndChar
-
-StartChar: Yacute
-Encoding: 221 221 38
-Width: 1217
-VWidth: 0
-Flags: HW
-PickledData: "(dp1
-S'com.typemytype.robofont.layerData'
-p2
-(dp3
-s."
-LayerCount: 2
-Fore
-Refer: 43 180 N 1 0 0 1 184 491 2
-Refer: 37 89 N 1 0 0 1 0 0 3
-Kerns2: 108 -58 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 
-EndChar
-
-StartChar: Ydieresis
-Encoding: 376 376 39
-Width: 1217
-VWidth: 0
-Flags: HW
-PickledData: "(dp1
-S'com.typemytype.robofont.layerData'
-p2
-(dp3
-s."
-LayerCount: 2
-Fore
-Refer: 68 168 N 1 0 0 1 137 381 2
-Refer: 37 89 N 1 0 0 1 0 0 3
+Kerns2: 80 -47 "'kern' Horizontal Kerning lookup 0 subtable"  34 -10 "'kern' Horizontal Kerning lookup 0 subtable"  29 -7 "'kern' Horizontal Kerning lookup 0 subtable"  24 -18 "'kern' Horizontal Kerning lookup 0 subtable"  23 -13 "'kern' Horizontal Kerning lookup 0 subtable" 
 EndChar
 
 StartChar: Z
-Encoding: 90 90 40
+Encoding: 90 90 59
 Width: 1070
-VWidth: 0
-Flags: HW
-PickledData: "(dp1
-S'com.typemytype.robofont.layerData'
-p2
-(dp3
-s."
+Flags: W
 LayerCount: 2
 Fore
 SplineSet
 129 1446 m 1
- 994 1446 l 1
- 994 1295 l 1
- 308 165 l 1
- 1008 165 l 1
- 1008 0 l 1
- 86 0 l 1
- 86 150 l 1
- 773 1281 l 1
  129 1281 l 1
+ 773 1281 l 1
+ 86 150 l 1
+ 86 0 l 1
+ 1008 0 l 1
+ 1008 165 l 1
+ 308 165 l 1
+ 994 1295 l 1
+ 994 1446 l 1
  129 1446 l 1
 EndSplineSet
-Kerns2: 90 -7 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 
+Kerns2: 23 -7 "'kern' Horizontal Kerning lookup 0 subtable" 
 EndChar
 
-StartChar: Zcaron
-Encoding: 381 381 41
-Width: 1070
-VWidth: 0
-Flags: HW
-PickledData: "(dp1
-S'com.typemytype.robofont.layerData'
-p2
-(dp3
-s."
-LayerCount: 2
-Fore
-Refer: 56 711 N 1 0 0 1 96 496 2
-Refer: 40 90 N 1 0 0 1 0 0 3
-EndChar
-
-StartChar: a
-Encoding: 97 97 42
-Width: 1143
-VWidth: 0
-Flags: HW
-PickledData: "(dp1
-S'com.typemytype.robofont.layerData'
-p2
-(dp3
-s."
+StartChar: bracketleft
+Encoding: 91 91 60
+Width: 594
+Flags: W
 LayerCount: 2
 Fore
 SplineSet
-761 273 m 1
- 761 576 l 1
- 732 547 670 512 534 477 c 0
- 318 421 289 368 295 266 c 0
- 301 160 377 113 480 113 c 0
- 593 113 731 175 761 273 c 1
+350 58 m 1
+ 350 1396 l 1
+ 540 1396 l 1
+ 540 1529 l 1
+ 119 1529 l 1
+ 119 -76 l 1
+ 540 -76 l 1
+ 540 58 l 1
+ 350 58 l 1
+EndSplineSet
+EndChar
+
+StartChar: backslash
+Encoding: 92 92 61
+Width: 502
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+44 1487 m 1
+ 228 -32 l 1
+ 448 -32 l 1
+ 264 1487 l 1
+ 44 1487 l 1
+EndSplineSet
+EndChar
+
+StartChar: bracketright
+Encoding: 93 93 62
+Width: 560
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+55 1496 m 1
+ 55 1382 l 1
+ 242 1382 l 1
+ 242 38 l 1
+ 55 38 l 1
+ 55 -76 l 1
+ 453 -76 l 1
+ 453 1496 l 1
+ 55 1496 l 1
+EndSplineSet
+EndChar
+
+StartChar: asciicircum
+Encoding: 94 94 63
+Width: 1194
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+779 1283 m 1
+ 407 1283 l 1
+ 118 746 l 1
+ 372 746 l 1
+ 592 1091 l 1
+ 814 746 l 1
+ 1067 746 l 1
+ 779 1283 l 1
+EndSplineSet
+EndChar
+
+StartChar: underscore
+Encoding: 95 95 64
+Width: 916
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+905 89 m 1
+ 4 89 l 1
+ 4 -82 l 1
+ 905 -82 l 1
+ 905 89 l 1
+EndSplineSet
+EndChar
+
+StartChar: grave
+Encoding: 96 96 65
+Width: 616
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+115 1496 m 1
+ 372 1155 l 1
+ 478 1155 l 1
+ 340 1496 l 1
+ 115 1496 l 1
+EndSplineSet
+EndChar
+
+StartChar: a
+Encoding: 97 97 66
+Width: 1143
+VWidth: 2002
+Flags: HW
+LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+UndoOperation
+Index: 2
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
+Fore
+SplineSet
 1080 128 m 1
  1080 -8 l 1
  1066 -10 1017 -12 1000 -12 c 0
@@ -1576,530 +1636,1785 @@ SplineSet
  852 1080 949 917 949 699 c 2
  949 268 l 2
  949 165 969 128 1080 128 c 1
-EndSplineSet
-EndChar
-
-StartChar: acute
-Encoding: 180 180 43
-Width: 616
-VWidth: 0
-Flags: HW
-PickledData: "(dp1
-S'com.typemytype.robofont.layerData'
-p2
-(dp3
-s."
-LayerCount: 2
-Fore
-SplineSet
-115 1496 m 1
- 340 1496 l 1
- 478 1155 l 1
- 372 1155 l 1
- 115 1496 l 1
-EndSplineSet
-EndChar
-
-StartChar: aring
-Encoding: 229 229 44
-Width: 1143
-VWidth: 0
-Flags: HW
-PickledData: "(dp1
-S'com.typemytype.robofont.layerData'
-p2
-(dp3
-s."
-LayerCount: 2
-Fore
-Refer: 123 730 N 1 0 0 1 288 33 2
-Refer: 42 97 N 1 0 0 1 0 0 3
-EndChar
-
-StartChar: asciicircum
-Encoding: 94 94 45
-Width: 1194
-VWidth: 0
-Flags: HW
-PickledData: "(dp1
-S'com.typemytype.robofont.layerData'
-p2
-(dp3
-s."
-LayerCount: 2
-Fore
-SplineSet
-779 1283 m 1
- 1067 746 l 1
- 814 746 l 1
- 592 1091 l 1
- 372 746 l 1
- 118 746 l 1
- 407 1283 l 1
- 779 1283 l 1
-EndSplineSet
-EndChar
-
-StartChar: asterisk
-Encoding: 42 42 46
-Width: 990
-VWidth: 0
-Flags: HW
-PickledData: "(dp1
-S'com.typemytype.robofont.layerData'
-p2
-(dp3
-s."
-LayerCount: 2
-Fore
-SplineSet
-406 1446 m 1
- 584 1446 l 1
- 554 1121 l 1
- 827 1295 l 1
- 908 1134 l 1
- 617 1017 l 1
- 897 875 l 1
- 802 722 l 1
- 555 912 l 1
- 584 599 l 1
- 406 599 l 1
- 435 924 l 1
- 162 750 l 1
- 82 911 l 1
- 372 1028 l 1
- 92 1170 l 1
- 187 1323 l 1
- 434 1133 l 1
- 406 1446 l 1
+761 273 m 1
+ 761 576 l 1
+ 732 547 670 512 534 477 c 0
+ 318 421 289 368 295 266 c 0
+ 301 160 377 113 480 113 c 0
+ 593 113 731 175 761 273 c 1
 EndSplineSet
 EndChar
 
 StartChar: b
-Encoding: 98 98 47
+Encoding: 98 98 67
 Width: 1139
-VWidth: 0
+VWidth: 2006
 Flags: HW
-PickledData: "(dp1
-S'com.typemytype.robofont.layerData'
-p2
-(dp3
-s."
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+UndoOperation
+Index: 2
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
+264 97 m 1
+ 304 77 414 -16 582 -16 c 0
+ 858 -16 1011 139 1011 352 c 2
+ 1011 736 l 2
+ 1011 940 877 1084 606 1084 c 0
+ 475 1084 330 1030 280 975 c 1
+ 258 829 l 1
+ 268 850 457 942 597 942 c 0
+ 735 942 823 877 823 750 c 2
+ 823 332 l 2
+ 823 202 702 125 554 125 c 0
+ 387 125 262 236 244 246 c 1
+ 264 97 l 1
 283 4 m 1
- 144 4 l 1
- 144 1440 l 1
+ 332 145 l 1
  332 1440 l 1
- 332 1014 l 1
- 400 1053 507 1084 606 1084 c 0
- 877 1084 1011 940 1011 736 c 2
- 1011 352 l 2
- 1011 139 858 -16 582 -16 c 0
- 456 -16 362 36 306 71 c 1
+ 144 1440 l 1
+ 144 4 l 1
  283 4 l 1
-332 874 m 1
- 332 188 l 1
- 387 157 465 125 554 125 c 0
- 702 125 823 202 823 332 c 2
- 823 750 l 2
- 823 877 735 942 597 942 c 0
- 509 942 402 906 332 874 c 1
 EndSplineSet
-Kerns2: 142 -10 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  139 -10 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  47 -12 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 
+Kerns2: 90 -10 "'kern' Horizontal Kerning lookup 0 subtable"  87 -10 "'kern' Horizontal Kerning lookup 0 subtable"  67 -12 "'kern' Horizontal Kerning lookup 0 subtable" 
 EndChar
 
-StartChar: backslash
-Encoding: 92 92 48
-Width: 502
-VWidth: 0
+StartChar: c
+Encoding: 99 99 68
+Width: 1098
+VWidth: 2002
 Flags: HW
-PickledData: "(dp1
-S'com.typemytype.robofont.layerData'
-p2
-(dp3
-s."
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+UndoOperation
+Index: 2
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
-44 1487 m 1
- 264 1487 l 1
- 448 -32 l 1
- 228 -32 l 1
- 44 1487 l 1
+809 679 m 1
+ 991 679 l 1
+ 991 768 l 2
+ 991 981 828 1080 565 1080 c 0
+ 302 1080 128 951 128 751 c 2
+ 128 314 l 2
+ 128 118 249 -20 565 -20 c 0
+ 894 -20 991 94 991 289 c 2
+ 991 356 l 1
+ 809 356 l 1
+ 809 283 l 2
+ 809 153 704 121 565 121 c 0
+ 418 121 315 166 315 308 c 2
+ 315 757 l 2
+ 315 888 419 938 565 938 c 0
+ 710 938 809 899 809 774 c 2
+ 809 679 l 1
+EndSplineSet
+Kerns2: 68 -4 "'kern' Horizontal Kerning lookup 0 subtable" 
+EndChar
+
+StartChar: d
+Encoding: 100 100 69
+Width: 1140
+VWidth: 2006
+Flags: HW
+LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+UndoOperation
+Index: 2
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
+Fore
+SplineSet
+889 992 m 1
+ 859 1042 689 1084 581 1084 c 0
+ 273 1084 128 948 128 735 c 2
+ 128 328 l 2
+ 128 124 243 -16 548 -16 c 0
+ 674 -16 809 28 859 83 c 1
+ 829 209 l 1
+ 819 188 700 126 560 126 c 0
+ 422 126 316 187 316 314 c 2
+ 316 756 l 2
+ 316 886 435 943 583 943 c 0
+ 750 943 882 872 890 813 c 1
+ 902 811 883 951 889 992 c 1
+805 1440 m 1
+ 805 117 l 1
+ 865 4 l 1
+ 993 4 l 1
+ 993 1440 l 1
+ 805 1440 l 1
+EndSplineSet
+Kerns2: 69 -17 "'kern' Horizontal Kerning lookup 0 subtable" 
+EndChar
+
+StartChar: e
+Encoding: 101 101 70
+Width: 1084
+VWidth: 2002
+Flags: HW
+LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+UndoOperation
+Index: 2
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
+Fore
+SplineSet
+560 -20 m 0
+ 889 -20 971 102 971 297 c 2
+ 971 336 l 1
+ 789 336 l 1
+ 789 282 l 2
+ 789 152 699 121 560 121 c 0
+ 396 121 316 179 316 310 c 2
+ 316 506 l 1
+ 971 506 l 1
+ 971 758 l 2
+ 971 959 836 1080 560 1080 c 0
+ 281 1080 128 943 128 743 c 2
+ 128 326 l 2
+ 128 122 244 -20 560 -20 c 0
+316 633 m 1
+ 316 760 l 2
+ 316 891 410 938 560 938 c 0
+ 705 938 789 906 789 778 c 2
+ 789 633 l 1
+ 316 633 l 1
+EndSplineSet
+Kerns2: 89 -18 "'kern' Horizontal Kerning lookup 0 subtable" 
+EndChar
+
+StartChar: f
+Encoding: 102 102 71
+Width: 651
+VWidth: 2006
+Flags: HW
+LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+UndoOperation
+Index: 2
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
+Fore
+SplineSet
+512 1389 m 2
+ 294 1389 218 1290 218 1092 c 2
+ 218 1064 l 1
+ 56 1064 l 1
+ 56 947 l 1
+ 218 947 l 1
+ 218 3 l 1
+ 406 3 l 1
+ 406 947 l 1
+ 621 947 l 1
+ 621 1064 l 1
+ 406 1064 l 1
+ 406 1123 l 2
+ 406 1199 412 1256 547 1256 c 2
+ 618 1256 l 1
+ 618 1389 l 1
+ 512 1389 l 2
+EndSplineSet
+Kerns2: 90 7 "'kern' Horizontal Kerning lookup 0 subtable"  88 7 "'kern' Horizontal Kerning lookup 0 subtable"  85 7 "'kern' Horizontal Kerning lookup 0 subtable"  71 -53 "'kern' Horizontal Kerning lookup 0 subtable"  24 -7 "'kern' Horizontal Kerning lookup 0 subtable" 
+EndChar
+
+StartChar: g
+Encoding: 103 103 72
+Width: 1139
+VWidth: 1999
+Flags: HW
+LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+UndoOperation
+Index: 2
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
+Fore
+SplineSet
+563 935 m 0
+ 415 935 316 878 316 748 c 2
+ 316 323 l 2
+ 316 196 422 157 560 157 c 0
+ 700 157 777 215 807 239 c 1
+ 807 810 l 2
+ 807 869 730 935 563 935 c 0
+995 30 m 2
+ 995 -188 868 -350 588 -350 c 0
+ 445 -350 328 -335 230 -282 c 1
+ 282 -143 l 1
+ 321 -169 449 -210 582 -210 c 0
+ 774 -210 810 -100 809 -23 c 2
+ 807 100 l 1
+ 747 44 634 15 561 15 c 0
+ 290 15 128 132 128 352 c 2
+ 128 728 l 2
+ 128 941 259 1076 535 1076 c 0
+ 643 1076 777 1025 807 975 c 1
+ 807 1056 l 1
+ 995 1056 l 1
+ 995 30 l 2
+EndSplineSet
+EndChar
+
+StartChar: h
+Encoding: 104 104 73
+Width: 1157
+VWidth: 2007
+Flags: HW
+LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+UndoOperation
+Index: 2
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
+Fore
+SplineSet
+144 4 m 5
+ 332 4 l 1
+ 332 759 l 2
+ 332 861 417 942 601 942 c 0
+ 732 942 831 892 831 787 c 2
+ 831 4 l 1
+ 1019 4 l 1
+ 1019 774 l 2
+ 1019 942 910 1084 649 1084 c 0
+ 495 1084 394 1033 332 961 c 1
+ 332 1440 l 1
+ 144 1440 l 1
+ 144 4 l 5
+EndSplineSet
+Kerns2: 90 -6 "'kern' Horizontal Kerning lookup 0 subtable" 
+EndChar
+
+StartChar: i
+Encoding: 105 105 74
+Width: 529
+VWidth: 2006
+Flags: HW
+LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+UndoOperation
+Index: 2
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
+Fore
+SplineSet
+160 1390 m 1
+ 160 1189 l 1
+ 365 1189 l 1
+ 365 1390 l 1
+ 160 1390 l 1
+171 1064 m 1
+ 171 4 l 1
+ 358 4 l 1
+ 358 1064 l 1
+ 171 1064 l 1
+EndSplineSet
+EndChar
+
+StartChar: j
+Encoding: 106 106 75
+Width: 571
+VWidth: 2003
+Flags: HW
+LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+UndoOperation
+Index: 2
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
+Fore
+SplineSet
+233 1386 m 1
+ 233 1207 l 1
+ 420 1207 l 1
+ 420 1386 l 1
+ 233 1386 l 1
+237 1061 m 1
+ 237 26 l 2
+ 237 -14 236 -117 103 -117 c 2
+ 33 -117 l 1
+ 33 -251 l 1
+ 139 -251 l 2
+ 315 -251 421 -153 421 9 c 2
+ 421 1061 l 1
+ 237 1061 l 1
+EndSplineSet
+EndChar
+
+StartChar: k
+Encoding: 107 107 76
+Width: 1088
+VWidth: 2007
+Flags: HW
+LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+UndoOperation
+Index: 2
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
+Fore
+SplineSet
+150 1440 m 1
+ 150 4 l 1
+ 338 4 l 1
+ 338 358 l 1
+ 484 502 l 1
+ 853 4 l 1
+ 1062 4 l 1
+ 630 587 l 1
+ 1052 1064 l 1
+ 844 1064 l 1
+ 452 636 l 1
+ 338 514 l 1
+ 338 1440 l 1
+ 150 1440 l 1
+EndSplineSet
+EndChar
+
+StartChar: l
+Encoding: 108 108 77
+Width: 654
+VWidth: 2007
+Flags: HW
+LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+UndoOperation
+Index: 2
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
+Fore
+SplineSet
+164 410 m 2
+ 164 131 265 4 497 4 c 2
+ 579 4 l 1
+ 579 149 l 1
+ 562 149 l 2
+ 375 149 352 265 352 408 c 2
+ 352 1440 l 1
+ 164 1440 l 1
+ 164 410 l 2
+EndSplineSet
+EndChar
+
+StartChar: m
+Encoding: 109 109 78
+Width: 1781
+VWidth: 2003
+Flags: HW
+LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+UndoOperation
+Index: 2
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
+Fore
+SplineSet
+972 965 m 2
+ 914 908 l 1
+ 990 755 l 1
+ 990 857 1062 938 1246 938 c 0
+ 1377 938 1455 888 1455 783 c 2
+ 1455 0 l 1
+ 1643 0 l 1
+ 1643 770 l 2
+ 1643 938 1555 1080 1294 1080 c 0
+ 1140 1080 1039 1032 972 965 c 2
+144 0 m 1
+ 332 0 l 1
+ 332 755 l 2
+ 332 857 404 938 588 938 c 0
+ 719 938 802 888 802 783 c 2
+ 802 0 l 1
+ 990 0 l 1
+ 990 770 l 2
+ 990 938 897 1080 636 1080 c 0
+ 482 1080 394 1029 332 957 c 1
+ 332 1060 l 1
+ 144 1060 l 1
+ 144 0 l 1
+EndSplineSet
+EndChar
+
+StartChar: n
+Encoding: 110 110 79
+Width: 1143
+VWidth: 2003
+Flags: HW
+LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+UndoOperation
+Index: 2
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
+Fore
+SplineSet
+144 0 m 5
+ 332 0 l 5
+ 332 755 l 2
+ 332 857 412 938 596 938 c 0
+ 727 938 817 888 817 783 c 2
+ 817 0 l 1
+ 1005 0 l 1
+ 1005 770 l 2
+ 1005 938 905 1080 644 1080 c 0
+ 490 1080 394 1029 332 957 c 1
+ 332 1060 l 1
+ 144 1060 l 1
+ 144 0 l 5
+EndSplineSet
+EndChar
+
+StartChar: o
+Encoding: 111 111 80
+Width: 1123
+VWidth: 2002
+Flags: HW
+LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+UndoOperation
+Index: 2
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
+Fore
+SplineSet
+807 763 m 2
+ 807 301 l 2
+ 807 171 700 121 561 121 c 0
+ 414 121 315 170 315 301 c 2
+ 315 763 l 2
+ 315 894 422 938 561 938 c 0
+ 706 938 807 888 807 763 c 2
+995 747 m 2
+ 995 947 824 1080 561 1080 c 0
+ 298 1080 128 947 128 747 c 2
+ 128 317 l 2
+ 128 121 245 -20 561 -20 c 0
+ 890 -20 995 122 995 317 c 2
+ 995 747 l 2
+EndSplineSet
+Kerns2: 29 7 "'kern' Horizontal Kerning lookup 0 subtable"  23 7 "'kern' Horizontal Kerning lookup 0 subtable" 
+EndChar
+
+StartChar: p
+Encoding: 112 112 81
+Width: 1139
+VWidth: 1998
+Flags: HW
+LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+UndoOperation
+Index: 2
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
+Fore
+SplineSet
+284 60 m 1
+ 324 40 414 -24 582 -24 c 0
+ 858 -24 1011 131 1011 344 c 2
+ 1011 729 l 2
+ 1011 933 877 1076 606 1076 c 0
+ 475 1076 351 1022 301 967 c 1
+ 330 821 l 1
+ 340 842 437 934 577 934 c 0
+ 715 934 823 869 823 742 c 2
+ 823 324 l 2
+ 823 194 718 117 570 117 c 0
+ 403 117 302 199 284 209 c 1
+ 284 60 l 1
+332 -371 m 1
+ 332 913 l 1
+ 292 1056 l 1
+ 144 1056 l 1
+ 144 -371 l 1
+ 332 -371 l 1
+EndSplineSet
+EndChar
+
+StartChar: q
+Encoding: 113 113 82
+Width: 1145
+VWidth: 1998
+Flags: HW
+LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+UndoOperation
+Index: 2
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
+Fore
+SplineSet
+1017 -371 m 1
+ 1017 1056 l 1
+ 829 1056 l 1
+ 829 975 l 1
+ 799 1025 665 1076 557 1076 c 0
+ 281 1076 150 941 150 728 c 2
+ 150 314 l 2
+ 150 110 299 -24 570 -24 c 0
+ 643 -24 764 -3 829 47 c 1
+ 829 -371 l 1
+ 1017 -371 l 1
+585 935 m 0
+ 752 935 829 869 829 810 c 2
+ 829 201 l 1
+ 819 180 722 118 582 118 c 0
+ 444 118 338 157 338 284 c 2
+ 338 748 l 2
+ 338 878 437 935 585 935 c 0
+EndSplineSet
+EndChar
+
+StartChar: r
+Encoding: 114 114 83
+Width: 689
+VWidth: 2002
+Flags: HW
+LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+UndoOperation
+Index: 2
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
+Fore
+SplineSet
+150 0 m 1
+ 338 0 l 1
+ 338 766 l 1
+ 368 847 523 858 642 868 c 1
+ 648 1029 l 1
+ 558 1042 389 981 338 904 c 1
+ 338 1014 l 1
+ 150 1014 l 1
+ 150 0 l 1
+EndSplineSet
+Kerns2: 126 8 "'kern' Horizontal Kerning lookup 0 subtable"  125 8 "'kern' Horizontal Kerning lookup 0 subtable"  90 7 "'kern' Horizontal Kerning lookup 0 subtable"  88 7 "'kern' Horizontal Kerning lookup 0 subtable"  80 7 "'kern' Horizontal Kerning lookup 0 subtable"  73 7 "'kern' Horizontal Kerning lookup 0 subtable"  71 8 "'kern' Horizontal Kerning lookup 0 subtable"  70 7 "'kern' Horizontal Kerning lookup 0 subtable"  69 -10 "'kern' Horizontal Kerning lookup 0 subtable"  68 -14 "'kern' Horizontal Kerning lookup 0 subtable"  29 7 "'kern' Horizontal Kerning lookup 0 subtable"  24 -43 "'kern' Horizontal Kerning lookup 0 subtable"  23 7 "'kern' Horizontal Kerning lookup 0 subtable" 
+EndChar
+
+StartChar: s
+Encoding: 115 115 84
+Width: 908
+VWidth: 2002
+Flags: HW
+LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+UndoOperation
+Index: 2
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
+Fore
+SplineSet
+92 150 m 1
+ 164 47 311 -16 464 -20 c 1
+ 686 -23 828 84 831 273 c 1
+ 835 448 754 517 620 575 c 2
+ 390 676 l 2
+ 304 713 280 759 284 819 c 0
+ 288 891 345 939 471 937 c 0
+ 590 935 675 874 728 819 c 1
+ 811 930 l 1
+ 763 994 654 1081 459 1081 c 0
+ 276 1081 114 1009 108 817 c 0
+ 103 657 188 577 326 521 c 1
+ 549 427 l 2
+ 623 396 673 344 666 266 c 0
+ 656 166 592 123 459 125 c 0
+ 315 128 228 212 185 259 c 1
+ 92 150 l 1
+EndSplineSet
+EndChar
+
+StartChar: t
+Encoding: 116 116 85
+Width: 780
+VWidth: 2006
+Flags: HW
+LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+UndoOperation
+Index: 2
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
+Fore
+SplineSet
+581 -2 m 2
+ 699 -2 l 1
+ 699 144 l 1
+ 608 144 l 2
+ 457 144 411 198 411 318 c 2
+ 411 947 l 1
+ 689 947 l 1
+ 689 1064 l 1
+ 411 1064 l 1
+ 411 1388 l 1
+ 254 1388 l 1
+ 231 1064 l 1
+ 47 1064 l 1
+ 47 947 l 1
+ 224 947 l 1
+ 224 326 l 2
+ 224 123 342 -2 581 -2 c 2
+EndSplineSet
+EndChar
+
+StartChar: u
+Encoding: 117 117 86
+Width: 1138
+VWidth: 2002
+Flags: HW
+LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+UndoOperation
+Index: 2
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
+Fore
+SplineSet
+988 1060 m 1
+ 800 1060 l 1
+ 800 297 l 2
+ 800 208 724 122 540 122 c 0
+ 409 122 326 180 326 285 c 2
+ 326 1060 l 1
+ 138 1060 l 1
+ 138 290 l 2
+ 138 122 231 -20 492 -20 c 0
+ 646 -20 738 31 800 103 c 1
+ 800 0 l 1
+ 988 0 l 1
+ 988 1060 l 1
+EndSplineSet
+EndChar
+
+StartChar: v
+Encoding: 118 118 87
+Width: 1014
+VWidth: 2002
+Flags: HW
+LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+UndoOperation
+Index: 2
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
+Fore
+SplineSet
+610 0 m 1
+ 969 1060 l 1
+ 785 1060 l 1
+ 509 209 l 1
+ 233 1060 l 1
+ 44 1060 l 1
+ 402 0 l 1
+ 610 0 l 1
+EndSplineSet
+Kerns2: 24 -8 "'kern' Horizontal Kerning lookup 0 subtable" 
+EndChar
+
+StartChar: w
+Encoding: 119 119 88
+Width: 1537
+VWidth: 2002
+Flags: HW
+LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+UndoOperation
+Index: 2
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
+Fore
+SplineSet
+1196 0 m 1
+ 1493 1060 l 1
+ 1327 1060 l 1
+ 1104 209 l 1
+ 894 1060 l 1
+ 723 1060 l 1
+ 1007 0 l 1
+ 1196 0 l 1
+516 0 m 1
+ 814 1060 l 1
+ 647 1060 l 1
+ 425 209 l 1
+ 215 1060 l 1
+ 44 1060 l 1
+ 328 0 l 1
+ 516 0 l 1
+EndSplineSet
+Kerns2: 24 -7 "'kern' Horizontal Kerning lookup 0 subtable" 
+EndChar
+
+StartChar: x
+Encoding: 120 120 89
+Width: 967
+VWidth: 2002
+Flags: HW
+LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+UndoOperation
+Index: 2
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
+Fore
+SplineSet
+213 0 m 1
+ 929 1060 l 1
+ 755 1060 l 1
+ 33 0 l 1
+ 213 0 l 1
+39 1060 m 1
+ 758 0 l 1
+ 934 0 l 1
+ 221 1060 l 1
+ 39 1060 l 1
+EndSplineSet
+Kerns2: 80 -13 "'kern' Horizontal Kerning lookup 0 subtable" 
+EndChar
+
+StartChar: y
+Encoding: 121 121 90
+Width: 1156
+VWidth: 1999
+Flags: HW
+LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+UndoOperation
+Index: 2
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
+Fore
+SplineSet
+741 45 m 1
+ 1123 1056 l 1
+ 933 1056 l 1
+ 628 216 l 1
+ 271 1056 l 1
+ 72 1056 l 1
+ 560 -38 l 1
+ 741 45 l 1
+247 -322 m 1
+ 352 -322 l 2
+ 582 -322 654 -219 752 78 c 1
+ 545 15 l 1
+ 506 -144 428 -175 345 -175 c 2
+ 247 -175 l 1
+ 247 -322 l 1
+EndSplineSet
+Kerns2: 24 -7 "'kern' Horizontal Kerning lookup 0 subtable" 
+EndChar
+
+StartChar: z
+Encoding: 122 122 91
+Width: 850
+VWidth: 2002
+Flags: HW
+LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+UndoOperation
+Index: 2
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
+Fore
+SplineSet
+111 1060 m 1
+ 111 937 l 1
+ 579 937 l 1
+ 93 118 l 1
+ 93 0 l 1
+ 785 0 l 1
+ 785 124 l 1
+ 288 124 l 1
+ 777 945 l 1
+ 777 1060 l 1
+ 111 1060 l 1
 EndSplineSet
 EndChar
 
 StartChar: bar
-Encoding: 124 124 49
+Encoding: 124 124 92
 Width: 472
-VWidth: 0
-Flags: HW
-PickledData: "(dp1
-S'com.typemytype.robofont.layerData'
-p2
-(dp3
-s."
+Flags: W
 LayerCount: 2
 Fore
 SplineSet
 347 1555 m 1
- 347 -167 l 1
- 169 -167 l 1
  169 1555 l 1
+ 169 -167 l 1
+ 347 -167 l 1
  347 1555 l 1
 EndSplineSet
 EndChar
 
-StartChar: bracketleft
-Encoding: 91 91 50
-Width: 594
-VWidth: 0
-Flags: HW
-PickledData: "(dp1
-S'com.typemytype.robofont.layerData'
-p2
-(dp3
-s."
+StartChar: Eacute
+Encoding: 201 201 93
+Width: 763
+Flags: W
 LayerCount: 2
 Fore
 SplineSet
-350 58 m 1
- 540 58 l 1
- 540 -76 l 1
- 119 -76 l 1
- 119 1529 l 1
- 540 1529 l 1
- 540 1396 l 1
- 350 1396 l 1
- 350 58 l 1
+146 1459 m 1
+ 146 0 l 1
+ 853 0 l 1
+ 853 236 l 1
+ 465 236 l 1
+ 465 642 l 1
+ 776 642 l 1
+ 776 862 l 1
+ 465 862 l 1
+ 465 1223 l 1
+ 853 1223 l 1
+ 853 1459 l 1
+ 146 1459 l 1
+309 1848 m 1
+ 205 1529 l 1
+ 367 1529 l 1
+ 575 1848 l 1
+ 309 1848 l 1
 EndSplineSet
 EndChar
 
-StartChar: bracketright
-Encoding: 93 93 51
-Width: 560
-VWidth: 0
-Flags: HW
-PickledData: "(dp1
-S'com.typemytype.robofont.layerData'
-p2
-(dp3
-s."
+StartChar: aring
+Encoding: 229 229 94
+Width: 1143
+Flags: W
 LayerCount: 2
 Fore
 SplineSet
-55 1496 m 1
- 453 1496 l 1
- 453 -76 l 1
- 55 -76 l 1
- 55 38 l 1
- 242 38 l 1
- 242 1382 l 1
- 55 1382 l 1
- 55 1496 l 1
-EndSplineSet
-EndChar
-
-StartChar: breve
-Encoding: 728 728 52
-Width: 676
-VWidth: 0
-Flags: HW
-PickledData: "(dp1
-S'com.typemytype.robofont.layerData'
-p2
-(dp3
-s."
-LayerCount: 2
-Fore
-SplineSet
-121 1377 m 1
- 256 1377 l 1
- 257 1337 276 1281 327 1281 c 0
- 379 1281 398 1336 398 1377 c 1
- 534 1377 l 1
- 534 1262 449 1185 327 1185 c 0
- 206 1185 121 1262 121 1377 c 1
-EndSplineSet
-EndChar
-
-StartChar: brokenbar
-Encoding: 166 166 53
-Width: 480
-VWidth: 0
-Flags: HW
-PickledData: "(dp1
-S'com.typemytype.robofont.layerData'
-p2
-(dp3
-s."
-LayerCount: 2
-Fore
-SplineSet
-330 494 m 1
- 330 -68 l 1
- 144 -68 l 1
- 144 494 l 1
- 330 494 l 1
-330 1266 m 1
- 330 704 l 1
- 144 704 l 1
- 144 1266 l 1
- 330 1266 l 1
-EndSplineSet
-EndChar
-
-StartChar: bullet
-Encoding: 8226 8226 54
-Width: 1027
-VWidth: 0
-Flags: HW
-PickledData: "(dp1
-S'com.typemytype.robofont.layerData'
-p2
-(dp3
-s."
-LayerCount: 2
-Fore
-SplineSet
-136 599 m 0
- 136 795 288 901 513 901 c 0
- 740 901 891 795 891 599 c 0
- 891 405 739 298 512 298 c 0
- 286 298 136 404 136 599 c 0
-EndSplineSet
-EndChar
-
-StartChar: c
-Encoding: 99 99 55
-Width: 1098
-VWidth: 0
-Flags: HW
-PickledData: "(dp1
-S'com.typemytype.robofont.layerData'
-p2
-(dp3
-s."
-LayerCount: 2
-Fore
-SplineSet
-809 679 m 1
- 809 774 l 2
- 809 899 710 938 565 938 c 0
- 419 938 315 888 315 757 c 2
- 315 308 l 2
- 315 166 418 121 565 121 c 0
- 704 121 809 153 809 283 c 2
- 809 356 l 1
- 991 356 l 1
- 991 289 l 2
- 991 94 894 -20 565 -20 c 0
- 249 -20 128 118 128 314 c 2
- 128 751 l 2
- 128 951 302 1080 565 1080 c 0
- 828 1080 991 981 991 768 c 2
- 991 679 l 1
- 809 679 l 1
-EndSplineSet
-Kerns2: 55 -4 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 
-EndChar
-
-StartChar: caron
-Encoding: 711 711 56
-Width: 901
-VWidth: 0
-Flags: HW
-PickledData: "(dp1
-S'com.typemytype.robofont.layerData'
-p2
-(dp3
-s."
-LayerCount: 2
-Fore
-SplineSet
-561 1150 m 1
- 351 1150 l 1
- 113 1446 l 1
- 289 1446 l 1
- 448 1242 l 1
- 607 1446 l 1
- 788 1446 l 1
- 561 1150 l 1
+1080 131 m 1
+ 1080 -8 l 1
+ 1066 -10 1017 -12 1000 -12 c 0
+ 859 -12 814 43 782 145 c 1
+ 735 71 646 -20 451 -20 c 0
+ 226 -20 113 122 113 289 c 0
+ 113 432 173 526 519 611 c 0
+ 639 641 761 662 761 770 c 0
+ 761 849 758 961 566 961 c 0
+ 353 961 335 849 335 762 c 2
+ 335 711 l 1
+ 154 711 l 1
+ 154 763 l 2
+ 154 977 294 1104 572 1104 c 0
+ 852 1104 949 938 949 715 c 2
+ 949 274 l 2
+ 949 169 969 131 1080 131 c 1
+761 279 m 1
+ 761 589 l 1
+ 732 559 670 524 534 488 c 0
+ 318 431 289 376 295 272 c 0
+ 301 164 377 116 480 116 c 0
+ 593 116 731 179 761 279 c 1
+545 1275 m 0
+ 602 1275 653 1300 653 1387 c 0
+ 653 1474 603 1501 545 1501 c 0
+ 489 1501 436 1476 436 1389 c 0
+ 436 1301 488 1275 545 1275 c 0
+545 1210 m 0
+ 445 1210 350 1265 350 1388 c 0
+ 350 1511 445 1566 545 1566 c 0
+ 645 1566 739 1511 739 1388 c 0
+ 739 1265 645 1210 545 1210 c 0
 EndSplineSet
 EndChar
 
 StartChar: ccedilla
-Encoding: 231 231 57
-Width: 1098
-VWidth: 0
-Flags: HW
-PickledData: "(dp1
-S'com.typemytype.robofont.layerData'
-p2
-(dp3
-s."
-LayerCount: 2
-Fore
-Refer: 58 184 N 1 0 0 1 284 -6 2
-Refer: 55 99 N 1 0 0 1 0 0 3
-EndChar
-
-StartChar: cedilla
-Encoding: 184 184 58
-Width: 579
-VWidth: 0
-Flags: HW
-PickledData: "(dp1
-S'com.typemytype.robofont.layerData'
-p2
-(dp3
-s."
+Encoding: 231 231 95
+Width: 846
+Flags: W
 LayerCount: 2
 Fore
 SplineSet
-332 -0 m 2
- 332 0 l 2
- 332 -0 l 2
-332 -0 m 1
- 351 -84 l 1
- 418 -120 511 -179 511 -262 c 0
- 511 -410 287 -417 169 -417 c 0
- 165 -417 160 -311 154 -311 c 1
- 175 -311 305 -295 305 -259 c 0
- 305 -220 237 -194 208 -183 c 1
- 216 -183 220 -22 220 -14 c 0
- 220 -10 332 -6 332 -0 c 1
+868 784 m 2
+ 868 984 802 1104 487 1104 c 0
+ 224 1104 101 983 101 784 c 2
+ 101 252 l 2
+ 101 82 275 -20 489 -20 c 0
+ 757 -20 868 82 868 252 c 2
+ 868 446 l 1
+ 585 446 l 1
+ 585 253 l 2
+ 585 217 580 172 490 172 c 0
+ 404 172 391 217 391 253 c 2
+ 391 837 l 2
+ 391 872 411 912 490 912 c 0
+ 571 912 585 874 585 842 c 2
+ 585 645 l 1
+ 868 645 l 1
+ 868 784 l 2
+424 0 m 2
+ 426 -6 312 -10 312 -14 c 0
+ 312 -22 307 -183 299 -183 c 1
+ 328 -194 396 -220 396 -259 c 0
+ 396 -295 266 -311 245 -311 c 1
+ 251 -311 256 -417 260 -417 c 0
+ 378 -417 603 -410 603 -262 c 0
+ 603 -179 509 -120 442 -84 c 1
+ 424 0 l 2
+EndSplineSet
+EndChar
+
+StartChar: iacute
+Encoding: 237 237 96
+Width: 419
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+96 1084 m 1
+ 96 0 l 1
+ 359 0 l 1
+ 359 1084 l 1
+ 96 1084 l 1
+250 1502 m 1
+ 146 1184 l 1
+ 307 1184 l 1
+ 515 1502 l 1
+ 250 1502 l 1
+EndSplineSet
+EndChar
+
+StartChar: igrave
+Encoding: 236 236 97
+Width: 419
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+96 1084 m 1
+ 96 0 l 1
+ 359 0 l 1
+ 359 1084 l 1
+ 96 1084 l 1
+18 1474 m 1
+ 226 1155 l 1
+ 388 1155 l 1
+ 284 1474 l 1
+ 18 1474 l 1
+EndSplineSet
+EndChar
+
+StartChar: icircumflex
+Encoding: 238 238 98
+Width: 419
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+96 1084 m 1
+ 96 0 l 1
+ 359 0 l 1
+ 359 1084 l 1
+ 96 1084 l 1
+113 1479 m 1
+ -43 1184 l 1
+ 183 1184 l 1
+ 282 1328 l 1
+ 383 1184 l 1
+ 611 1184 l 1
+ 451 1479 l 1
+ 113 1479 l 1
+EndSplineSet
+EndChar
+
+StartChar: idieresis
+Encoding: 239 239 99
+Width: 419
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+96 1084 m 1
+ 96 0 l 1
+ 359 0 l 1
+ 359 1084 l 1
+ 96 1084 l 1
+-62 1186 m 1
+ 203 1186 l 1
+ 203 1415 l 1
+ -62 1415 l 1
+ -62 1186 l 1
+397 1186 m 1
+ 664 1186 l 1
+ 664 1415 l 1
+ 397 1415 l 1
+ 397 1186 l 1
+EndSplineSet
+EndChar
+
+StartChar: uacute
+Encoding: 250 250 100
+Width: 919
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+119 1084 m 1
+ 119 223 l 2
+ 119 88 199 -20 354 -20 c 0
+ 482 -20 550 26 603 68 c 1
+ 603 0 l 1
+ 894 0 l 1
+ 894 1084 l 1
+ 603 1084 l 1
+ 603 245 l 2
+ 603 209 546 173 491 173 c 0
+ 447 173 409 196 409 259 c 2
+ 409 1084 l 1
+ 119 1084 l 1
+412 1502 m 1
+ 308 1184 l 1
+ 469 1184 l 1
+ 677 1502 l 1
+ 412 1502 l 1
+EndSplineSet
+EndChar
+
+StartChar: ugrave
+Encoding: 249 249 101
+Width: 1138
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+988 1084 m 1
+ 800 1084 l 1
+ 800 304 l 2
+ 800 213 724 125 540 125 c 0
+ 409 125 326 185 326 292 c 2
+ 326 1084 l 1
+ 138 1084 l 1
+ 138 297 l 2
+ 138 125 231 -20 492 -20 c 0
+ 646 -20 738 32 800 106 c 1
+ 800 0 l 1
+ 988 0 l 1
+ 988 1084 l 1
+296 1496 m 1
+ 553 1155 l 1
+ 659 1155 l 1
+ 521 1496 l 1
+ 296 1496 l 1
+EndSplineSet
+EndChar
+
+StartChar: ucircumflex
+Encoding: 251 251 102
+Width: 1138
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+988 1084 m 1
+ 800 1084 l 1
+ 800 304 l 2
+ 800 213 724 125 540 125 c 0
+ 409 125 326 185 326 292 c 2
+ 326 1084 l 1
+ 138 1084 l 1
+ 138 297 l 2
+ 138 125 231 -20 492 -20 c 0
+ 646 -20 738 32 800 106 c 1
+ 800 0 l 1
+ 988 0 l 1
+ 988 1084 l 1
+440 1527 m 1
+ 213 1231 l 1
+ 394 1231 l 1
+ 553 1435 l 1
+ 712 1231 l 1
+ 888 1231 l 1
+ 650 1527 l 1
+ 440 1527 l 1
+EndSplineSet
+EndChar
+
+StartChar: udieresis
+Encoding: 252 252 103
+Width: 1138
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+988 1084 m 1
+ 800 1084 l 1
+ 800 304 l 2
+ 800 213 724 125 540 125 c 0
+ 409 125 326 185 326 292 c 2
+ 326 1084 l 1
+ 138 1084 l 1
+ 138 297 l 2
+ 138 125 231 -20 492 -20 c 0
+ 646 -20 738 32 800 106 c 1
+ 800 0 l 1
+ 988 0 l 1
+ 988 1084 l 1
+700 1265 m 1
+ 906 1265 l 1
+ 906 1446 l 1
+ 700 1446 l 1
+ 700 1265 l 1
+197 1265 m 1
+ 403 1265 l 1
+ 403 1446 l 1
+ 197 1446 l 1
+ 197 1265 l 1
+EndSplineSet
+EndChar
+
+StartChar: dagger
+Encoding: 8224 8224 104
+Width: 658
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+225 1286 m 1
+ 225 992 l 1
+ 58 992 l 1
+ 58 797 l 1
+ 225 797 l 1
+ 225 -32 l 1
+ 432 -32 l 1
+ 432 797 l 1
+ 599 797 l 1
+ 599 992 l 1
+ 432 992 l 1
+ 432 1286 l 1
+ 225 1286 l 1
+EndSplineSet
+EndChar
+
+StartChar: degree
+Encoding: 176 176 105
+Width: 1036
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+513 1464 m 0
+ 232 1464 103 1341 103 1152 c 0
+ 103 965 230 839 512 839 c 0
+ 798 839 925 964 925 1152 c 0
+ 925 1340 795 1464 513 1464 c 0
+756 1151 m 0
+ 756 1063 677 986 513 986 c 0
+ 350 986 271 1063 271 1152 c 0
+ 271 1242 351 1317 513 1317 c 0
+ 678 1317 756 1241 756 1151 c 0
 EndSplineSet
 EndChar
 
 StartChar: cent
-Encoding: 162 162 59
+Encoding: 162 162 106
 Width: 1098
-VWidth: 0
-Flags: HW
-PickledData: "(dp1
-S'com.typemytype.robofont.layerData'
-p2
-(dp3
-s."
+Flags: W
 LayerCount: 2
 Fore
 SplineSet
-809 694 m 1
- 809 792 l 2
- 809 920 710 959 565 959 c 0
- 419 959 315 908 315 774 c 2
- 315 315 l 2
- 315 170 418 124 565 124 c 0
- 704 124 809 156 809 289 c 2
- 809 364 l 1
- 991 364 l 1
- 991 309 l 2
- 991 125 908 0 637 -18 c 1
- 637 -205 l 1
+637 2 m 1
+ 500 2 l 1
  500 -205 l 1
- 500 -18 l 1
- 232 0 128 135 128 321 c 2
- 128 768 l 2
- 128 956 274 1081 500 1101 c 1
- 500 1275 l 1
+ 637 -205 l 1
+ 637 2 l 1
+500 1275 m 1
+ 500 1068 l 1
+ 637 1068 l 1
  637 1275 l 1
- 637 1101 l 1
- 857 1081 991 968 991 771 c 2
+ 500 1275 l 1
+809 694 m 1
  991 694 l 1
+ 991 771 l 2
+ 991 989 828 1104 565 1104 c 0
+ 302 1104 128 973 128 768 c 2
+ 128 321 l 2
+ 128 121 249 -20 565 -20 c 0
+ 894 -20 991 110 991 309 c 2
+ 991 364 l 1
+ 809 364 l 1
+ 809 289 l 2
+ 809 156 704 124 565 124 c 0
+ 418 124 315 170 315 315 c 2
+ 315 774 l 2
+ 315 908 419 959 565 959 c 0
+ 710 959 809 920 809 792 c 2
  809 694 l 1
 EndSplineSet
 EndChar
 
-StartChar: circumflex
-Encoding: 710 710 60
-Width: 901
-VWidth: 0
-Flags: HW
-PickledData: "(dp1
-S'com.typemytype.robofont.layerData'
-p2
-(dp3
-s."
+StartChar: bullet
+Encoding: 8226 8226 107
+Width: 1027
+Flags: W
 LayerCount: 2
 Fore
 SplineSet
-340 1446 m 1
- 550 1446 l 1
- 788 1150 l 1
- 612 1150 l 1
- 453 1354 l 1
- 294 1150 l 1
- 113 1150 l 1
- 340 1446 l 1
+136 599 m 0
+ 136 404 286 298 512 298 c 0
+ 739 298 891 405 891 599 c 0
+ 891 795 740 901 513 901 c 0
+ 288 901 136 795 136 599 c 0
 EndSplineSet
 EndChar
 
-StartChar: colon
-Encoding: 58 58 61
-Width: 410
-VWidth: 0
-Flags: HW
-PickledData: "(dp1
-S'com.typemytype.robofont.layerData'
-p2
-(dp3
-s."
+StartChar: registered
+Encoding: 174 174 108
+Width: 1857
+Flags: W
 LayerCount: 2
 Fore
 SplineSet
-80 353 m 1
- 331 353 l 1
- 331 99 l 1
- 80 99 l 1
- 80 353 l 1
-80 1023 m 1
- 331 1023 l 1
- 331 768 l 1
- 80 768 l 1
- 80 1023 l 1
-EndSplineSet
-EndChar
-
-StartChar: comma
-Encoding: 44 44 62
-Width: 412
-VWidth: 0
-Flags: HW
-PickledData: "(dp1
-S'com.typemytype.robofont.layerData'
-p2
-(dp3
-s."
-LayerCount: 2
-Fore
-SplineSet
-102 211 m 1
- 336 211 l 1
- 336 50 l 2
- 336 -141 245 -284 187 -338 c 1
- 106 -294 l 1
- 153 -239 220 -132 220 0 c 1
- 102 0 l 1
- 102 211 l 1
+930 59 m 0
+ 1306 59 1612 347 1612 722 c 0
+ 1612 1096 1306 1384 930 1384 c 0
+ 556 1384 248 1096 248 722 c 0
+ 248 347 556 59 930 59 c 0
+928 -14 m 0
+ 515 -14 174 307 174 722 c 0
+ 174 1135 515 1456 928 1456 c 0
+ 1344 1456 1683 1135 1683 722 c 0
+ 1683 307 1344 -14 928 -14 c 0
+739 1071 m 1
+ 739 733 l 1
+ 1006 733 l 2
+ 1120 733 1141 805 1142 868 c 1
+ 1142 910 l 2
+ 1142 969 1133 1071 1015 1071 c 2
+ 739 1071 l 1
+608 310 m 1
+ 608 1162 l 1
+ 1011 1162 l 2
+ 1168 1162 1270 1091 1274 917 c 1
+ 1274 885 l 2
+ 1274 751 1214 682 1122 657 c 1
+ 1306 310 l 1
+ 1178 310 l 1
+ 998 643 l 1
+ 739 643 l 1
+ 739 310 l 1
+ 608 310 l 1
 EndSplineSet
 EndChar
 
 StartChar: copyright
-Encoding: 169 169 63
+Encoding: 169 169 109
 Width: 1857
-VWidth: 0
-Flags: HW
-PickledData: "(dp1
-S'com.typemytype.robofont.layerData'
-p2
-(dp3
-s."
+Flags: W
 LayerCount: 2
 Fore
 SplineSet
+930 59 m 0
+ 1306 59 1612 347 1612 722 c 0
+ 1612 1096 1306 1384 930 1384 c 0
+ 556 1384 248 1096 248 722 c 0
+ 248 347 556 59 930 59 c 0
+928 -14 m 0
+ 515 -14 174 307 174 722 c 0
+ 174 1135 515 1456 928 1456 c 0
+ 1344 1456 1683 1135 1683 722 c 0
+ 1683 307 1344 -14 928 -14 c 0
 1148 836 m 1
  1148 890 l 2
  1148 1042 1090 1091 938 1091 c 0
@@ -2117,2349 +3432,868 @@ SplineSet
  1215 1182 1264 1043 1264 861 c 2
  1264 836 l 1
  1148 836 l 1
-928 -14 m 0
- 515 -14 174 307 174 722 c 0
- 174 1135 515 1456 928 1456 c 0
- 1344 1456 1683 1135 1683 722 c 0
- 1683 307 1344 -14 928 -14 c 0
-930 59 m 0
- 1306 59 1612 347 1612 722 c 0
- 1612 1096 1306 1384 930 1384 c 0
- 556 1384 248 1096 248 722 c 0
- 248 347 556 59 930 59 c 0
 EndSplineSet
 EndChar
 
-StartChar: d
-Encoding: 100 100 64
-Width: 1140
-VWidth: 0
-Flags: HW
-PickledData: "(dp1
-S'com.typemytype.robofont.layerData'
-p2
-(dp3
-s."
+StartChar: trademark
+Encoding: 8482 8482 110
+Width: 2168
+Flags: W
 LayerCount: 2
 Fore
 SplineSet
-805 1440 m 1
- 993 1440 l 1
- 993 4 l 1
- 865 4 l 1
- 834 62 l 1
- 772 17 657 -16 548 -16 c 0
- 243 -16 128 124 128 328 c 2
- 128 735 l 2
- 128 948 273 1084 581 1084 c 0
- 648 1084 739 1068 805 1044 c 1
- 805 1440 l 1
-805 189 m 1
- 805 896 l 1
- 749 923 671 943 583 943 c 0
- 435 943 316 886 316 756 c 2
- 316 314 l 2
- 316 187 422 126 560 126 c 0
- 667 126 762 163 805 189 c 1
-EndSplineSet
-Kerns2: 64 -17 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 
-EndChar
-
-StartChar: dagger
-Encoding: 8224 8224 65
-Width: 658
-VWidth: 0
-Flags: HW
-PickledData: "(dp1
-S'com.typemytype.robofont.layerData'
-p2
-(dp3
-s."
-LayerCount: 2
-Fore
-SplineSet
-225 1286 m 1
- 432 1286 l 1
- 432 992 l 1
- 599 992 l 1
- 599 797 l 1
- 432 797 l 1
- 432 -32 l 1
- 225 -32 l 1
- 225 797 l 1
- 58 797 l 1
- 58 992 l 1
- 225 992 l 1
- 225 1286 l 1
+664 1240 m 1
+ 156 1240 l 1
+ 156 1126 l 1
+ 298 1126 l 1
+ 298 605 l 1
+ 433 605 l 1
+ 433 1126 l 1
+ 664 1126 l 1
+ 664 1240 l 1
+1036 1240 m 1
+ 798 1240 l 1
+ 798 605 l 1
+ 923 605 l 1
+ 923 1043 l 1
+ 1122 605 l 1
+ 1258 605 l 1
+ 1455 1043 l 1
+ 1455 605 l 1
+ 1582 605 l 1
+ 1582 1240 l 1
+ 1346 1240 l 1
+ 1190 878 l 1
+ 1036 1240 l 1
 EndSplineSet
 EndChar
 
-StartChar: daggerdbl
-Encoding: 8225 8225 66
-Width: 658
-VWidth: 0
-Flags: HW
-PickledData: "(dp1
-S'com.typemytype.robofont.layerData'
-p2
-(dp3
-s."
-LayerCount: 2
-Fore
-SplineSet
-225 1286 m 1
- 432 1286 l 1
- 432 1044 l 1
- 599 1044 l 1
- 599 850 l 1
- 432 850 l 1
- 432 531 l 1
- 599 531 l 1
- 599 336 l 1
- 432 336 l 1
- 432 -32 l 1
- 225 -32 l 1
- 225 336 l 1
- 58 336 l 1
- 58 531 l 1
- 225 531 l 1
- 225 850 l 1
- 58 850 l 1
- 58 1044 l 1
- 225 1044 l 1
- 225 1286 l 1
-EndSplineSet
-EndChar
-
-StartChar: degree
-Encoding: 176 176 67
-Width: 1036
-VWidth: 0
-Flags: HW
-PickledData: "(dp1
-S'com.typemytype.robofont.layerData'
-p2
-(dp3
-s."
-LayerCount: 2
-Fore
-SplineSet
-756 1151 m 0
- 756 1241 678 1317 513 1317 c 0
- 351 1317 271 1242 271 1152 c 0
- 271 1063 350 986 513 986 c 0
- 677 986 756 1063 756 1151 c 0
-513 1464 m 0
- 795 1464 925 1340 925 1152 c 0
- 925 964 798 839 512 839 c 0
- 230 839 103 965 103 1152 c 0
- 103 1341 232 1464 513 1464 c 0
-EndSplineSet
-EndChar
-
-StartChar: dieresis
-Encoding: 168 168 68
-Width: 956
-VWidth: 0
-Flags: HW
-PickledData: "(dp1
-S'com.typemytype.robofont.layerData'
-p2
-(dp3
-s."
-LayerCount: 2
-Fore
-SplineSet
-117 1265 m 1
- 117 1446 l 1
- 323 1446 l 1
- 323 1265 l 1
- 117 1265 l 1
-620 1265 m 1
- 620 1446 l 1
- 826 1446 l 1
- 826 1265 l 1
- 620 1265 l 1
-EndSplineSet
-EndChar
-
-StartChar: divide
-Encoding: 247 247 69
-Width: 774
-VWidth: 0
-Flags: HW
-PickledData: "(dp1
-S'com.typemytype.robofont.layerData'
-p2
-(dp3
-s."
-LayerCount: 2
-Fore
-SplineSet
-482 404 m 0
- 494 404 504 207 504 195 c 0
- 504 183 299 174 287 174 c 0
- 274 174 265 371 265 383 c 0
- 265 395 470 404 482 404 c 0
-720 642 m 1
- 720 472 l 1
- 49 472 l 1
- 49 642 l 1
- 720 642 l 1
-482 957 m 0
- 494 957 504 760 504 748 c 0
- 504 736 299 727 287 727 c 0
- 275 727 265 924 265 936 c 0
- 265 948 470 957 482 957 c 0
-EndSplineSet
-EndChar
-
-StartChar: dotaccent
-Encoding: 729 729 70
-Width: 575
-VWidth: 0
-Flags: HW
-PickledData: "(dp1
-S'com.typemytype.robofont.layerData'
-p2
-(dp3
-s."
-LayerCount: 2
-Fore
-SplineSet
-173 1462 m 1
- 427 1462 l 1
- 427 1221 l 1
- 173 1221 l 1
- 173 1462 l 1
-EndSplineSet
-EndChar
-
-StartChar: dotlessi
-Encoding: 305 305 71
-Width: 419
-VWidth: 0
-Flags: HW
-PickledData: "(dp1
-S'com.typemytype.robofont.layerData'
-p2
-(dp3
-s."
-LayerCount: 2
-Fore
-SplineSet
-96 1084 m 1
- 359 1084 l 1
- 359 0 l 1
- 96 0 l 1
- 96 1084 l 1
-EndSplineSet
-EndChar
-
-StartChar: e
-Encoding: 101 101 72
-Width: 1084
-VWidth: 0
-Flags: HW
-PickledData: "(dp1
-S'com.typemytype.robofont.layerData'
-p2
-(dp3
-s."
-LayerCount: 2
-Fore
-SplineSet
-316 633 m 1
- 789 633 l 1
- 789 778 l 2
- 789 906 705 938 560 938 c 0
- 410 938 316 891 316 760 c 2
- 316 633 l 1
-560 -20 m 0
- 244 -20 128 122 128 326 c 2
- 128 743 l 2
- 128 943 281 1080 560 1080 c 0
- 836 1080 971 959 971 758 c 2
- 971 506 l 1
- 316 506 l 1
- 316 310 l 2
- 316 179 396 121 560 121 c 0
- 699 121 789 152 789 282 c 2
- 789 336 l 1
- 971 336 l 1
- 971 297 l 2
- 971 102 889 -20 560 -20 c 0
-EndSplineSet
-Kerns2: 141 -18 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 
-EndChar
-
-StartChar: ellipsis
-Encoding: 8230 8230 73
-Width: 1427
-VWidth: 0
-Flags: HW
-PickledData: "(dp1
-S'com.typemytype.robofont.layerData'
-p2
-(dp3
-s."
-LayerCount: 2
-Fore
-SplineSet
-1776 255 m 1
- 2029 255 l 1
- 2029 0 l 1
- 1776 0 l 1
- 1776 255 l 1
-944 255 m 1
- 1197 255 l 1
- 1197 0 l 1
- 944 0 l 1
- 944 255 l 1
-112 255 m 1
- 365 255 l 1
- 365 0 l 1
- 112 0 l 1
- 112 255 l 1
-EndSplineSet
-EndChar
-
-StartChar: emdash
-Encoding: 8212 8212 74
-Width: 1101
-VWidth: 0
-Flags: HW
-PickledData: "(dp1
-S'com.typemytype.robofont.layerData'
-p2
-(dp3
-s."
-LayerCount: 2
-Fore
-SplineSet
-2 569 m 1
- 1098 569 l 1
- 1098 402 l 1
- 2 402 l 1
- 2 569 l 1
-EndSplineSet
-EndChar
-
-StartChar: endash
-Encoding: 8211 8211 75
-Width: 539
-VWidth: 0
-Flags: HW
-PickledData: "(dp1
-S'com.typemytype.robofont.layerData'
-p2
-(dp3
-s."
-LayerCount: 2
-Fore
-SplineSet
-2 569 m 1
- 535 569 l 1
- 535 402 l 1
- 2 402 l 1
- 2 569 l 1
-EndSplineSet
-EndChar
-
-StartChar: equal
-Encoding: 61 61 76
-Width: 1217
-VWidth: 0
-Flags: HW
-PickledData: "(dp1
-S'com.typemytype.robofont.layerData'
-p2
-(dp3
-s."
-LayerCount: 2
-Fore
-SplineSet
-207 953 m 1
- 1010 953 l 1
- 1010 805 l 1
- 207 805 l 1
- 207 953 l 1
-207 615 m 1
- 1010 615 l 1
- 1010 467 l 1
- 207 467 l 1
- 207 615 l 1
-EndSplineSet
-EndChar
-
-StartChar: eth
-Encoding: 240 240 77
-Width: 841
-VWidth: 0
-Flags: HW
-PickledData: "(dp1
-S'com.typemytype.robofont.layerData'
-p2
-(dp3
-s."
-LayerCount: 2
-Fore
-SplineSet
-501 753 m 2
- 501 787 461 805 416 805 c 0
- 371 805 331 787 331 748 c 2
- 331 254 l 2
- 331 219 336 178 411 178 c 0
- 490 178 501 218 501 254 c 2
- 501 753 l 2
-168 1309 m 1
- 232 1483 l 1
- 452 1483 589 1418 653 1341 c 1
- 766 1393 l 1
- 818 1285 l 1
- 711 1236 l 1
- 745 1150 765 1056 765 948 c 2
- 765 251 l 2
- 765 83 623 -20 411 -20 c 0
- 204 -20 68 83 68 251 c 2
- 68 768 l 2
- 68 918 178 1002 296 1002 c 0
- 353 1002 433 989 498 963 c 1
- 496 1027 489 1083 472 1129 c 1
- 286 1074 l 1
- 235 1182 l 1
- 386 1237 l 1
- 326 1269 257 1309 168 1309 c 1
-EndSplineSet
-EndChar
-
-StartChar: exclam
-Encoding: 33 33 78
-Width: 669
-VWidth: 0
-Flags: HW
-PickledData: "(dp1
-S'com.typemytype.robofont.layerData'
-p2
-(dp3
-s."
-LayerCount: 2
-Fore
-SplineSet
-237 1446 m 1
- 439 1446 l 1
- 439 1060 360 371 360 371 c 1
- 304 371 l 1
- 304 371 237 1060 237 1446 c 1
-230 206 m 1
- 435 206 l 1
- 435 0 l 1
- 230 0 l 1
- 230 206 l 1
-EndSplineSet
-EndChar
-
-StartChar: exclamdown
-Encoding: 161 161 79
-Width: 468
-VWidth: 0
-Flags: HW
-PickledData: "(dp1
-S'com.typemytype.robofont.layerData'
-p2
-(dp3
-s."
-LayerCount: 2
-Fore
-SplineSet
-347 -362 m 1
- 145 -362 l 1
- 214 713 l 1
- 290 713 l 1
- 347 -362 l 1
-349 878 m 1
- 144 878 l 1
- 144 1084 l 1
- 349 1084 l 1
- 349 878 l 1
-EndSplineSet
-EndChar
-
-StartChar: f
-Encoding: 102 102 80
-Width: 651
-VWidth: 0
-Flags: HW
-PickledData: "(dp1
-S'com.typemytype.robofont.layerData'
-p2
-(dp3
-s."
-LayerCount: 2
-Fore
-SplineSet
-512 1389 m 2
- 618 1389 l 1
- 618 1256 l 1
- 547 1256 l 2
- 412 1256 406 1199 406 1123 c 2
- 406 1064 l 1
- 621 1064 l 1
- 621 947 l 1
- 406 947 l 1
- 406 3 l 1
- 218 3 l 1
- 218 947 l 1
- 56 947 l 1
- 56 1064 l 1
- 218 1064 l 1
- 218 1092 l 2
- 218 1290 294 1389 512 1389 c 2
-EndSplineSet
-Kerns2: 142 7 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  140 7 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  129 7 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  113 -7 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  80 -53 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 
-EndChar
-
-StartChar: uniFB01
-Encoding: 64257 64257 81
-Width: 649
-VWidth: 0
-Flags: HW
-PickledData: "(dp1
-S'com.typemytype.robofont.layerData'
-p2
-(dp3
-s."
-LayerCount: 2
-Fore
-SplineSet
-391 1302 m 1
- 586 1302 l 1
- 586 0 l 1
- 391 0 l 1
- 391 1302 l 1
-391 1596 m 1
- 586 1596 l 1
- 586 1459 l 1
- 391 1459 l 1
- 391 1596 l 1
-262 1604 m 2
- 360 1604 l 1
- 360 1459 l 1
- 297 1459 l 2
- 266 1459 262 1435 262 1396 c 2
- 262 1302 l 1
- 358 1302 l 1
- 358 1156 l 1
- 262 1156 l 1
- 262 0 l 1
- 70 0 l 1
- 70 1156 l 1
- 16 1156 l 1
- 16 1302 l 1
- 70 1302 l 1
- 70 1396 l 2
- 70 1540 110 1604 262 1604 c 2
-EndSplineSet
-EndChar
-
-StartChar: uniFB02
-Encoding: 64258 64258 82
-Width: 649
-VWidth: 0
-Flags: HW
-PickledData: "(dp1
-S'com.typemytype.robofont.layerData'
-p2
-(dp3
-s."
-LayerCount: 2
-Fore
-SplineSet
-391 1596 m 1
- 586 1596 l 1
- 586 0 l 1
- 391 0 l 1
- 391 1596 l 1
-262 1604 m 2
- 360 1604 l 1
- 360 1459 l 1
- 297 1459 l 2
- 266 1459 262 1435 262 1396 c 2
- 262 1302 l 1
- 358 1302 l 1
- 358 1156 l 1
- 262 1156 l 1
- 262 0 l 1
- 70 0 l 1
- 70 1156 l 1
- 16 1156 l 1
- 16 1302 l 1
- 70 1302 l 1
- 70 1396 l 2
- 70 1540 110 1604 262 1604 c 2
-EndSplineSet
-EndChar
-
-StartChar: florin
-Encoding: 402 402 83
-Width: 614
-VWidth: 0
-Flags: HW
-PickledData: "(dp1
-S'com.typemytype.robofont.layerData'
-p2
-(dp3
-s."
-LayerCount: 2
-Fore
-SplineSet
-544 1405 m 1
- 544 1251 l 1
- 523 1253 492 1258 478 1258 c 0
- 400 1258 392 1200 392 1124 c 2
- 392 1025 l 1
- 534 1025 l 1
- 534 848 l 1
- 392 848 l 1
- 392 91 l 2
- 392 -81 378 -221 137 -221 c 0
- 104 -221 74 -219 25 -213 c 1
- 25 -59 l 1
- 46 -62 80 -64 93 -64 c 0
- 169 -64 177 -9 177 63 c 2
- 177 848 l 1
- 60 848 l 1
- 60 1025 l 1
- 177 1025 l 1
- 177 1102 l 2
- 177 1268 189 1413 424 1413 c 0
- 458 1413 488 1411 544 1405 c 1
-EndSplineSet
-EndChar
-
-StartChar: fraction
-Encoding: 8260 8260 84
-Width: 463
-VWidth: 0
-Flags: HW
-PickledData: "(dp1
-S'com.typemytype.robofont.layerData'
-p2
-(dp3
-s."
-LayerCount: 2
-Fore
-SplineSet
-255 1461 m 1
- 414 1461 l 1
- 135 -1 l 1
- -22 -1 l 1
- 255 1461 l 1
-EndSplineSet
-EndChar
-
-StartChar: g
-Encoding: 103 103 85
-Width: 1139
-VWidth: 0
-Flags: HW
-PickledData: "(dp1
-S'com.typemytype.robofont.layerData'
-p2
-(dp3
-s."
-LayerCount: 2
-Fore
-SplineSet
-995 30 m 2
- 995 -188 868 -350 588 -350 c 0
- 445 -350 328 -335 230 -282 c 1
- 282 -143 l 1
- 321 -169 449 -210 582 -210 c 0
- 774 -210 810 -100 809 -23 c 2
- 807 100 l 1
- 747 44 634 15 561 15 c 0
- 290 15 128 132 128 352 c 2
- 128 728 l 2
- 128 941 259 1076 535 1076 c 0
- 643 1076 777 1025 807 975 c 1
- 807 1056 l 1
- 995 1056 l 1
- 995 30 l 2
-563 935 m 0
- 415 935 316 878 316 748 c 2
- 316 323 l 2
- 316 196 422 157 560 157 c 0
- 700 157 777 215 807 239 c 1
- 807 810 l 2
- 807 869 730 935 563 935 c 0
-EndSplineSet
-EndChar
-
-StartChar: grave
-Encoding: 96 96 86
+StartChar: acute
+Encoding: 180 180 111
 Width: 616
-VWidth: 0
-Flags: HW
-PickledData: "(dp1
-S'com.typemytype.robofont.layerData'
-p2
-(dp3
-s."
+Flags: W
 LayerCount: 2
 Fore
 SplineSet
 115 1496 m 1
- 340 1496 l 1
- 478 1155 l 1
  372 1155 l 1
+ 478 1155 l 1
+ 340 1496 l 1
  115 1496 l 1
 EndSplineSet
 EndChar
 
-StartChar: greater
-Encoding: 62 62 87
-Width: 1230
-VWidth: 0
-Flags: HW
-PickledData: "(dp1
-S'com.typemytype.robofont.layerData'
-p2
-(dp3
-s."
+StartChar: dieresis
+Encoding: 168 168 112
+Width: 956
+Flags: W
 LayerCount: 2
 Fore
 SplineSet
-172 219 m 1
- 893 571 l 1
- 172 927 l 1
- 172 1144 l 1
- 1058 673 l 1
- 1058 472 l 1
- 172 0 l 1
- 172 219 l 1
+620 1265 m 1
+ 826 1265 l 1
+ 826 1446 l 1
+ 620 1446 l 1
+ 620 1265 l 1
+117 1265 m 1
+ 323 1265 l 1
+ 323 1446 l 1
+ 117 1446 l 1
+ 117 1265 l 1
 EndSplineSet
 EndChar
 
-StartChar: h
-Encoding: 104 104 88
-Width: 1157
-VWidth: 0
-Flags: HW
-PickledData: "(dp1
-S'com.typemytype.robofont.layerData'
-p2
-(dp3
-s."
+StartChar: Oslash
+Encoding: 216 216 113
+Width: 1124
+Flags: W
 LayerCount: 2
 Fore
 SplineSet
-144 4 m 1
- 144 1440 l 1
- 332 1440 l 1
- 332 961 l 1
- 394 1033 495 1084 649 1084 c 0
- 910 1084 1019 942 1019 774 c 2
- 1019 4 l 1
- 831 4 l 1
- 831 787 l 2
- 831 892 732 942 601 942 c 0
- 417 942 332 861 332 759 c 2
- 332 4 l 1
- 144 4 l 1
-EndSplineSet
-Kerns2: 142 -6 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 
-EndChar
-
-StartChar: hungarumlaut
-Encoding: 733 733 89
-Width: 985
-VWidth: 0
-Flags: HW
-PickledData: "(dp1
-S'com.typemytype.robofont.layerData'
-p2
-(dp3
-s."
-LayerCount: 2
-Fore
-SplineSet
-613 1481 m 1
- 853 1481 l 1
- 683 1163 l 1
- 428 1163 l 1
- 613 1481 l 1
-249 1481 m 1
- 560 1481 l 1
- 301 1163 l 1
- 143 1163 l 1
- 249 1481 l 1
+868 1654 m 1
+ 813 1459 l 1
+ 759 1474 667 1483 562 1483 c 0
+ 156 1483 68 1289 68 1012 c 2
+ 68 440 l 2
+ 68 255 113 99 247 25 c 1
+ 190 -179 l 1
+ 273 -195 l 1
+ 325 -6 l 1
+ 387 -18 469 -24 563 -24 c 0
+ 966 -24 1056 175 1056 445 c 2
+ 1056 1012 l 2
+ 1056 1196 1016 1348 892 1426 c 1
+ 952 1638 l 1
+ 868 1654 l 1
+767 1086 m 2
+ 768 367 l 2
+ 768 284 741 182 563 182 c 0
+ 385 182 356 284 356 367 c 2
+ 356 1086 l 2
+ 356 1167 386 1269 562 1269 c 0
+ 737 1269 767 1167 767 1086 c 2
 EndSplineSet
 EndChar
 
-StartChar: hyphen
-Encoding: 45 45 90
-Width: 942
-VWidth: 0
-Flags: HW
-PickledData: "(dp1
-S'com.typemytype.robofont.layerData'
-p2
-(dp3
-s."
+StartChar: plusminus
+Encoding: 177 177 114
+Width: 910
+Flags: W
 LayerCount: 2
 Fore
 SplineSet
-822 642 m 1
- 822 494 l 1
- 120 494 l 1
- 120 642 l 1
- 822 642 l 1
-EndSplineSet
-Kerns2: 121 7 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  108 7 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  37 -15 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  36 -7 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  34 -7 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  32 -10 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  19 7 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 
-EndChar
-
-StartChar: i
-Encoding: 105 105 91
-Width: 529
-VWidth: 0
-Flags: HW
-PickledData: "(dp1
-S'com.typemytype.robofont.layerData'
-p2
-(dp3
-s."
-LayerCount: 2
-Fore
-SplineSet
-171 1064 m 1
- 358 1064 l 1
- 358 4 l 1
- 171 4 l 1
- 171 1064 l 1
-160 1390 m 1
- 365 1390 l 1
- 365 1189 l 1
- 160 1189 l 1
- 160 1390 l 1
+540 856 m 1
+ 363 856 l 1
+ 363 672 l 1
+ 138 672 l 1
+ 138 502 l 1
+ 363 502 l 1
+ 363 318 l 1
+ 540 318 l 1
+ 540 502 l 1
+ 765 502 l 1
+ 765 672 l 1
+ 540 672 l 1
+ 540 856 l 1
+765 175 m 1
+ 138 175 l 1
+ 138 5 l 1
+ 765 5 l 1
+ 765 175 l 1
 EndSplineSet
 EndChar
 
-StartChar: iacute
-Encoding: 237 237 92
-Width: 419
-VWidth: 0
-Flags: HW
-PickledData: "(dp1
-S'com.typemytype.robofont.layerData'
-p2
-(dp3
-s."
-LayerCount: 2
-Fore
-Refer: 43 180 N 1 0 0 1 -198 92 2
-Refer: 71 305 N 1 0 0 1 0 0 3
-EndChar
-
-StartChar: icircumflex
-Encoding: 238 238 93
-Width: 419
-VWidth: 0
-Flags: HW
-PickledData: "(dp1
-S'com.typemytype.robofont.layerData'
-p2
-(dp3
-s."
-LayerCount: 2
-Fore
-Refer: 60 710 N 1 0 0 1 -223 97 2
-Refer: 71 305 N 1 0 0 1 0 0 3
-EndChar
-
-StartChar: idieresis
-Encoding: 239 239 94
-Width: 419
-VWidth: 0
-Flags: HW
-PickledData: "(dp1
-S'com.typemytype.robofont.layerData'
-p2
-(dp3
-s."
-LayerCount: 2
-Fore
-Refer: 68 168 N 1 0 0 1 -244 -18 2
-Refer: 71 305 N 1 0 0 1 0 0 3
-EndChar
-
-StartChar: igrave
-Encoding: 236 236 95
-Width: 419
-VWidth: 0
-Flags: HW
-PickledData: "(dp1
-S'com.typemytype.robofont.layerData'
-p2
-(dp3
-s."
-LayerCount: 2
-Fore
-Refer: 86 96 N 1 0 0 1 -198 92 2
-Refer: 71 305 N 1 0 0 1 0 0 3
-EndChar
-
-StartChar: j
-Encoding: 106 106 96
-Width: 571
-VWidth: 0
-Flags: HW
-PickledData: "(dp1
-S'com.typemytype.robofont.layerData'
-p2
-(dp3
-s."
+StartChar: exclamdown
+Encoding: 161 161 115
+Width: 468
+Flags: W
 LayerCount: 2
 Fore
 SplineSet
-237 1061 m 1
- 421 1061 l 1
- 421 9 l 2
- 421 -153 315 -251 139 -251 c 2
- 33 -251 l 1
- 33 -117 l 1
- 103 -117 l 2
- 236 -117 237 -14 237 26 c 2
- 237 1061 l 1
-233 1386 m 1
- 420 1386 l 1
- 420 1207 l 1
- 233 1207 l 1
- 233 1386 l 1
-EndSplineSet
-EndChar
-
-StartChar: k
-Encoding: 107 107 97
-Width: 1088
-VWidth: 0
-Flags: HW
-PickledData: "(dp1
-S'com.typemytype.robofont.layerData'
-p2
-(dp3
-s."
-LayerCount: 2
-Fore
-SplineSet
-150 1440 m 1
- 338 1440 l 1
- 338 514 l 1
- 452 636 l 1
- 844 1064 l 1
- 1052 1064 l 1
- 630 587 l 1
- 1062 4 l 1
- 853 4 l 1
- 484 502 l 1
- 338 358 l 1
- 338 4 l 1
- 150 4 l 1
- 150 1440 l 1
-EndSplineSet
-EndChar
-
-StartChar: l
-Encoding: 108 108 98
-Width: 654
-VWidth: 0
-Flags: HW
-PickledData: "(dp1
-S'com.typemytype.robofont.layerData'
-p2
-(dp3
-s."
-LayerCount: 2
-Fore
-SplineSet
-164 410 m 2
- 164 1440 l 1
- 352 1440 l 1
- 352 408 l 2
- 352 265 375 149 562 149 c 2
- 579 149 l 1
- 579 4 l 1
- 497 4 l 2
- 265 4 164 131 164 410 c 2
-EndSplineSet
-EndChar
-
-StartChar: less
-Encoding: 60 60 99
-Width: 1230
-VWidth: 0
-Flags: HW
-PickledData: "(dp1
-S'com.typemytype.robofont.layerData'
-p2
-(dp3
-s."
-LayerCount: 2
-Fore
-SplineSet
-1058 925 m 1
- 337 573 l 1
- 1058 217 l 1
- 1058 0 l 1
- 172 471 l 1
- 172 672 l 1
- 1058 1144 l 1
- 1058 925 l 1
+349 878 m 1
+ 349 1084 l 1
+ 144 1084 l 1
+ 144 878 l 1
+ 349 878 l 1
+347 -362 m 1
+ 290 713 l 1
+ 214 713 l 1
+ 145 -362 l 1
+ 347 -362 l 1
 EndSplineSet
 EndChar
 
 StartChar: logicalnot
-Encoding: 172 172 100
+Encoding: 172 172 116
 Width: 864
-VWidth: 0
-Flags: HW
-PickledData: "(dp1
-S'com.typemytype.robofont.layerData'
-p2
-(dp3
-s."
+Flags: W
 LayerCount: 2
 Fore
 SplineSet
 721 588 m 1
- 721 229 l 1
- 589 229 l 1
- 589 419 l 1
- 138 419 l 1
  138 588 l 1
+ 138 419 l 1
+ 589 419 l 1
+ 589 229 l 1
+ 721 229 l 1
  721 588 l 1
 EndSplineSet
 EndChar
 
-StartChar: lslash
-Encoding: 322 322 101
-Width: 490
-VWidth: 0
-Flags: HW
-PickledData: "(dp1
-S'com.typemytype.robofont.layerData'
-p2
-(dp3
-s."
+StartChar: florin
+Encoding: 402 402 117
+Width: 614
+Flags: W
 LayerCount: 2
 Fore
 SplineSet
-125 1459 m 1
- 389 1459 l 1
- 389 970 l 1
- 527 1020 l 1
- 527 881 l 1
- 389 831 l 1
- 389 0 l 1
- 125 0 l 1
- 125 733 l 1
- -10 684 l 1
- -10 824 l 1
- 125 872 l 1
- 125 1459 l 1
+544 1405 m 1
+ 488 1411 458 1413 424 1413 c 0
+ 189 1413 177 1268 177 1102 c 2
+ 177 1025 l 1
+ 60 1025 l 1
+ 60 848 l 1
+ 177 848 l 1
+ 177 63 l 2
+ 177 -9 169 -64 93 -64 c 0
+ 80 -64 46 -62 25 -59 c 1
+ 25 -213 l 1
+ 74 -219 104 -221 137 -221 c 0
+ 378 -221 392 -81 392 91 c 2
+ 392 848 l 1
+ 534 848 l 1
+ 534 1025 l 1
+ 392 1025 l 1
+ 392 1124 l 2
+ 392 1200 400 1258 478 1258 c 0
+ 492 1258 523 1253 544 1251 c 1
+ 544 1405 l 1
 EndSplineSet
 EndChar
 
-StartChar: m
-Encoding: 109 109 102
-Width: 1781
-VWidth: 0
-Flags: HW
-PickledData: "(dp1
-S'com.typemytype.robofont.layerData'
-p2
-(dp3
-s."
+StartChar: ellipsis
+Encoding: 8230 8230 118
+Width: 1427
+Flags: W
 LayerCount: 2
 Fore
 SplineSet
-144 0 m 1
- 144 1060 l 1
- 332 1060 l 1
- 332 957 l 1
- 394 1029 482 1080 636 1080 c 0
- 800 1080 897 1024 947 941 c 1
- 972 965 l 2
- 1039 1032 1140 1080 1294 1080 c 0
- 1555 1080 1643 938 1643 770 c 2
- 1643 0 l 1
- 1455 0 l 1
- 1455 783 l 2
- 1455 888 1377 938 1246 938 c 0
- 1062 938 990 857 990 755 c 2
- 990 0 l 1
- 802 0 l 1
- 802 783 l 2
- 802 888 719 938 588 938 c 0
- 404 938 332 857 332 755 c 2
- 332 0 l 1
- 144 0 l 1
+112 255 m 1
+ 112 0 l 1
+ 365 0 l 1
+ 365 255 l 1
+ 112 255 l 1
+944 255 m 1
+ 944 0 l 1
+ 1197 0 l 1
+ 1197 255 l 1
+ 944 255 l 1
+1776 255 m 1
+ 1776 0 l 1
+ 2029 0 l 1
+ 2029 255 l 1
+ 1776 255 l 1
 EndSplineSet
 EndChar
 
-StartChar: macron
-Encoding: 175 175 103
-Width: 472
-VWidth: 0
-Flags: HW
-PickledData: "(dp1
-S'com.typemytype.robofont.layerData'
-p2
-(dp3
-s."
+StartChar: OE
+Encoding: 338 338 119
+Width: 1371
+Flags: W
 LayerCount: 2
 Fore
 SplineSet
-37 1351 m 1
- 438 1351 l 1
- 438 1199 l 1
- 37 1199 l 1
- 37 1351 l 1
+562 1459 m 1
+ 156 1458 68 1265 68 999 c 2
+ 68 452 l 2
+ 68 177 159 0 563 0 c 2
+ 1344 0 l 1
+ 1344 194 l 1
+ 1056 194 l 1
+ 1056 665 l 1
+ 1268 665 l 1
+ 1268 862 l 1
+ 1056 862 l 1
+ 1056 1266 l 1
+ 1344 1266 l 1
+ 1344 1459 l 1
+ 562 1459 l 1
+768 1259 m 1
+ 768 193 l 1
+ 565 193 l 2
+ 386 193 356 295 356 377 c 2
+ 356 1074 l 2
+ 356 1157 386 1259 565 1259 c 2
+ 768 1259 l 1
 EndSplineSet
 EndChar
 
-StartChar: minus
-Encoding: 8722 8722 104
-Width: 910
-VWidth: 0
-Flags: HW
-PickledData: "(dp1
-S'com.typemytype.robofont.layerData'
-p2
-(dp3
-s."
+StartChar: endash
+Encoding: 8211 8211 120
+Width: 539
+Flags: W
 LayerCount: 2
 Fore
 SplineSet
-765 609 m 1
- 765 439 l 1
- 138 439 l 1
- 138 609 l 1
- 765 609 l 1
+2 569 m 1
+ 2 402 l 1
+ 535 402 l 1
+ 535 569 l 1
+ 2 569 l 1
 EndSplineSet
 EndChar
 
-StartChar: multiply
-Encoding: 215 215 105
-Width: 972
-VWidth: 0
-Flags: HW
-PickledData: "(dp1
-S'com.typemytype.robofont.layerData'
-p2
-(dp3
-s."
+StartChar: emdash
+Encoding: 8212 8212 121
+Width: 1101
+Flags: W
 LayerCount: 2
 Fore
 SplineSet
-483 652 m 1
- 753 858 l 1
- 872 742 l 1
- 657 537 l 1
- 701 494 827 371 872 330 c 1
- 753 216 l 1
- 483 422 l 1
- 215 216 l 1
- 96 330 l 1
- 310 537 l 1
- 96 742 l 1
- 215 858 l 1
- 483 652 l 1
+2 569 m 1
+ 2 402 l 1
+ 1098 402 l 1
+ 1098 569 l 1
+ 2 569 l 1
 EndSplineSet
 EndChar
 
-StartChar: n
-Encoding: 110 110 106
-Width: 1143
-VWidth: 0
-Flags: HW
-PickledData: "(dp1
-S'com.typemytype.robofont.layerData'
-p2
-(dp3
-s."
+StartChar: divide
+Encoding: 247 247 122
+Width: 774
+Flags: W
 LayerCount: 2
 Fore
 SplineSet
-144 0 m 1
- 144 1060 l 1
- 332 1060 l 1
- 332 957 l 1
- 394 1029 490 1080 644 1080 c 0
- 905 1080 1005 938 1005 770 c 2
- 1005 0 l 1
- 817 0 l 1
- 817 783 l 2
- 817 888 727 938 596 938 c 0
- 412 938 332 857 332 755 c 2
- 332 0 l 1
- 144 0 l 1
+482 957 m 0
+ 470 957 265 948 265 936 c 0
+ 265 924 275 727 287 727 c 0
+ 299 727 504 736 504 748 c 0
+ 504 760 494 957 482 957 c 0
+720 642 m 1
+ 49 642 l 1
+ 49 472 l 1
+ 720 472 l 1
+ 720 642 l 1
+482 404 m 0
+ 470 404 265 395 265 383 c 0
+ 265 371 274 174 287 174 c 0
+ 299 174 504 183 504 195 c 0
+ 504 207 494 404 482 404 c 0
 EndSplineSet
 EndChar
 
-StartChar: numbersign
-Encoding: 35 35 107
-Width: 1509
-VWidth: 0
-Flags: HW
-PickledData: "(dp1
-S'com.typemytype.robofont.layerData'
-p2
-(dp3
-s."
+StartChar: Ydieresis
+Encoding: 376 376 123
+Width: 1093
+Flags: W
 LayerCount: 2
 Fore
 SplineSet
-449 -1 m 1
- 271 -1 l 1
- 386 632 l 1
- 72 632 l 1
- 72 751 l 1
- 408 751 l 1
- 447 965 l 1
- 95 965 l 1
- 95 1084 l 1
- 469 1084 l 1
- 535 1446 l 1
- 705 1446 l 1
- 641 1084 l 1
- 943 1084 l 1
- 1009 1446 l 1
- 1179 1446 l 1
- 1115 1084 l 1
- 1437 1084 l 1
- 1437 965 l 1
- 1094 965 l 1
- 1056 751 l 1
- 1414 751 l 1
- 1414 632 l 1
- 1035 632 l 1
- 923 -1 l 1
- 745 -1 l 1
- 860 632 l 1
- 561 632 l 1
- 449 -1 l 1
-921 965 m 1
- 620 965 l 1
- 582 751 l 1
- 882 751 l 1
- 921 965 l 1
-EndSplineSet
-EndChar
-
-StartChar: o
-Encoding: 111 111 108
-Width: 1123
-VWidth: 0
-Flags: HW
-PickledData: "(dp1
-S'com.typemytype.robofont.layerData'
-p2
-(dp3
-s."
-LayerCount: 2
-Fore
-SplineSet
-995 747 m 2
- 995 317 l 2
- 995 122 890 -20 561 -20 c 0
- 245 -20 128 121 128 317 c 2
- 128 747 l 2
- 128 947 298 1080 561 1080 c 0
- 824 1080 995 947 995 747 c 2
-807 763 m 2
- 807 888 706 938 561 938 c 0
- 422 938 315 894 315 763 c 2
- 315 301 l 2
- 315 170 414 121 561 121 c 0
- 700 121 807 171 807 301 c 2
- 807 763 l 2
-EndSplineSet
-Kerns2: 90 7 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  61 7 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 
-EndChar
-
-StartChar: one
-Encoding: 49 49 109
-Width: 1098
-VWidth: 0
-Flags: HW
-PickledData: "(dp1
-S'com.typemytype.robofont.layerData'
-p2
-(dp3
-s."
-LayerCount: 2
-Fore
-SplineSet
-523 155 m 1
- 523 1267 l 1
- 192 1203 l 1
- 163 1366 l 1
- 560 1446 l 1
- 724 1446 l 1
- 724 155 l 1
- 1000 155 l 1
- 1000 0 l 1
- 724 0 l 1
- 523 0 l 1
- 193 0 l 1
- 193 155 l 1
- 523 155 l 1
-EndSplineSet
-EndChar
-
-StartChar: uni00B9
-Encoding: 185 185 110
-Width: 315
-VWidth: 0
-Flags: HW
-PickledData: "(dp1
-S'com.typemytype.robofont.layerData'
-p2
-(dp3
-s."
-LayerCount: 2
-Fore
-SplineSet
-117 1596 m 1
- 238 1596 l 1
- 238 639 l 1
- 88 639 l 1
- 88 1368 l 1
- 8 1368 l 1
- 8 1475 l 1
- 59 1498 96 1538 117 1596 c 1
-EndSplineSet
-EndChar
-
-StartChar: p
-Encoding: 112 112 111
-Width: 1139
-VWidth: 0
-Flags: HW
-PickledData: "(dp1
-S'com.typemytype.robofont.layerData'
-p2
-(dp3
-s."
-LayerCount: 2
-Fore
-SplineSet
-332 -371 m 1
- 144 -371 l 1
- 144 1056 l 1
- 292 1056 l 1
- 313 979 l 1
- 369 1029 485 1076 606 1076 c 0
- 877 1076 1011 933 1011 729 c 2
- 1011 344 l 2
- 1011 131 858 -24 582 -24 c 0
- 463 -24 383 8 332 34 c 1
- 332 -371 l 1
-332 824 m 1
- 332 179 l 1
- 380 152 461 117 570 117 c 0
- 718 117 823 194 823 324 c 2
- 823 742 l 2
- 823 869 715 934 577 934 c 0
- 444 934 349 850 332 824 c 1
-EndSplineSet
-EndChar
-
-StartChar: percent
-Encoding: 37 37 112
-Width: 1930
-VWidth: 0
-Flags: HW
-PickledData: "(dp1
-S'com.typemytype.robofont.layerData'
-p2
-(dp3
-s."
-LayerCount: 2
-Fore
-SplineSet
-256 1020 m 2
- 256 879 273 774 411 774 c 0
- 549 774 568 879 568 1020 c 2
- 568 1113 l 2
- 568 1251 555 1345 411 1345 c 0
- 268 1345 256 1251 256 1115 c 2
- 256 1020 l 2
-113 1037 m 2
- 113 1090 l 2
- 113 1323 180 1461 411 1461 c 0
- 641 1461 711 1324 713 1091 c 1
- 713 1037 l 2
- 713 808 641 658 411 658 c 0
- 181 658 113 809 113 1037 c 2
-1152 1446 m 1
- 1301 1446 l 1
- 763 0 l 1
- 609 0 l 1
- 1152 1446 l 1
-1217 360 m 2
- 1217 413 l 2
- 1217 646 1284 784 1515 784 c 0
- 1745 784 1815 647 1817 414 c 1
- 1817 360 l 2
- 1817 131 1745 -19 1515 -19 c 0
- 1285 -19 1217 132 1217 360 c 2
-1360 343 m 2
- 1360 202 1377 97 1515 97 c 0
- 1653 97 1672 202 1672 343 c 2
- 1672 436 l 2
- 1672 574 1659 668 1515 668 c 0
- 1372 668 1360 574 1360 438 c 2
- 1360 343 l 2
-EndSplineSet
-EndChar
-
-StartChar: period
-Encoding: 46 46 113
-Width: 412
-VWidth: 0
-Flags: HW
-PickledData: "(dp1
-S'com.typemytype.robofont.layerData'
-p2
-(dp3
-s."
-LayerCount: 2
-Fore
-SplineSet
-108 206 m 1
- 313 206 l 1
+0 1459 m 1
+ 313 504 l 1
  313 0 l 1
- 108 0 l 1
- 108 206 l 1
+ 624 0 l 1
+ 624 504 l 1
+ 1093 1459 l 1
+ 781 1459 l 1
+ 706 1289 620 1003 545 833 c 1
+ 327 1459 l 1
+ 0 1459 l 1
+184 1596 m 1
+ 450 1596 l 1
+ 450 1826 l 1
+ 184 1826 l 1
+ 184 1596 l 1
+643 1596 m 1
+ 910 1596 l 1
+ 910 1826 l 1
+ 643 1826 l 1
+ 643 1596 l 1
+EndSplineSet
+EndChar
+
+StartChar: fraction
+Encoding: 8260 8260 124
+Width: 463
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+255 1461 m 1
+ -22 -1 l 1
+ 135 -1 l 1
+ 414 1461 l 1
+ 255 1461 l 1
+EndSplineSet
+EndChar
+
+StartChar: fi
+Encoding: 64257 64257 125
+Width: 649
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+262 1604 m 2
+ 110 1604 70 1540 70 1396 c 2
+ 70 1302 l 1
+ 16 1302 l 1
+ 16 1156 l 1
+ 70 1156 l 1
+ 70 0 l 1
+ 262 0 l 1
+ 262 1156 l 1
+ 358 1156 l 1
+ 358 1302 l 1
+ 262 1302 l 1
+ 262 1396 l 2
+ 262 1435 266 1459 297 1459 c 2
+ 360 1459 l 1
+ 360 1604 l 1
+ 262 1604 l 2
+391 1596 m 1
+ 391 1459 l 1
+ 586 1459 l 1
+ 586 1596 l 1
+ 391 1596 l 1
+391 1302 m 1
+ 391 0 l 1
+ 586 0 l 1
+ 586 1302 l 1
+ 391 1302 l 1
+EndSplineSet
+EndChar
+
+StartChar: fl
+Encoding: 64258 64258 126
+Width: 649
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+262 1604 m 2
+ 110 1604 70 1540 70 1396 c 2
+ 70 1302 l 1
+ 16 1302 l 1
+ 16 1156 l 1
+ 70 1156 l 1
+ 70 0 l 1
+ 262 0 l 1
+ 262 1156 l 1
+ 358 1156 l 1
+ 358 1302 l 1
+ 262 1302 l 1
+ 262 1396 l 2
+ 262 1435 266 1459 297 1459 c 2
+ 360 1459 l 1
+ 360 1604 l 1
+ 262 1604 l 2
+391 1596 m 1
+ 391 0 l 1
+ 586 0 l 1
+ 586 1596 l 1
+ 391 1596 l 1
+EndSplineSet
+EndChar
+
+StartChar: daggerdbl
+Encoding: 8225 8225 127
+Width: 658
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+225 1286 m 1
+ 225 1044 l 1
+ 58 1044 l 1
+ 58 850 l 1
+ 225 850 l 1
+ 225 531 l 1
+ 58 531 l 1
+ 58 336 l 1
+ 225 336 l 1
+ 225 -32 l 1
+ 432 -32 l 1
+ 432 336 l 1
+ 599 336 l 1
+ 599 531 l 1
+ 432 531 l 1
+ 432 850 l 1
+ 599 850 l 1
+ 599 1044 l 1
+ 432 1044 l 1
+ 432 1286 l 1
+ 225 1286 l 1
 EndSplineSet
 EndChar
 
 StartChar: periodcentered
-Encoding: 183 183 114
+Encoding: 183 183 128
 Width: 412
-VWidth: 0
-Flags: HW
-PickledData: "(dp1
-S'com.typemytype.robofont.layerData'
-p2
-(dp3
-s."
+Flags: W
 LayerCount: 2
 Fore
 SplineSet
 108 1446 m 1
- 313 1446 l 1
- 313 1240 l 1
  108 1240 l 1
+ 313 1240 l 1
+ 313 1446 l 1
  108 1446 l 1
 EndSplineSet
 EndChar
 
 StartChar: perthousand
-Encoding: 8240 8240 115
+Encoding: 8240 8240 129
 Width: 1667
-VWidth: 0
-Flags: HW
-PickledData: "(dp1
-S'com.typemytype.robofont.layerData'
-p2
-(dp3
-s."
+Flags: W
 LayerCount: 2
 Fore
 SplineSet
-1360 589 m 2
- 1360 180 l 2
- 1360 146 1374 132 1397 132 c 0
- 1422 132 1436 148 1436 180 c 2
- 1436 589 l 2
- 1436 621 1426 637 1397 637 c 0
- 1368 637 1360 619 1360 589 c 2
-1190 525 m 2
- 1190 722 1198 777 1397 777 c 0
- 1590 777 1606 728 1606 525 c 2
- 1606 248 l 2
- 1606 49 1592 -6 1397 -6 c 0
- 1196 -6 1190 53 1190 248 c 2
- 1190 525 l 2
-862 589 m 2
- 862 180 l 2
- 862 146 876 132 899 132 c 0
- 924 132 938 148 938 180 c 2
- 938 589 l 2
- 938 621 928 637 899 637 c 0
- 870 637 862 619 862 589 c 2
-690 525 m 2
- 690 722 700 777 899 777 c 0
- 1092 777 1108 728 1108 525 c 2
- 1108 248 l 2
- 1108 49 1094 -6 899 -6 c 0
- 698 -6 690 53 690 248 c 2
- 690 525 l 2
-229 1418 m 2
- 229 1007 l 2
- 229 973 245 959 268 959 c 0
- 293 959 307 975 307 1007 c 2
- 307 1418 l 2
- 307 1450 297 1465 268 1465 c 0
- 239 1465 229 1448 229 1418 c 2
-59 1353 m 2
- 59 1550 69 1604 268 1604 c 0
- 461 1604 477 1556 477 1353 c 2
- 477 1075 l 2
- 477 876 463 820 268 820 c 0
- 67 820 59 880 59 1075 c 2
- 59 1353 l 2
 793 1604 m 1
- 934 1604 l 1
- 381 -6 l 1
  240 -6 l 1
+ 381 -6 l 1
+ 934 1604 l 1
  793 1604 l 1
+59 1353 m 2
+ 59 1075 l 2
+ 59 880 67 820 268 820 c 0
+ 463 820 477 876 477 1075 c 2
+ 477 1353 l 2
+ 477 1556 461 1604 268 1604 c 0
+ 69 1604 59 1550 59 1353 c 2
+229 1418 m 2
+ 229 1448 239 1465 268 1465 c 0
+ 297 1465 307 1450 307 1418 c 2
+ 307 1007 l 2
+ 307 975 293 959 268 959 c 0
+ 245 959 229 973 229 1007 c 2
+ 229 1418 l 2
+690 525 m 2
+ 690 248 l 2
+ 690 53 698 -6 899 -6 c 0
+ 1094 -6 1108 49 1108 248 c 2
+ 1108 525 l 2
+ 1108 728 1092 777 899 777 c 0
+ 700 777 690 722 690 525 c 2
+862 589 m 2
+ 862 619 870 637 899 637 c 0
+ 928 637 938 621 938 589 c 2
+ 938 180 l 2
+ 938 148 924 132 899 132 c 0
+ 876 132 862 146 862 180 c 2
+ 862 589 l 2
+1190 525 m 2
+ 1190 248 l 2
+ 1190 53 1196 -6 1397 -6 c 0
+ 1592 -6 1606 49 1606 248 c 2
+ 1606 525 l 2
+ 1606 728 1590 777 1397 777 c 0
+ 1198 777 1190 722 1190 525 c 2
+1360 589 m 2
+ 1360 619 1368 637 1397 637 c 0
+ 1426 637 1436 621 1436 589 c 2
+ 1436 180 l 2
+ 1436 148 1422 132 1397 132 c 0
+ 1374 132 1360 146 1360 180 c 2
+ 1360 589 l 2
 EndSplineSet
 EndChar
 
-StartChar: plus
-Encoding: 43 43 116
-Width: 942
-VWidth: 0
-Flags: HW
-PickledData: "(dp1
-S'com.typemytype.robofont.layerData'
-p2
-(dp3
-s."
+StartChar: Ecircumflex
+Encoding: 202 202 130
+Width: 763
+Flags: W
 LayerCount: 2
 Fore
 SplineSet
-547 968 m 1
- 547 642 l 1
- 822 642 l 1
- 822 494 l 1
- 547 494 l 1
- 547 156 l 1
- 396 156 l 1
- 396 494 l 1
- 120 494 l 1
- 120 642 l 1
- 396 642 l 1
- 396 968 l 1
- 547 968 l 1
+146 1459 m 1
+ 146 0 l 1
+ 853 0 l 1
+ 853 236 l 1
+ 465 236 l 1
+ 465 642 l 1
+ 776 642 l 1
+ 776 862 l 1
+ 465 862 l 1
+ 465 1223 l 1
+ 853 1223 l 1
+ 853 1459 l 1
+ 146 1459 l 1
+212 1825 m 1
+ 55 1529 l 1
+ 282 1529 l 1
+ 381 1673 l 1
+ 481 1529 l 1
+ 710 1529 l 1
+ 550 1825 l 1
+ 212 1825 l 1
 EndSplineSet
 EndChar
 
-StartChar: plusminus
-Encoding: 177 177 117
-Width: 910
-VWidth: 0
-Flags: HW
-PickledData: "(dp1
-S'com.typemytype.robofont.layerData'
-p2
-(dp3
-s."
+StartChar: Edieresis
+Encoding: 203 203 131
+Width: 763
+Flags: W
 LayerCount: 2
 Fore
 SplineSet
-765 175 m 1
- 765 5 l 1
- 138 5 l 1
- 138 175 l 1
- 765 175 l 1
-540 856 m 1
- 540 672 l 1
- 765 672 l 1
- 765 502 l 1
- 540 502 l 1
- 540 318 l 1
- 363 318 l 1
- 363 502 l 1
- 138 502 l 1
- 138 672 l 1
- 363 672 l 1
- 363 856 l 1
- 540 856 l 1
+146 1459 m 1
+ 146 0 l 1
+ 853 0 l 1
+ 853 236 l 1
+ 465 236 l 1
+ 465 642 l 1
+ 776 642 l 1
+ 776 862 l 1
+ 465 862 l 1
+ 465 1223 l 1
+ 853 1223 l 1
+ 853 1459 l 1
+ 146 1459 l 1
+19 1596 m 1
+ 285 1596 l 1
+ 285 1826 l 1
+ 19 1826 l 1
+ 19 1596 l 1
+479 1596 m 1
+ 746 1596 l 1
+ 746 1826 l 1
+ 479 1826 l 1
+ 479 1596 l 1
 EndSplineSet
 EndChar
 
-StartChar: q
-Encoding: 113 113 118
-Width: 1145
-VWidth: 0
-Flags: HW
-PickledData: "(dp1
-S'com.typemytype.robofont.layerData'
-p2
-(dp3
-s."
+StartChar: Egrave
+Encoding: 200 200 132
+Width: 763
+Flags: W
 LayerCount: 2
 Fore
 SplineSet
-585 935 m 0
- 437 935 338 878 338 748 c 2
- 338 284 l 2
- 338 157 444 118 582 118 c 0
- 722 118 819 180 829 201 c 1
- 829 810 l 2
- 829 869 752 935 585 935 c 0
-1017 -371 m 1
- 829 -371 l 1
- 829 47 l 1
- 764 -3 643 -24 570 -24 c 0
- 299 -24 150 110 150 314 c 2
- 150 728 l 2
- 150 941 281 1076 557 1076 c 0
- 665 1076 799 1025 829 975 c 1
- 829 1056 l 1
- 1017 1056 l 1
- 1017 -371 l 1
+146 1459 m 1
+ 146 0 l 1
+ 853 0 l 1
+ 853 236 l 1
+ 465 236 l 1
+ 465 642 l 1
+ 776 642 l 1
+ 776 862 l 1
+ 465 862 l 1
+ 465 1223 l 1
+ 853 1223 l 1
+ 853 1459 l 1
+ 146 1459 l 1
+191 1848 m 1
+ 398 1529 l 1
+ 561 1529 l 1
+ 456 1848 l 1
+ 191 1848 l 1
 EndSplineSet
 EndChar
 
-StartChar: quotedbl
-Encoding: 34 34 119
-Width: 704
-VWidth: 0
-Flags: HW
-PickledData: "(dp1
-S'com.typemytype.robofont.layerData'
-p2
-(dp3
-s."
+StartChar: Iacute
+Encoding: 205 205 133
+Width: 458
+Flags: W
 LayerCount: 2
 Fore
 SplineSet
-303 1446 m 1
- 234 870 l 1
- 162 870 l 1
- 98 1446 l 1
- 303 1446 l 1
-606 1446 m 1
- 537 870 l 1
- 465 870 l 1
- 401 1446 l 1
- 606 1446 l 1
+86 1459 m 1
+ 86 0 l 1
+ 374 0 l 1
+ 374 1459 l 1
+ 86 1459 l 1
+156 1848 m 1
+ 52 1529 l 1
+ 213 1529 l 1
+ 421 1848 l 1
+ 156 1848 l 1
 EndSplineSet
 EndChar
 
-StartChar: quotesingle
-Encoding: 39 39 120
-Width: 401
-VWidth: 0
-Flags: HW
-PickledData: "(dp1
-S'com.typemytype.robofont.layerData'
-p2
-(dp3
-s."
+StartChar: Icircumflex
+Encoding: 206 206 134
+Width: 458
+Flags: W
 LayerCount: 2
 Fore
 SplineSet
-303 1446 m 1
- 234 870 l 1
- 162 870 l 1
- 98 1446 l 1
- 303 1446 l 1
+86 1459 m 1
+ 86 0 l 1
+ 374 0 l 1
+ 374 1459 l 1
+ 86 1459 l 1
+58 1825 m 1
+ -98 1529 l 1
+ 128 1529 l 1
+ 227 1673 l 1
+ 328 1529 l 1
+ 556 1529 l 1
+ 396 1825 l 1
+ 58 1825 l 1
 EndSplineSet
 EndChar
 
-StartChar: r
-Encoding: 114 114 121
-Width: 724
-VWidth: 0
-Flags: HW
-PickledData: "(dp1
-S'com.typemytype.robofont.layerData'
-p2
-(dp3
-s."
+StartChar: Idieresis
+Encoding: 207 207 135
+Width: 458
+Flags: W
 LayerCount: 2
 Fore
 SplineSet
-148 0 m 1
- 148 1060 l 1
- 336 1060 l 1
- 336 950 l 1
- 387 1027 592 1088 682 1075 c 1
- 676 914 l 1
- 557 904 366 893 336 812 c 1
- 336 0 l 1
- 148 0 l 1
+86 1459 m 1
+ 86 0 l 1
+ 374 0 l 1
+ 374 1459 l 1
+ 86 1459 l 1
+-134 1596 m 1
+ 132 1596 l 1
+ 132 1826 l 1
+ -134 1826 l 1
+ -134 1596 l 1
+326 1596 m 1
+ 592 1596 l 1
+ 592 1826 l 1
+ 326 1826 l 1
+ 326 1596 l 1
 EndSplineSet
-Kerns2: 142 7 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  140 7 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  113 -43 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  108 7 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  90 7 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  88 7 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  82 8 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  81 8 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  80 8 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  72 7 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  64 -10 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  61 7 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  55 -14 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 
 EndChar
 
-StartChar: registered
-Encoding: 174 174 122
-Width: 1857
-VWidth: 0
-Flags: HW
-PickledData: "(dp1
-S'com.typemytype.robofont.layerData'
-p2
-(dp3
-s."
+StartChar: Igrave
+Encoding: 204 204 136
+Width: 458
+Flags: W
 LayerCount: 2
 Fore
 SplineSet
-608 310 m 1
- 608 1162 l 1
- 1011 1162 l 2
- 1168 1162 1270 1091 1274 917 c 1
- 1274 885 l 2
- 1274 751 1214 682 1122 657 c 1
- 1306 310 l 1
- 1178 310 l 1
- 998 643 l 1
- 739 643 l 1
- 739 310 l 1
- 608 310 l 1
-739 1071 m 1
- 739 733 l 1
- 1006 733 l 2
- 1120 733 1141 805 1142 868 c 1
- 1142 910 l 2
- 1142 969 1133 1071 1015 1071 c 2
- 739 1071 l 1
-928 -14 m 0
- 515 -14 174 307 174 722 c 0
- 174 1135 515 1456 928 1456 c 0
- 1344 1456 1683 1135 1683 722 c 0
- 1683 307 1344 -14 928 -14 c 0
-930 59 m 0
- 1306 59 1612 347 1612 722 c 0
- 1612 1096 1306 1384 930 1384 c 0
- 556 1384 248 1096 248 722 c 0
- 248 347 556 59 930 59 c 0
+86 1459 m 1
+ 86 0 l 1
+ 374 0 l 1
+ 374 1459 l 1
+ 86 1459 l 1
+38 1848 m 1
+ 245 1529 l 1
+ 408 1529 l 1
+ 303 1848 l 1
+ 38 1848 l 1
+EndSplineSet
+EndChar
+
+StartChar: dotlessi
+Encoding: 305 305 137
+Width: 419
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+96 1084 m 1
+ 96 0 l 1
+ 359 0 l 1
+ 359 1084 l 1
+ 96 1084 l 1
+EndSplineSet
+EndChar
+
+StartChar: circumflex
+Encoding: 710 710 138
+Width: 901
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+340 1446 m 1
+ 113 1150 l 1
+ 294 1150 l 1
+ 453 1354 l 1
+ 612 1150 l 1
+ 788 1150 l 1
+ 550 1446 l 1
+ 340 1446 l 1
+EndSplineSet
+EndChar
+
+StartChar: macron
+Encoding: 175 175 139
+Width: 472
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+37 1351 m 1
+ 37 1199 l 1
+ 438 1199 l 1
+ 438 1351 l 1
+ 37 1351 l 1
+EndSplineSet
+EndChar
+
+StartChar: breve
+Encoding: 728 728 140
+Width: 676
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+121 1377 m 1
+ 121 1262 206 1185 327 1185 c 0
+ 449 1185 534 1262 534 1377 c 1
+ 398 1377 l 1
+ 398 1336 379 1281 327 1281 c 0
+ 276 1281 257 1337 256 1377 c 1
+ 121 1377 l 1
+EndSplineSet
+EndChar
+
+StartChar: dotaccent
+Encoding: 729 729 141
+Width: 575
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+173 1462 m 1
+ 173 1221 l 1
+ 427 1221 l 1
+ 427 1462 l 1
+ 173 1462 l 1
 EndSplineSet
 EndChar
 
 StartChar: ring
-Encoding: 730 730 123
+Encoding: 730 730 142
 Width: 626
-VWidth: 0
-Flags: HW
-PickledData: "(dp1
-S'com.typemytype.robofont.layerData'
-p2
-(dp3
-s."
+Flags: W
 LayerCount: 2
 Fore
 SplineSet
-309 1210 m 0
- 209 1210 114 1265 114 1388 c 0
- 114 1511 209 1566 309 1566 c 0
- 409 1566 503 1511 503 1388 c 0
- 503 1265 409 1210 309 1210 c 0
 309 1275 m 0
  366 1275 417 1300 417 1387 c 0
  417 1474 367 1501 309 1501 c 0
  253 1501 200 1476 200 1389 c 0
  200 1301 252 1275 309 1275 c 0
+309 1210 m 0
+ 209 1210 114 1265 114 1388 c 0
+ 114 1511 209 1566 309 1566 c 0
+ 409 1566 503 1511 503 1388 c 0
+ 503 1265 409 1210 309 1210 c 0
 EndSplineSet
 EndChar
 
-StartChar: s
-Encoding: 115 115 124
-Width: 912
-VWidth: 0
-Flags: HW
-PickledData: "(dp1
-S'com.typemytype.robofont.layerData'
-p2
-(dp3
-s."
+StartChar: cedilla
+Encoding: 184 184 143
+Width: 579
+Flags: W
 LayerCount: 2
 Fore
 SplineSet
-92 150 m 1
- 185 259 l 1
- 228 212 315 128 459 125 c 0
- 592 123 656 166 666 266 c 0
- 673 344 623 396 549 427 c 2
- 326 521 l 1
- 188 577 103 657 108 817 c 0
- 114 1009 276 1081 459 1081 c 0
- 654 1081 763 994 811 930 c 1
- 728 819 l 1
- 675 874 590 935 471 937 c 0
- 345 939 288 891 284 819 c 0
- 280 759 304 713 390 676 c 2
- 620 575 l 2
- 754 517 835 448 831 273 c 1
- 828 84 686 -23 464 -20 c 1
- 311 -16 164 47 92 150 c 1
+332 0 m 1
+ 335 -6 220 -10 220 -14 c 0
+ 220 -22 216 -183 208 -183 c 1
+ 237 -194 305 -220 305 -259 c 0
+ 305 -295 175 -311 154 -311 c 1
+ 160 -311 165 -417 169 -417 c 0
+ 287 -417 511 -410 511 -262 c 0
+ 511 -179 418 -120 351 -84 c 1
+ 332 0 l 1
 EndSplineSet
 EndChar
 
-StartChar: semicolon
-Encoding: 59 59 125
-Width: 412
-VWidth: 0
-Flags: HW
-PickledData: "(dp1
-S'com.typemytype.robofont.layerData'
-p2
-(dp3
-s."
+StartChar: hungarumlaut
+Encoding: 733 733 144
+Width: 985
+Flags: W
 LayerCount: 2
 Fore
 SplineSet
-108 1084 m 1
- 313 1084 l 1
- 313 878 l 1
- 108 878 l 1
- 108 1084 l 1
-102 421 m 1
- 336 421 l 1
- 336 260 l 2
- 336 69 245 -74 187 -128 c 1
- 106 -84 l 1
- 153 -29 220 78 220 210 c 1
- 102 210 l 1
- 102 421 l 1
+249 1481 m 1
+ 143 1163 l 1
+ 301 1163 l 1
+ 560 1481 l 1
+ 249 1481 l 1
+613 1481 m 1
+ 428 1163 l 1
+ 683 1163 l 1
+ 853 1481 l 1
+ 613 1481 l 1
 EndSplineSet
 EndChar
 
-StartChar: seven
-Encoding: 55 55 126
-Width: 1095
-VWidth: 0
-Flags: HW
-PickledData: "(dp1
-S'com.typemytype.robofont.layerData'
-p2
-(dp3
-s."
+StartChar: caron
+Encoding: 711 711 145
+Width: 901
+Flags: W
 LayerCount: 2
 Fore
 SplineSet
-501 0 m 1
- 290 0 l 1
- 790 1291 l 1
- 110 1291 l 1
- 110 1446 l 1
- 991 1446 l 1
- 991 1289 l 1
- 501 0 l 1
-EndSplineSet
-EndChar
-
-StartChar: slash
-Encoding: 47 47 127
-Width: 979
-VWidth: 0
-Flags: HW
-PickledData: "(dp1
-S'com.typemytype.robofont.layerData'
-p2
-(dp3
-s."
-LayerCount: 2
-Fore
-SplineSet
-665 1446 m 1
- 858 1446 l 1
- 320 0 l 1
- 125 0 l 1
- 665 1446 l 1
-EndSplineSet
-EndChar
-
-StartChar: space
-Encoding: 32 32 128
-Width: 423
-VWidth: 0
-Flags: HW
-PickledData: "(dp1
-S'com.typemytype.robofont.layerData'
-p2
-(dp3
-s."
-LayerCount: 2
-EndChar
-
-StartChar: t
-Encoding: 116 116 129
-Width: 780
-VWidth: 0
-Flags: HW
-PickledData: "(dp1
-S'com.typemytype.robofont.layerData'
-p2
-(dp3
-s."
-LayerCount: 2
-Fore
-SplineSet
-581 -2 m 2
- 342 -2 224 123 224 326 c 2
- 224 947 l 1
- 47 947 l 1
- 47 1064 l 1
- 231 1064 l 1
- 254 1388 l 1
- 411 1388 l 1
- 411 1064 l 1
- 689 1064 l 1
- 689 947 l 1
- 411 947 l 1
- 411 318 l 2
- 411 198 457 144 608 144 c 2
- 699 144 l 1
- 699 -2 l 1
- 581 -2 l 2
-EndSplineSet
-EndChar
-
-StartChar: uni00B3
-Encoding: 179 179 130
-Width: 428
-VWidth: 0
-Flags: HW
-PickledData: "(dp1
-S'com.typemytype.robofont.layerData'
-p2
-(dp3
-s."
-LayerCount: 2
-Fore
-SplineSet
-387 1420 m 2
- 387 1289 l 2
- 387 1212 374 1174 315 1162 c 1
- 374 1149 387 1109 387 1034 c 2
- 387 818 l 2
- 387 674 375 636 217 636 c 0
- 49 636 37 668 37 818 c 2
- 37 1046 l 1
- 186 1046 l 1
- 186 771 l 2
- 186 749 193 735 213 735 c 0
- 231 735 238 749 238 771 c 2
- 238 1079 l 2
- 238 1098 229 1107 211 1107 c 2
- 156 1107 l 1
- 156 1215 l 1
- 211 1215 l 2
- 229 1215 238 1225 238 1242 c 2
- 238 1467 l 2
- 238 1489 231 1500 213 1500 c 0
- 193 1500 186 1489 186 1467 c 2
- 186 1272 l 1
- 37 1272 l 1
- 37 1420 l 2
- 37 1568 49 1602 213 1602 c 0
- 375 1602 387 1568 387 1420 c 2
-EndSplineSet
-EndChar
-
-StartChar: trademark
-Encoding: 8482 8482 131
-Width: 2168
-VWidth: 0
-Flags: HW
-PickledData: "(dp1
-S'com.typemytype.robofont.layerData'
-p2
-(dp3
-s."
-LayerCount: 2
-Fore
-SplineSet
-1036 1240 m 1
- 1190 878 l 1
- 1346 1240 l 1
- 1582 1240 l 1
- 1582 605 l 1
- 1455 605 l 1
- 1455 1043 l 1
- 1258 605 l 1
- 1122 605 l 1
- 923 1043 l 1
- 923 605 l 1
- 798 605 l 1
- 798 1240 l 1
- 1036 1240 l 1
-664 1240 m 1
- 664 1126 l 1
- 433 1126 l 1
- 433 605 l 1
- 298 605 l 1
- 298 1126 l 1
- 156 1126 l 1
- 156 1240 l 1
- 664 1240 l 1
-EndSplineSet
-EndChar
-
-StartChar: uni00B2
-Encoding: 178 178 132
-Width: 428
-VWidth: 0
-Flags: HW
-PickledData: "(dp1
-S'com.typemytype.robofont.layerData'
-p2
-(dp3
-s."
-LayerCount: 2
-Fore
-SplineSet
-389 1420 m 2
- 389 1296 l 2
- 389 1253 374 1213 360 1174 c 1
- 195 751 l 1
- 389 751 l 1
- 389 639 l 1
- 41 639 l 1
- 41 751 l 1
- 217 1197 l 2
- 227 1225 240 1257 240 1300 c 2
- 240 1467 l 2
- 240 1489 233 1500 213 1500 c 0
- 193 1500 188 1489 188 1467 c 2
- 188 1272 l 1
- 39 1272 l 1
- 39 1420 l 2
- 39 1568 51 1602 213 1602 c 0
- 375 1602 389 1568 389 1420 c 2
-EndSplineSet
-EndChar
-
-StartChar: u
-Encoding: 117 117 133
-Width: 1138
-VWidth: 0
-Flags: HW
-PickledData: "(dp1
-S'com.typemytype.robofont.layerData'
-p2
-(dp3
-s."
-LayerCount: 2
-Fore
-SplineSet
-988 1060 m 1
- 988 0 l 1
- 800 0 l 1
- 800 103 l 1
- 738 31 646 -20 492 -20 c 0
- 231 -20 138 122 138 290 c 2
- 138 1060 l 1
- 326 1060 l 1
- 326 285 l 2
- 326 180 409 122 540 122 c 0
- 724 122 800 208 800 297 c 2
- 800 1060 l 1
- 988 1060 l 1
-EndSplineSet
-EndChar
-
-StartChar: uacute
-Encoding: 250 250 134
-Width: 1138
-VWidth: 0
-Flags: HW
-PickledData: "(dp1
-S'com.typemytype.robofont.layerData'
-p2
-(dp3
-s."
-LayerCount: 2
-Fore
-Refer: 43 180 N 1 0 0 1 138 88 2
-Refer: 133 117 N 1 0 0 1 0 0 3
-EndChar
-
-StartChar: ucircumflex
-Encoding: 251 251 135
-Width: 1138
-VWidth: 0
-Flags: HW
-PickledData: "(dp1
-S'com.typemytype.robofont.layerData'
-p2
-(dp3
-s."
-LayerCount: 2
-Fore
-Refer: 60 710 N 1 0 0 1 112 93 2
-Refer: 133 117 N 1 0 0 1 0 0 3
-EndChar
-
-StartChar: udieresis
-Encoding: 252 252 136
-Width: 1138
-VWidth: 0
-Flags: HW
-PickledData: "(dp1
-S'com.typemytype.robofont.layerData'
-p2
-(dp3
-s."
-LayerCount: 2
-Fore
-Refer: 68 168 N 1 0 0 1 92 -22 2
-Refer: 133 117 N 1 0 0 1 0 0 3
-EndChar
-
-StartChar: ugrave
-Encoding: 249 249 137
-Width: 1138
-VWidth: 0
-Flags: HW
-PickledData: "(dp1
-S'com.typemytype.robofont.layerData'
-p2
-(dp3
-s."
-LayerCount: 2
-Fore
-Refer: 86 96 N 1 0 0 1 138 88 2
-Refer: 133 117 N 1 0 0 1 0 0 3
-EndChar
-
-StartChar: underscore
-Encoding: 95 95 138
-Width: 916
-VWidth: 0
-Flags: HW
-PickledData: "(dp1
-S'com.typemytype.robofont.layerData'
-p2
-(dp3
-s."
-LayerCount: 2
-Fore
-SplineSet
-905 89 m 1
- 905 -82 l 1
- 4 -82 l 1
- 4 89 l 1
- 905 89 l 1
-EndSplineSet
-EndChar
-
-StartChar: v
-Encoding: 118 118 139
-Width: 1014
-VWidth: 0
-Flags: HW
-PickledData: "(dp1
-S'com.typemytype.robofont.layerData'
-p2
-(dp3
-s."
-LayerCount: 2
-Fore
-SplineSet
-610 0 m 1
- 402 0 l 1
- 44 1060 l 1
- 233 1060 l 1
- 509 209 l 1
- 785 1060 l 1
- 969 1060 l 1
- 610 0 l 1
-EndSplineSet
-Kerns2: 113 -8 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 
-EndChar
-
-StartChar: w
-Encoding: 119 119 140
-Width: 1537
-VWidth: 0
-Flags: HW
-PickledData: "(dp1
-S'com.typemytype.robofont.layerData'
-p2
-(dp3
-s."
-LayerCount: 2
-Fore
-SplineSet
-516 0 m 1
- 328 0 l 1
- 44 1060 l 1
- 215 1060 l 1
- 425 209 l 1
- 647 1060 l 1
- 723 1060 l 1
- 814 1060 l 1
- 894 1060 l 1
- 1104 209 l 1
- 1327 1060 l 1
- 1493 1060 l 1
- 1196 0 l 1
- 1007 0 l 1
- 767 894 l 1
- 516 0 l 1
-EndSplineSet
-Kerns2: 113 -7 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 
-EndChar
-
-StartChar: x
-Encoding: 120 120 141
-Width: 967
-VWidth: 0
-Flags: HW
-PickledData: "(dp1
-S'com.typemytype.robofont.layerData'
-p2
-(dp3
-s."
-LayerCount: 2
-Fore
-SplineSet
-39 1060 m 1
- 221 1060 l 1
- 486 666 l 1
- 755 1060 l 1
- 929 1060 l 1
- 574 535 l 1
- 934 0 l 1
- 758 0 l 1
- 485 403 l 1
- 213 0 l 1
- 33 0 l 1
- 396 533 l 1
- 39 1060 l 1
-EndSplineSet
-Kerns2: 108 -13 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 
-EndChar
-
-StartChar: y
-Encoding: 121 121 142
-Width: 1156
-VWidth: 0
-Flags: HW
-PickledData: "(dp1
-S'com.typemytype.robofont.layerData'
-p2
-(dp3
-s."
-LayerCount: 2
-Fore
-SplineSet
-247 -322 m 1
- 247 -175 l 1
- 345 -175 l 2
- 426 -175 502 -145 542 3 c 1
- 72 1056 l 1
- 271 1056 l 1
- 628 216 l 1
- 933 1056 l 1
- 1123 1056 l 1
- 741 45 l 1
- 741 45 l 1
- 648 -227 573 -322 352 -322 c 2
- 247 -322 l 1
-EndSplineSet
-Kerns2: 113 -7 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 
-EndChar
-
-StartChar: z
-Encoding: 122 122 143
-Width: 850
-VWidth: 0
-Flags: HW
-PickledData: "(dp1
-S'com.typemytype.robofont.layerData'
-p2
-(dp3
-s."
-LayerCount: 2
-Fore
-SplineSet
-111 1060 m 1
- 777 1060 l 1
- 777 945 l 1
- 288 124 l 1
- 785 124 l 1
- 785 0 l 1
- 93 0 l 1
- 93 118 l 1
- 579 937 l 1
- 111 937 l 1
- 111 1060 l 1
-EndSplineSet
-EndChar
-
-StartChar: zcaron
-Encoding: 382 382 144
-Width: 753
-VWidth: 0
-Flags: HW
-PickledData: "(dp1
-S'com.typemytype.robofont.layerData'
-p2
-(dp3
-s."
-LayerCount: 2
-Fore
-SplineSet
-80 1445 m 1
- 307 1445 l 1
- 406 1302 l 1
- 507 1445 l 1
- 736 1445 l 1
- 576 1149 l 1
- 238 1149 l 1
- 80 1445 l 1
-87 1084 m 1
- 713 1084 l 1
- 713 906 l 1
- 370 186 l 1
- 715 186 l 1
- 715 0 l 1
- 46 0 l 1
- 46 180 l 1
- 385 898 l 1
- 87 898 l 1
- 87 1084 l 1
-EndSplineSet
-EndChar
-
-StartChar: zero
-Encoding: 48 48 145
-Width: 1336
-VWidth: 0
-Flags: HW
-PickledData: "(dp1
-S'com.typemytype.robofont.layerData'
-p2
-(dp3
-s."
-LayerCount: 2
-Fore
-SplineSet
-677 126 m 0
- 935 126 990 229 990 485 c 2
- 990 962 l 2
- 990 1219 933 1332 677 1332 c 0
- 423 1332 347 1219 347 962 c 2
- 347 485 l 2
- 347 229 421 126 677 126 c 0
-677 -24 m 0
- 194 -24 145 215 145 516 c 2
- 145 925 l 2
- 145 1231 192 1483 677 1483 c 0
- 1144 1483 1191 1218 1191 912 c 2
- 1191 530 l 2
- 1191 233 1142 -24 677 -24 c 0
+561 1150 m 1
+ 788 1446 l 1
+ 607 1446 l 1
+ 448 1242 l 1
+ 289 1446 l 1
+ 113 1446 l 1
+ 351 1150 l 1
+ 561 1150 l 1
 EndSplineSet
 EndChar
 EndChars

@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="i" format="1">
-  <advance width="564"/>
+  <advance width="604"/>
   <unicode hex="0069"/>
   <outline>
     <contour>
-      <point x="131" y="0" type="line"/>
-      <point x="441" y="0" type="line"/>
-      <point x="441" y="1080" type="line"/>
-      <point x="131" y="1080" type="line"/>
+      <point x="152" y="0" type="line"/>
+      <point x="462" y="0" type="line"/>
+      <point x="462" y="1080" type="line"/>
+      <point x="152" y="1080" type="line"/>
     </contour>
     <contour>
-      <point x="131" y="1174" type="line"/>
-      <point x="441" y="1174" type="line"/>
-      <point x="441" y="1435" type="line"/>
-      <point x="131" y="1435" type="line"/>
+      <point x="152" y="1217" type="line"/>
+      <point x="462" y="1217" type="line"/>
+      <point x="462" y="1478" type="line"/>
+      <point x="152" y="1478" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -40,7 +40,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>564</integer>
+          <integer>604</integer>
         </dict>
       </dict>
     </dict>
