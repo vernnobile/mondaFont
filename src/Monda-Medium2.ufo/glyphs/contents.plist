@@ -148,6 +148,8 @@
 	<string>dotlessi.glif</string>
 	<key>e</key>
 	<string>e.glif</string>
+	<key>eight</key>
+	<string>eight.glif</string>
 	<key>ellipsis</key>
 	<string>ellipsis.glif</string>
 	<key>emdash</key>
@@ -166,6 +168,8 @@
 	<string>f.glif</string>
 	<key>fi</key>
 	<string>fi.glif</string>
+	<key>five</key>
+	<string>five.glif</string>
 	<key>fl</key>
 	<string>fl.glif</string>
 	<key>florin</key>
@@ -216,6 +220,8 @@
 	<string>multiply.glif</string>
 	<key>n</key>
 	<string>n.glif</string>
+	<key>nine</key>
+	<string>nine.glif</string>
 	<key>numbersign</key>
 	<string>numbersign.glif</string>
 	<key>o</key>
@@ -258,16 +264,22 @@
 	<string>semicolon.glif</string>
 	<key>seven</key>
 	<string>seven.glif</string>
+	<key>six</key>
+	<string>six.glif</string>
 	<key>slash</key>
 	<string>slash.glif</string>
 	<key>space</key>
 	<string>space.glif</string>
 	<key>t</key>
 	<string>t.glif</string>
+	<key>threefour</key>
+	<string>threefour.glif</string>
 	<key>threesuperior</key>
 	<string>threesuperior.glif</string>
 	<key>trademark</key>
 	<string>trademark.glif</string>
+	<key>two</key>
+	<string>two.glif</string>
 	<key>twosuperior</key>
 	<string>twosuperior.glif</string>
 	<key>u</key>
