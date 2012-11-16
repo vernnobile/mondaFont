@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Y" format="1">
-  <advance width="1312"/>
+  <advance width="1318"/>
   <unicode hex="0059"/>
   <outline>
     <contour>
-      <point x="67" y="1446" type="line"/>
-      <point x="268" y="1446" type="line"/>
-      <point x="673" y="724" type="line"/>
-      <point x="1061" y="1446" type="line"/>
-      <point x="1256" y="1446" type="line"/>
+      <point x="65" y="1446" type="line"/>
+      <point x="266" y="1446" type="line"/>
+      <point x="673" y="744" type="line"/>
+      <point x="1066" y="1446" type="line"/>
+      <point x="1261" y="1446" type="line"/>
       <point x="773" y="568" type="line"/>
       <point x="773" y="0" type="line"/>
       <point x="572" y="0" type="line"/>
@@ -39,7 +39,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1312</integer>
+          <integer>1318</integer>
         </dict>
       </dict>
     </dict>
