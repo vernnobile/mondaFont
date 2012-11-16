@@ -19,7 +19,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1353096974
-ModificationTime: 1353104608
+ModificationTime: 1353104589
 PfmFamily: 0
 TTFWeight: 400
 TTFWidth: 5
@@ -440,7 +440,7 @@ NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 0 21 11
+WinInfo: 21 21 11
 BeginPrivate: 5
 BlueScale 9 0.0202041
 BlueShift 1 0
@@ -452,7 +452,7 @@ Grid
 -2048 500 m 0
  4096 500 l 0
 EndSplineSet
-BeginChars: 65538 181
+BeginChars: 65538 180
 
 StartChar: .notdef
 Encoding: 65536 -1 0
@@ -4479,7 +4479,7 @@ EndChar
 
 StartChar: five
 Encoding: 53 53 83
-Width: 1303
+Width: 500
 VWidth: 0
 Flags: HW
 PickledData: "(dp1
@@ -4488,25 +4488,6 @@ p2
 (dp3
 s."
 LayerCount: 2
-Fore
-SplineSet
-958 381 m 0
- 958 594 769 672 476 700 c 1
- 477 828 l 1
- 820 828 932 964 932 1094 c 0
- 932 1213 850 1326 638 1326 c 0
- 483 1326 337 1288 266 1209 c 1
- 176 1334 l 1
- 281 1438 451 1481 640 1481 c 0
- 889 1481 1125 1363 1125 1097 c 0
- 1125 907 968 795 807 765 c 1
- 976 731 1149 612 1149 368 c 0
- 1149 91 924 -22 659 -22 c 0
- 476 -22 293 17 152 144 c 1
- 239 273 l 1
- 338 183 504 136 669 136 c 0
- 826 136 958 202 958 381 c 0
-EndSplineSet
 EndChar
 
 StartChar: fl
@@ -7104,24 +7085,6 @@ p2
 (dp3
 s."
 LayerCount: 2
-Fore
-SplineSet
-940 606 m 1
- 881 593 818 587 755 587 c 0
- 464 587 206 710 206 1040 c 0
- 206 1358 466 1483 758 1483 c 0
- 1049 1483 1319 1360 1319 1040 c 0
- 1319 958 1302 888 1272 830 c 1
- 1272 830 l 1
- 815 0 l 1
- 603 0 l 1
- 940 606 l 1
-407 1040 m 0
- 407 794 562 731 751 731 c 0
- 943 731 1117 798 1117 1040 c 0
- 1117 1274 945 1345 753 1345 c 0
- 563 1345 407 1275 407 1040 c 0
-EndSplineSet
 EndChar
 
 StartChar: twosuperior
@@ -8106,25 +8069,6 @@ LayerCount: 2
 Fore
 Refer: 68 168 N 1 0 0 1 112 -63 2
 Refer: 111 111 N 1 0 0 1 0 0 3
-EndChar
-
-StartChar: four
-Encoding: 52 52 180
-Width: 1130
-VWidth: 0
-Flags: HW
-LayerCount: 2
-Fore
-SplineSet
-505 0 m 1
- 294 0 l 1
- 794 1291 l 1
- 114 1291 l 1
- 114 1446 l 1
- 995 1446 l 1
- 995 1289 l 1
- 505 0 l 1
-EndSplineSet
 EndChar
 EndChars
 EndSplineFont

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="brokenbar" format="1">
+  <advance width="674"/>
+  <unicode hex="00A6"/>
+  <outline>
+    <contour>
+      <point x="432" y="513" type="line"/>
+      <point x="432" y="-167" type="line"/>
+      <point x="254" y="-167" type="line"/>
+      <point x="254" y="513" type="line"/>
+    </contour>
+    <contour>
+      <point x="432" y="1555" type="line"/>
+      <point x="432" y="848" type="line"/>
+      <point x="254" y="848" type="line"/>
+      <point x="254" y="1555" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+    <key>com.typemytype.robofont.layerData</key>
+    <key>b</key>
+    <key>name</key>
+      <string>brokenbar</string>
+    <key>lib</key>
+    <key>unicodes</key>
+      <array>
+      </array>
+    <key>width</key>
+      <integer>674</integer>
+    <key>contours</key>
+      <array>
+      <key>points</key>
+      <array>
+      <key>segmentType</key>
+      <string>line</string>
+    <key>x</key>
+    <key>smooth</key>
+      <false/>
+    <key>y</key>
+      <key>segmentType</key>
+      <string>line</string>
+    <key>x</key>
+    <key>smooth</key>
+      <false/>
+    <key>y</key>
+      <key>segmentType</key>
+      <string>line</string>
+    <key>x</key>
+    <key>smooth</key>
+      <false/>
+    <key>y</key>
+      <key>segmentType</key>
+      <string>line</string>
+    <key>x</key>
+    <key>smooth</key>
+      <false/>
+    <key>y</key>
+      </array>
+      </array>
+    <key>components</key>
+      <array>
+      </array>
+    <key>anchors</key>
+      <array>
+      </array>
+    </dict>
+  </lib>
+</glyph>

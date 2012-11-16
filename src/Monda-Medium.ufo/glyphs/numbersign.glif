@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="numbersign" format="1">
+  <advance width="1504"/>
+  <unicode hex="0023"/>
+  <outline>
+    <contour>
+      <point x="438" y="-1" type="line"/>
+      <point x="260" y="-1" type="line"/>
+      <point x="347" y="475" type="line"/>
+      <point x="111" y="475" type="line"/>
+      <point x="111" y="594" type="line"/>
+      <point x="369" y="594" type="line"/>
+      <point x="426" y="910" type="line"/>
+      <point x="135" y="910" type="line"/>
+      <point x="135" y="1029" type="line"/>
+      <point x="448" y="1029" type="line"/>
+      <point x="524" y="1446" type="line"/>
+      <point x="694" y="1446" type="line"/>
+      <point x="620" y="1029" type="line"/>
+      <point x="986" y="1029" type="line"/>
+      <point x="1062" y="1446" type="line"/>
+      <point x="1232" y="1446" type="line"/>
+      <point x="1158" y="1029" type="line"/>
+      <point x="1403" y="1029" type="line"/>
+      <point x="1403" y="910" type="line"/>
+      <point x="1137" y="910" type="line"/>
+      <point x="1081" y="594" type="line"/>
+      <point x="1379" y="594" type="line"/>
+      <point x="1379" y="475" type="line"/>
+      <point x="1060" y="475" type="line"/>
+      <point x="976" y="-1" type="line"/>
+      <point x="798" y="-1" type="line"/>
+      <point x="885" y="475" type="line"/>
+      <point x="522" y="475" type="line"/>
+    </contour>
+    <contour>
+      <point x="964" y="910" type="line"/>
+      <point x="599" y="910" type="line"/>
+      <point x="543" y="594" type="line"/>
+      <point x="907" y="594" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+    <key>com.typemytype.robofont.layerData</key>
+    <key>b</key>
+    <key>name</key>
+      <string>numbersign</string>
+    <key>lib</key>
+    <key>unicodes</key>
+      <array>
+      </array>
+    <key>width</key>
+      <integer>1504</integer>
+    <key>contours</key>
+      <array>
+      </array>
+    <key>components</key>
+      <array>
+      </array>
+    <key>anchors</key>
+      <array>
+      </array>
+    </dict>
+  </lib>
+</glyph>
