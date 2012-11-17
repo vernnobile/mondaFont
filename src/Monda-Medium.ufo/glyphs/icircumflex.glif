@@ -1,32 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="icircumflex" format="1">
-  <advance width="419"/>
+  <advance width="307"/>
   <unicode hex="00EE"/>
   <outline>
-    <component base="circumflex" xOffset="-376" yOffset="-308"/>
-    <component base="dotlessi"/>
+    <contour>
+      <point x="158" y="1472" type="line"/>
+      <point x="-59" y="1206" type="line"/>
+      <point x="102" y="1206" type="line"/>
+      <point x="234" y="1380" type="line"/>
+      <point x="358" y="1206" type="line"/>
+      <point x="514" y="1206" type="line"/>
+      <point x="308" y="1472" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>
-    <key>com.typemytype.robofont.layerData</key>
-    <key>b</key>
-    <key>name</key>
-      <string>icircumflex</string>
-    <key>lib</key>
-    <key>unicodes</key>
-      <array>
-      </array>
-    <key>width</key>
-      <integer>419</integer>
-    <key>contours</key>
-      <array>
-      </array>
-    <key>components</key>
-      <array>
-      </array>
-    <key>anchors</key>
-      <array>
-      </array>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
     </dict>
   </lib>
 </glyph>

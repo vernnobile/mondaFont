@@ -5,67 +5,24 @@
   <outline>
     <contour>
       <point x="735" y="216" type="line"/>
-      <point x="487" y="458" type="line"/>
-      <point x="239" y="216" type="line"/>
-      <point x="129" y="344" type="line"/>
-      <point x="366" y="576" type="line"/>
-      <point x="129" y="806" type="line"/>
-      <point x="239" y="937" type="line"/>
-      <point x="487" y="694" type="line"/>
-      <point x="735" y="937" type="line"/>
-      <point x="844" y="806" type="line"/>
-      <point x="608" y="576" type="line"/>
       <point x="844" y="344" type="line"/>
+      <point x="608" y="576" type="line"/>
+      <point x="844" y="806" type="line"/>
+      <point x="735" y="937" type="line"/>
+      <point x="487" y="694" type="line"/>
+      <point x="239" y="937" type="line"/>
+      <point x="129" y="806" type="line"/>
+      <point x="366" y="576" type="line"/>
+      <point x="129" y="344" type="line"/>
+      <point x="239" y="216" type="line"/>
+      <point x="487" y="458" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
-    <key>com.typemytype.robofont.layerData</key>
-    <key>b</key>
-    <key>name</key>
-      <string>multiply</string>
-    <key>lib</key>
-    <key>unicodes</key>
-      <array>
-      </array>
-    <key>width</key>
-      <integer>973</integer>
-    <key>contours</key>
-      <array>
-      <key>points</key>
-      <array>
-      <key>segmentType</key>
-      <string>line</string>
-    <key>x</key>
-    <key>smooth</key>
-      <false/>
-    <key>y</key>
-      <key>segmentType</key>
-      <string>line</string>
-    <key>x</key>
-    <key>smooth</key>
-      <false/>
-    <key>y</key>
-      <key>segmentType</key>
-      <string>line</string>
-    <key>x</key>
-    <key>smooth</key>
-      <false/>
-    <key>y</key>
-      <key>segmentType</key>
-      <string>line</string>
-    <key>x</key>
-    <key>smooth</key>
-      <false/>
-    <key>y</key>
-      </array>
-      </array>
-    <key>components</key>
-      <array>
-      </array>
-    <key>anchors</key>
-      <array>
-      </array>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
     </dict>
   </lib>
 </glyph>

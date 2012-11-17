@@ -4,49 +4,33 @@
   <unicode hex="0074"/>
   <outline>
     <contour>
-      <point x="599" y="-5" type="line" smooth="yes"/>
-      <point x="360" y="-5"/>
-      <point x="242" y="120"/>
-      <point x="242" y="323" type="curve" smooth="yes"/>
-      <point x="242" y="944" type="line"/>
-      <point x="65" y="944" type="line"/>
-      <point x="65" y="1061" type="line"/>
-      <point x="249" y="1061" type="line"/>
-      <point x="272" y="1388" type="line"/>
-      <point x="429" y="1388" type="line"/>
-      <point x="429" y="1061" type="line"/>
-      <point x="707" y="1061" type="line"/>
-      <point x="707" y="944" type="line"/>
-      <point x="429" y="944" type="line"/>
-      <point x="429" y="315" type="line" smooth="yes"/>
-      <point x="429" y="195"/>
-      <point x="475" y="141"/>
-      <point x="626" y="141" type="curve" smooth="yes"/>
-      <point x="717" y="141" type="line"/>
+      <point x="599" y="-5" type="curve" smooth="yes"/>
       <point x="717" y="-5" type="line"/>
+      <point x="717" y="141" type="line"/>
+      <point x="626" y="141" type="line" smooth="yes"/>
+      <point x="475" y="141"/>
+      <point x="429" y="195"/>
+      <point x="429" y="315" type="curve" smooth="yes"/>
+      <point x="429" y="944" type="line"/>
+      <point x="707" y="944" type="line"/>
+      <point x="707" y="1061" type="line"/>
+      <point x="429" y="1061" type="line"/>
+      <point x="429" y="1388" type="line"/>
+      <point x="272" y="1388" type="line"/>
+      <point x="249" y="1061" type="line"/>
+      <point x="65" y="1061" type="line"/>
+      <point x="65" y="944" type="line"/>
+      <point x="242" y="944" type="line"/>
+      <point x="242" y="323" type="line" smooth="yes"/>
+      <point x="242" y="120"/>
+      <point x="360" y="-5"/>
     </contour>
   </outline>
   <lib>
     <dict>
-    <key>com.typemytype.robofont.layerData</key>
-    <key>b</key>
-    <key>name</key>
-      <string>t</string>
-    <key>lib</key>
-    <key>unicodes</key>
-      <array>
-      </array>
-    <key>width</key>
-      <integer>814</integer>
-    <key>contours</key>
-      <array>
-      </array>
-    <key>components</key>
-      <array>
-      </array>
-    <key>anchors</key>
-      <array>
-      </array>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
     </dict>
   </lib>
 </glyph>

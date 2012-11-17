@@ -4,42 +4,26 @@
   <unicode hex="0041"/>
   <outline>
     <contour>
-      <point x="1308" y="0" type="line"/>
-      <point x="1103" y="0" type="line"/>
-      <point x="1005" y="282" type="line"/>
-      <point x="376" y="282" type="line"/>
-      <point x="277" y="0" type="line"/>
-      <point x="68" y="0" type="line"/>
-      <point x="599" y="1446" type="line"/>
-      <point x="776" y="1446" type="line"/>
+      <point x="959" y="417" type="line"/>
+      <point x="424" y="417" type="line"/>
+      <point x="693" y="1184" type="line"/>
     </contour>
     <contour>
-      <point x="959" y="417" type="line"/>
-      <point x="693" y="1184" type="line"/>
-      <point x="424" y="417" type="line"/>
+      <point x="1308" y="0" type="line"/>
+      <point x="776" y="1446" type="line"/>
+      <point x="599" y="1446" type="line"/>
+      <point x="68" y="0" type="line"/>
+      <point x="277" y="0" type="line"/>
+      <point x="376" y="282" type="line"/>
+      <point x="1005" y="282" type="line"/>
+      <point x="1103" y="0" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
-    <key>com.typemytype.robofont.layerData</key>
-    <key>b</key>
-    <key>name</key>
-      <string>A</string>
-    <key>lib</key>
-    <key>unicodes</key>
-      <array>
-      </array>
-    <key>width</key>
-      <integer>1376</integer>
-    <key>contours</key>
-      <array>
-      </array>
-    <key>components</key>
-      <array>
-      </array>
-    <key>anchors</key>
-      <array>
-      </array>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
     </dict>
   </lib>
 </glyph>

@@ -5,36 +5,20 @@
   <outline>
     <contour>
       <point x="182" y="1496" type="line"/>
-      <point x="580" y="1496" type="line"/>
-      <point x="580" y="-76" type="line"/>
-      <point x="182" y="-76" type="line"/>
-      <point x="182" y="38" type="line"/>
-      <point x="369" y="38" type="line"/>
-      <point x="369" y="1382" type="line"/>
       <point x="182" y="1382" type="line"/>
+      <point x="369" y="1382" type="line"/>
+      <point x="369" y="38" type="line"/>
+      <point x="182" y="38" type="line"/>
+      <point x="182" y="-76" type="line"/>
+      <point x="580" y="-76" type="line"/>
+      <point x="580" y="1496" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
-    <key>com.typemytype.robofont.layerData</key>
-    <key>b</key>
-    <key>name</key>
-      <string>bracketright</string>
-    <key>lib</key>
-    <key>unicodes</key>
-      <array>
-      </array>
-    <key>width</key>
-      <integer>804</integer>
-    <key>contours</key>
-      <array>
-      </array>
-    <key>components</key>
-      <array>
-      </array>
-    <key>anchors</key>
-      <array>
-      </array>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
     </dict>
   </lib>
 </glyph>
