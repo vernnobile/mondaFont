@@ -17,8 +17,23 @@
 			</dict>
 		</dict>
 	</dict>
+	<key>com.typemytype.robofont.b.layerStrokeColor</key>
+	<array>
+		<real>1.0</real>
+		<real>0.75</real>
+		<real>0.0</real>
+		<real>0.7</real>
+	</array>
+	<key>com.typemytype.robofont.foreground.layerStrokeColor</key>
+	<array>
+		<real>0.5</real>
+		<real>0.0</real>
+		<real>0.5</real>
+		<real>0.7</real>
+	</array>
 	<key>com.typemytype.robofont.layerOrder</key>
 	<array>
+		<string>b</string>
 	</array>
 	<key>com.typemytype.robofont.segmentType</key>
 	<string>curve</string>
@@ -454,6 +469,7 @@
 				<string>napostrophe</string>
 				<string>eng</string>
 				<string>Eng</string>
+				<string>threefour</string>
 			</array>
 			<key>type</key>
 			<string>glyphList</string>
@@ -888,6 +904,9 @@
 		<string>napostrophe</string>
 		<string>eng</string>
 		<string>Eng</string>
+		<string>threefour</string>
+		<string>c.alt</string>
+		<string>S.alt</string>
 	</array>
 </dict>
 </plist>

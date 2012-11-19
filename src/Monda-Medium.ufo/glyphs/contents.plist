@@ -180,6 +180,8 @@
 	<string>Rcommaaccent_.glif</string>
 	<key>S</key>
 	<string>S_.glif</string>
+	<key>S.alt</key>
+	<string>S_.alt.glif</string>
 	<key>Sacute</key>
 	<string>Sacute_.glif</string>
 	<key>Scaron</key>
@@ -308,6 +310,8 @@
 	<string>bullet.glif</string>
 	<key>c</key>
 	<string>c.glif</string>
+	<key>c.alt</key>
+	<string>c.alt.glif</string>
 	<key>cacute</key>
 	<string>cacute.glif</string>
 	<key>caron</key>
