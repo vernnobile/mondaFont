@@ -470,6 +470,8 @@
 				<string>eng</string>
 				<string>Eng</string>
 				<string>threefour</string>
+				<string>c.alt</string>
+				<string>S.alt</string>
 			</array>
 			<key>type</key>
 			<string>glyphList</string>
