@@ -4,25 +4,25 @@
   <unicode hex="0100"/>
   <outline>
     <contour>
-      <point x="487.5" y="1757" type="line"/>
-      <point x="487.5" y="1605" type="line"/>
-      <point x="888.5" y="1605" type="line"/>
-      <point x="888.5" y="1757" type="line"/>
-    </contour>
-    <contour>
-      <point x="959.0" y="417" type="line"/>
-      <point x="424.0" y="417" type="line"/>
-      <point x="693.0" y="1184" type="line"/>
-    </contour>
-    <contour>
-      <point x="1308.0" y="0" type="line"/>
-      <point x="776.0" y="1446" type="line"/>
-      <point x="599.0" y="1446" type="line"/>
       <point x="68.0" y="0" type="line"/>
       <point x="277.0" y="0" type="line"/>
       <point x="376.0" y="282" type="line"/>
       <point x="1005.0" y="282" type="line"/>
       <point x="1103.0" y="0" type="line"/>
+      <point x="1308.0" y="0" type="line"/>
+      <point x="776.0" y="1446" type="line"/>
+      <point x="599.0" y="1446" type="line"/>
+    </contour>
+    <contour>
+      <point x="487.5" y="1605" type="line"/>
+      <point x="888.5" y="1605" type="line"/>
+      <point x="888.5" y="1757" type="line"/>
+      <point x="487.5" y="1757" type="line"/>
+    </contour>
+    <contour>
+      <point x="424.0" y="417" type="line"/>
+      <point x="693.0" y="1184" type="line"/>
+      <point x="959.0" y="417" type="line"/>
     </contour>
   </outline>
   <lib>

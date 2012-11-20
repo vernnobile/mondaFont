@@ -4,6 +4,19 @@
   <unicode hex="00BC"/>
   <outline>
     <contour>
+      <point x="1598" y="-12" type="line"/>
+      <point x="1782" y="-12" type="line"/>
+      <point x="1782" y="202" type="line"/>
+      <point x="1889" y="202" type="line"/>
+      <point x="1889" y="333" type="line"/>
+      <point x="1782" y="333" type="line"/>
+      <point x="1782" y="815" type="line"/>
+      <point x="1620" y="815" type="line"/>
+      <point x="1056" y="324" type="line"/>
+      <point x="1056" y="202" type="line"/>
+      <point x="1598" y="202" type="line"/>
+    </contour>
+    <contour>
       <point x="164" y="536" type="line"/>
       <point x="348" y="536" type="line"/>
       <point x="348" y="1310" type="line"/>
@@ -19,19 +32,6 @@
       <point x="499" y="0" type="line"/>
       <point x="1480" y="1518" type="line"/>
       <point x="1212" y="1518" type="line"/>
-    </contour>
-    <contour>
-      <point x="1056" y="202" type="line"/>
-      <point x="1598" y="202" type="line"/>
-      <point x="1598" y="-12" type="line"/>
-      <point x="1782" y="-12" type="line"/>
-      <point x="1782" y="202" type="line"/>
-      <point x="1889" y="202" type="line"/>
-      <point x="1889" y="333" type="line"/>
-      <point x="1782" y="333" type="line"/>
-      <point x="1782" y="815" type="line"/>
-      <point x="1620" y="815" type="line"/>
-      <point x="1056" y="324" type="line"/>
     </contour>
     <contour>
       <point x="1442" y="333" type="line"/>

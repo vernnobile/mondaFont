@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="onesuperior" format="1">
+  <advance width="988"/>
+  <unicode hex="00B9"/>
+  <outline>
+    <contour>
+      <point x="468.9375" y="602.248046875" type="line"/>
+      <point x="207.0" y="602.248046875" type="line"/>
+      <point x="207.0" y="501.0" type="line"/>
+      <point x="831.470703125" y="501.0" type="line"/>
+      <point x="831.470703125" y="602.248046875" type="line"/>
+      <point x="600.233398438" y="602.248046875" type="line"/>
+      <point x="600.233398438" y="1445.54492188" type="line"/>
+      <point x="493.106445312" y="1445.54492188" type="line"/>
+      <point x="212.87890625" y="1412.88378906" type="line"/>
+      <point x="224.63671875" y="1309.0234375" type="line"/>
+      <point x="468.9375" y="1335.15136719" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>onesuperior</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>988</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

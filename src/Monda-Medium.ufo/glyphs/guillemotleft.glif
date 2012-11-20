@@ -1,8 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="guillemotleft" format="1">
-  <advance width="307"/>
+  <advance width="1053"/>
   <unicode hex="00AB"/>
   <outline>
+    <contour>
+      <point x="899" y="150" type="curve"/>
+      <point x="694" y="530" type="line"/>
+      <point x="899" y="910" type="line"/>
+      <point x="899" y="910"/>
+      <point x="754" y="980"/>
+      <point x="754" y="980" type="curve"/>
+      <point x="754" y="980"/>
+      <point x="481" y="530"/>
+      <point x="481" y="530" type="curve"/>
+      <point x="761" y="80" type="line"/>
+      <point x="761" y="80"/>
+      <point x="899" y="150"/>
+    </contour>
+    <contour>
+      <point x="487" y="150" type="curve"/>
+      <point x="280" y="530" type="line"/>
+      <point x="487" y="910" type="line"/>
+      <point x="487" y="910"/>
+      <point x="340" y="980"/>
+      <point x="340" y="980" type="curve"/>
+      <point x="340" y="980"/>
+      <point x="67" y="530"/>
+      <point x="67" y="530" type="curve"/>
+      <point x="347" y="80" type="line"/>
+      <point x="347" y="80"/>
+      <point x="487" y="150"/>
+    </contour>
   </outline>
   <lib>
     <dict>
@@ -23,12 +51,12 @@
           <dict>
           </dict>
           <key>name</key>
-          <string>guillemotleft</string>
+          <string>less</string>
           <key>unicodes</key>
           <array>
           </array>
           <key>width</key>
-          <integer>307</integer>
+          <integer>1053</integer>
         </dict>
       </dict>
     </dict>

@@ -1,8 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Euro" format="1">
-  <advance width="307"/>
+  <advance width="1460"/>
   <unicode hex="20AC"/>
   <outline>
+    <contour>
+      <point x="1.0" y="505.0" type="line"/>
+      <point x="743.0" y="505.0" type="line"/>
+      <point x="743.0" y="639.0" type="line"/>
+      <point x="1.0" y="639.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1.0" y="819.0" type="line"/>
+      <point x="743.0" y="819.0" type="line"/>
+      <point x="743.0" y="953.0" type="line"/>
+      <point x="1.0" y="953.0" type="line"/>
+    </contour>
+    <component base="C"/>
   </outline>
   <lib>
     <dict>
@@ -23,12 +36,12 @@
           <dict>
           </dict>
           <key>name</key>
-          <string>Euro</string>
+          <string>currency</string>
           <key>unicodes</key>
           <array>
           </array>
           <key>width</key>
-          <integer>307</integer>
+          <integer>1460</integer>
         </dict>
       </dict>
     </dict>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Aring" format="1">
+  <advance width="1376"/>
+  <unicode hex="00C5"/>
+  <outline>
+    <contour>
+      <point x="688.5" y="1536.1328125" type="curve" smooth="yes"/>
+      <point x="631.5" y="1536.1328125"/>
+      <point x="579.5" y="1562.1328125"/>
+      <point x="579.5" y="1650.1328125" type="curve" smooth="yes"/>
+      <point x="579.5" y="1737.1328125"/>
+      <point x="632.5" y="1762.1328125"/>
+      <point x="688.5" y="1762.1328125" type="curve" smooth="yes"/>
+      <point x="746.5" y="1762.1328125"/>
+      <point x="796.5" y="1735.1328125"/>
+      <point x="796.5" y="1648.1328125" type="curve" smooth="yes"/>
+      <point x="796.5" y="1561.1328125"/>
+      <point x="745.5" y="1536.1328125"/>
+    </contour>
+    <contour>
+      <point x="688.5" y="1471.1328125" type="curve" smooth="yes"/>
+      <point x="788.5" y="1471.1328125"/>
+      <point x="882.5" y="1526.1328125"/>
+      <point x="882.5" y="1649.1328125" type="curve" smooth="yes"/>
+      <point x="882.5" y="1772.1328125"/>
+      <point x="788.5" y="1827.1328125"/>
+      <point x="688.5" y="1827.1328125" type="curve" smooth="yes"/>
+      <point x="588.5" y="1827.1328125"/>
+      <point x="493.5" y="1772.1328125"/>
+      <point x="493.5" y="1649.1328125" type="curve" smooth="yes"/>
+      <point x="493.5" y="1526.1328125"/>
+      <point x="588.5" y="1471.1328125"/>
+    </contour>
+    <contour>
+      <point x="959.0" y="417.0" type="line"/>
+      <point x="424.0" y="417.0" type="line"/>
+      <point x="693.0" y="1184.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1308.0" y="0.0" type="line"/>
+      <point x="776.0" y="1446.0" type="line"/>
+      <point x="599.0" y="1446.0" type="line"/>
+      <point x="68.0" y="0.0" type="line"/>
+      <point x="277.0" y="0.0" type="line"/>
+      <point x="376.0" y="282.0" type="line"/>
+      <point x="1005.0" y="282.0" type="line"/>
+      <point x="1103.0" y="0.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>Aring</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1376</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,47 @@
+<?xml version='1.0'?>
+<designspace>
+<!-- Superpolator Designspace Object -->
+
+<!-- info -->
+<version format="120823_1018_beta_" superpolator="1" />
+<!-- application data -->
+<data name="zPreviewAxis" value="None" />
+<data name="horizontalPreviewAxis" value="Monda" />
+<data name="preferLeftToRight" value="1" />
+<data name="previewTypeSize" value="200.0" />
+<data name="previewtext" value="Hoffenbatch" />
+<data name="verticalPreviewAxis" value="None" />
+<data name="projectionAngle" value="0.392699081699" />
+<!-- axis definitions -->
+<axis maximum="1000" minimum="0" name="Monda" shortname="xx" />
+
+<!-- master definitions -->
+<master filename="Monda-Medium.ufo">
+<location>
+<dimension name="Monda" xvalue="0" />
+</location>
+<!-- color for Monda-Medium.ufo -->
+<color a="1.000000" b="1.000000" g="0.500000" r="0.000000" />
+</master>
+<master filename="Monda-Bold.ufo">
+<location>
+<dimension name="Monda" xvalue="1000" />
+</location>
+<!-- color for Monda-Bold.ufo -->
+<color a="1.000000" b="0.500000" g="0.500000" r="0.500000" />
+</master>
+
+<!-- instance definitions -->
+<instance familyname="Monda" sequence="" stylename="Light">
+<location>
+<dimension name="Monda" xvalue="-295.1692" />
+<dimension name="None" xvalue="0" />
+</location>
+</instance>
+<instance familyname="Monda" sequence="" stylename="Heavy">
+<location>
+<dimension name="Monda" xvalue="1533.3736" />
+<dimension name="None" xvalue="0" />
+</location>
+</instance>
+</designspace>

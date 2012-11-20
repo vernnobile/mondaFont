@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="asterisk" format="1">
-  <advance width="1132"/>
+  <advance width="1040"/>
   <unicode hex="002A"/>
   <outline>
     <contour>
-      <point x="477" y="1446" type="line"/>
-      <point x="505" y="1133" type="line"/>
-      <point x="258" y="1323" type="line"/>
-      <point x="163" y="1170" type="line"/>
-      <point x="443" y="1028" type="line"/>
-      <point x="153" y="911" type="line"/>
-      <point x="233" y="750" type="line"/>
-      <point x="506" y="924" type="line"/>
-      <point x="477" y="599" type="line"/>
-      <point x="655" y="599" type="line"/>
-      <point x="626" y="912" type="line"/>
-      <point x="873" y="722" type="line"/>
-      <point x="968" y="875" type="line"/>
-      <point x="688" y="1017" type="line"/>
-      <point x="979" y="1134" type="line"/>
-      <point x="898" y="1295" type="line"/>
-      <point x="625" y="1121" type="line"/>
-      <point x="655" y="1446" type="line"/>
+      <point x="431" y="599" type="line"/>
+      <point x="609" y="599" type="line"/>
+      <point x="580" y="912" type="line"/>
+      <point x="827" y="722" type="line"/>
+      <point x="922" y="875" type="line"/>
+      <point x="642" y="1017" type="line"/>
+      <point x="933" y="1134" type="line"/>
+      <point x="852" y="1295" type="line"/>
+      <point x="579" y="1121" type="line"/>
+      <point x="609" y="1446" type="line"/>
+      <point x="431" y="1446" type="line"/>
+      <point x="459" y="1133" type="line"/>
+      <point x="212" y="1323" type="line"/>
+      <point x="117" y="1170" type="line"/>
+      <point x="397" y="1028" type="line"/>
+      <point x="107" y="911" type="line"/>
+      <point x="187" y="750" type="line"/>
+      <point x="460" y="924" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -48,7 +48,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1132</integer>
+          <integer>1040</integer>
         </dict>
       </dict>
     </dict>

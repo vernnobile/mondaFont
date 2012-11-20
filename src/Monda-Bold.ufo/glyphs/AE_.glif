@@ -1,30 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="AE" format="1">
-  <advance width="1612"/>
+  <advance width="1925"/>
   <unicode hex="00C6"/>
   <outline>
     <contour>
-      <point x="36" y="0" type="line"/>
-      <point x="354" y="0" type="line"/>
-      <point x="566" y="319" type="line"/>
-      <point x="989" y="319" type="line"/>
-      <point x="989" y="0" type="line"/>
-      <point x="1588" y="0" type="line"/>
-      <point x="1588" y="207" type="line"/>
-      <point x="1268" y="207" type="line"/>
-      <point x="1268" y="665" type="line"/>
-      <point x="1494" y="665" type="line"/>
-      <point x="1494" y="877" type="line"/>
-      <point x="1268" y="877" type="line"/>
-      <point x="1268" y="1283" type="line"/>
-      <point x="1588" y="1283" type="line"/>
-      <point x="1588" y="1490" type="line"/>
-      <point x="934" y="1490" type="line"/>
+      <point x="433" y="0" type="line"/>
+      <point x="514" y="280" type="line"/>
+      <point x="881" y="280" type="line"/>
+      <point x="881" y="0" type="line"/>
+      <point x="1811" y="0" type="line"/>
+      <point x="1811" y="261" type="line"/>
+      <point x="1220" y="261" type="line"/>
+      <point x="1220" y="636" type="line"/>
+      <point x="1726" y="636" type="line"/>
+      <point x="1726" y="877" type="line"/>
+      <point x="1220" y="877" type="line"/>
+      <point x="1220" y="1228" type="line"/>
+      <point x="1800" y="1228" type="line"/>
+      <point x="1800" y="1490" type="line"/>
+      <point x="540" y="1490" type="line"/>
+      <point x="76" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="674" y="504" type="line"/>
-      <point x="989" y="979" type="line"/>
-      <point x="989" y="504" type="line"/>
+      <point x="578" y="503" type="line"/>
+      <point x="792" y="1228" type="line"/>
+      <point x="881" y="1228" type="line"/>
+      <point x="881" y="503" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -51,7 +52,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1612</integer>
+          <integer>1925</integer>
         </dict>
       </dict>
     </dict>

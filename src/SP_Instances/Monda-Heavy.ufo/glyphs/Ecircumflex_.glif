@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ecircumflex" format="1">
+  <advance width="597"/>
+  <unicode hex="00CA"/>
+  <outline>
+    <contour>
+      <point x="125" y="0" type="line"/>
+      <point x="868" y="0" type="line"/>
+      <point x="868" y="320" type="line"/>
+      <point x="538" y="320" type="line"/>
+      <point x="538" y="621" type="line"/>
+      <point x="763" y="621" type="line"/>
+      <point x="763" y="911" type="line"/>
+      <point x="538" y="911" type="line"/>
+      <point x="538" y="1192" type="line"/>
+      <point x="873" y="1192" type="line"/>
+      <point x="873" y="1513" type="line"/>
+      <point x="125" y="1513" type="line"/>
+    </contour>
+    <contour>
+      <point x="-113" y="1541" type="line"/>
+      <point x="177" y="1541" type="line"/>
+      <point x="273" y="1704" type="line"/>
+      <point x="377" y="1541" type="line"/>
+      <point x="673" y="1541" type="line"/>
+      <point x="522" y="1914" type="line"/>
+      <point x="26" y="1914" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>Ecircumflex</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1241</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

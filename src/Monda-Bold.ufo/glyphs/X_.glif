@@ -1,19 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="X" format="1">
-  <advance width="1492"/>
+  <advance width="1366"/>
   <unicode hex="0058"/>
   <outline>
     <contour>
-      <point x="79" y="0" type="line"/>
-      <point x="432" y="0" type="line"/>
-      <point x="1395" y="1490" type="line"/>
-      <point x="1018" y="1490" type="line"/>
-    </contour>
-    <contour>
-      <point x="1039" y="0" type="line"/>
-      <point x="1413" y="0" type="line"/>
-      <point x="443" y="1490" type="line"/>
-      <point x="87" y="1490" type="line"/>
+      <point x="16" y="0" type="line"/>
+      <point x="369" y="0" type="line"/>
+      <point x="674" y="472" type="line"/>
+      <point x="976" y="0" type="line"/>
+      <point x="1350" y="0" type="line"/>
+      <point x="858" y="756" type="line"/>
+      <point x="1332" y="1490" type="line"/>
+      <point x="955" y="1490" type="line"/>
+      <point x="672" y="1041" type="line"/>
+      <point x="380" y="1490" type="line"/>
+      <point x="24" y="1490" type="line"/>
+      <point x="493" y="756" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -40,7 +42,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1492</integer>
+          <integer>1366</integer>
         </dict>
       </dict>
     </dict>

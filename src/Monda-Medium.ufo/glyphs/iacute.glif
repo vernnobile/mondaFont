@@ -4,10 +4,10 @@
   <unicode hex="00ED"/>
   <outline>
     <contour>
-      <point x="46" y="1547" type="line"/>
       <point x="303" y="1206" type="line"/>
       <point x="409" y="1206" type="line"/>
       <point x="271" y="1547" type="line"/>
+      <point x="46" y="1547" type="line"/>
     </contour>
   </outline>
   <lib>
