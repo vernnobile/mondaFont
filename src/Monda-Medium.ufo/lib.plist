@@ -517,6 +517,8 @@
 				<string>threefour</string>
 				<string>c.alt</string>
 				<string>S.alt</string>
+				<string>eng.add_1</string>
+				<string>Euro.add_1</string>
 			</array>
 			<key>type</key>
 			<string>glyphList</string>

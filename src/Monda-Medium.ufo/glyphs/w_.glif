@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="W" format="1">
-  <advance width="1975"/>
+  <advance width="1976"/>
   <unicode hex="0057"/>
   <outline>
     <contour>
@@ -15,8 +15,8 @@
       <point x="1097" y="1446" type="line"/>
       <point x="882" y="1446" type="line"/>
       <point x="580" y="346" type="line"/>
-      <point x="295" y="1446" type="line"/>
-      <point x="111" y="1446" type="line"/>
+      <point x="296" y="1446" type="line"/>
+      <point x="112" y="1446" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -43,7 +43,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1975</integer>
+          <integer>1976</integer>
         </dict>
       </dict>
     </dict>

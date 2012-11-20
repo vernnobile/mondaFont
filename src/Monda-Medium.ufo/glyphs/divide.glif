@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="divide" format="1">
-  <advance width="1073"/>
+  <advance width="1025"/>
   <unicode hex="00F7"/>
   <outline>
     <contour>
-      <point x="431" y="90" type="line"/>
-      <point x="648" y="90" type="line"/>
-      <point x="648" y="299" type="line"/>
-      <point x="431" y="299" type="line"/>
+      <point x="413" y="90" type="line"/>
+      <point x="618" y="90" type="line"/>
+      <point x="618" y="299" type="line"/>
+      <point x="413" y="299" type="line"/>
     </contour>
     <contour>
-      <point x="124" y="472" type="line"/>
-      <point x="949" y="472" type="line"/>
-      <point x="949" y="609" type="line"/>
-      <point x="124" y="609" type="line"/>
+      <point x="100" y="472" type="line"/>
+      <point x="925" y="472" type="line"/>
+      <point x="925" y="609" type="line"/>
+      <point x="100" y="609" type="line"/>
     </contour>
     <contour>
-      <point x="431" y="787" type="line"/>
-      <point x="648" y="787" type="line"/>
-      <point x="648" y="996" type="line"/>
-      <point x="431" y="996" type="line"/>
+      <point x="413" y="787" type="line"/>
+      <point x="618" y="787" type="line"/>
+      <point x="618" y="996" type="line"/>
+      <point x="413" y="996" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -46,7 +46,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1073</integer>
+          <integer>1025</integer>
         </dict>
       </dict>
     </dict>

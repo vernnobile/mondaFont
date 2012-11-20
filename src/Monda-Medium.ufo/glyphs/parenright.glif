@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="parenright" format="1">
-  <advance width="1040"/>
+  <advance width="1024"/>
   <unicode hex="0029"/>
   <outline>
     <contour>
@@ -46,7 +46,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1040</integer>
+          <integer>1024</integer>
         </dict>
       </dict>
     </dict>

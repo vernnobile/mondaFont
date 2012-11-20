@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="icircumflex" format="1">
-  <advance width="307"/>
+  <advance width="512"/>
   <unicode hex="00EE"/>
   <outline>
     <contour>
-      <point x="-59" y="1206" type="line"/>
-      <point x="102" y="1206" type="line"/>
-      <point x="234" y="1380" type="line"/>
-      <point x="358" y="1206" type="line"/>
-      <point x="514" y="1206" type="line"/>
-      <point x="308" y="1472" type="line"/>
-      <point x="158" y="1472" type="line"/>
+      <point x="-30" y="1240" type="line"/>
+      <point x="130" y="1240" type="line"/>
+      <point x="262" y="1414" type="line"/>
+      <point x="386" y="1240" type="line"/>
+      <point x="542" y="1240" type="line"/>
+      <point x="336" y="1506" type="line"/>
+      <point x="186" y="1506" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -37,7 +37,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>307</integer>
+          <integer>512</integer>
         </dict>
       </dict>
     </dict>
