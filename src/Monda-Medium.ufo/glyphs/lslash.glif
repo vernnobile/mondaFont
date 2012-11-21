@@ -1,8 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="lslash" format="1">
-  <advance width="307"/>
+  <advance width="708"/>
   <unicode hex="0142"/>
   <outline>
+    <contour>
+      <point x="52.0" y="616.0" type="line"/>
+      <point x="604" y="887" type="line"/>
+      <point x="604" y="1011" type="line"/>
+      <point x="52.0" y="740.0" type="line"/>
+    </contour>
+    <component base="l"/>
   </outline>
   <lib>
     <dict>
@@ -28,7 +35,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>307</integer>
+          <integer>708</integer>
         </dict>
       </dict>
     </dict>

@@ -1,8 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="hbar" format="1">
-  <advance width="307"/>
+  <advance width="1224"/>
   <unicode hex="0127"/>
   <outline>
+    <contour>
+      <point x="29" y="1249" type="line"/>
+      <point x="844" y="1249" type="line"/>
+      <point x="844" y="1373" type="line"/>
+      <point x="29" y="1373" type="line"/>
+    </contour>
+    <component base="h"/>
   </outline>
   <lib>
     <dict>
@@ -28,7 +35,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>307</integer>
+          <integer>1224</integer>
         </dict>
       </dict>
     </dict>
