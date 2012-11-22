@@ -1,8 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="guilsinglleft" format="1">
-  <advance width="307"/>
+  <advance width="768.0"/>
   <unicode hex="2039"/>
   <outline>
+    <contour>
+      <point x="594.0" y="150.0" type="curve"/>
+      <point x="387.0" y="530.0" type="line"/>
+      <point x="594.0" y="910.0" type="line"/>
+      <point x="594.0" y="910.0"/>
+      <point x="447.0" y="980.0"/>
+      <point x="447.0" y="980.0" type="curve"/>
+      <point x="447.0" y="980.0"/>
+      <point x="174.0" y="530.0"/>
+      <point x="174.0" y="530.0" type="curve"/>
+      <point x="454.0" y="80.0" type="line"/>
+      <point x="454.0" y="80.0"/>
+      <point x="594.0" y="150.0"/>
+    </contour>
   </outline>
   <lib>
     <dict>
@@ -23,12 +37,12 @@
           <dict>
           </dict>
           <key>name</key>
-          <string>guilsinglleft</string>
+          <string>less</string>
           <key>unicodes</key>
           <array>
           </array>
           <key>width</key>
-          <integer>307</integer>
+          <real>768.0</real>
         </dict>
       </dict>
     </dict>

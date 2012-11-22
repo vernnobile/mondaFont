@@ -7,11 +7,11 @@
       <point x="560" y="0" type="line"/>
       <point x="761" y="0" type="line"/>
       <point x="761" y="568" type="line"/>
-      <point x="1258" y="1446" type="line"/>
-      <point x="1054" y="1446" type="line"/>
+      <point x="1270" y="1446" type="line"/>
+      <point x="1063" y="1446" type="line"/>
       <point x="661" y="744" type="line"/>
-      <point x="270" y="1446" type="line"/>
-      <point x="60" y="1446" type="line"/>
+      <point x="261" y="1446" type="line"/>
+      <point x="48" y="1446" type="line"/>
       <point x="560" y="568" type="line"/>
     </contour>
   </outline>

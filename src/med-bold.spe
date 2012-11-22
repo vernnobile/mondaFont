@@ -3,7 +3,7 @@
 <!-- Superpolator Designspace Object -->
 
 <!-- info -->
-<version format="110221_1144_developer_" superpolator="1" />
+<version format="120823_1018_beta_" superpolator="1" />
 <!-- application data -->
 <data name="zPreviewAxis" value="None" />
 <data name="horizontalPreviewAxis" value="Monda" />
@@ -11,7 +11,7 @@
 <data name="previewTypeSize" value="100.0" />
 <data name="previewtext" value="Hoffenbatch Ohnelino" />
 <data name="verticalPreviewAxis" value="None" />
-<data name="projectionAngle" value="2.73964081777" />
+<data name="projectionAngle" value="2.68434230589" />
 <!-- axis definitions -->
 <axis maximum="1000" minimum="0" name="Monda" shortname="xx" />
 

@@ -1,36 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="R" format="1">
-  <advance width="1474"/>
+  <advance width="1464"/>
   <unicode hex="0052"/>
   <outline>
     <contour>
       <point x="218" y="0" type="line"/>
       <point x="420" y="0" type="line"/>
-      <point x="420" y="566" type="line"/>
-      <point x="420" y="566"/>
-      <point x="873" y="567"/>
-      <point x="884" y="567" type="curve"/>
-      <point x="1116" y="0" type="line"/>
-      <point x="1328" y="0" type="line"/>
-      <point x="1071" y="603" type="line"/>
-      <point x="1192" y="654"/>
-      <point x="1266" y="763"/>
-      <point x="1266" y="997" type="curve"/>
-      <point x="1266" y="1320"/>
-      <point x="1105" y="1446"/>
-      <point x="862" y="1446" type="curve" smooth="yes"/>
+      <point x="420" y="599" type="line"/>
+      <point x="420" y="599"/>
+      <point x="865" y="600"/>
+      <point x="876" y="600" type="curve"/>
+      <point x="1163" y="0" type="line"/>
+      <point x="1370" y="0" type="line"/>
+      <point x="1063" y="636" type="line"/>
+      <point x="1184" y="687"/>
+      <point x="1267" y="784"/>
+      <point x="1267" y="1018" type="curve"/>
+      <point x="1267" y="1341"/>
+      <point x="1106" y="1446"/>
+      <point x="863" y="1446" type="curve" smooth="yes"/>
       <point x="218" y="1446" type="line"/>
     </contour>
     <contour>
-      <point x="420" y="719" type="line"/>
+      <point x="420" y="752" type="line"/>
       <point x="420" y="1293" type="line"/>
-      <point x="868" y="1293" type="line" smooth="yes"/>
-      <point x="1049" y="1293"/>
-      <point x="1064" y="1118"/>
-      <point x="1064" y="979" type="curve"/>
-      <point x="1064" y="840"/>
-      <point x="1029" y="719"/>
-      <point x="854" y="719" type="curve" smooth="yes"/>
+      <point x="869" y="1293" type="line" smooth="yes"/>
+      <point x="1050" y="1293"/>
+      <point x="1065" y="1139"/>
+      <point x="1065" y="1000" type="curve"/>
+      <point x="1065" y="861"/>
+      <point x="1021" y="752"/>
+      <point x="846" y="752" type="curve" smooth="yes"/>
     </contour>
   </outline>
   <lib>
@@ -337,7 +337,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1474</integer>
+          <integer>1464</integer>
         </dict>
       </dict>
     </dict>

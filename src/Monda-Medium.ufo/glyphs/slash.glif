@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="slash" format="1">
-  <advance width="1024"/>
+  <advance width="768"/>
   <unicode hex="002F"/>
   <outline>
     <contour>
-      <point x="146" y="0" type="line"/>
-      <point x="341" y="0" type="line"/>
-      <point x="878" y="1446" type="line"/>
-      <point x="685" y="1446" type="line"/>
+      <point x="16" y="0" type="line"/>
+      <point x="203" y="0" type="line"/>
+      <point x="752" y="1506" type="line"/>
+      <point x="569" y="1506" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -34,7 +34,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1024</integer>
+          <integer>768</integer>
         </dict>
       </dict>
     </dict>

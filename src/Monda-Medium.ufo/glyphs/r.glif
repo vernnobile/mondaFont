@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="r" format="1">
-  <advance width="786"/>
+  <advance width="794"/>
   <unicode hex="0072"/>
   <outline>
     <contour>
       <point x="186" y="0" type="line"/>
       <point x="374" y="0" type="line"/>
-      <point x="374" y="812" type="line"/>
-      <point x="404" y="893"/>
-      <point x="617" y="904"/>
+      <point x="374" y="742" type="line" smooth="yes"/>
+      <point x="374" y="828"/>
+      <point x="555" y="914"/>
       <point x="736" y="914" type="curve"/>
       <point x="742" y="1075" type="line"/>
-      <point x="652" y="1088"/>
-      <point x="425" y="1027"/>
-      <point x="374" y="950" type="curve"/>
+      <point x="652" y="1075"/>
+      <point x="425" y="1047"/>
+      <point x="374" y="910" type="curve"/>
       <point x="374" y="1060" type="line"/>
       <point x="186" y="1060" type="line"/>
     </contour>
@@ -42,7 +42,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>786</integer>
+          <integer>794</integer>
         </dict>
       </dict>
     </dict>
