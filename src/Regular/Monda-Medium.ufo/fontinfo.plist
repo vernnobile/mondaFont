@@ -9,7 +9,7 @@
 	<key>descender</key>
 	<integer>-695</integer>
 	<key>familyName</key>
-	<string>Monda Medium</string>
+	<string>Monda</string>
 	<key>italicAngle</key>
 	<real>0.0</real>
 	<key>note</key>
@@ -31,14 +31,6 @@ This license is copied below, and is also available with a FAQ at:
 http://scripts.sil.org/OFL</string>
 	<key>openTypeNameLicenseURL</key>
 	<string>http://scripts.sil.org/OFL</string>
-	<key>openTypeNamePreferredFamilyName</key>
-	<string>Monda</string>
-	<key>openTypeNamePreferredSubfamilyName</key>
-	<string>Medium</string>
-	<key>openTypeNameUniqueID</key>
-	<string>1.000;newt;Monda-Medium</string>
-	<key>openTypeNameVersion</key>
-	<string>Version 1.000;PS (version unavailable);hotconv 1.0.57;makeotf.lib2.0.21895 DEVELOPMENT</string>
 	<key>openTypeOS2CodePageRanges</key>
 	<array>
 		<integer>0</integer>
@@ -76,7 +68,7 @@ http://scripts.sil.org/OFL</string>
 	<key>openTypeOS2SuperscriptXOffset</key>
 	<integer>0</integer>
 	<key>openTypeOS2SuperscriptXSize</key>
-	<real>1331</real>
+	<real>1331.0</real>
 	<key>openTypeOS2SuperscriptYOffset</key>
 	<integer>983</integer>
 	<key>openTypeOS2SuperscriptYSize</key>
@@ -97,7 +89,7 @@ http://scripts.sil.org/OFL</string>
 	<key>postscriptBlueFuzz</key>
 	<integer>1</integer>
 	<key>postscriptBlueScale</key>
-	<real>0.039600000000000003</real>
+	<real>0.0396</real>
 	<key>postscriptBlueShift</key>
 	<integer>7</integer>
 	<key>postscriptBlueValues</key>
@@ -110,6 +102,12 @@ http://scripts.sil.org/OFL</string>
 		<integer>1468</integer>
 		<integer>1505</integer>
 		<integer>1506</integer>
+	</array>
+	<key>postscriptFamilyBlues</key>
+	<array>
+	</array>
+	<key>postscriptFamilyOtherBlues</key>
+	<array>
 	</array>
 	<key>postscriptFontName</key>
 	<string>Monda-Medium</string>
@@ -136,7 +134,7 @@ http://scripts.sil.org/OFL</string>
 	<key>postscriptWeightName</key>
 	<string>Normal</string>
 	<key>styleName</key>
-	<string>Medium</string>
+	<string>Regular</string>
 	<key>unitsPerEm</key>
 	<integer>2048</integer>
 	<key>versionMajor</key>

@@ -29,12 +29,12 @@
       <point x="1912" y="207" type="line"/>
       <point x="1912" y="298" type="line"/>
       <point x="1768" y="298" type="line"/>
-      <point x="1768" y="493" type="line"/>
-      <point x="1655" y="493" type="line"/>
+      <point x="1768" y="533" type="line"/>
+      <point x="1655" y="533" type="line"/>
       <point x="1655" y="298" type="line"/>
       <point x="1373" y="298" type="line"/>
-      <point x="1721" y="852" type="line"/>
-      <point x="1580" y="852" type="line"/>
+      <point x="1721" y="892" type="line"/>
+      <point x="1580" y="892" type="line"/>
       <point x="1221" y="299" type="line"/>
       <point x="1221" y="207" type="line"/>
       <point x="1655" y="207" type="line"/>
@@ -44,6 +44,28 @@
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>onequarter</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>2047</integer>
+        </dict>
       </dict>
     </dict>
   </lib>
