@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ibreve" format="1">
+  <advance width="440"/>
+  <unicode hex="012D"/>
+  <outline>
+    <contour>
+      <point x="33" y="1393" type="line"/>
+      <point x="33" y="1271"/>
+      <point x="120" y="1188"/>
+      <point x="242" y="1188" type="curve" smooth="yes"/>
+      <point x="364" y="1188"/>
+      <point x="451" y="1271"/>
+      <point x="451" y="1393" type="curve"/>
+      <point x="309" y="1393" type="line"/>
+      <point x="309" y="1352"/>
+      <point x="293" y="1288"/>
+      <point x="242" y="1288" type="curve" smooth="yes"/>
+      <point x="191" y="1288"/>
+      <point x="175" y="1352"/>
+      <point x="175" y="1393" type="curve"/>
+    </contour>
+    <contour>
+      <point x="103" y="0" type="line"/>
+      <point x="381" y="0" type="line"/>
+      <point x="381" y="1080" type="line"/>
+      <point x="103" y="1080" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>ibreve</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>440</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

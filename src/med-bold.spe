@@ -9,39 +9,33 @@
 <data name="horizontalPreviewAxis" value="Monda" />
 <data name="preferLeftToRight" value="1" />
 <data name="previewTypeSize" value="100.0" />
-<data name="previewtext" value="Hoffenbatch Ohnelino" />
+<data name="previewtext" value="Straßenbahne" />
 <data name="verticalPreviewAxis" value="None" />
-<data name="projectionAngle" value="2.68434230589" />
+<data name="projectionAngle" value="2.68561526992" />
 <!-- axis definitions -->
 <axis maximum="1000" minimum="0" name="Monda" shortname="xx" />
 
 <!-- master definitions -->
-<master filename="Monda-Medium.ufo">
+<master filename="Regular/Monda-Medium.ufo">
 <location>
-<dimension name="Monda" xvalue="0" />
 </location>
-<!-- color for Monda-Medium.ufo -->
-<color a="1.000000" b="1.000000" g="0.500000" r="0.000000" />
+<!-- color for Regular/Monda-Medium.ufo -->
+<color a="1.000000" b="0.000000" g="0.500000" r="1.000000" />
 </master>
-<master filename="Monda-Bold.ufo">
+<master filename="Heavy/Monda-Bold.ufo">
 <location>
 <dimension name="Monda" xvalue="1000" />
 </location>
-<!-- color for Monda-Bold.ufo -->
-<color a="1.000000" b="0.500000" g="0.500000" r="0.500000" />
+<!-- color for Heavy/Monda-Bold.ufo -->
+<color a="1.000000" b="0.000000" g="0.500000" r="1.000000" />
+</master>
+<master filename="Bold/Monda FF-Bold.ufo">
+<location>
+<dimension name="Monda" xvalue="502.2801" />
+</location>
+<!-- color for Bold/Monda FF-Bold.ufo -->
+<color a="1.000000" b="0.500000" g="0.500000" r="1.000000" />
 </master>
 
 <!-- instance definitions -->
-<instance familyname="Monda" sequence="" stylename="Light">
-<location>
-<dimension name="Monda" xvalue="-295.1692" />
-<dimension name="None" xvalue="0" />
-</location>
-</instance>
-<instance familyname="Monda" sequence="" stylename="Heavy">
-<location>
-<dimension name="Monda" xvalue="1533.3736" />
-<dimension name="None" xvalue="0" />
-</location>
-</instance>
 </designspace>

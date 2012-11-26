@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ordmasculine" format="1">
+  <advance width="1024.2298764"/>
+  <unicode hex="00BA"/>
+  <outline>
+    <component base="o" xScale="0.809863887444" yScale="0.860367393654" xOffset="2" yOffset="539"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
