@@ -13,5 +13,14 @@
       <point x="702" y="1281" type="line"/>
       <point x="702" y="0" type="line"/>
     </contour>
+    <contour>
+      <point x="602" y="0" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="602" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="602" y="0" type="move" name="center"/>
+    </contour>
   </outline>
 </glyph>

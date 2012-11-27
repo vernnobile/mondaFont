@@ -3,68 +3,18 @@
   <advance width="1110"/>
   <unicode hex="00A2"/>
   <outline>
-    <component base="c"/>
-    <contour>
-      <point x="540" y="-205" type="line"/>
-      <point x="540" y="59" type="line"/>
-      <point x="643" y="59" type="line"/>
-      <point x="643" y="-205" type="line"/>
-    </contour>
     <contour>
       <point x="540" y="1013" type="line"/>
       <point x="540" y="1277" type="line"/>
       <point x="643" y="1277" type="line"/>
       <point x="643" y="1013" type="line"/>
     </contour>
+    <contour>
+      <point x="540" y="-205" type="line"/>
+      <point x="540" y="59" type="line"/>
+      <point x="643" y="59" type="line"/>
+      <point x="643" y="-205" type="line"/>
+    </contour>
+    <component base="c"/>
   </outline>
-  <lib>
-    <dict>
-    <key>com.typemytype.robofont.layerData</key>
-    <key>b</key>
-    <key>name</key>
-      <string>cent</string>
-    <key>lib</key>
-    <key>unicodes</key>
-      <array>
-      </array>
-    <key>width</key>
-      <integer>1110</integer>
-    <key>contours</key>
-      <array>
-      <key>points</key>
-      <array>
-      <key>segmentType</key>
-      <string>line</string>
-    <key>x</key>
-    <key>smooth</key>
-      <false/>
-    <key>y</key>
-      <key>segmentType</key>
-      <string>line</string>
-    <key>x</key>
-    <key>smooth</key>
-      <false/>
-    <key>y</key>
-      <key>segmentType</key>
-      <string>line</string>
-    <key>x</key>
-    <key>smooth</key>
-      <false/>
-    <key>y</key>
-      <key>segmentType</key>
-      <string>line</string>
-    <key>x</key>
-    <key>smooth</key>
-      <false/>
-    <key>y</key>
-      </array>
-      </array>
-    <key>components</key>
-      <array>
-      </array>
-    <key>anchors</key>
-      <array>
-      </array>
-    </dict>
-  </lib>
 </glyph>
