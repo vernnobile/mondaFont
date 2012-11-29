@@ -9,32 +9,25 @@
 <data name="horizontalPreviewAxis" value="Monda" />
 <data name="preferLeftToRight" value="1" />
 <data name="previewTypeSize" value="100.0" />
-<data name="previewtext" value="Straßenbahne" />
+<data name="previewtext" value="Smorgasbord" />
 <data name="verticalPreviewAxis" value="None" />
-<data name="projectionAngle" value="2.68561526992" />
+<data name="projectionAngle" value="2.68561525287" />
 <!-- axis definitions -->
 <axis maximum="1000" minimum="0" name="Monda" shortname="xx" />
 
 <!-- master definitions -->
-<master filename="Regular/Monda-Medium.ufo">
+<master filename="Monda-Regular.ufo">
 <location>
 </location>
-<!-- color for Regular/Monda-Medium.ufo -->
-<color a="1.000000" b="0.000000" g="0.500000" r="1.000000" />
+<!-- color for Monda-Regular.ufo -->
+<color a="1.000000" b="0.500000" g="0.500000" r="0.500000" />
 </master>
-<master filename="Heavy/Monda-Bold.ufo">
+<master filename="Monda FF-Bold.ufo">
 <location>
 <dimension name="Monda" xvalue="1000" />
 </location>
-<!-- color for Heavy/Monda-Bold.ufo -->
-<color a="1.000000" b="0.000000" g="0.500000" r="1.000000" />
-</master>
-<master filename="Bold/Monda FF-Bold.ufo">
-<location>
-<dimension name="Monda" xvalue="502.2801" />
-</location>
-<!-- color for Bold/Monda FF-Bold.ufo -->
-<color a="1.000000" b="0.500000" g="0.500000" r="1.000000" />
+<!-- color for Monda FF-Bold.ufo -->
+<color a="1.000000" b="0.500000" g="1.000000" r="1.000000" />
 </master>
 
 <!-- instance definitions -->
