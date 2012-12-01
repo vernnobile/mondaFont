@@ -11,13 +11,14 @@
 <data name="previewTypeSize" value="100.0" />
 <data name="previewtext" value="Smorgasbord" />
 <data name="verticalPreviewAxis" value="None" />
-<data name="projectionAngle" value="2.68561525287" />
+<data name="projectionAngle" value="2.68561525328" />
 <!-- axis definitions -->
 <axis maximum="1000" minimum="0" name="Monda" shortname="xx" />
 
 <!-- master definitions -->
 <master filename="Monda-Regular.ufo">
 <location>
+<dimension name="Monda" xvalue="0" />
 </location>
 <!-- color for Monda-Regular.ufo -->
 <color a="1.000000" b="0.500000" g="0.500000" r="0.500000" />
