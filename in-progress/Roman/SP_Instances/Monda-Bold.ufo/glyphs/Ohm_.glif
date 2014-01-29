@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ohm" format="1">
+  <advance width="1634"/>
+  <unicode hex="2126"/>
+  <outline>
+    <contour>
+      <point x="817" y="1489" type="curve"/>
+      <point x="433" y="1489"/>
+      <point x="146" y="1418"/>
+      <point x="146" y="746" type="curve"/>
+      <point x="146" y="458"/>
+      <point x="280" y="296"/>
+      <point x="421" y="206" type="curve"/>
+      <point x="167" y="206" type="line"/>
+      <point x="167" y="0" type="line"/>
+      <point x="735" y="0" type="line"/>
+      <point x="735" y="192" type="line"/>
+      <point x="512" y="305"/>
+      <point x="454" y="447"/>
+      <point x="454" y="779" type="curve"/>
+      <point x="454" y="1231"/>
+      <point x="584" y="1271"/>
+      <point x="817" y="1271" type="curve"/>
+      <point x="1060" y="1271"/>
+      <point x="1180" y="1231"/>
+      <point x="1180" y="779" type="curve"/>
+      <point x="1180" y="447"/>
+      <point x="1122" y="305"/>
+      <point x="899" y="192" type="curve"/>
+      <point x="899" y="0" type="line"/>
+      <point x="1467" y="0" type="line"/>
+      <point x="1467" y="206" type="line"/>
+      <point x="1213" y="206" type="line"/>
+      <point x="1354" y="296"/>
+      <point x="1488" y="458"/>
+      <point x="1488" y="746" type="curve"/>
+      <point x="1488" y="1418"/>
+      <point x="1211" y="1489"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

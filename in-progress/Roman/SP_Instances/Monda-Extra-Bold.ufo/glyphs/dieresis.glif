@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dieresis" format="1">
+  <advance width="932"/>
+  <unicode hex="00A8"/>
+  <outline>
+    <contour>
+      <point x="484" y="1082" type="move" name="_top"/>
+    </contour>
+    <contour>
+      <point x="89" y="1185" type="line"/>
+      <point x="388" y="1185" type="line"/>
+      <point x="388" y="1449" type="line"/>
+      <point x="89" y="1449" type="line"/>
+    </contour>
+    <contour>
+      <point x="602" y="1185" type="line"/>
+      <point x="902" y="1185" type="line"/>
+      <point x="902" y="1449" type="line"/>
+      <point x="602" y="1449" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

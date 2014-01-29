@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="u" format="1">
+  <advance width="1297"/>
+  <unicode hex="0075"/>
+  <outline>
+    <contour>
+      <point x="656" y="1082" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="978" y="0" type="move" name="ogonek"/>
+    </contour>
+    <contour>
+      <point x="469" y="-24" type="curve" smooth="yes"/>
+      <point x="615" y="-35"/>
+      <point x="794" y="24"/>
+      <point x="830" y="109" type="curve"/>
+      <point x="831" y="0" type="line"/>
+      <point x="1140" y="0" type="line"/>
+      <point x="1140" y="1082" type="line"/>
+      <point x="818" y="1082" type="line"/>
+      <point x="818" y="375" type="line" smooth="yes"/>
+      <point x="818" y="236"/>
+      <point x="688" y="218"/>
+      <point x="640" y="218" type="curve" smooth="yes"/>
+      <point x="584" y="218"/>
+      <point x="477" y="246"/>
+      <point x="477" y="363" type="curve" smooth="yes"/>
+      <point x="477" y="1082" type="line"/>
+      <point x="155" y="1082" type="line"/>
+      <point x="155" y="292" type="line" smooth="yes"/>
+      <point x="155" y="103"/>
+      <point x="296" y="-8"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="bulletoperator" format="1">
+  <advance width="459"/>
+  <unicode hex="2219"/>
+  <outline>
+    <contour>
+      <point x="97" y="1251" type="line"/>
+      <point x="345" y="1251" type="line"/>
+      <point x="385" y="1498" type="line"/>
+      <point x="137" y="1498" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

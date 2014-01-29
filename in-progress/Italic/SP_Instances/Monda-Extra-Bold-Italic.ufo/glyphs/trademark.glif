@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="trademark" format="1">
+  <advance width="1843"/>
+  <unicode hex="2122"/>
+  <outline>
+    <contour>
+      <point x="759" y="766" type="line"/>
+      <point x="948" y="766" type="line"/>
+      <point x="1015" y="1185" type="line"/>
+      <point x="1121" y="931" type="line"/>
+      <point x="1282" y="931" type="line"/>
+      <point x="1463" y="1185" type="line"/>
+      <point x="1396" y="766" type="line"/>
+      <point x="1587" y="766" type="line"/>
+      <point x="1695" y="1446" type="line"/>
+      <point x="1467" y="1446" type="line"/>
+      <point x="1234" y="1145" type="line"/>
+      <point x="1097" y="1446" type="line"/>
+      <point x="867" y="1446" type="line"/>
+    </contour>
+    <contour>
+      <point x="243" y="766" type="line"/>
+      <point x="474" y="766" type="line"/>
+      <point x="556" y="1284" type="line"/>
+      <point x="720" y="1284" type="line"/>
+      <point x="746" y="1446" type="line"/>
+      <point x="187" y="1446" type="line"/>
+      <point x="161" y="1284" type="line"/>
+      <point x="325" y="1284" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

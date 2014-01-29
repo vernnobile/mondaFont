@@ -1,0 +1,55 @@
+<?xml version='1.0'?>
+<designspace>
+<!-- Superpolator Designspace Object -->
+
+<!-- info -->
+<version format="100119_1225" superpolator="1" />
+<!-- application data -->
+<data name="zPreviewAxis" value="None" />
+<data name="horizontalPreviewAxis" value="Monda" />
+<data name="preferLeftToRight" value="1" />
+<data name="previewTypeSize" value="48.0" />
+<data name="previewtext" value="Honda Blommen" />
+<data name="verticalPreviewAxis" value="None" />
+<data name="projectionAngle" value="2.68561525327" />
+<!-- axis definitions -->
+<axis maximum="1000.0" minimum="0.0" name="Monda" shortname="xx" />
+
+<!-- master definitions -->
+<master filename="Monda-Regular.ufo">
+<location>
+<dimension name="Monda" xvalue="0.0" />
+</location>
+<!-- color for Monda-Regular.ufo -->
+<color a="1.000000" b="0.500000" g="0.500000" r="0.500000" />
+</master>
+<master filename="Monda-Bold.ufo">
+<location>
+<dimension name="Monda" xvalue="1000.0" />
+</location>
+<!-- color for Monda-Bold.ufo -->
+<color a="1.000000" b="0.000000" g="0.500000" r="1.000000" />
+</master>
+
+<!-- instance definitions -->
+<instance familyname="Monda" sequence="" stylename="Light-Italic">
+<location>
+<dimension name="Monda" xvalue="-600.0" />
+</location>
+</instance>
+<instance familyname="Monda" sequence="" stylename="Regular-Italic">
+<location>
+<dimension name="Monda" xvalue="0.0" />
+</location>
+</instance>
+<instance familyname="Monda" sequence="" stylename="Bold-Italic">
+<location>
+<dimension name="Monda" xvalue="1000.0" />
+</location>
+</instance>
+<instance familyname="Monda" sequence="" stylename="Extra-Bold-Italic">
+<location>
+<dimension name="Monda" xvalue="1600.0" />
+</location>
+</instance>
+</designspace>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="cent" format="1">
+  <advance width="1105"/>
+  <unicode hex="00A2"/>
+  <outline>
+    <contour>
+      <point x="610" y="1002" type="line"/>
+      <point x="697" y="1002" type="line"/>
+      <point x="744" y="1299" type="line"/>
+      <point x="657" y="1299" type="line"/>
+    </contour>
+    <contour>
+      <point x="417" y="-219" type="line"/>
+      <point x="504" y="-219" type="line"/>
+      <point x="551" y="78" type="line"/>
+      <point x="464" y="78" type="line"/>
+    </contour>
+    <component base="c"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
