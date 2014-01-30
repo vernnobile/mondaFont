@@ -3,16 +3,15 @@
   <advance width="600"/>
   <unicode hex="02BC"/>
   <outline>
+    <component base="comma" xOffset="-200" yOffset="1611"/>
     <contour>
       <point x="103" y="1052" type="move" name="_top"/>
     </contour>
-    <component base="comma" xOffset="-200" yOffset="1611"/>
   </outline>
   <lib>
     <dict>
       <key>org.robofab.postScriptHintData</key>
-      <dict>
-      </dict>
+      <dict/>
     </dict>
   </lib>
 </glyph>

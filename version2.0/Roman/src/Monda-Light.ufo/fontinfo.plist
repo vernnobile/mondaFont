@@ -9,7 +9,13 @@
 	<key>descender</key>
 	<integer>-695</integer>
 	<key>familyName</key>
+	<string>Monda Light</string>
+	<key>openTypeHeadCreated</key>
+	<string>2014/01/30 05:22:14</string>
+	<key>openTypeNamePreferredFamilyName</key>
 	<string>Monda</string>
+	<key>openTypeNamePreferredSubfamilyName</key>
+	<string>Light</string>
 	<key>openTypeOS2FamilyClass</key>
 	<array>
 		<integer>0</integer>
@@ -27,22 +33,26 @@
 	<integer>7</integer>
 	<key>postscriptBlueValues</key>
 	<array>
-		<integer>12</integer>
-		<integer>0</integer>
-		<integer>-644</integer>
-		<integer>-656</integer>
-		<integer>-886</integer>
 		<integer>-898</integer>
+		<integer>-886</integer>
+		<integer>-656</integer>
+		<integer>-644</integer>
+		<integer>0</integer>
+		<integer>12</integer>
 	</array>
 	<key>postscriptOtherBlues</key>
 	<array>
 	</array>
-	<key>postscriptWeightName</key>
-	<string>Normal</string>
+	<key>styleMapStyleName</key>
+	<string>regular</string>
 	<key>styleName</key>
-	<string>Light</string>
+	<string>Regular</string>
 	<key>unitsPerEm</key>
 	<integer>2048</integer>
+	<key>versionMajor</key>
+	<integer>1</integer>
+	<key>versionMinor</key>
+	<integer>0</integer>
 	<key>xHeight</key>
 	<integer>1052</integer>
 </dict>

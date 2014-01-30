@@ -1,4 +1,4 @@
-
+# Prefix: Prefix
 languagesystem DFLT dflt;
 languagesystem grek dflt;
 languagesystem latn dflt;
@@ -11,23 +11,6 @@ sub f i by fi;
 sub f f by f_f;
 sub f l by fl;
 } liga;
-
-
-feature liga {
-
-script DFLT;
-language dflt ;
-lookup ligaStandardLigatureslookup0;
-
-script grek;
-language dflt ;
-lookup ligaStandardLigatureslookup0;
-
-script latn;
-language dflt ;
-lookup ligaStandardLigatureslookup0;
-} liga;
-
 feature locl {
 # automatic
 script latn;
@@ -55,8 +38,6 @@ sub i by idotaccent;
 language AZE;
 sub i by idotaccent;
 } locl;
-
-
 feature sups {
 # automatic
 sub one by onesuperior;
@@ -64,17 +45,9 @@ sub two by twosuperior;
 sub three by threesuperior;
 sub four by foursuperior;
 } sups;
-
 feature frac {
 # automatic
 sub one slash four by onequarter;
 sub one slash two by onehalf;
 sub three slash four by threequarters;
 } frac;
-
-feature ordn {
-# automatic
-sub [zero one two three four five six seven eight nine] [A a]' by ordfeminine;
-sub [zero one two three four five six seven eight nine] [O o]' by ordmasculine;
-} ordn;
-
