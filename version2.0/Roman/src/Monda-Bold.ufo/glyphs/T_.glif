@@ -4,13 +4,13 @@
   <unicode hex="0054"/>
   <outline>
     <contour>
-      <point x="603" y="762" type="move" name="mid"/>
+      <point x="601" y="1476" type="move" name="top"/>
     </contour>
     <contour>
       <point x="575" y="0" type="move" name="bot"/>
     </contour>
     <contour>
-      <point x="601" y="1476" type="move" name="top"/>
+      <point x="603" y="762" type="move" name="mid"/>
     </contour>
     <contour>
       <point x="449" y="0" type="line"/>

@@ -3,12 +3,13 @@
   <advance width="1043"/>
   <unicode hex="00BF"/>
   <outline>
-    <component base="question" xOffset="1083" yOffset="1115" xScale="-1" yScale="-1"/>
+    <component base="question" xScale="-1" yScale="-1" xOffset="1083" yOffset="1115"/>
   </outline>
   <lib>
     <dict>
-      <key>org.robofab.postScriptHintData</key>
-      <dict/>
+    <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
     </dict>
   </lib>
 </glyph>

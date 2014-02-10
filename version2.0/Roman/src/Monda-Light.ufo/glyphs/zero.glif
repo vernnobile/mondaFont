@@ -4,42 +4,41 @@
   <unicode hex="0030"/>
   <outline>
     <contour>
-      <point x="569" y="100" type="curve"/>
+      <point x="569" y="100" type="curve" smooth="yes"/>
       <point x="327" y="100"/>
       <point x="249" y="243"/>
-      <point x="249" y="690" type="curve"/>
-      <point x="249" y="722" type="line"/>
+      <point x="249" y="690" type="curve" smooth="yes"/>
+      <point x="249" y="722" type="line" smooth="yes"/>
       <point x="249" y="1182"/>
       <point x="327" y="1329"/>
-      <point x="569" y="1329" type="curve"/>
+      <point x="569" y="1329" type="curve" smooth="yes"/>
       <point x="813" y="1329"/>
       <point x="891" y="1182"/>
-      <point x="891" y="722" type="curve"/>
-      <point x="891" y="690" type="line"/>
+      <point x="891" y="722" type="curve" smooth="yes"/>
+      <point x="891" y="690" type="line" smooth="yes"/>
       <point x="891" y="243"/>
       <point x="813" y="100"/>
     </contour>
     <contour>
-      <point x="569" y="-20" type="curve"/>
-      <point x="927" y="-20"/>
-      <point x="1042" y="158"/>
-      <point x="1042" y="712" type="curve"/>
-      <point x="1042" y="688" type="line"/>
+      <point x="569" y="-20" type="curve" smooth="yes"/>
+      <point x="922" y="-20"/>
+      <point x="1039" y="153"/>
+      <point x="1042" y="688" type="curve"/>
       <point x="1042" y="1263"/>
       <point x="927" y="1448"/>
-      <point x="569" y="1448" type="curve"/>
-      <point x="219" y="1448"/>
-      <point x="106" y="1263"/>
-      <point x="106" y="686" type="curve"/>
-      <point x="106" y="715" type="line"/>
+      <point x="569" y="1448" type="curve" smooth="yes"/>
+      <point x="225" y="1448"/>
+      <point x="110" y="1269"/>
+      <point x="106" y="715" type="curve"/>
       <point x="106" y="159"/>
       <point x="219" y="-20"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>org.robofab.postScriptHintData</key>
-      <dict/>
+    <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
     </dict>
   </lib>
 </glyph>

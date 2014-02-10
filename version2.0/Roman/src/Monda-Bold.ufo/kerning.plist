@@ -59,75 +59,75 @@
 	</dict>
 	<key>D</key>
 	<dict>
-	    <key>period</key>
-	    <integer>-17</integer>
-	    <key>comma</key>
-	    <integer>-17</integer>
-	    <key>Yacute</key>
-	    <integer>-21</integer>
-	    <key>Y</key>
-	    <integer>-21</integer>
-	    <key>W</key>
-	    <integer>-17</integer>
-	    <key>V</key>
-	    <integer>-12</integer>
-	    <key>Atilde</key>
-	    <integer>-18</integer>
-	    <key>Aring</key>
-	    <integer>-18</integer>
-	    <key>Aogonek</key>
-	    <integer>-18</integer>
-	    <key>Amacron</key>
-	    <integer>-18</integer>
-	    <key>uni0202</key>
-	    <integer>-18</integer>
-	    <key>Agrave</key>
-	    <integer>-18</integer>
-	    <key>Adieresis</key>
-	    <integer>-18</integer>
-	    <key>Acircumflex</key>
-	    <integer>-18</integer>
-	    <key>Abreve</key>
+	    <key>A</key>
 	    <integer>-18</integer>
 	    <key>Aacute</key>
 	    <integer>-18</integer>
-	    <key>A</key>
+	    <key>Abreve</key>
 	    <integer>-18</integer>
+	    <key>Acircumflex</key>
+	    <integer>-18</integer>
+	    <key>Adieresis</key>
+	    <integer>-18</integer>
+	    <key>Agrave</key>
+	    <integer>-18</integer>
+	    <key>uni0202</key>
+	    <integer>-18</integer>
+	    <key>Amacron</key>
+	    <integer>-18</integer>
+	    <key>Aogonek</key>
+	    <integer>-18</integer>
+	    <key>Aring</key>
+	    <integer>-18</integer>
+	    <key>Atilde</key>
+	    <integer>-18</integer>
+	    <key>V</key>
+	    <integer>-12</integer>
+	    <key>W</key>
+	    <integer>-17</integer>
+	    <key>Y</key>
+	    <integer>-21</integer>
+	    <key>Yacute</key>
+	    <integer>-21</integer>
+	    <key>comma</key>
+	    <integer>-17</integer>
+	    <key>period</key>
+	    <integer>-17</integer>
 	</dict>
 	<key>F</key>
 	<dict>
-	    <key>s</key>
-	    <integer>-13</integer>
-	    <key>period</key>
-	    <integer>-142</integer>
-	    <key>uni020D</key>
-	    <integer>-22</integer>
 	    <key>comma</key>
 	    <integer>-119</integer>
+	    <key>uni020D</key>
+	    <integer>-22</integer>
+	    <key>period</key>
+	    <integer>-142</integer>
+	    <key>s</key>
+	    <integer>-13</integer>
 	</dict>
 	<key>J</key>
 	<dict>
-	    <key>period</key>
-	    <integer>-6</integer>
 	    <key>comma</key>
+	    <integer>-6</integer>
+	    <key>period</key>
 	    <integer>-6</integer>
 	</dict>
 	<key>K</key>
 	<dict>
-	    <key>uogonek</key>
+	    <key>uni020D</key>
+	    <integer>-10</integer>
+	    <key>uni0215</key>
 	    <integer>-15</integer>
 	    <key>umacron</key>
 	    <integer>-15</integer>
-	    <key>uni0215</key>
+	    <key>uogonek</key>
 	    <integer>-15</integer>
-	    <key>uni020D</key>
-	    <integer>-10</integer>
 	</dict>
 	<key>L</key>
 	<dict>
-	    <key>quoteright</key>
-	    <integer>-35</integer>
 	    <key>quotedblright</key>
+	    <integer>-35</integer>
+	    <key>quoteright</key>
 	    <integer>-35</integer>
 	</dict>
 	<key>T</key>
@@ -147,16 +147,16 @@
 	</dict>
 	<key>b</key>
 	<dict>
-	    <key>ydieresis</key>
-	    <integer>-8</integer>
-	    <key>yacute</key>
+	    <key>b</key>
+	    <integer>-10</integer>
+	    <key>v</key>
 	    <integer>-8</integer>
 	    <key>y</key>
 	    <integer>-8</integer>
-	    <key>v</key>
+	    <key>yacute</key>
 	    <integer>-8</integer>
-	    <key>b</key>
-	    <integer>-10</integer>
+	    <key>ydieresis</key>
+	    <integer>-8</integer>
 	</dict>
 	<key>c</key>
 	<dict>
@@ -195,40 +195,40 @@
 	</dict>
 	<key>f</key>
 	<dict>
-	    <key>uni020D</key>
-	    <integer>-13</integer>
 	    <key>f</key>
 	    <integer>-44</integer>
+	    <key>uni020D</key>
+	    <integer>-13</integer>
 	</dict>
 	<key>g</key>
 	<dict>
-	    <key>uogonek</key>
-	    <integer>-8</integer>
-	    <key>umacron</key>
-	    <integer>-8</integer>
-	    <key>uni0215</key>
+	    <key>d</key>
 	    <integer>-8</integer>
 	    <key>uni020D</key>
 	    <integer>-12</integer>
-	    <key>d</key>
+	    <key>uni0215</key>
+	    <integer>-8</integer>
+	    <key>umacron</key>
+	    <integer>-8</integer>
+	    <key>uogonek</key>
 	    <integer>-8</integer>
 	</dict>
 	<key>h</key>
 	<dict>
-	    <key>ydieresis</key>
+	    <key>y</key>
 	    <integer>-5</integer>
 	    <key>yacute</key>
 	    <integer>-5</integer>
-	    <key>y</key>
+	    <key>ydieresis</key>
 	    <integer>-5</integer>
 	</dict>
 	<key>m</key>
 	<dict>
-	    <key>ydieresis</key>
+	    <key>y</key>
 	    <integer>-13</integer>
 	    <key>yacute</key>
 	    <integer>-13</integer>
-	    <key>y</key>
+	    <key>ydieresis</key>
 	    <integer>-13</integer>
 	</dict>
 	<key>uni020D</key>
@@ -238,65 +238,65 @@
 	</dict>
 	<key>p</key>
 	<dict>
-	    <key>ydieresis</key>
+	    <key>y</key>
 	    <integer>-12</integer>
 	    <key>yacute</key>
 	    <integer>-12</integer>
-	    <key>y</key>
+	    <key>ydieresis</key>
 	    <integer>-12</integer>
 	</dict>
 	<key>r</key>
 	<dict>
-	    <key>q</key>
-	    <integer>-24</integer>
-	    <key>d</key>
-	    <integer>-14</integer>
 	    <key>c</key>
 	    <integer>-12</integer>
+	    <key>d</key>
+	    <integer>-14</integer>
+	    <key>q</key>
+	    <integer>-24</integer>
 	</dict>
 	<key>rcaron</key>
 	<dict>
-	    <key>q</key>
-	    <integer>-24</integer>
-	    <key>d</key>
-	    <integer>-14</integer>
 	    <key>c</key>
 	    <integer>-12</integer>
+	    <key>d</key>
+	    <integer>-14</integer>
+	    <key>q</key>
+	    <integer>-24</integer>
 	</dict>
 	<key>uni0157</key>
 	<dict>
-	    <key>q</key>
-	    <integer>-24</integer>
-	    <key>d</key>
-	    <integer>-14</integer>
 	    <key>c</key>
 	    <integer>-12</integer>
+	    <key>d</key>
+	    <integer>-14</integer>
+	    <key>q</key>
+	    <integer>-24</integer>
 	</dict>
 	<key>uni0211</key>
 	<dict>
-	    <key>q</key>
-	    <integer>-24</integer>
-	    <key>uni020D</key>
-	    <integer>-28</integer>
-	    <key>g</key>
-	    <integer>-27</integer>
-	    <key>d</key>
-	    <integer>-20</integer>
-	    <key>ccircumflex</key>
+	    <key>c</key>
 	    <integer>-21</integer>
 	    <key>ccedilla</key>
 	    <integer>-21</integer>
-	    <key>c</key>
+	    <key>ccircumflex</key>
 	    <integer>-21</integer>
+	    <key>d</key>
+	    <integer>-20</integer>
+	    <key>g</key>
+	    <integer>-27</integer>
+	    <key>uni020D</key>
+	    <integer>-28</integer>
+	    <key>q</key>
+	    <integer>-24</integer>
 	</dict>
 	<key>uni0213</key>
 	<dict>
-	    <key>q</key>
-	    <integer>-24</integer>
-	    <key>d</key>
-	    <integer>-14</integer>
 	    <key>c</key>
 	    <integer>-12</integer>
+	    <key>d</key>
+	    <integer>-14</integer>
+	    <key>q</key>
+	    <integer>-24</integer>
 	</dict>
 	<key>v</key>
 	<dict>
@@ -310,22 +310,22 @@
 	</dict>
 	<key>x</key>
 	<dict>
-	    <key>otilde</key>
-	    <integer>-22</integer>
-	    <key>uni020F</key>
-	    <integer>-22</integer>
-	    <key>ograve</key>
-	    <integer>-22</integer>
-	    <key>odieresis</key>
-	    <integer>-22</integer>
-	    <key>uni020D</key>
+	    <key>o</key>
+	    <integer>-11</integer>
+	    <key>oacute</key>
 	    <integer>-22</integer>
 	    <key>ocircumflex</key>
 	    <integer>-22</integer>
-	    <key>oacute</key>
+	    <key>uni020D</key>
 	    <integer>-22</integer>
-	    <key>o</key>
-	    <integer>-11</integer>
+	    <key>odieresis</key>
+	    <integer>-22</integer>
+	    <key>ograve</key>
+	    <integer>-22</integer>
+	    <key>uni020F</key>
+	    <integer>-22</integer>
+	    <key>otilde</key>
+	    <integer>-22</integer>
 	</dict>
 	<key>z</key>
 	<dict>

@@ -3,86 +3,89 @@ FontName: Monda-Bold
 FullName: Monda Bold
 FamilyName: Monda
 Weight: Normal
+Copyright: Digitized data Copyright (c) 2011-2013, vernon adams.
+Version: 2.0
 ItalicAngle: 0
 UnderlinePosition: 0
 UnderlineWidth: 0
 Ascent: 1638
 Descent: 410
-UFOAscent: 1476
-UFODescent: -695
+UFOAscent: 2030
+UFODescent: -675
 LayerCount: 2
 Layer: 0 0 "Back"  1
 Layer: 1 0 "Fore"  0
 OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
-CreationTime: 1391961032
-ModificationTime: 1391962504
+CreationTime: 1391998675
+ModificationTime: 1391998721
 PfmFamily: 0
-TTFWeight: 400
+TTFWeight: 700
 TTFWidth: 5
 LineGap: 0
 VLineGap: 0
-OS2TypoAscent: 0
-OS2TypoAOffset: 1
-OS2TypoDescent: 0
-OS2TypoDOffset: 1
+OS2TypoAscent: 1999
+OS2TypoAOffset: 0
+OS2TypoDescent: 572
+OS2TypoDOffset: 0
 OS2TypoLinegap: 0
-OS2WinAscent: 0
-OS2WinAOffset: 1
-OS2WinDescent: 0
-OS2WinDOffset: 1
+OS2WinAscent: 1999
+OS2WinAOffset: 0
+OS2WinDescent: -572
+OS2WinDOffset: 0
 HheadAscent: 0
 HheadAOffset: 1
 HheadDescent: 0
 HheadDOffset: 1
-OS2Vendor: 'PfEd'
-Lookup: 4 0 1 "'liga' Standard Ligatures lookup 0"  {"'liga' Standard Ligatures lookup 0 subtable"  } ['liga' ('latn' <'dflt' > 'grek' <'dflt' > 'DFLT' <'dflt' > ) ]
-Lookup: 6 0 0 "'locl' Localized Forms in Latin lookup 1"  {"'locl' Localized Forms in Latin lookup 1 contextual 0"  "'locl' Localized Forms in Latin lookup 1 contextual 1"  } ['locl' ('latn' <'CAT ' 'dflt' > ) ]
+OS2Vendor: 'NeWT'
+Lookup: 4 0 1 "ligaStandardLigatureslookup0"  {"ligaStandardLigatureslookup0 subtable"  } ['liga' ('latn' <'dflt' > 'grek' <'dflt' > 'DFLT' <'dflt' > ) ]
+Lookup: 6 0 0 "loclLocalizedFormsinLatinlookup"  {"loclLocalizedFormsinLatinlookup contextual 0"  "loclLocalizedFormsinLatinlookup contextual 1"  } ['locl' ('latn' <'dflt' 'CAT ' > ) ]
 Lookup: 4 0 0 "Ligature Substitution lookup 2"  {"Ligature Substitution lookup 2 subtable"  } []
 Lookup: 4 0 0 "Ligature Substitution lookup 3"  {"Ligature Substitution lookup 3 subtable"  } []
-Lookup: 1 0 0 "'locl' Localized Forms in Latin lookup 4"  {"'locl' Localized Forms in Latin lookup 4 subtable"  } ['locl' ('latn' <'ROM ' 'dflt' > ) ]
-Lookup: 1 0 0 "'locl' Localized Forms in Latin lookup 5"  {"'locl' Localized Forms in Latin lookup 5 subtable"  } ['locl' ('latn' <'MOL ' 'dflt' > ) ]
-Lookup: 1 0 0 "'locl' Localized Forms in Latin lookup 6"  {"'locl' Localized Forms in Latin lookup 6 subtable"  } ['locl' ('latn' <'KAZ ' 'dflt' > ) ]
-Lookup: 1 0 0 "'locl' Localized Forms in Latin lookup 7"  {"'locl' Localized Forms in Latin lookup 7 subtable"  } ['locl' ('latn' <'TAT ' 'dflt' > ) ]
-Lookup: 1 0 0 "'locl' Localized Forms in Latin lookup 8"  {"'locl' Localized Forms in Latin lookup 8 subtable"  } ['locl' ('latn' <'TRK ' 'dflt' > ) ]
-Lookup: 1 0 0 "'locl' Localized Forms in Latin lookup 9"  {"'locl' Localized Forms in Latin lookup 9 subtable"  } ['locl' ('latn' <'CRT ' 'dflt' > ) ]
-Lookup: 1 0 0 "'locl' Localized Forms in Latin lookup 10"  {"'locl' Localized Forms in Latin lookup 10 subtable"  } ['locl' ('latn' <'AZE ' 'dflt' > ) ]
-Lookup: 1 0 0 "'sups' Superscript lookup 11"  {"'sups' Superscript lookup 11 subtable" ("superior" ) } ['sups' ('latn' <'dflt' > 'grek' <'dflt' > 'DFLT' <'dflt' > ) ]
-Lookup: 4 0 0 "'frac' Diagonal Fractions lookup 12"  {"'frac' Diagonal Fractions lookup 12 subtable"  } ['frac' ('latn' <'dflt' > 'grek' <'dflt' > 'DFLT' <'dflt' > ) ]
-Lookup: 6 0 0 "'ordn' Ordinals lookup 13"  {"'ordn' Ordinals lookup 13 contextual 0"  "'ordn' Ordinals lookup 13 contextual 1"  } ['ordn' ('latn' <'dflt' > 'grek' <'dflt' > 'DFLT' <'dflt' > ) ]
+Lookup: 1 0 0 "sub_single_locllatn_0"  {"sub_single_locllatn_0 subtable"  } ['locl' ('latn' <'dflt' 'ROM ' > ) ]
+Lookup: 1 0 0 "sub_single_locllatn_2"  {"sub_single_locllatn_2 subtable"  } ['locl' ('latn' <'dflt' 'MOL ' > ) ]
+Lookup: 1 0 0 "sub_single_locllatn_4"  {"sub_single_locllatn_4 subtable"  } ['locl' ('latn' <'dflt' 'KAZ ' > ) ]
+Lookup: 1 0 0 "sub_single_locllatn_6"  {"sub_single_locllatn_6 subtable"  } ['locl' ('latn' <'dflt' 'TAT ' > ) ]
+Lookup: 1 0 0 "sub_single_locllatn_8"  {"sub_single_locllatn_8 subtable"  } ['locl' ('latn' <'dflt' 'TRK ' > ) ]
+Lookup: 1 0 0 "sub_single_locllatn_10"  {"sub_single_locllatn_10 subtable"  } ['locl' ('latn' <'dflt' 'CRT ' > ) ]
+Lookup: 1 0 0 "sub_single_locllatn_12"  {"sub_single_locllatn_12 subtable"  } ['locl' ('latn' <'dflt' 'AZE ' > ) ]
+Lookup: 1 0 0 "supsSuperscriptlookup11"  {"supsSuperscriptlookup11 subtable" ("superior" ) } ['sups' ('latn' <'dflt' > 'grek' <'dflt' > 'DFLT' <'dflt' > ) ]
+Lookup: 4 0 0 "fracDiagonalFractionslookup12"  {"fracDiagonalFractionslookup12 subtable"  } ['frac' ('latn' <'dflt' > 'grek' <'dflt' > 'DFLT' <'dflt' > ) ]
+Lookup: 6 0 0 "ordnOrdinalslookup13"  {"ordnOrdinalslookup13 contextual 0"  "ordnOrdinalslookup13 contextual 1"  } ['ordn' ('latn' <'dflt' > 'grek' <'dflt' > 'DFLT' <'dflt' > ) ]
 Lookup: 1 0 0 "Single Substitution lookup 14"  {"Single Substitution lookup 14 subtable"  } []
 Lookup: 1 0 0 "Single Substitution lookup 15"  {"Single Substitution lookup 15 subtable"  } []
-Lookup: 258 0 0 "'kern' Horizontal Kerning in Latin lookup 0"  {"'kern' Horizontal Kerning in Latin lookup 0 subtable"  } ['kern' ('latn' <'dflt' > ) ]
+Lookup: 258 0 0 "kernHorizontalKerninginLatinloo"  {"kernHorizontalKerninginLatinloo subtable"  } ['kern' ('latn' <'dflt' > ) ]
 DEI: 91125
-ChainSub2: coverage "'ordn' Ordinals lookup 13 contextual 1"  0 0 0 1
+ChainSub2: coverage "ordnOrdinalslookup13 contextual 1"  0 0 0 1
  1 1 0
   Coverage: 3 O o
   BCoverage: 49 zero one two three four five six seven eight nine
  1
   SeqLookup: 0 "Single Substitution lookup 15" 
 EndFPST
-ChainSub2: coverage "'ordn' Ordinals lookup 13 contextual 0"  0 0 0 1
+ChainSub2: coverage "ordnOrdinalslookup13 contextual 0"  0 0 0 1
  1 1 0
   Coverage: 3 A a
   BCoverage: 49 zero one two three four five six seven eight nine
  1
   SeqLookup: 0 "Single Substitution lookup 14" 
 EndFPST
-ChainSub2: glyph "'locl' Localized Forms in Latin lookup 1 contextual 1"  0 0 0 1
+ChainSub2: glyph "loclLocalizedFormsinLatinlookup contextual 1"  0 0 0 1
  String: 16 L periodcentered
  BString: 0 
  FString: 1 L
  1
   SeqLookup: 0 "Ligature Substitution lookup 3" 
 EndFPST
-ChainSub2: glyph "'locl' Localized Forms in Latin lookup 1 contextual 0"  0 0 0 1
+ChainSub2: glyph "loclLocalizedFormsinLatinlookup contextual 0"  0 0 0 1
  String: 16 l periodcentered
  BString: 0 
  FString: 1 l
  1
   SeqLookup: 0 "Ligature Substitution lookup 2" 
 EndFPST
+LangName: 1033 "" "" "" "" "" "Version 2.0" "" "Monda is a trademark of Vernon Adams and may be registered in certain jurisdictions." "newtypography" "Vernon Adams" "" "newtypography.co.uk" "newtypography.co.uk" "Copyright (c) 2013, vernon adams.+AAoACgAA-This Font Software is licensed under the SIL Open Font License, Version 1.1.+AAoA-This license is copied below, and is also available with a FAQ at:+AAoA-http://scripts.sil.org/OFL+AAoA" "http://scripts.sil.org/OFL" "" "" "" "Nunito-Light" 
 PickledData: "(dp1
 S'public.glyphOrder'
 p2
@@ -1874,35 +1877,30 @@ p844
 tp845
 stp846
 s."
-Encoding: GWF-FULL-LATIN_3
+Encoding: UnicodeBmp
 Compacted: 1
 UnicodeInterp: none
 NameList: AGL For New Fonts
-DisplaySize: -128
+DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 0 9 5
-BeginPrivate: 4
-BlueFuzz 1 1
-BlueScale 20 0.039600000000000003
-BlueShift 1 7
-BlueValues 27 [-20 0 1074 1094 1476 1496]
-EndPrivate
-AnchorClass2: "caron.alt" "mid" "bot" "ogonek" "top" 
-BeginChars: 65536 496
+WinInfo: 340 20 8
+AnchorClass2: "caron.alt" "mid" "bot" "top" "ogonek" 
+BeginChars: 65541 496
 
 StartChar: A
-Encoding: 34 65 0
+Encoding: 65 65 0
 Width: 1540
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
 (dp3
 s."
-AnchorPoint: "ogonek" 1288 0 basechar 0
 AnchorPoint: "top" 781 1476 basechar 0
+AnchorPoint: "ogonek" 1288 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -1920,14 +1918,15 @@ SplineSet
  1004 479 l 257
  536 479 l 257
 EndSplineSet
-Kerns2: 116 -15 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 
+Kerns2: 116 -15 "kernHorizontalKerninginLatinloo subtable" 
 Substitution2: "Single Substitution lookup 14 subtable" ordfeminine
 EndChar
 
 StartChar: AE
-Encoding: 135 198 1
+Encoding: 198 198 1
 Width: 1834
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -1964,9 +1963,10 @@ EndSplineSet
 EndChar
 
 StartChar: AEacute
-Encoding: 358 508 2
+Encoding: 508 508 2
 Width: 1834
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -1975,14 +1975,15 @@ p2
 s."
 LayerCount: 2
 Fore
-Refer: 1 198 N 1 0 0 1 0 0 2
 Refer: 175 180 N 1 0 0 1 929 402 2
+Refer: 1 198 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni01E2
-Encoding: 340 482 3
+Encoding: 482 482 3
 Width: 1834
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -1996,9 +1997,10 @@ Refer: 1 198 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: Aacute
-Encoding: 130 193 4
+Encoding: 193 193 4
 Width: 1540
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -2009,13 +2011,14 @@ LayerCount: 2
 Fore
 Refer: 175 180 N 1 0 0 1 614 402 2
 Refer: 0 65 N 1 0 0 1 0 0 2
-Kerns2: 116 -15 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 
+Kerns2: 116 -15 "kernHorizontalKerninginLatinloo subtable" 
 EndChar
 
 StartChar: Abreve
-Encoding: 195 258 5
+Encoding: 258 258 5
 Width: 1540
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -2026,13 +2029,14 @@ LayerCount: 2
 Fore
 Refer: 202 728 N 1 0 0 1 514 402 2
 Refer: 0 65 N 1 0 0 1 0 0 2
-Kerns2: 116 -15 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 
+Kerns2: 116 -15 "kernHorizontalKerninginLatinloo subtable" 
 EndChar
 
 StartChar: uni01CD
-Encoding: 332 461 6
+Encoding: 461 461 6
 Width: 1540
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -2046,9 +2050,10 @@ Refer: 0 65 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: Acircumflex
-Encoding: 131 194 7
+Encoding: 194 194 7
 Width: 1540
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -2059,13 +2064,14 @@ LayerCount: 2
 Fore
 Refer: 216 710 N 1 0 0 1 514 402 2
 Refer: 0 65 N 1 0 0 1 0 0 2
-Kerns2: 116 -15 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 
+Kerns2: 116 -15 "kernHorizontalKerninginLatinloo subtable" 
 EndChar
 
 StartChar: uni0200
-Encoding: 362 512 8
+Encoding: 512 512 8
 Width: 1540
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -2079,9 +2085,10 @@ Refer: 0 65 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: Adieresis
-Encoding: 133 196 9
+Encoding: 196 196 9
 Width: 1540
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -2092,13 +2099,14 @@ LayerCount: 2
 Fore
 Refer: 228 168 N 1 0 0 1 286 402 2
 Refer: 0 65 N 1 0 0 1 0 0 2
-Kerns2: 116 -15 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 
+Kerns2: 116 -15 "kernHorizontalKerninginLatinloo subtable" 
 EndChar
 
 StartChar: uni0226
-Encoding: 392 550 10
+Encoding: 550 550 10
 Width: 1540
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -2112,9 +2120,10 @@ Refer: 0 65 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: Agrave
-Encoding: 129 192 11
+Encoding: 192 192 11
 Width: 1540
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -2125,13 +2134,14 @@ LayerCount: 2
 Fore
 Refer: 279 96 N 1 0 0 1 384 402 2
 Refer: 0 65 N 1 0 0 1 0 0 2
-Kerns2: 116 -15 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 
+Kerns2: 116 -15 "kernHorizontalKerninginLatinloo subtable" 
 EndChar
 
 StartChar: uni0202
-Encoding: 364 514 12
+Encoding: 514 514 12
 Width: 1540
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -2142,13 +2152,14 @@ LayerCount: 2
 Fore
 Refer: 452 785 N 1 0 0 1 480 402 2
 Refer: 0 65 N 1 0 0 1 0 0 2
-Kerns2: 116 -15 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 
+Kerns2: 116 -15 "kernHorizontalKerninginLatinloo subtable" 
 EndChar
 
 StartChar: Amacron
-Encoding: 193 256 13
+Encoding: 256 256 13
 Width: 1540
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -2159,13 +2170,14 @@ LayerCount: 2
 Fore
 Refer: 325 175 N 1 0 0 1 524 402 2
 Refer: 0 65 N 1 0 0 1 0 0 2
-Kerns2: 116 -15 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 
+Kerns2: 116 -15 "kernHorizontalKerninginLatinloo subtable" 
 EndChar
 
 StartChar: Aogonek
-Encoding: 197 260 14
+Encoding: 260 260 14
 Width: 1540
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -2176,13 +2188,14 @@ LayerCount: 2
 Fore
 Refer: 348 731 N 1 0 0 1 1023 0 2
 Refer: 0 65 N 1 0 0 1 0 0 2
-Kerns2: 116 -15 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 
+Kerns2: 116 -15 "kernHorizontalKerninginLatinloo subtable" 
 EndChar
 
 StartChar: Aring
-Encoding: 134 197 15
+Encoding: 197 197 15
 Width: 1540
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -2193,13 +2206,14 @@ LayerCount: 2
 Fore
 Refer: 395 730 N 1 0 0 1 484 402 2
 Refer: 0 65 N 1 0 0 1 0 0 2
-Kerns2: 116 -15 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 
+Kerns2: 116 -15 "kernHorizontalKerninginLatinloo subtable" 
 EndChar
 
 StartChar: Atilde
-Encoding: 132 195 16
+Encoding: 195 195 16
 Width: 1540
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -2210,13 +2224,14 @@ LayerCount: 2
 Fore
 Refer: 421 732 N 1 0 0 1 395 402 2
 Refer: 0 65 N 1 0 0 1 0 0 2
-Kerns2: 116 -15 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 
+Kerns2: 116 -15 "kernHorizontalKerninginLatinloo subtable" 
 EndChar
 
 StartChar: B
-Encoding: 35 66 17
+Encoding: 66 66 17
 Width: 1492
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -2229,8 +2244,8 @@ Fore
 SplineSet
 212 0 m 257
  852 0 l 258
- 1210 0 1366 133 1366 428 c 0
- 1366 434 1366 441 1366 448 c 256
+ 1210 0 1366 133 1366 428 c 258
+ 1366 448 l 258
  1366 641 1319 776 1114 804 c 257
  1268 843 1302 938 1303 1088 c 256
  1303 1353 1193 1476 780 1476 c 258
@@ -2252,9 +2267,10 @@ EndSplineSet
 EndChar
 
 StartChar: uni1E02
-Encoding: 423 7682 18
+Encoding: 7682 7682 18
 Width: 1492
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -2268,17 +2284,18 @@ Refer: 17 66 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: C
-Encoding: 36 67 19
+Encoding: 67 67 19
 Width: 1509
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
 (dp3
 s."
-AnchorPoint: "bot" 765 0 basechar 0
 AnchorPoint: "top" 788 1476 basechar 0
+AnchorPoint: "bot" 765 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -2303,9 +2320,10 @@ EndSplineSet
 EndChar
 
 StartChar: uni000D
-Encoding: 0 13 20
+Encoding: 13 13 20
 Width: 600
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -2316,9 +2334,10 @@ LayerCount: 2
 EndChar
 
 StartChar: Cacute
-Encoding: 199 262 21
+Encoding: 262 262 21
 Width: 1509
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -2327,14 +2346,15 @@ p2
 s."
 LayerCount: 2
 Fore
-Refer: 19 67 N 1 0 0 1 0 0 2
 Refer: 175 180 N 1 0 0 1 621 402 2
+Refer: 19 67 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: Ccaron
-Encoding: 205 268 22
+Encoding: 268 268 22
 Width: 1509
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -2343,14 +2363,15 @@ p2
 s."
 LayerCount: 2
 Fore
-Refer: 19 67 N 1 0 0 1 0 0 2
 Refer: 208 711 N 1 0 0 1 521 402 2
+Refer: 19 67 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: Ccedilla
-Encoding: 136 199 23
+Encoding: 199 199 23
 Width: 1509
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -2364,9 +2385,10 @@ Refer: 19 67 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: Ccircumflex
-Encoding: 201 264 24
+Encoding: 264 264 24
 Width: 1509
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -2375,14 +2397,15 @@ p2
 s."
 LayerCount: 2
 Fore
-Refer: 19 67 N 1 0 0 1 0 0 2
 Refer: 216 710 N 1 0 0 1 521 402 2
+Refer: 19 67 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: Cdotaccent
-Encoding: 203 266 25
+Encoding: 266 266 25
 Width: 1509
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -2396,17 +2419,18 @@ Refer: 19 67 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: D
-Encoding: 37 68 26
+Encoding: 68 68 26
 Width: 1564
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
 (dp3
 s."
-AnchorPoint: "mid" 375 781 basechar 0
 AnchorPoint: "top" 779 1476 basechar 0
+AnchorPoint: "mid" 375 781 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -2425,13 +2449,14 @@ SplineSet
  212 1476 l 257
  212 0 l 257
 EndSplineSet
-Kerns2: 370 -17 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  218 -17 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  160 -21 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  159 -21 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  153 -17 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  152 -12 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  16 -18 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  15 -18 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  14 -18 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  13 -18 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  12 -18 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  11 -18 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  9 -18 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  7 -18 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  5 -18 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  4 -18 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  0 -18 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 
+Kerns2: 0 -18 "kernHorizontalKerninginLatinloo subtable"  4 -18 "kernHorizontalKerninginLatinloo subtable"  5 -18 "kernHorizontalKerninginLatinloo subtable"  7 -18 "kernHorizontalKerninginLatinloo subtable"  9 -18 "kernHorizontalKerninginLatinloo subtable"  11 -18 "kernHorizontalKerninginLatinloo subtable"  12 -18 "kernHorizontalKerninginLatinloo subtable"  13 -18 "kernHorizontalKerninginLatinloo subtable"  14 -18 "kernHorizontalKerninginLatinloo subtable"  15 -18 "kernHorizontalKerninginLatinloo subtable"  16 -18 "kernHorizontalKerninginLatinloo subtable"  152 -12 "kernHorizontalKerninginLatinloo subtable"  153 -17 "kernHorizontalKerninginLatinloo subtable"  159 -21 "kernHorizontalKerninginLatinloo subtable"  160 -21 "kernHorizontalKerninginLatinloo subtable"  218 -17 "kernHorizontalKerninginLatinloo subtable"  370 -17 "kernHorizontalKerninginLatinloo subtable" 
 EndChar
 
 StartChar: Dcaron
-Encoding: 207 270 27
+Encoding: 270 270 27
 Width: 1564
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -2440,14 +2465,15 @@ p2
 s."
 LayerCount: 2
 Fore
-Refer: 26 68 N 1 0 0 1 0 0 2
 Refer: 208 711 N 1 0 0 1 512 402 2
+Refer: 26 68 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: Dcroat
-Encoding: 209 272 28
+Encoding: 272 272 28
 Width: 1564
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -2460,9 +2486,10 @@ Refer: 46 208 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni1E0A
-Encoding: 425 7690 29
+Encoding: 7690 7690 29
 Width: 1564
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -2476,9 +2503,10 @@ Refer: 26 68 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni0394
-Encoding: 418 916 30
+Encoding: 916 916 30
 Width: 1419
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -2501,9 +2529,10 @@ EndSplineSet
 EndChar
 
 StartChar: uni01F2
-Encoding: 350 498 31
+Encoding: 498 498 31
 Width: 2559
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -2517,9 +2546,10 @@ Refer: 26 68 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni01C5
-Encoding: 324 453 32
+Encoding: 453 453 32
 Width: 2559
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -2533,18 +2563,19 @@ Refer: 26 68 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: E
-Encoding: 38 69 33
+Encoding: 69 69 33
 Width: 1316
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
 (dp3
 s."
-AnchorPoint: "bot" 727 0 basechar 0
-AnchorPoint: "ogonek" 892 0 basechar 0
 AnchorPoint: "top" 743 1476 basechar 0
+AnchorPoint: "ogonek" 892 0 basechar 0
+AnchorPoint: "bot" 727 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -2565,9 +2596,10 @@ EndSplineSet
 EndChar
 
 StartChar: Eacute
-Encoding: 138 201 34
+Encoding: 201 201 34
 Width: 1316
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -2576,14 +2608,15 @@ p2
 s."
 LayerCount: 2
 Fore
-Refer: 33 69 N 1 0 0 1 0 0 2
 Refer: 175 180 N 1 0 0 1 576 402 2
+Refer: 33 69 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: Ebreve
-Encoding: 213 276 35
+Encoding: 276 276 35
 Width: 1316
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -2597,9 +2630,10 @@ Refer: 33 69 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: Ecaron
-Encoding: 219 282 36
+Encoding: 282 282 36
 Width: 1316
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -2608,14 +2642,15 @@ p2
 s."
 LayerCount: 2
 Fore
-Refer: 33 69 N 1 0 0 1 0 0 2
 Refer: 208 711 N 1 0 0 1 476 402 2
+Refer: 33 69 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: Ecircumflex
-Encoding: 139 202 37
+Encoding: 202 202 37
 Width: 1316
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -2624,14 +2659,15 @@ p2
 s."
 LayerCount: 2
 Fore
-Refer: 33 69 N 1 0 0 1 0 0 2
 Refer: 216 710 N 1 0 0 1 476 402 2
+Refer: 33 69 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni0204
-Encoding: 366 516 38
+Encoding: 516 516 38
 Width: 1316
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -2640,14 +2676,15 @@ p2
 s."
 LayerCount: 2
 Fore
-Refer: 33 69 N 1 0 0 1 0 0 2
 Refer: 451 783 N 1 0 0 1 105 402 2
+Refer: 33 69 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: Edieresis
-Encoding: 140 203 39
+Encoding: 203 203 39
 Width: 1316
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -2656,14 +2693,15 @@ p2
 s."
 LayerCount: 2
 Fore
-Refer: 33 69 N 1 0 0 1 0 0 2
 Refer: 228 168 N 1 0 0 1 248 402 2
+Refer: 33 69 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: Edotaccent
-Encoding: 215 278 40
+Encoding: 278 278 40
 Width: 1316
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -2677,9 +2715,10 @@ Refer: 33 69 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: Egrave
-Encoding: 137 200 41
+Encoding: 200 200 41
 Width: 1316
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -2693,9 +2732,10 @@ Refer: 33 69 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni0206
-Encoding: 368 518 42
+Encoding: 518 518 42
 Width: 1316
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -2704,14 +2744,15 @@ p2
 s."
 LayerCount: 2
 Fore
-Refer: 33 69 N 1 0 0 1 0 0 2
 Refer: 452 785 N 1 0 0 1 442 402 2
+Refer: 33 69 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: Emacron
-Encoding: 211 274 43
+Encoding: 274 274 43
 Width: 1316
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -2725,9 +2766,10 @@ Refer: 33 69 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: Eng
-Encoding: 267 330 44
+Encoding: 330 330 44
 Width: 1640
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -2755,9 +2797,10 @@ EndSplineSet
 EndChar
 
 StartChar: Eogonek
-Encoding: 217 280 45
+Encoding: 280 280 45
 Width: 1316
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -2766,14 +2809,15 @@ p2
 s."
 LayerCount: 2
 Fore
-Refer: 33 69 N 1 0 0 1 0 0 2
 Refer: 348 731 N 1 0 0 1 627 0 2
+Refer: 33 69 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: Eth
-Encoding: 145 208 46
+Encoding: 208 208 46
 Width: 1564
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -2782,14 +2826,15 @@ p2
 s."
 LayerCount: 2
 Fore
-Refer: 26 68 N 1 0 0 1 0 0 2
 Refer: 290 45 N 1 0 0 1 -101 212 2
+Refer: 26 68 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni1EBC
-Encoding: 443 7868 47
+Encoding: 7868 7868 47
 Width: 1316
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -2803,9 +2848,10 @@ Refer: 33 69 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: Euro
-Encoding: 467 8364 48
+Encoding: 8364 8364 48
 Width: 1490
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -2830,9 +2876,10 @@ Refer: 19 67 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: F
-Encoding: 39 70 49
+Encoding: 70 70 49
 Width: 1195
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -2855,13 +2902,14 @@ SplineSet
  212 1476 l 257
  212 0 l 257
 EndSplineSet
-Kerns2: 397 -13 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  370 -142 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  345 -22 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  218 -119 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 
+Kerns2: 218 -119 "kernHorizontalKerninginLatinloo subtable"  345 -22 "kernHorizontalKerninginLatinloo subtable"  370 -142 "kernHorizontalKerninginLatinloo subtable"  397 -13 "kernHorizontalKerninginLatinloo subtable" 
 EndChar
 
 StartChar: uni1E1E
-Encoding: 427 7710 50
+Encoding: 7710 7710 50
 Width: 1195
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -2870,22 +2918,23 @@ p2
 s."
 LayerCount: 2
 Fore
-Refer: 49 70 N 1 0 0 1 0 0 2
 Refer: 231 729 N 1 0 0 1 441 402 2
+Refer: 49 70 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: G
-Encoding: 40 71 51
+Encoding: 71 71 51
 Width: 1623
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
 (dp3
 s."
-AnchorPoint: "bot" 768 0 basechar 0
 AnchorPoint: "top" 823 1476 basechar 0
+AnchorPoint: "bot" 768 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -2914,9 +2963,10 @@ EndSplineSet
 EndChar
 
 StartChar: uni01F4
-Encoding: 352 500 52
+Encoding: 500 500 52
 Width: 1623
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -2925,14 +2975,15 @@ p2
 s."
 LayerCount: 2
 Fore
-Refer: 51 71 N 1 0 0 1 0 0 2
 Refer: 175 180 N 1 0 0 1 656 402 2
+Refer: 51 71 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: Gbreve
-Encoding: 223 286 53
+Encoding: 286 286 53
 Width: 1623
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -2946,9 +2997,10 @@ Refer: 51 71 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: Gcaron
-Encoding: 342 486 54
+Encoding: 486 486 54
 Width: 1623
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -2957,14 +3009,15 @@ p2
 s."
 LayerCount: 2
 Fore
-Refer: 51 71 N 1 0 0 1 0 0 2
 Refer: 208 711 N 1 0 0 1 556 402 2
+Refer: 51 71 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: Gcircumflex
-Encoding: 221 284 55
+Encoding: 284 284 55
 Width: 1623
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -2973,14 +3026,15 @@ p2
 s."
 LayerCount: 2
 Fore
-Refer: 51 71 N 1 0 0 1 0 0 2
 Refer: 216 710 N 1 0 0 1 556 402 2
+Refer: 51 71 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni0122
-Encoding: 227 290 56
+Encoding: 290 290 56
 Width: 1623
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -2989,14 +3043,15 @@ p2
 s."
 LayerCount: 2
 Fore
-Refer: 51 71 N 1 0 0 1 0 0 2
 Refer: 454 806 N 1 0 0 1 456 0 2
+Refer: 51 71 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: Gdotaccent
-Encoding: 225 288 57
+Encoding: 288 288 57
 Width: 1623
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -3010,9 +3065,10 @@ Refer: 51 71 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: H
-Encoding: 41 72 58
+Encoding: 72 72 58
 Width: 1668
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -3040,9 +3096,10 @@ EndSplineSet
 EndChar
 
 StartChar: Hbar
-Encoding: 231 294 59
+Encoding: 294 294 59
 Width: 1624
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -3062,9 +3119,10 @@ Refer: 58 72 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: Hcircumflex
-Encoding: 229 292 60
+Encoding: 292 292 60
 Width: 1668
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -3073,22 +3131,23 @@ p2
 s."
 LayerCount: 2
 Fore
-Refer: 58 72 N 1 0 0 1 0 0 2
 Refer: 216 710 N 1 0 0 1 580 402 2
+Refer: 58 72 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: I
-Encoding: 42 73 61
+Encoding: 73 73 61
 Width: 1148
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
 (dp3
 s."
-AnchorPoint: "ogonek" 583 0 basechar 0
 AnchorPoint: "top" 596 1476 basechar 0
+AnchorPoint: "ogonek" 583 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -3109,9 +3168,10 @@ EndSplineSet
 EndChar
 
 StartChar: IJ
-Encoding: 243 306 62
+Encoding: 306 306 62
 Width: 2370
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -3125,9 +3185,10 @@ Refer: 61 73 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: Iacute
-Encoding: 142 205 63
+Encoding: 205 205 63
 Width: 1148
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -3141,9 +3202,10 @@ Refer: 61 73 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: Ibreve
-Encoding: 237 300 64
+Encoding: 300 300 64
 Width: 1148
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -3157,9 +3219,10 @@ Refer: 61 73 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni01CF
-Encoding: 334 463 65
+Encoding: 463 463 65
 Width: 1148
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -3173,9 +3236,10 @@ Refer: 61 73 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: Icircumflex
-Encoding: 143 206 66
+Encoding: 206 206 66
 Width: 1148
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -3189,9 +3253,10 @@ Refer: 61 73 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni0208
-Encoding: 370 520 67
+Encoding: 520 520 67
 Width: 1148
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -3205,9 +3270,10 @@ Refer: 61 73 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: Idieresis
-Encoding: 144 207 68
+Encoding: 207 207 68
 Width: 1148
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -3221,9 +3287,10 @@ Refer: 61 73 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: Idotaccent
-Encoding: 241 304 69
+Encoding: 304 304 69
 Width: 1148
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -3237,9 +3304,10 @@ Refer: 61 73 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: Igrave
-Encoding: 141 204 70
+Encoding: 204 204 70
 Width: 1148
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -3253,9 +3321,10 @@ Refer: 61 73 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni020A
-Encoding: 372 522 71
+Encoding: 522 522 71
 Width: 1148
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -3269,9 +3338,10 @@ Refer: 61 73 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: Imacron
-Encoding: 235 298 72
+Encoding: 298 298 72
 Width: 1148
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -3285,9 +3355,10 @@ Refer: 61 73 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: Iogonek
-Encoding: 239 302 73
+Encoding: 302 302 73
 Width: 1148
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -3301,9 +3372,10 @@ Refer: 61 73 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: Itilde
-Encoding: 233 296 74
+Encoding: 296 296 74
 Width: 1148
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -3317,9 +3389,10 @@ Refer: 61 73 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: J
-Encoding: 43 74 75
+Encoding: 74 74 75
 Width: 1222
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -3342,13 +3415,14 @@ SplineSet
  70 67 l 257
  200 6 360 -25 504 -25 c 256
 EndSplineSet
-Kerns2: 370 -6 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  218 -6 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 
+Kerns2: 218 -6 "kernHorizontalKerninginLatinloo subtable"  370 -6 "kernHorizontalKerninginLatinloo subtable" 
 EndChar
 
 StartChar: Jcircumflex
-Encoding: 245 308 76
+Encoding: 308 308 76
 Width: 1222
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -3357,22 +3431,23 @@ p2
 s."
 LayerCount: 2
 Fore
-Refer: 75 74 N 1 0 0 1 0 0 2
 Refer: 216 710 N 1 0 0 1 370 402 2
+Refer: 75 74 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: K
-Encoding: 44 75 77
+Encoding: 75 75 77
 Width: 1470
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
 (dp3
 s."
-AnchorPoint: "bot" 782 0 basechar 0
 AnchorPoint: "top" 756 1476 basechar 0
+AnchorPoint: "bot" 782 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -3390,13 +3465,14 @@ SplineSet
  212 1476 l 257
  212 0 l 257
 EndSplineSet
-Kerns2: 457 -15 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  435 -15 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  430 -15 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  345 -10 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 
+Kerns2: 345 -10 "kernHorizontalKerninginLatinloo subtable"  430 -15 "kernHorizontalKerninginLatinloo subtable"  435 -15 "kernHorizontalKerninginLatinloo subtable"  457 -15 "kernHorizontalKerninginLatinloo subtable" 
 EndChar
 
 StartChar: uni01E8
-Encoding: 344 488 78
+Encoding: 488 488 78
 Width: 1470
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -3405,14 +3481,15 @@ p2
 s."
 LayerCount: 2
 Fore
-Refer: 77 75 N 1 0 0 1 0 0 2
 Refer: 208 711 N 1 0 0 1 489 402 2
+Refer: 77 75 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni0136
-Encoding: 247 310 79
+Encoding: 310 310 79
 Width: 1470
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -3426,18 +3503,19 @@ Refer: 77 75 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: L
-Encoding: 45 76 80
+Encoding: 76 76 80
 Width: 1194
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
 (dp3
 s."
-AnchorPoint: "mid" 425 811 basechar 0
-AnchorPoint: "bot" 657 0 basechar 0
 AnchorPoint: "top" 444 1476 basechar 0
+AnchorPoint: "bot" 657 0 basechar 0
+AnchorPoint: "mid" 425 811 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -3449,13 +3527,14 @@ SplineSet
  212 1476 l 257
  212 0 l 257
 EndSplineSet
-Kerns2: 385 -35 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  383 -35 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 
+Kerns2: 383 -35 "kernHorizontalKerninginLatinloo subtable"  385 -35 "kernHorizontalKerninginLatinloo subtable" 
 EndChar
 
 StartChar: Lacute
-Encoding: 250 313 81
+Encoding: 313 313 81
 Width: 1194
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -3464,14 +3543,15 @@ p2
 s."
 LayerCount: 2
 Fore
-Refer: 80 76 N 1 0 0 1 0 0 2
 Refer: 175 180 N 1 0 0 1 277 402 2
+Refer: 80 76 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: Lcaron
-Encoding: 254 317 82
+Encoding: 317 317 82
 Width: 1194
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -3480,14 +3560,15 @@ p2
 s."
 LayerCount: 2
 Fore
-Refer: 80 76 N 1 0 0 1 0 0 2
 Refer: 209 -1 N 1 0 0 1 127 0 2
+Refer: 80 76 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni013B
-Encoding: 252 315 83
+Encoding: 315 315 83
 Width: 1194
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -3496,14 +3577,15 @@ p2
 s."
 LayerCount: 2
 Fore
-Refer: 80 76 N 1 0 0 1 0 0 2
 Refer: 454 806 N 1 0 0 1 345 0 2
+Refer: 80 76 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: Ldot
-Encoding: 256 319 84
+Encoding: 319 319 84
 Width: 1194
 VWidth: 0
+GlyphClass: 3
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -3518,9 +3600,10 @@ Ligature2: "Ligature Substitution lookup 3 subtable" L periodcentered
 EndChar
 
 StartChar: uni01C8
-Encoding: 327 456 85
+Encoding: 456 456 85
 Width: 1867
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -3534,9 +3617,10 @@ Refer: 80 76 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: Lslash
-Encoding: 258 321 86
+Encoding: 321 321 86
 Width: 1172
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -3556,9 +3640,10 @@ Refer: 80 76 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: M
-Encoding: 46 77 87
+Encoding: 77 77 87
 Width: 1918
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -3587,9 +3672,10 @@ EndSplineSet
 EndChar
 
 StartChar: uni1E40
-Encoding: 429 7744 88
+Encoding: 7744 7744 88
 Width: 1918
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -3603,17 +3689,18 @@ Refer: 87 77 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: N
-Encoding: 47 78 89
+Encoding: 78 78 89
 Width: 1678
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
 (dp3
 s."
-AnchorPoint: "bot" 902 0 basechar 0
 AnchorPoint: "top" 864 1476 basechar 0
+AnchorPoint: "bot" 902 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -3632,9 +3719,10 @@ EndSplineSet
 EndChar
 
 StartChar: NULL
-Encoding: 494 -1 90
+Encoding: 65536 -1 90
 Width: 600
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -3645,9 +3733,10 @@ LayerCount: 2
 EndChar
 
 StartChar: Nacute
-Encoding: 260 323 91
+Encoding: 323 323 91
 Width: 1678
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -3656,14 +3745,15 @@ p2
 s."
 LayerCount: 2
 Fore
-Refer: 89 78 N 1 0 0 1 0 0 2
 Refer: 175 180 N 1 0 0 1 697 402 2
+Refer: 89 78 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: Ncaron
-Encoding: 264 327 92
+Encoding: 327 327 92
 Width: 1678
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -3672,14 +3762,15 @@ p2
 s."
 LayerCount: 2
 Fore
-Refer: 89 78 N 1 0 0 1 0 0 2
 Refer: 208 711 N 1 0 0 1 597 402 2
+Refer: 89 78 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni0145
-Encoding: 262 325 93
+Encoding: 325 325 93
 Width: 1678
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -3688,14 +3779,15 @@ p2
 s."
 LayerCount: 2
 Fore
-Refer: 89 78 N 1 0 0 1 0 0 2
 Refer: 454 806 N 1 0 0 1 590 0 2
+Refer: 89 78 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni01CB
-Encoding: 330 459 94
+Encoding: 459 459 94
 Width: 2351
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -3709,9 +3801,10 @@ Refer: 89 78 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: Ntilde
-Encoding: 146 209 95
+Encoding: 209 209 95
 Width: 1678
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -3725,17 +3818,18 @@ Refer: 89 78 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: O
-Encoding: 48 79 96
+Encoding: 79 79 96
 Width: 1622
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
 (dp3
 s."
-AnchorPoint: "ogonek" 883 0 basechar 0
 AnchorPoint: "top" 822 1476 basechar 0
+AnchorPoint: "ogonek" 883 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -3758,9 +3852,10 @@ Substitution2: "Single Substitution lookup 15 subtable" ordmasculine
 EndChar
 
 StartChar: OE
-Encoding: 275 338 97
+Encoding: 338 338 97
 Width: 1633
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -3796,9 +3891,10 @@ EndSplineSet
 EndChar
 
 StartChar: Oacute
-Encoding: 148 211 98
+Encoding: 211 211 98
 Width: 1622
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -3807,14 +3903,15 @@ p2
 s."
 LayerCount: 2
 Fore
-Refer: 96 79 N 1 0 0 1 0 0 2
 Refer: 175 180 N 1 0 0 1 655 402 2
+Refer: 96 79 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: Obreve
-Encoding: 271 334 99
+Encoding: 334 334 99
 Width: 1622
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -3828,9 +3925,10 @@ Refer: 96 79 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni01D1
-Encoding: 336 465 100
+Encoding: 465 465 100
 Width: 1622
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -3839,14 +3937,15 @@ p2
 s."
 LayerCount: 2
 Fore
-Refer: 96 79 N 1 0 0 1 0 0 2
 Refer: 208 711 N 1 0 0 1 555 402 2
+Refer: 96 79 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: Ocircumflex
-Encoding: 149 212 101
+Encoding: 212 212 101
 Width: 1622
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -3855,14 +3954,15 @@ p2
 s."
 LayerCount: 2
 Fore
-Refer: 96 79 N 1 0 0 1 0 0 2
 Refer: 216 710 N 1 0 0 1 555 402 2
+Refer: 96 79 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni020C
-Encoding: 374 524 102
+Encoding: 524 524 102
 Width: 1622
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -3871,14 +3971,15 @@ p2
 s."
 LayerCount: 2
 Fore
-Refer: 96 79 N 1 0 0 1 0 0 2
 Refer: 451 783 N 1 0 0 1 184 402 2
+Refer: 96 79 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: Odieresis
-Encoding: 151 214 103
+Encoding: 214 214 103
 Width: 1622
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -3887,14 +3988,15 @@ p2
 s."
 LayerCount: 2
 Fore
-Refer: 96 79 N 1 0 0 1 0 0 2
 Refer: 228 168 N 1 0 0 1 327 402 2
+Refer: 96 79 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: Ograve
-Encoding: 147 210 104
+Encoding: 210 210 104
 Width: 1622
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -3908,9 +4010,10 @@ Refer: 96 79 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: Omega
-Encoding: 470 8486 105
+Encoding: 8486 8486 105
 Width: 1634
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -3941,9 +4044,10 @@ EndSplineSet
 EndChar
 
 StartChar: Ohungarumlaut
-Encoding: 273 336 106
+Encoding: 336 336 106
 Width: 1622
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -3952,14 +4056,15 @@ p2
 s."
 LayerCount: 2
 Fore
-Refer: 96 79 N 1 0 0 1 0 0 2
 Refer: 289 733 N 1 0 0 1 456 402 2
+Refer: 96 79 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni020E
-Encoding: 376 526 107
+Encoding: 526 526 107
 Width: 1622
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -3968,14 +4073,15 @@ p2
 s."
 LayerCount: 2
 Fore
-Refer: 96 79 N 1 0 0 1 0 0 2
 Refer: 452 785 N 1 0 0 1 521 402 2
+Refer: 96 79 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: Omacron
-Encoding: 269 332 108
+Encoding: 332 332 108
 Width: 1622
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -3984,14 +4090,15 @@ p2
 s."
 LayerCount: 2
 Fore
-Refer: 96 79 N 1 0 0 1 0 0 2
 Refer: 325 175 N 1 0 0 1 565 402 2
+Refer: 96 79 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni03A9
-Encoding: 420 937 109
+Encoding: 937 937 109
 Width: 1634
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -4004,9 +4111,10 @@ Refer: 105 8486 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni01EA
-Encoding: 346 490 110
+Encoding: 490 490 110
 Width: 1622
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -4015,14 +4123,15 @@ p2
 s."
 LayerCount: 2
 Fore
-Refer: 96 79 N 1 0 0 1 0 0 2
 Refer: 348 731 N 1 0 0 1 618 0 2
+Refer: 96 79 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: Oslash
-Encoding: 153 216 111
+Encoding: 216 216 111
 Width: 1606
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -4042,9 +4151,10 @@ Refer: 96 79 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: Oslashacute
-Encoding: 360 510 112
+Encoding: 510 510 112
 Width: 1606
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -4058,9 +4168,10 @@ Refer: 111 216 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: Otilde
-Encoding: 150 213 113
+Encoding: 213 213 113
 Width: 1622
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -4074,9 +4185,10 @@ Refer: 96 79 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: P
-Encoding: 49 80 114
+Encoding: 80 80 114
 Width: 1408
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -4105,9 +4217,10 @@ EndSplineSet
 EndChar
 
 StartChar: uni1E56
-Encoding: 431 7766 115
+Encoding: 7766 7766 115
 Width: 1408
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -4121,9 +4234,10 @@ Refer: 114 80 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: Q
-Encoding: 50 81 116
+Encoding: 81 81 116
 Width: 1622
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -4154,17 +4268,18 @@ EndSplineSet
 EndChar
 
 StartChar: R
-Encoding: 51 82 117
+Encoding: 82 82 117
 Width: 1524
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
 (dp3
 s."
-AnchorPoint: "bot" 803 0 basechar 0
 AnchorPoint: "top" 718 1476 basechar 0
+AnchorPoint: "bot" 803 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -4189,9 +4304,10 @@ EndSplineSet
 EndChar
 
 StartChar: Racute
-Encoding: 277 340 118
+Encoding: 340 340 118
 Width: 1524
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -4200,14 +4316,15 @@ p2
 s."
 LayerCount: 2
 Fore
-Refer: 117 82 N 1 0 0 1 0 0 2
 Refer: 175 180 N 1 0 0 1 551 402 2
+Refer: 117 82 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: Rcaron
-Encoding: 281 344 119
+Encoding: 344 344 119
 Width: 1524
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -4216,14 +4333,15 @@ p2
 s."
 LayerCount: 2
 Fore
-Refer: 117 82 N 1 0 0 1 0 0 2
 Refer: 208 711 N 1 0 0 1 451 402 2
+Refer: 117 82 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni0156
-Encoding: 279 342 120
+Encoding: 342 342 120
 Width: 1524
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -4232,14 +4350,15 @@ p2
 s."
 LayerCount: 2
 Fore
-Refer: 117 82 N 1 0 0 1 0 0 2
 Refer: 454 806 N 1 0 0 1 491 0 2
+Refer: 117 82 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni0210
-Encoding: 378 528 121
+Encoding: 528 528 121
 Width: 1524
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -4248,14 +4367,15 @@ p2
 s."
 LayerCount: 2
 Fore
-Refer: 117 82 N 1 0 0 1 0 0 2
 Refer: 451 783 N 1 0 0 1 80 402 2
+Refer: 117 82 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni0212
-Encoding: 380 530 122
+Encoding: 530 530 122
 Width: 1524
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -4264,26 +4384,27 @@ p2
 s."
 LayerCount: 2
 Fore
-Refer: 117 82 N 1 0 0 1 0 0 2
 Refer: 452 785 N 1 0 0 1 417 402 2
+Refer: 117 82 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: S
-Encoding: 52 83 123
+Encoding: 83 83 123
 Width: 1281
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
 (dp3
 s."
-AnchorPoint: "bot" 702 0 basechar 0
 AnchorPoint: "top" 670 1476 basechar 0
+AnchorPoint: "bot" 702 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-898 412 m 0
+898 412 m 256
  898 287 860 207 681 207 c 256
  498 207 335 265 222 325 c 257
  120 108 l 257
@@ -4291,7 +4412,7 @@ SplineSet
  1025 -26 1169 172 1169 422 c 256
  1169 654 1069 777 870 837 c 258
  619 912 l 258
- 471 956 428 1003 428 1103 c 0
+ 471 956 428 1003 428 1103 c 256
  428 1225 514 1268 675 1268 c 256
  819 1268 949 1229 1059 1177 c 257
  1143 1386 l 257
@@ -4299,14 +4420,15 @@ SplineSet
  358 1501 136 1369 136 1094 c 256
  136 905 201 752 442 681 c 258
  694 607 l 258
- 871 555 898 493 898 412 c 0
+ 871 555 898 493 898 412 c 256
 EndSplineSet
 EndChar
 
 StartChar: Sacute
-Encoding: 283 346 124
+Encoding: 346 346 124
 Width: 1281
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -4315,14 +4437,15 @@ p2
 s."
 LayerCount: 2
 Fore
-Refer: 123 83 N 1 0 0 1 0 0 2
 Refer: 175 180 N 1 0 0 1 503 402 2
+Refer: 123 83 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: Scaron
-Encoding: 289 352 125
+Encoding: 352 352 125
 Width: 1281
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -4331,14 +4454,15 @@ p2
 s."
 LayerCount: 2
 Fore
-Refer: 123 83 N 1 0 0 1 0 0 2
 Refer: 208 711 N 1 0 0 1 403 402 2
+Refer: 123 83 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: Scedilla
-Encoding: 287 350 126
+Encoding: 350 350 126
 Width: 1281
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -4349,14 +4473,15 @@ LayerCount: 2
 Fore
 Refer: 214 184 N 1 0 0 1 507 0 2
 Refer: 123 83 N 1 0 0 1 0 0 2
-Substitution2: "'locl' Localized Forms in Latin lookup 5 subtable" uni0218
-Substitution2: "'locl' Localized Forms in Latin lookup 4 subtable" uni0218
+Substitution2: "sub_single_locllatn_2 subtable" uni0218
+Substitution2: "sub_single_locllatn_0 subtable" uni0218
 EndChar
 
 StartChar: uni018F
-Encoding: 321 399 127
+Encoding: 399 399 127
 Width: 600
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -4367,9 +4492,10 @@ LayerCount: 2
 EndChar
 
 StartChar: Scircumflex
-Encoding: 285 348 128
+Encoding: 348 348 128
 Width: 1281
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -4378,14 +4504,15 @@ p2
 s."
 LayerCount: 2
 Fore
-Refer: 123 83 N 1 0 0 1 0 0 2
 Refer: 216 710 N 1 0 0 1 403 402 2
+Refer: 123 83 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni0218
-Encoding: 386 536 129
+Encoding: 536 536 129
 Width: 1281
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -4399,9 +4526,10 @@ Refer: 123 83 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni1E60
-Encoding: 433 7776 130
+Encoding: 7776 7776 130
 Width: 1281
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -4415,9 +4543,10 @@ Refer: 123 83 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: Sigma
-Encoding: 419 931 131
+Encoding: 931 931 131
 Width: 1196
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -4445,18 +4574,19 @@ EndSplineSet
 EndChar
 
 StartChar: T
-Encoding: 53 84 132
+Encoding: 84 84 132
 Width: 1194
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
 (dp3
 s."
-AnchorPoint: "mid" 603 762 basechar 0
-AnchorPoint: "bot" 575 0 basechar 0
 AnchorPoint: "top" 601 1476 basechar 0
+AnchorPoint: "bot" 575 0 basechar 0
+AnchorPoint: "mid" 603 762 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -4470,13 +4600,14 @@ SplineSet
  449 1250 l 257
  449 0 l 257
 EndSplineSet
-Kerns2: 19 -30 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 
+Kerns2: 19 -30 "kernHorizontalKerninginLatinloo subtable" 
 EndChar
 
 StartChar: Tbar
-Encoding: 295 358 133
+Encoding: 358 358 133
 Width: 1194
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -4485,14 +4616,15 @@ p2
 s."
 LayerCount: 2
 Fore
-Refer: 132 84 N 1 0 0 1 0 0 2
 Refer: 325 175 N 1 0 0 1 345 -567 2
+Refer: 132 84 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: Tcaron
-Encoding: 293 356 134
+Encoding: 356 356 134
 Width: 1194
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -4501,14 +4633,15 @@ p2
 s."
 LayerCount: 2
 Fore
-Refer: 132 84 N 1 0 0 1 0 0 2
 Refer: 208 711 N 1 0 0 1 334 402 2
+Refer: 132 84 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni0162
-Encoding: 291 354 135
+Encoding: 354 354 135
 Width: 1194
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -4519,14 +4652,15 @@ LayerCount: 2
 Fore
 Refer: 214 184 N 1 0 0 1 380 0 2
 Refer: 132 84 N 1 0 0 1 0 0 2
-Substitution2: "'locl' Localized Forms in Latin lookup 5 subtable" uni0162
-Substitution2: "'locl' Localized Forms in Latin lookup 4 subtable" uni0162
+Substitution2: "sub_single_locllatn_2 subtable" uni0162
+Substitution2: "sub_single_locllatn_0 subtable" uni0162
 EndChar
 
 StartChar: uni1E6A
-Encoding: 435 7786 136
+Encoding: 7786 7786 136
 Width: 1194
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -4540,9 +4674,10 @@ Refer: 132 84 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: Thorn
-Encoding: 159 222 137
+Encoding: 222 222 137
 Width: 1362
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -4572,17 +4707,18 @@ EndSplineSet
 EndChar
 
 StartChar: U
-Encoding: 54 85 138
+Encoding: 85 85 138
 Width: 1606
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
 (dp3
 s."
-AnchorPoint: "ogonek" 889 0 basechar 0
 AnchorPoint: "top" 825 1476 basechar 0
+AnchorPoint: "ogonek" 889 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -4601,9 +4737,10 @@ EndSplineSet
 EndChar
 
 StartChar: Uacute
-Encoding: 155 218 139
+Encoding: 218 218 139
 Width: 1606
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -4612,14 +4749,15 @@ p2
 s."
 LayerCount: 2
 Fore
-Refer: 138 85 N 1 0 0 1 0 0 2
 Refer: 175 180 N 1 0 0 1 658 402 2
+Refer: 138 85 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: Ubreve
-Encoding: 301 364 140
+Encoding: 364 364 140
 Width: 1606
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -4633,9 +4771,10 @@ Refer: 138 85 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni01D3
-Encoding: 338 467 141
+Encoding: 467 467 141
 Width: 1606
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -4644,14 +4783,15 @@ p2
 s."
 LayerCount: 2
 Fore
-Refer: 138 85 N 1 0 0 1 0 0 2
 Refer: 208 711 N 1 0 0 1 558 402 2
+Refer: 138 85 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: Ucircumflex
-Encoding: 156 219 142
+Encoding: 219 219 142
 Width: 1606
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -4660,14 +4800,15 @@ p2
 s."
 LayerCount: 2
 Fore
-Refer: 138 85 N 1 0 0 1 0 0 2
 Refer: 216 710 N 1 0 0 1 558 402 2
+Refer: 138 85 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni0214
-Encoding: 382 532 143
+Encoding: 532 532 143
 Width: 1606
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -4676,14 +4817,15 @@ p2
 s."
 LayerCount: 2
 Fore
-Refer: 138 85 N 1 0 0 1 0 0 2
 Refer: 451 783 N 1 0 0 1 187 402 2
+Refer: 138 85 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: Udieresis
-Encoding: 157 220 144
+Encoding: 220 220 144
 Width: 1606
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -4692,14 +4834,15 @@ p2
 s."
 LayerCount: 2
 Fore
-Refer: 138 85 N 1 0 0 1 0 0 2
 Refer: 228 168 N 1 0 0 1 330 402 2
+Refer: 138 85 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: Ugrave
-Encoding: 154 217 145
+Encoding: 217 217 145
 Width: 1606
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -4713,9 +4856,10 @@ Refer: 138 85 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: Uhungarumlaut
-Encoding: 305 368 146
+Encoding: 368 368 146
 Width: 1606
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -4729,9 +4873,10 @@ Refer: 138 85 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni0216
-Encoding: 384 534 147
+Encoding: 534 534 147
 Width: 1606
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -4740,14 +4885,15 @@ p2
 s."
 LayerCount: 2
 Fore
-Refer: 138 85 N 1 0 0 1 0 0 2
 Refer: 452 785 N 1 0 0 1 524 402 2
+Refer: 138 85 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: Umacron
-Encoding: 299 362 148
+Encoding: 362 362 148
 Width: 1606
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -4761,9 +4907,10 @@ Refer: 138 85 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: Uogonek
-Encoding: 307 370 149
+Encoding: 370 370 149
 Width: 1606
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -4772,14 +4919,15 @@ p2
 s."
 LayerCount: 2
 Fore
-Refer: 138 85 N 1 0 0 1 0 0 2
 Refer: 348 731 N 1 0 0 1 624 0 2
+Refer: 138 85 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: Uring
-Encoding: 303 366 150
+Encoding: 366 366 150
 Width: 1606
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -4788,14 +4936,15 @@ p2
 s."
 LayerCount: 2
 Fore
-Refer: 138 85 N 1 0 0 1 0 0 2
 Refer: 395 730 N 1 0 0 1 528 402 2
+Refer: 138 85 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: Utilde
-Encoding: 297 360 151
+Encoding: 360 360 151
 Width: 1606
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -4809,9 +4958,10 @@ Refer: 138 85 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: V
-Encoding: 55 86 152
+Encoding: 86 86 152
 Width: 1484
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -4833,9 +4983,10 @@ EndSplineSet
 EndChar
 
 StartChar: W
-Encoding: 56 87 153
+Encoding: 87 87 153
 Width: 2014
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -4864,9 +5015,10 @@ EndSplineSet
 EndChar
 
 StartChar: Wacute
-Encoding: 439 7810 154
+Encoding: 7810 7810 154
 Width: 2014
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -4875,14 +5027,15 @@ p2
 s."
 LayerCount: 2
 Fore
-Refer: 153 87 N 1 0 0 1 0 0 2
 Refer: 175 180 N 1 0 0 1 829 402 2
+Refer: 153 87 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: Wcircumflex
-Encoding: 309 372 155
+Encoding: 372 372 155
 Width: 2014
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -4891,14 +5044,15 @@ p2
 s."
 LayerCount: 2
 Fore
-Refer: 153 87 N 1 0 0 1 0 0 2
 Refer: 216 710 N 1 0 0 1 729 402 2
+Refer: 153 87 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: Wdieresis
-Encoding: 441 7812 156
+Encoding: 7812 7812 156
 Width: 2014
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -4907,14 +5061,15 @@ p2
 s."
 LayerCount: 2
 Fore
-Refer: 153 87 N 1 0 0 1 0 0 2
 Refer: 228 168 N 1 0 0 1 501 402 2
+Refer: 153 87 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: Wgrave
-Encoding: 437 7808 157
+Encoding: 7808 7808 157
 Width: 2014
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -4928,9 +5083,10 @@ Refer: 153 87 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: X
-Encoding: 57 88 158
+Encoding: 88 88 158
 Width: 1352
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -4957,9 +5113,10 @@ EndSplineSet
 EndChar
 
 StartChar: Y
-Encoding: 58 89 159
+Encoding: 89 89 159
 Width: 1340
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -4981,13 +5138,14 @@ SplineSet
  527 567 l 257
  527 0 l 257
 EndSplineSet
-Kerns2: 340 -40 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 
+Kerns2: 340 -40 "kernHorizontalKerninginLatinloo subtable" 
 EndChar
 
 StartChar: Yacute
-Encoding: 158 221 160
+Encoding: 221 221 160
 Width: 1340
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -4998,13 +5156,14 @@ LayerCount: 2
 Fore
 Refer: 175 180 N 1 0 0 1 527 402 2
 Refer: 159 89 N 1 0 0 1 0 0 2
-Kerns2: 340 -49 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 
+Kerns2: 340 -49 "kernHorizontalKerninginLatinloo subtable" 
 EndChar
 
 StartChar: Ycircumflex
-Encoding: 311 374 161
+Encoding: 374 374 161
 Width: 1340
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -5018,9 +5177,10 @@ Refer: 159 89 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: Ydieresis
-Encoding: 313 376 162
+Encoding: 376 376 162
 Width: 1340
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -5034,9 +5194,10 @@ Refer: 159 89 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: Ygrave
-Encoding: 445 7922 163
+Encoding: 7922 7922 163
 Width: 1340
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -5050,9 +5211,10 @@ Refer: 159 89 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni0232
-Encoding: 398 562 164
+Encoding: 562 562 164
 Width: 1340
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -5066,9 +5228,10 @@ Refer: 159 89 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni1EF8
-Encoding: 447 7928 165
+Encoding: 7928 7928 165
 Width: 1340
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -5082,9 +5245,10 @@ Refer: 159 89 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: Z
-Encoding: 59 90 166
+Encoding: 90 90 166
 Width: 1222
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -5110,9 +5274,10 @@ EndSplineSet
 EndChar
 
 StartChar: Zacute
-Encoding: 314 377 167
+Encoding: 377 377 167
 Width: 1222
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -5121,14 +5286,15 @@ p2
 s."
 LayerCount: 2
 Fore
-Refer: 166 90 N 1 0 0 1 0 0 2
 Refer: 175 180 N 1 0 0 1 527 402 2
+Refer: 166 90 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: Zcaron
-Encoding: 318 381 168
+Encoding: 381 381 168
 Width: 1222
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -5137,14 +5303,15 @@ p2
 s."
 LayerCount: 2
 Fore
-Refer: 166 90 N 1 0 0 1 0 0 2
 Refer: 208 711 N 1 0 0 1 427 402 2
+Refer: 166 90 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: Zdotaccent
-Encoding: 316 379 169
+Encoding: 379 379 169
 Width: 1222
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -5158,9 +5325,10 @@ Refer: 166 90 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: a
-Encoding: 66 97 170
+Encoding: 97 97 170
 Width: 1174
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -5170,8 +5338,8 @@ sS'com.typemytype.robofont.layerData'
 p4
 (dp5
 s."
-AnchorPoint: "ogonek" 1007 0 basechar 0
 AnchorPoint: "top" 594 1074 basechar 0
+AnchorPoint: "ogonek" 1007 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -5194,7 +5362,7 @@ SplineSet
  200 512 112 415 112 278 c 256
  112 94 236 -23 423 -23 c 256
 494 161 m 256
- 429 161 373 194 373 289 c 0
+ 429 161 373 194 373 289 c 256
  373 353 413 407 520 449 c 258
  735 533 l 257
  735 289 l 257
@@ -5204,9 +5372,10 @@ Substitution2: "Single Substitution lookup 14 subtable" ordfeminine
 EndChar
 
 StartChar: aacute
-Encoding: 162 225 171
+Encoding: 225 225 171
 Width: 1174
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -5223,9 +5392,10 @@ Refer: 170 97 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: abreve
-Encoding: 196 259 172
+Encoding: 259 259 172
 Width: 1174
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -5242,9 +5412,10 @@ Refer: 170 97 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni01CE
-Encoding: 333 462 173
+Encoding: 462 462 173
 Width: 1174
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -5258,9 +5429,10 @@ Refer: 170 97 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: acircumflex
-Encoding: 163 226 174
+Encoding: 226 226 174
 Width: 1174
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -5277,9 +5449,10 @@ Refer: 170 97 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: acute
-Encoding: 117 180 175
+Encoding: 180 180 175
 Width: 554
 VWidth: 0
+GlyphClass: 4
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -5299,9 +5472,10 @@ EndSplineSet
 EndChar
 
 StartChar: uni0201
-Encoding: 363 513 176
+Encoding: 513 513 176
 Width: 1174
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -5318,9 +5492,10 @@ Refer: 170 97 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: adieresis
-Encoding: 165 228 177
+Encoding: 228 228 177
 Width: 1174
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -5337,9 +5512,10 @@ Refer: 170 97 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni0227
-Encoding: 393 551 178
+Encoding: 551 551 178
 Width: 1174
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -5353,9 +5529,10 @@ Refer: 170 97 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: ae
-Encoding: 167 230 179
+Encoding: 230 230 179
 Width: 1734
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -5366,7 +5543,7 @@ AnchorPoint: "top" 890 1074 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-112 293 m 0
+112 293 m 256
  112 98 225 -23 420 -23 c 256
  621 -23 734 31 847 130 c 257
  901 29 1017 -23 1186 -23 c 256
@@ -5387,9 +5564,9 @@ SplineSet
  400 838 430 908 567 908 c 256
  695 908 739 852 739 770 c 256
  739 631 657 640 448 586 c 256
- 158 512 112 430 112 293 c 0
+ 158 512 112 430 112 293 c 256
 515 157 m 256
- 424 157 373 208 373 294 c 0
+ 424 157 373 208 373 294 c 256
  373 354 399 419 527 447 c 256
  626 470 714 499 739 520 c 257
  739 259 l 257
@@ -5404,9 +5581,10 @@ EndSplineSet
 EndChar
 
 StartChar: aeacute
-Encoding: 359 509 180
+Encoding: 509 509 180
 Width: 1734
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -5420,9 +5598,10 @@ Refer: 175 180 N 1 0 0 1 723 0 2
 EndChar
 
 StartChar: uni01E3
-Encoding: 341 483 181
+Encoding: 483 483 181
 Width: 1734
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -5436,9 +5615,10 @@ Refer: 179 230 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: agrave
-Encoding: 161 224 182
+Encoding: 224 224 182
 Width: 1174
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -5455,9 +5635,10 @@ Refer: 170 97 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni0203
-Encoding: 365 515 183
+Encoding: 515 515 183
 Width: 1174
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -5474,9 +5655,10 @@ Refer: 170 97 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: amacron
-Encoding: 194 257 184
+Encoding: 257 257 184
 Width: 1174
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -5493,9 +5675,10 @@ Refer: 170 97 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: ampersand
-Encoding: 7 38 185
+Encoding: 38 38 185
 Width: 1526
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -5536,9 +5719,10 @@ EndSplineSet
 EndChar
 
 StartChar: aogonek
-Encoding: 198 261 186
+Encoding: 261 261 186
 Width: 1174
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -5555,9 +5739,10 @@ Refer: 170 97 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: approxequal
-Encoding: 483 8776 187
+Encoding: 8776 8776 187
 Width: 1024
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -5589,9 +5774,10 @@ EndSplineSet
 EndChar
 
 StartChar: aring
-Encoding: 166 229 188
+Encoding: 229 229 188
 Width: 1174
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -5608,9 +5794,10 @@ Refer: 170 97 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: asciicircum
-Encoding: 63 94 189
+Encoding: 94 94 189
 Width: 1257
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -5632,9 +5819,10 @@ EndSplineSet
 EndChar
 
 StartChar: asciitilde
-Encoding: 95 126 190
+Encoding: 126 126 190
 Width: 1024
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -5657,9 +5845,10 @@ EndSplineSet
 EndChar
 
 StartChar: asterisk
-Encoding: 11 42 191
+Encoding: 42 42 191
 Width: 998
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -5692,9 +5881,10 @@ EndSplineSet
 EndChar
 
 StartChar: at
-Encoding: 33 64 192
+Encoding: 64 64 192
 Width: 2048
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -5726,7 +5916,7 @@ SplineSet
  240 348 l 258
  240 -272 597 -477 1084 -477 c 256
 1186 267 m 256
- 1075 267 983 313 983 445 c 0
+ 1075 267 983 313 983 445 c 256
  983 552 1027 617 1209 666 c 256
  1256 678 1487 741 1492 744 c 257
  1492 377 l 257
@@ -5735,9 +5925,10 @@ EndSplineSet
 EndChar
 
 StartChar: atilde
-Encoding: 164 227 193
+Encoding: 227 227 193
 Width: 1174
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -5754,9 +5945,10 @@ Refer: 170 97 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: b
-Encoding: 67 98 194
+Encoding: 98 98 194
 Width: 1232
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -5786,13 +5978,14 @@ SplineSet
  820 323 l 258
  820 215 737 168 620 168 c 256
 EndSplineSet
-Kerns2: 470 -8 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  468 -8 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  467 -8 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  460 -8 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  194 -10 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 
+Kerns2: 194 -10 "kernHorizontalKerninginLatinloo subtable"  460 -8 "kernHorizontalKerninginLatinloo subtable"  467 -8 "kernHorizontalKerninginLatinloo subtable"  468 -8 "kernHorizontalKerninginLatinloo subtable"  470 -8 "kernHorizontalKerninginLatinloo subtable" 
 EndChar
 
 StartChar: backslash
-Encoding: 61 92 195
+Encoding: 92 92 195
 Width: 1024
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -5811,9 +6004,10 @@ EndSplineSet
 EndChar
 
 StartChar: bar
-Encoding: 93 124 196
+Encoding: 124 124 196
 Width: 768
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -5832,9 +6026,10 @@ EndSplineSet
 EndChar
 
 StartChar: uni1E03
-Encoding: 424 7683 197
+Encoding: 7683 7683 197
 Width: 1232
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -5848,9 +6043,10 @@ Refer: 194 98 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: braceleft
-Encoding: 92 123 198
+Encoding: 123 123 198
 Width: 992
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -5861,16 +6057,14 @@ LayerCount: 2
 Fore
 SplineSet
 846 -128 m 257
- 846 -128 846 -51 846 1 c 0
- 846 27 846 46 846 46 c 256
+ 846 -70 846 -12 846 46 c 257
  673 46 659 101 659 252 c 258
  659 369 l 258
  659 569 616 680 498 722 c 257
  611 758 658 896 658 1080 c 258
  658 1210 l 258
- 658 1349 671 1382 846 1382 c 256
- 846 1382 846 1401 846 1427 c 0
- 846 1479 846 1556 846 1556 c 257
+ 658 1349 671 1382 846 1382 c 257
+ 846 1440 846 1498 846 1556 c 257
  489 1556 379 1515 379 1139 c 258
  379 1036 l 258
  379 873 335 833 188 833 c 257
@@ -5882,9 +6076,10 @@ EndSplineSet
 EndChar
 
 StartChar: braceright
-Encoding: 94 125 199
+Encoding: 125 125 199
 Width: 991
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -5902,23 +6097,22 @@ SplineSet
  688 833 644 873 644 1036 c 258
  644 1139 l 258
  644 1515 534 1556 177 1556 c 257
- 177 1556 177 1479 177 1427 c 0
- 177 1401 177 1382 177 1382 c 256
+ 177 1498 177 1440 177 1382 c 257
  352 1382 365 1349 365 1210 c 258
  365 1080 l 258
  365 896 412 758 525 722 c 257
  407 680 364 569 364 369 c 258
  364 252 l 258
- 364 101 350 46 177 46 c 256
- 177 46 177 27 177 1 c 0
- 177 -51 177 -128 177 -128 c 257
+ 364 101 350 46 177 46 c 257
+ 177 -12 177 -70 177 -128 c 257
 EndSplineSet
 EndChar
 
 StartChar: bracketleft
-Encoding: 60 91 200
+Encoding: 91 91 200
 Width: 842
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -5941,9 +6135,10 @@ EndSplineSet
 EndChar
 
 StartChar: bracketright
-Encoding: 62 93 201
+Encoding: 93 93 201
 Width: 842
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -5966,9 +6161,10 @@ EndSplineSet
 EndChar
 
 StartChar: breve
-Encoding: 406 728 202
+Encoding: 728 728 202
 Width: 512
 VWidth: 0
+GlyphClass: 4
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -5990,9 +6186,10 @@ EndSplineSet
 EndChar
 
 StartChar: brokenbar
-Encoding: 103 166 203
+Encoding: 166 166 203
 Width: 769
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -6016,9 +6213,10 @@ EndSplineSet
 EndChar
 
 StartChar: bullet
-Encoding: 460 8226 204
+Encoding: 8226 8226 204
 Width: 1024
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -6037,9 +6235,10 @@ EndSplineSet
 EndChar
 
 StartChar: uni2219
-Encoding: 479 8729 205
+Encoding: 8729 8729 205
 Width: 459
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -6058,17 +6257,18 @@ EndSplineSet
 EndChar
 
 StartChar: c
-Encoding: 68 99 206
+Encoding: 99 99 206
 Width: 1158
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
 (dp3
 s."
-AnchorPoint: "bot" 591 0 basechar 0
 AnchorPoint: "top" 612 1074 basechar 0
+AnchorPoint: "bot" 591 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -6086,13 +6286,14 @@ SplineSet
  140 327 l 258
  140 140 222 -23 589 -23 c 256
 EndSplineSet
-Kerns2: 206 -3 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 
+Kerns2: 206 -3 "kernHorizontalKerninginLatinloo subtable" 
 EndChar
 
 StartChar: cacute
-Encoding: 200 263 207
+Encoding: 263 263 207
 Width: 1158
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -6106,9 +6307,10 @@ Refer: 175 180 N 1 0 0 1 445 0 2
 EndChar
 
 StartChar: caron
-Encoding: 404 711 208
+Encoding: 711 711 208
 Width: 512
 VWidth: 0
+GlyphClass: 4
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -6131,9 +6333,10 @@ EndSplineSet
 EndChar
 
 StartChar: caron.alt
-Encoding: 495 -1 209
+Encoding: 65537 -1 209
 Width: 600
 VWidth: 0
+GlyphClass: 4
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -6156,9 +6359,10 @@ EndSplineSet
 EndChar
 
 StartChar: ccaron
-Encoding: 206 269 210
+Encoding: 269 269 210
 Width: 1158
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -6167,14 +6371,15 @@ p2
 s."
 LayerCount: 2
 Fore
-Refer: 206 99 N 1 0 0 1 0 0 2
 Refer: 208 711 N 1 0 0 1 345 0 2
+Refer: 206 99 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: ccedilla
-Encoding: 168 231 211
+Encoding: 231 231 211
 Width: 1158
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -6191,9 +6396,10 @@ Refer: 206 99 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: ccircumflex
-Encoding: 202 265 212
+Encoding: 265 265 212
 Width: 1158
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -6202,14 +6408,15 @@ p2
 s."
 LayerCount: 2
 Fore
-Refer: 206 99 N 1 0 0 1 0 0 2
 Refer: 216 710 N 1 0 0 1 345 0 2
+Refer: 206 99 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: cdotaccent
-Encoding: 204 267 213
+Encoding: 267 267 213
 Width: 1158
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -6223,9 +6430,10 @@ Refer: 206 99 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: cedilla
-Encoding: 121 184 214
+Encoding: 184 184 214
 Width: 512
 VWidth: 0
+GlyphClass: 4
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -6251,9 +6459,10 @@ EndSplineSet
 EndChar
 
 StartChar: cent
-Encoding: 99 162 215
+Encoding: 162 162 215
 Width: 1107
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -6278,9 +6487,10 @@ Refer: 206 99 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: circumflex
-Encoding: 403 710 216
+Encoding: 710 710 216
 Width: 512
 VWidth: 0
+GlyphClass: 4
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -6303,9 +6513,10 @@ EndSplineSet
 EndChar
 
 StartChar: colon
-Encoding: 27 58 217
+Encoding: 58 58 217
 Width: 769
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -6314,14 +6525,15 @@ p2
 s."
 LayerCount: 2
 Fore
-Refer: 370 46 N 1 0 0 1 6 197 2
 Refer: 370 46 N 1 0 0 1 6 854 2
+Refer: 370 46 N 1 0 0 1 6 197 2
 EndChar
 
 StartChar: comma
-Encoding: 13 44 218
+Encoding: 44 44 218
 Width: 768
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -6343,9 +6555,10 @@ EndSplineSet
 EndChar
 
 StartChar: copyright
-Encoding: 106 169 219
+Encoding: 169 169 219
 Width: 1776
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -6386,9 +6599,10 @@ EndSplineSet
 EndChar
 
 StartChar: currency
-Encoding: 101 164 220
+Encoding: 164 164 220
 Width: 1126
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -6428,18 +6642,19 @@ EndSplineSet
 EndChar
 
 StartChar: d
-Encoding: 69 100 221
+Encoding: 100 100 221
 Width: 1228
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
 (dp3
 s."
-AnchorPoint: "mid" 926 1313 basechar 0
-AnchorPoint: "caron.alt" 959 1074 basechar 0
 AnchorPoint: "top" 548 1074 basechar 0
+AnchorPoint: "caron.alt" 959 1074 basechar 0
+AnchorPoint: "mid" 926 1313 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -6462,13 +6677,14 @@ SplineSet
  786 211 l 257
  744 186 674 168 599 168 c 256
 EndSplineSet
-Kerns2: 221 -15 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 
+Kerns2: 221 -15 "kernHorizontalKerninginLatinloo subtable" 
 EndChar
 
 StartChar: dagger
-Encoding: 458 8224 222
+Encoding: 8224 8224 222
 Width: 1024
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -6495,9 +6711,10 @@ EndSplineSet
 EndChar
 
 StartChar: daggerdbl
-Encoding: 459 8225 223
+Encoding: 8225 8225 223
 Width: 1025
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -6532,9 +6749,10 @@ EndSplineSet
 EndChar
 
 StartChar: dcaron
-Encoding: 208 271 224
+Encoding: 271 271 224
 Width: 1228
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -6548,9 +6766,10 @@ Refer: 209 -1 N 1 0 0 1 577 0 2
 EndChar
 
 StartChar: dcroat
-Encoding: 210 273 225
+Encoding: 273 273 225
 Width: 1228
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -6559,14 +6778,15 @@ p2
 s."
 LayerCount: 2
 Fore
-Refer: 221 100 N 1 0 0 1 0 0 2
 Refer: 325 175 N 1 0 0 1 668 -16 2
+Refer: 221 100 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni1E0B
-Encoding: 426 7691 226
+Encoding: 7691 7691 226
 Width: 1228
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -6580,9 +6800,10 @@ Refer: 221 100 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: degree
-Encoding: 113 176 227
+Encoding: 176 176 227
 Width: 974
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -6606,9 +6827,10 @@ EndSplineSet
 EndChar
 
 StartChar: dieresis
-Encoding: 105 168 228
+Encoding: 168 168 228
 Width: 967
 VWidth: 0
+GlyphClass: 4
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -6633,9 +6855,10 @@ EndSplineSet
 EndChar
 
 StartChar: divide
-Encoding: 184 247 229
+Encoding: 247 247 229
 Width: 1004
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -6664,9 +6887,10 @@ EndSplineSet
 EndChar
 
 StartChar: dollar
-Encoding: 5 36 230
+Encoding: 36 36 230
 Width: 1281
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -6686,9 +6910,10 @@ Refer: 123 83 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: dotaccent
-Encoding: 407 729 231
+Encoding: 729 729 231
 Width: 489
 VWidth: 0
+GlyphClass: 4
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -6708,17 +6933,18 @@ EndSplineSet
 EndChar
 
 StartChar: dotlessi
-Encoding: 242 305 232
+Encoding: 305 305 232
 Width: 570
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
 (dp3
 s."
-AnchorPoint: "ogonek" 309 0 basechar 0
 AnchorPoint: "top" 303 1074 basechar 0
+AnchorPoint: "ogonek" 309 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -6731,9 +6957,10 @@ EndSplineSet
 EndChar
 
 StartChar: uni0237
-Encoding: 400 567 233
+Encoding: 567 567 233
 Width: 673
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -6757,9 +6984,10 @@ EndSplineSet
 EndChar
 
 StartChar: uni01F3
-Encoding: 351 499 234
+Encoding: 499 499 234
 Width: 2223
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -6773,9 +7001,10 @@ Refer: 221 100 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni01C6
-Encoding: 325 454 235
+Encoding: 454 454 235
 Width: 2223
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -6789,18 +7018,19 @@ Refer: 221 100 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: e
-Encoding: 70 101 236
+Encoding: 101 101 236
 Width: 1181
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
 (dp3
 s."
-AnchorPoint: "bot" 602 0 basechar 0
-AnchorPoint: "ogonek" 704 0 basechar 0
 AnchorPoint: "top" 618 1074 basechar 0
+AnchorPoint: "ogonek" 704 0 basechar 0
+AnchorPoint: "bot" 602 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -6823,13 +7053,14 @@ SplineSet
  798 651 l 257
  412 651 l 257
 EndSplineSet
-Kerns2: 466 -15 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 
+Kerns2: 466 -15 "kernHorizontalKerninginLatinloo subtable" 
 EndChar
 
 StartChar: eacute
-Encoding: 170 233 237
+Encoding: 233 233 237
 Width: 1181
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -6840,13 +7071,14 @@ LayerCount: 2
 Fore
 Refer: 236 101 N 1 0 0 1 0 0 2
 Refer: 175 180 N 1 0 0 1 451 0 2
-Kerns2: 466 -15 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 
+Kerns2: 466 -15 "kernHorizontalKerninginLatinloo subtable" 
 EndChar
 
 StartChar: ebreve
-Encoding: 214 277 238
+Encoding: 277 277 238
 Width: 1181
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -6855,14 +7087,15 @@ p2
 s."
 LayerCount: 2
 Fore
-Refer: 202 728 N 1 0 0 1 351 0 2
 Refer: 236 101 N 1 0 0 1 0 0 2
+Refer: 202 728 N 1 0 0 1 351 0 2
 EndChar
 
 StartChar: ecaron
-Encoding: 220 283 239
+Encoding: 283 283 239
 Width: 1181
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -6876,9 +7109,10 @@ Refer: 208 711 N 1 0 0 1 351 0 2
 EndChar
 
 StartChar: ecircumflex
-Encoding: 171 234 240
+Encoding: 234 234 240
 Width: 1181
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -6889,13 +7123,14 @@ LayerCount: 2
 Fore
 Refer: 236 101 N 1 0 0 1 0 0 2
 Refer: 216 710 N 1 0 0 1 351 0 2
-Kerns2: 466 -15 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 
+Kerns2: 466 -15 "kernHorizontalKerninginLatinloo subtable" 
 EndChar
 
 StartChar: uni0205
-Encoding: 367 517 241
+Encoding: 517 517 241
 Width: 1181
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -6904,14 +7139,15 @@ p2
 s."
 LayerCount: 2
 Fore
-Refer: 236 101 N 1 0 0 1 0 0 2
 Refer: 451 783 N 1 0 0 1 -20 0 2
+Refer: 236 101 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: edieresis
-Encoding: 172 235 242
+Encoding: 235 235 242
 Width: 1181
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -6922,13 +7158,14 @@ LayerCount: 2
 Fore
 Refer: 236 101 N 1 0 0 1 0 0 2
 Refer: 228 168 N 1 0 0 1 123 0 2
-Kerns2: 466 -15 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 
+Kerns2: 466 -15 "kernHorizontalKerninginLatinloo subtable" 
 EndChar
 
 StartChar: edotaccent
-Encoding: 216 279 243
+Encoding: 279 279 243
 Width: 1181
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -6937,14 +7174,15 @@ p2
 s."
 LayerCount: 2
 Fore
-Refer: 231 729 N 1 0 0 1 361 0 2
 Refer: 236 101 N 1 0 0 1 0 0 2
+Refer: 231 729 N 1 0 0 1 361 0 2
 EndChar
 
 StartChar: egrave
-Encoding: 169 232 244
+Encoding: 232 232 244
 Width: 1181
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -6955,13 +7193,14 @@ LayerCount: 2
 Fore
 Refer: 279 96 N 1 0 0 1 221 0 2
 Refer: 236 101 N 1 0 0 1 0 0 2
-Kerns2: 466 -15 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 
+Kerns2: 466 -15 "kernHorizontalKerninginLatinloo subtable" 
 EndChar
 
 StartChar: eight
-Encoding: 25 56 245
+Encoding: 56 56 245
 Width: 1379
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -6994,9 +7233,10 @@ EndSplineSet
 EndChar
 
 StartChar: uni0207
-Encoding: 369 519 246
+Encoding: 519 519 246
 Width: 1181
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -7005,14 +7245,15 @@ p2
 s."
 LayerCount: 2
 Fore
-Refer: 236 101 N 1 0 0 1 0 0 2
 Refer: 452 785 N 1 0 0 1 317 0 2
+Refer: 236 101 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: ellipsis
-Encoding: 461 8230 247
+Encoding: 8230 8230 247
 Width: 1800
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -7021,15 +7262,16 @@ p2
 s."
 LayerCount: 2
 Fore
-Refer: 370 46 N 1 0 0 1 -59 0 2
-Refer: 370 46 N 1 0 0 1 542 0 2
 Refer: 370 46 N 1 0 0 1 1140 0 2
+Refer: 370 46 N 1 0 0 1 542 0 2
+Refer: 370 46 N 1 0 0 1 -59 0 2
 EndChar
 
 StartChar: emacron
-Encoding: 212 275 248
+Encoding: 275 275 248
 Width: 1181
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -7043,9 +7285,10 @@ Refer: 236 101 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: emdash
-Encoding: 450 8212 249
+Encoding: 8212 8212 249
 Width: 961
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -7064,9 +7307,10 @@ EndSplineSet
 EndChar
 
 StartChar: emptyset
-Encoding: 473 8709 250
+Encoding: 8709 8709 250
 Width: 1552
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -7095,9 +7339,10 @@ EndSplineSet
 EndChar
 
 StartChar: endash
-Encoding: 449 8211 251
+Encoding: 8211 8211 251
 Width: 716
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -7116,9 +7361,10 @@ EndSplineSet
 EndChar
 
 StartChar: eng
-Encoding: 268 331 252
+Encoding: 331 331 252
 Width: 1254
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -7147,9 +7393,10 @@ EndSplineSet
 EndChar
 
 StartChar: eogonek
-Encoding: 218 281 253
+Encoding: 281 281 253
 Width: 1181
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -7158,14 +7405,15 @@ p2
 s."
 LayerCount: 2
 Fore
-Refer: 236 101 N 1 0 0 1 0 0 2
 Refer: 348 731 N 1 0 0 1 439 0 2
+Refer: 236 101 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: equal
-Encoding: 30 61 254
+Encoding: 61 61 254
 Width: 880
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -7189,9 +7437,10 @@ EndSplineSet
 EndChar
 
 StartChar: estimated
-Encoding: 471 8494 255
+Encoding: 8494 8494 255
 Width: 1205
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -7221,9 +7470,10 @@ EndSplineSet
 EndChar
 
 StartChar: eth
-Encoding: 177 240 256
+Encoding: 240 240 256
 Width: 1312
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -7240,7 +7490,7 @@ SplineSet
  758 1598 l 257
  638 1655 l 257
  553 1485 l 257
- 479 1501 408 1505 347 1505 c 0
+ 479 1501 408 1505 347 1505 c 256
  314 1505 283 1504 257 1502 c 257
  233 1335 l 257
  302 1334 386 1333 471 1318 c 257
@@ -7263,9 +7513,10 @@ EndSplineSet
 EndChar
 
 StartChar: uni1EBD
-Encoding: 444 7869 257
+Encoding: 7869 7869 257
 Width: 1181
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -7279,9 +7530,10 @@ Refer: 236 101 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: exclam
-Encoding: 2 33 258
+Encoding: 33 33 258
 Width: 648
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -7305,9 +7557,10 @@ EndSplineSet
 EndChar
 
 StartChar: exclamdown
-Encoding: 98 161 259
+Encoding: 161 161 259
 Width: 648
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -7320,9 +7573,10 @@ Refer: 258 33 N -1 0 0 -1 648 1074 2
 EndChar
 
 StartChar: f
-Encoding: 71 102 260
+Encoding: 102 102 260
 Width: 778
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -7351,13 +7605,14 @@ SplineSet
  229 901 l 257
  229 0 l 257
 EndSplineSet
-Kerns2: 345 -13 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  260 -44 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 
+Kerns2: 260 -44 "kernHorizontalKerninginLatinloo subtable"  345 -13 "kernHorizontalKerninginLatinloo subtable" 
 EndChar
 
 StartChar: uni1E1F
-Encoding: 428 7711 261
+Encoding: 7711 7711 261
 Width: 778
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -7371,9 +7626,10 @@ Refer: 231 729 N 1 0 0 1 165 402 2
 EndChar
 
 StartChar: uniFB01
-Encoding: 489 64257 262
+Encoding: 64257 64257 262
 Width: 1348
 VWidth: 0
+GlyphClass: 3
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -7382,15 +7638,16 @@ p2
 s."
 LayerCount: 2
 Fore
-Refer: 260 102 N 1 0 0 1 0 0 2
 Refer: 291 105 N 1 0 0 1 778 0 2
-Ligature2: "'liga' Standard Ligatures lookup 0 subtable" f i
+Refer: 260 102 N 1 0 0 1 0 0 2
+Ligature2: "ligaStandardLigatureslookup0 subtable" f i
 EndChar
 
 StartChar: five
-Encoding: 22 53 263
+Encoding: 53 53 263
 Width: 1379
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -7420,9 +7677,10 @@ EndSplineSet
 EndChar
 
 StartChar: f_j
-Encoding: 496 -1 264
+Encoding: 65538 -1 264
 Width: 600
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -7433,9 +7691,10 @@ LayerCount: 2
 EndChar
 
 StartChar: uniFB02
-Encoding: 490 64258 265
+Encoding: 64258 64258 265
 Width: 1512
 VWidth: 0
+GlyphClass: 3
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -7444,15 +7703,16 @@ p2
 s."
 LayerCount: 2
 Fore
-Refer: 260 102 N 1 0 0 1 0 0 2
 Refer: 313 108 N 1 0 0 1 778 0 2
-Ligature2: "'liga' Standard Ligatures lookup 0 subtable" f l
+Refer: 260 102 N 1 0 0 1 0 0 2
+Ligature2: "ligaStandardLigatureslookup0 subtable" f l
 EndChar
 
 StartChar: florin
-Encoding: 322 402 266
+Encoding: 402 402 266
 Width: 1024
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -7487,9 +7747,10 @@ EndSplineSet
 EndChar
 
 StartChar: foundryicon
-Encoding: 497 -1 267
+Encoding: 65539 -1 267
 Width: 1347
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -7525,9 +7786,10 @@ EndSplineSet
 EndChar
 
 StartChar: four
-Encoding: 21 52 268
+Encoding: 52 52 268
 Width: 1379
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -7554,13 +7816,14 @@ SplineSet
  839 282 l 257
  839 0 l 257
 EndSplineSet
-Substitution2: "'sups' Superscript lookup 11 subtable" uni2074
+Substitution2: "supsSuperscriptlookup11 subtable" uni2074
 EndChar
 
 StartChar: uni2074
-Encoding: 466 8308 269
+Encoding: 8308 8308 269
 Width: 1116
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -7590,9 +7853,10 @@ EndSplineSet
 EndChar
 
 StartChar: fraction
-Encoding: 465 8260 270
+Encoding: 8260 8260 270
 Width: 919
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -7611,9 +7875,10 @@ EndSplineSet
 EndChar
 
 StartChar: g
-Encoding: 72 103 271
+Encoding: 103 103 271
 Width: 1243
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -7647,13 +7912,14 @@ SplineSet
  803 261 l 257
  766 234 696 213 604 213 c 256
 EndSplineSet
-Kerns2: 457 -8 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  435 -8 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  430 -8 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  345 -12 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  221 -8 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 
+Kerns2: 221 -8 "kernHorizontalKerninginLatinloo subtable"  345 -12 "kernHorizontalKerninginLatinloo subtable"  430 -8 "kernHorizontalKerninginLatinloo subtable"  435 -8 "kernHorizontalKerninginLatinloo subtable"  457 -8 "kernHorizontalKerninginLatinloo subtable" 
 EndChar
 
 StartChar: uni01F5
-Encoding: 353 501 272
+Encoding: 501 501 272
 Width: 1243
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -7667,9 +7933,10 @@ Refer: 175 180 N 1 0 0 1 411 0 2
 EndChar
 
 StartChar: gbreve
-Encoding: 224 287 273
+Encoding: 287 287 273
 Width: 1243
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -7678,14 +7945,15 @@ p2
 s."
 LayerCount: 2
 Fore
-Refer: 202 728 N 1 0 0 1 311 0 2
 Refer: 271 103 N 1 0 0 1 0 0 2
+Refer: 202 728 N 1 0 0 1 311 0 2
 EndChar
 
 StartChar: gcaron
-Encoding: 343 487 274
+Encoding: 487 487 274
 Width: 1243
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -7699,9 +7967,10 @@ Refer: 208 711 N 1 0 0 1 311 0 2
 EndChar
 
 StartChar: gcircumflex
-Encoding: 222 285 275
+Encoding: 285 285 275
 Width: 1243
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -7715,9 +7984,10 @@ Refer: 216 710 N 1 0 0 1 311 0 2
 EndChar
 
 StartChar: uni0123
-Encoding: 228 291 276
+Encoding: 291 291 276
 Width: 1243
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -7726,14 +7996,15 @@ p2
 s."
 LayerCount: 2
 Fore
-Refer: 271 103 N 1 0 0 1 0 0 2
 Refer: 453 786 N 1 0 0 1 279 0 2
+Refer: 271 103 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: gdotaccent
-Encoding: 226 289 277
+Encoding: 289 289 277
 Width: 1243
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -7742,14 +8013,15 @@ p2
 s."
 LayerCount: 2
 Fore
-Refer: 231 729 N 1 0 0 1 321 0 2
 Refer: 271 103 N 1 0 0 1 0 0 2
+Refer: 231 729 N 1 0 0 1 321 0 2
 EndChar
 
 StartChar: germandbls
-Encoding: 160 223 278
+Encoding: 223 223 278
 Width: 1286
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -7779,9 +8051,10 @@ EndSplineSet
 EndChar
 
 StartChar: grave
-Encoding: 65 96 279
+Encoding: 96 96 279
 Width: 556
 VWidth: 0
+GlyphClass: 4
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -7801,9 +8074,10 @@ EndSplineSet
 EndChar
 
 StartChar: greater
-Encoding: 31 62 280
+Encoding: 62 62 280
 Width: 1024
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -7825,9 +8099,10 @@ EndSplineSet
 EndChar
 
 StartChar: greaterequal
-Encoding: 486 8805 281
+Encoding: 8805 8805 281
 Width: 1250
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -7854,9 +8129,10 @@ EndSplineSet
 EndChar
 
 StartChar: guillemotleft
-Encoding: 108 171 282
+Encoding: 171 171 282
 Width: 1024
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -7884,9 +8160,10 @@ EndSplineSet
 EndChar
 
 StartChar: guillemotright
-Encoding: 124 187 283
+Encoding: 187 187 283
 Width: 1024
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -7914,9 +8191,10 @@ EndSplineSet
 EndChar
 
 StartChar: guilsinglleft
-Encoding: 463 8249 284
+Encoding: 8249 8249 284
 Width: 768
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -7937,9 +8215,10 @@ EndSplineSet
 EndChar
 
 StartChar: guilsinglright
-Encoding: 464 8250 285
+Encoding: 8250 8250 285
 Width: 768
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -7960,9 +8239,10 @@ EndSplineSet
 EndChar
 
 StartChar: h
-Encoding: 73 104 286
+Encoding: 104 104 286
 Width: 1272
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -7987,13 +8267,14 @@ SplineSet
  170 1515 l 257
  170 0 l 257
 EndSplineSet
-Kerns2: 470 -5 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  468 -5 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  467 -5 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 
+Kerns2: 467 -5 "kernHorizontalKerninginLatinloo subtable"  468 -5 "kernHorizontalKerninginLatinloo subtable"  470 -5 "kernHorizontalKerninginLatinloo subtable" 
 EndChar
 
 StartChar: hbar
-Encoding: 232 295 287
+Encoding: 295 295 287
 Width: 1254
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -8013,9 +8294,10 @@ Refer: 286 104 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: hcircumflex
-Encoding: 230 293 288
+Encoding: 293 293 288
 Width: 1272
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -8029,9 +8311,10 @@ Refer: 216 710 N 1 0 0 1 552 231 2
 EndChar
 
 StartChar: hungarumlaut
-Encoding: 411 733 289
+Encoding: 733 733 289
 Width: 1024
 VWidth: 0
+GlyphClass: 4
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -8056,9 +8339,10 @@ EndSplineSet
 EndChar
 
 StartChar: hyphen
-Encoding: 14 45 290
+Encoding: 45 45 290
 Width: 968
 VWidth: 0
+GlyphClass: 4
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -8078,9 +8362,10 @@ EndSplineSet
 EndChar
 
 StartChar: i
-Encoding: 74 105 291
+Encoding: 105 105 291
 Width: 570
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -8089,19 +8374,20 @@ p2
 s."
 LayerCount: 2
 Fore
-Refer: 231 729 N 1 0 0 1 46 0 2
 Refer: 232 305 N 1 0 0 1 0 0 2
-Substitution2: "'locl' Localized Forms in Latin lookup 10 subtable" idotaccent
-Substitution2: "'locl' Localized Forms in Latin lookup 9 subtable" idotaccent
-Substitution2: "'locl' Localized Forms in Latin lookup 8 subtable" idotaccent
-Substitution2: "'locl' Localized Forms in Latin lookup 7 subtable" idotaccent
-Substitution2: "'locl' Localized Forms in Latin lookup 6 subtable" idotaccent
+Refer: 231 729 N 1 0 0 1 46 0 2
+Substitution2: "sub_single_locllatn_12 subtable" idotaccent
+Substitution2: "sub_single_locllatn_10 subtable" idotaccent
+Substitution2: "sub_single_locllatn_8 subtable" idotaccent
+Substitution2: "sub_single_locllatn_6 subtable" idotaccent
+Substitution2: "sub_single_locllatn_4 subtable" idotaccent
 EndChar
 
 StartChar: iacute
-Encoding: 174 237 292
+Encoding: 237 237 292
 Width: 570
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -8115,9 +8401,10 @@ Refer: 175 180 N 1 0 0 1 136 0 2
 EndChar
 
 StartChar: ibreve
-Encoding: 238 301 293
+Encoding: 301 301 293
 Width: 570
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -8126,14 +8413,15 @@ p2
 s."
 LayerCount: 2
 Fore
-Refer: 202 728 N 1 0 0 1 36 0 2
 Refer: 232 305 N 1 0 0 1 0 0 2
+Refer: 202 728 N 1 0 0 1 36 0 2
 EndChar
 
 StartChar: uni01D0
-Encoding: 335 464 294
+Encoding: 464 464 294
 Width: 570
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -8147,9 +8435,10 @@ Refer: 208 711 N 1 0 0 1 36 0 2
 EndChar
 
 StartChar: icircumflex
-Encoding: 175 238 295
+Encoding: 238 238 295
 Width: 570
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -8163,9 +8452,10 @@ Refer: 216 710 N 1 0 0 1 36 0 2
 EndChar
 
 StartChar: uni0209
-Encoding: 371 521 296
+Encoding: 521 521 296
 Width: 570
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -8175,13 +8465,14 @@ s."
 LayerCount: 2
 Fore
 Refer: 451 783 N 1 0 0 1 -335 0 2
-Refer: 232 305 N 1 0 0 1 0 0 3
+Refer: 232 305 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: idieresis
-Encoding: 176 239 297
+Encoding: 239 239 297
 Width: 570
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -8195,9 +8486,10 @@ Refer: 228 168 N 1 0 0 1 -192 0 2
 EndChar
 
 StartChar: igrave
-Encoding: 173 236 298
+Encoding: 236 236 298
 Width: 570
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -8211,9 +8503,10 @@ Refer: 232 305 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni020B
-Encoding: 373 523 299
+Encoding: 523 523 299
 Width: 570
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -8223,13 +8516,14 @@ s."
 LayerCount: 2
 Fore
 Refer: 452 785 N 1 0 0 1 2 0 2
-Refer: 232 305 N 1 0 0 1 0 0 3
+Refer: 232 305 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: ij
-Encoding: 244 307 300
+Encoding: 307 307 300
 Width: 1243
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -8243,9 +8537,10 @@ Refer: 291 105 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: imacron
-Encoding: 236 299 301
+Encoding: 299 299 301
 Width: 570
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -8259,9 +8554,10 @@ Refer: 232 305 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: infinity
-Encoding: 481 8734 302
+Encoding: 8734 8734 302
 Width: 2048
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -8294,9 +8590,10 @@ EndSplineSet
 EndChar
 
 StartChar: integral
-Encoding: 482 8747 303
+Encoding: 8747 8747 303
 Width: 693
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -8323,9 +8620,10 @@ EndSplineSet
 EndChar
 
 StartChar: iogonek
-Encoding: 240 303 304
+Encoding: 303 303 304
 Width: 570
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -8334,15 +8632,16 @@ p2
 s."
 LayerCount: 2
 Fore
-Refer: 231 729 N 1 0 0 1 46 0 2
 Refer: 348 731 N 1 0 0 1 44 0 2
 Refer: 232 305 N 1 0 0 1 0 0 2
+Refer: 231 729 N 1 0 0 1 46 0 2
 EndChar
 
 StartChar: itilde
-Encoding: 234 297 305
+Encoding: 297 297 305
 Width: 570
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -8356,9 +8655,10 @@ Refer: 232 305 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: j
-Encoding: 75 106 306
+Encoding: 106 106 306
 Width: 673
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -8367,14 +8667,15 @@ p2
 s."
 LayerCount: 2
 Fore
-Refer: 231 729 N 1 0 0 1 112 0 2
 Refer: 233 567 N 1 0 0 1 0 0 2
+Refer: 231 729 N 1 0 0 1 112 0 2
 EndChar
 
 StartChar: uni01F0
-Encoding: 348 496 307
+Encoding: 496 496 307
 Width: 673
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -8383,14 +8684,15 @@ p2
 s."
 LayerCount: 2
 Fore
-Refer: 208 711 N 1 0 0 1 102 0 2
 Refer: 233 567 N 1 0 0 1 0 0 2
+Refer: 208 711 N 1 0 0 1 102 0 2
 EndChar
 
 StartChar: jcircumflex
-Encoding: 246 309 308
+Encoding: 309 309 308
 Width: 673
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -8399,22 +8701,23 @@ p2
 s."
 LayerCount: 2
 Fore
-Refer: 216 710 N 1 0 0 1 102 0 2
 Refer: 233 567 N 1 0 0 1 0 0 2
+Refer: 216 710 N 1 0 0 1 102 0 2
 EndChar
 
 StartChar: k
-Encoding: 76 107 309
+Encoding: 107 107 309
 Width: 1211
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
 (dp3
 s."
-AnchorPoint: "bot" 664 0 basechar 0
 AnchorPoint: "top" 789 1305 basechar 0
+AnchorPoint: "bot" 664 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -8435,9 +8738,10 @@ EndSplineSet
 EndChar
 
 StartChar: uni01E9
-Encoding: 345 489 310
+Encoding: 489 489 310
 Width: 1211
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -8451,9 +8755,10 @@ Refer: 208 711 N 1 0 0 1 522 231 2
 EndChar
 
 StartChar: uni0137
-Encoding: 248 311 311
+Encoding: 311 311 311
 Width: 1211
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -8467,9 +8772,10 @@ Refer: 309 107 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: kgreenlandic
-Encoding: 249 312 312
+Encoding: 312 312 312
 Width: 1213
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -8496,18 +8802,19 @@ EndSplineSet
 EndChar
 
 StartChar: l
-Encoding: 77 108 313
+Encoding: 108 108 313
 Width: 734
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
 (dp3
 s."
-AnchorPoint: "bot" 472 0 basechar 0
-AnchorPoint: "caron.alt" 325 1074 basechar 0
 AnchorPoint: "top" 335 1513 basechar 0
+AnchorPoint: "caron.alt" 325 1074 basechar 0
+AnchorPoint: "bot" 472 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -8524,9 +8831,10 @@ EndSplineSet
 EndChar
 
 StartChar: lacute
-Encoding: 251 314 314
+Encoding: 314 314 314
 Width: 734
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -8540,9 +8848,10 @@ Refer: 175 180 N 1 0 0 1 168 439 2
 EndChar
 
 StartChar: lcaron
-Encoding: 255 318 315
+Encoding: 318 318 315
 Width: 734
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -8556,9 +8865,10 @@ Refer: 209 -1 N 1 0 0 1 -57 0 2
 EndChar
 
 StartChar: uni013C
-Encoding: 253 316 316
+Encoding: 316 316 316
 Width: 734
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -8567,14 +8877,15 @@ p2
 s."
 LayerCount: 2
 Fore
-Refer: 313 108 N 1 0 0 1 0 0 2
 Refer: 454 806 N 1 0 0 1 160 0 2
+Refer: 313 108 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: ldot
-Encoding: 257 320 317
+Encoding: 320 320 317
 Width: 734
 VWidth: 0
+GlyphClass: 3
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -8589,9 +8900,10 @@ Ligature2: "Ligature Substitution lookup 2 subtable" l periodcentered
 EndChar
 
 StartChar: less
-Encoding: 29 60 318
+Encoding: 60 60 318
 Width: 1024
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -8613,9 +8925,10 @@ EndSplineSet
 EndChar
 
 StartChar: lessequal
-Encoding: 485 8804 319
+Encoding: 8804 8804 319
 Width: 1252
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -8642,9 +8955,10 @@ EndSplineSet
 EndChar
 
 StartChar: uni01C9
-Encoding: 328 457 320
+Encoding: 457 457 320
 Width: 1407
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -8653,14 +8967,15 @@ p2
 s."
 LayerCount: 2
 Fore
-Refer: 306 106 N 1 0 0 1 734 0 2
 Refer: 313 108 N 1 0 0 1 0 0 2
+Refer: 306 106 N 1 0 0 1 734 0 2
 EndChar
 
 StartChar: logicalnot
-Encoding: 109 172 321
+Encoding: 172 172 321
 Width: 1024
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -8681,9 +8996,10 @@ EndSplineSet
 EndChar
 
 StartChar: lozenge
-Encoding: 487 9674 322
+Encoding: 9674 9674 322
 Width: 1104
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -8709,9 +9025,10 @@ EndSplineSet
 EndChar
 
 StartChar: lslash
-Encoding: 259 322 323
+Encoding: 322 322 323
 Width: 708
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -8731,9 +9048,10 @@ Refer: 313 108 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: m
-Encoding: 78 109 324
+Encoding: 109 109 324
 Width: 1912
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -8765,21 +9083,22 @@ SplineSet
  168 1074 l 257
  168 0 l 257
 EndSplineSet
-Kerns2: 470 -13 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  468 -13 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  467 -13 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 
+Kerns2: 467 -13 "kernHorizontalKerninginLatinloo subtable"  468 -13 "kernHorizontalKerninginLatinloo subtable"  470 -13 "kernHorizontalKerninginLatinloo subtable" 
 EndChar
 
 StartChar: macron
-Encoding: 112 175 325
+Encoding: 175 175 325
 Width: 511
 VWidth: 0
+GlyphClass: 4
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
 (dp3
 s."
-AnchorPoint: "mid" 258 1329 mark 0
 AnchorPoint: "top" 257 1074 mark 0
+AnchorPoint: "mid" 258 1329 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -8792,9 +9111,10 @@ EndSplineSet
 EndChar
 
 StartChar: uni1E41
-Encoding: 430 7745 326
+Encoding: 7745 7745 326
 Width: 1912
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -8803,14 +9123,15 @@ p2
 s."
 LayerCount: 2
 Fore
-Refer: 231 729 N 1 0 0 1 805 0 2
 Refer: 324 109 N 1 0 0 1 0 0 2
+Refer: 231 729 N 1 0 0 1 805 0 2
 EndChar
 
 StartChar: minus
-Encoding: 477 8722 327
+Encoding: 8722 8722 327
 Width: 792
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -8829,9 +9150,10 @@ EndSplineSet
 EndChar
 
 StartChar: uni03BC
-Encoding: 421 956 328
+Encoding: 956 956 328
 Width: 1246
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -8860,9 +9182,10 @@ EndSplineSet
 EndChar
 
 StartChar: multiply
-Encoding: 152 215 329
+Encoding: 215 215 329
 Width: 1025
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -8889,22 +9212,23 @@ EndSplineSet
 EndChar
 
 StartChar: n
-Encoding: 79 110 330
+Encoding: 110 110 330
 Width: 1272
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
 (dp3
 s."
-AnchorPoint: "bot" 664 0 basechar 0
 AnchorPoint: "top" 679 1074 basechar 0
+AnchorPoint: "bot" 664 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
 1110 770 m 258
- 1110 960 996 1099 773 1099 c 0
+ 1110 960 996 1099 773 1099 c 256
  571 1099 462 998 440 979 c 257
  440 1074 l 257
  168 1074 l 257
@@ -8920,9 +9244,10 @@ EndSplineSet
 EndChar
 
 StartChar: nacute
-Encoding: 261 324 331
+Encoding: 324 324 331
 Width: 1272
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -8936,9 +9261,10 @@ Refer: 175 180 N 1 0 0 1 512 0 2
 EndChar
 
 StartChar: napostrophe
-Encoding: 266 329 332
+Encoding: 329 329 332
 Width: 1290
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -8947,14 +9273,15 @@ p2
 s."
 LayerCount: 2
 Fore
-Refer: 330 110 N 1 0 0 1 0 0 2
 Refer: 449 700 N 1 0 0 1 0 0 2
+Refer: 330 110 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: ncaron
-Encoding: 265 328 333
+Encoding: 328 328 333
 Width: 1272
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -8968,9 +9295,10 @@ Refer: 208 711 N 1 0 0 1 412 0 2
 EndChar
 
 StartChar: uni0146
-Encoding: 263 326 334
+Encoding: 326 326 334
 Width: 1272
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -8979,14 +9307,15 @@ p2
 s."
 LayerCount: 2
 Fore
-Refer: 330 110 N 1 0 0 1 0 0 2
 Refer: 454 806 N 1 0 0 1 352 0 2
+Refer: 330 110 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: nine
-Encoding: 26 57 335
+Encoding: 57 57 335
 Width: 1379
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -9014,9 +9343,10 @@ EndSplineSet
 EndChar
 
 StartChar: uni01CC
-Encoding: 331 460 336
+Encoding: 460 460 336
 Width: 1945
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -9025,14 +9355,15 @@ p2
 s."
 LayerCount: 2
 Fore
-Refer: 306 106 N 1 0 0 1 1272 0 2
 Refer: 330 110 N 1 0 0 1 0 0 2
+Refer: 306 106 N 1 0 0 1 1272 0 2
 EndChar
 
 StartChar: notequal
-Encoding: 484 8800 337
+Encoding: 8800 8800 337
 Width: 919
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -9052,9 +9383,10 @@ Refer: 254 61 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: ntilde
-Encoding: 178 241 338
+Encoding: 241 241 338
 Width: 1272
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -9068,9 +9400,10 @@ Refer: 330 110 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: numbersign
-Encoding: 4 35 339
+Encoding: 35 35 339
 Width: 1430
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -9118,18 +9451,19 @@ EndSplineSet
 EndChar
 
 StartChar: o
-Encoding: 80 111 340
+Encoding: 111 111 340
 Width: 1212
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
 (dp3
 s."
-AnchorPoint: "bot" 608 0 basechar 0
-AnchorPoint: "ogonek" 673 0 basechar 0
 AnchorPoint: "top" 608 1074 basechar 0
+AnchorPoint: "ogonek" 673 0 basechar 0
+AnchorPoint: "bot" 608 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -9152,9 +9486,10 @@ Substitution2: "Single Substitution lookup 15 subtable" ordmasculine
 EndChar
 
 StartChar: oacute
-Encoding: 180 243 341
+Encoding: 243 243 341
 Width: 1212
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -9168,9 +9503,10 @@ Refer: 175 180 N 1 0 0 1 441 0 2
 EndChar
 
 StartChar: obreve
-Encoding: 272 335 342
+Encoding: 335 335 342
 Width: 1212
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -9179,14 +9515,15 @@ p2
 s."
 LayerCount: 2
 Fore
-Refer: 202 728 N 1 0 0 1 341 0 2
 Refer: 340 111 N 1 0 0 1 0 0 2
+Refer: 202 728 N 1 0 0 1 341 0 2
 EndChar
 
 StartChar: uni01D2
-Encoding: 337 466 343
+Encoding: 466 466 343
 Width: 1212
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -9200,9 +9537,10 @@ Refer: 208 711 N 1 0 0 1 341 0 2
 EndChar
 
 StartChar: ocircumflex
-Encoding: 181 244 344
+Encoding: 244 244 344
 Width: 1212
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -9216,9 +9554,10 @@ Refer: 216 710 N 1 0 0 1 341 0 2
 EndChar
 
 StartChar: uni020D
-Encoding: 375 525 345
+Encoding: 525 525 345
 Width: 1212
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -9227,15 +9566,16 @@ p2
 s."
 LayerCount: 2
 Fore
-Refer: 340 111 N 1 0 0 1 0 0 2
 Refer: 451 783 N 1 0 0 1 -30 0 2
-Kerns2: 466 -25 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 
+Refer: 340 111 N 1 0 0 1 0 0 2
+Kerns2: 466 -25 "kernHorizontalKerninginLatinloo subtable" 
 EndChar
 
 StartChar: odieresis
-Encoding: 183 246 346
+Encoding: 246 246 346
 Width: 1212
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -9249,9 +9589,10 @@ Refer: 228 168 N 1 0 0 1 113 0 2
 EndChar
 
 StartChar: oe
-Encoding: 276 339 347
+Encoding: 339 339 347
 Width: 1780
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -9294,9 +9635,10 @@ EndSplineSet
 EndChar
 
 StartChar: ogonek
-Encoding: 409 731 348
+Encoding: 731 731 348
 Width: 487
 VWidth: 0
+GlyphClass: 4
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -9313,15 +9655,16 @@ SplineSet
  246 -156 288 -70 329 9 c 257
  214 9 l 257
  124 -76 61 -194 61 -294 c 256
- 61 -475 237 -508 395 -508 c 0
- 400 -508 404 -508 409 -508 c 257
+ 61 -475 237 -508 395 -508 c 258
+ 409 -508 l 257
 EndSplineSet
 EndChar
 
 StartChar: ograve
-Encoding: 179 242 349
+Encoding: 242 242 349
 Width: 1212
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -9330,14 +9673,15 @@ p2
 s."
 LayerCount: 2
 Fore
-Refer: 279 96 N 1 0 0 1 211 0 2
 Refer: 340 111 N 1 0 0 1 0 0 2
+Refer: 279 96 N 1 0 0 1 211 0 2
 EndChar
 
 StartChar: ohungarumlaut
-Encoding: 274 337 350
+Encoding: 337 337 350
 Width: 1212
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -9351,9 +9695,10 @@ Refer: 289 733 N 1 0 0 1 242 0 2
 EndChar
 
 StartChar: uni020F
-Encoding: 377 527 351
+Encoding: 527 527 351
 Width: 1212
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -9362,14 +9707,15 @@ p2
 s."
 LayerCount: 2
 Fore
-Refer: 340 111 N 1 0 0 1 0 0 2
 Refer: 452 785 N 1 0 0 1 307 0 2
+Refer: 340 111 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: omacron
-Encoding: 270 333 352
+Encoding: 333 333 352
 Width: 1212
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -9383,9 +9729,10 @@ Refer: 325 175 N 1 0 0 1 351 0 2
 EndChar
 
 StartChar: one
-Encoding: 18 49 353
+Encoding: 49 49 353
 Width: 1379
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -9408,13 +9755,14 @@ SplineSet
  249 209 l 257
  249 0 l 257
 EndSplineSet
-Substitution2: "'sups' Superscript lookup 11 subtable" uni00B9
+Substitution2: "supsSuperscriptlookup11 subtable" uni00B9
 EndChar
 
 StartChar: onehalf
-Encoding: 126 189 354
+Encoding: 189 189 354
 Width: 2579
 VWidth: 0
+GlyphClass: 3
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -9434,7 +9782,7 @@ SplineSet
  1740 1071 1652 958 1652 706 c 257
  1870 706 l 257
  1870 860 1892 911 2027 911 c 256
- 2130 911 2167 864 2167 769 c 0
+ 2130 911 2167 864 2167 769 c 256
  2167 675 2122 608 2033 518 c 258
  1678 159 l 257
  1723 -2 l 257
@@ -9456,13 +9804,14 @@ SplineSet
  1520 1505 l 257
  879 0 l 257
 EndSplineSet
-Ligature2: "'frac' Diagonal Fractions lookup 12 subtable" one slash two
+Ligature2: "fracDiagonalFractionslookup12 subtable" one slash two
 EndChar
 
 StartChar: onequarter
-Encoding: 125 188 355
+Encoding: 188 188 355
 Width: 2433
 VWidth: 0
+GlyphClass: 3
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -9506,13 +9855,14 @@ SplineSet
  1490 1505 l 257
  849 0 l 257
 EndSplineSet
-Ligature2: "'frac' Diagonal Fractions lookup 12 subtable" one slash four
+Ligature2: "fracDiagonalFractionslookup12 subtable" one slash four
 EndChar
 
 StartChar: uni00B9
-Encoding: 122 185 356
+Encoding: 185 185 356
 Width: 1127
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -9538,9 +9888,10 @@ EndSplineSet
 EndChar
 
 StartChar: uni01EB
-Encoding: 347 491 357
+Encoding: 491 491 357
 Width: 1212
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -9549,14 +9900,15 @@ p2
 s."
 LayerCount: 2
 Fore
-Refer: 340 111 N 1 0 0 1 0 0 2
 Refer: 348 731 N 1 0 0 1 408 0 2
+Refer: 340 111 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: ordfeminine
-Encoding: 107 170 358
+Encoding: 170 170 358
 Width: 1024
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -9569,7 +9921,7 @@ s."
 LayerCount: 2
 Fore
 SplineSet
-134 785 m 0
+134 785 m 256
  134 621 228 518 384 518 c 257
  386 517 l 257
  513 517 606 591 653 656 c 257
@@ -9586,9 +9938,9 @@ SplineSet
  366 1265 391 1316 501 1316 c 256
  599 1316 634 1278 634 1204 c 256
  633 1088 565 1087 409 1037 c 256
- 176 963 134 903 134 785 c 0
+ 176 963 134 903 134 785 c 256
 458 684 m 258
- 384 684 344 726 344 801 c 0
+ 384 684 344 726 344 801 c 256
  344 851 373 897 463 924 c 256
  536 946 606 976 633 1002 c 257
  633 770 l 257
@@ -9598,9 +9950,10 @@ EndSplineSet
 EndChar
 
 StartChar: ordmasculine
-Encoding: 123 186 359
+Encoding: 186 186 359
 Width: 1024
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -9629,9 +9982,10 @@ EndSplineSet
 EndChar
 
 StartChar: oslash
-Encoding: 185 248 360
+Encoding: 248 248 360
 Width: 1180
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -9652,9 +10006,10 @@ Refer: 340 111 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: oslashacute
-Encoding: 361 511 361
+Encoding: 511 511 361
 Width: 1180
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -9663,14 +10018,15 @@ p2
 s."
 LayerCount: 2
 Fore
-Refer: 175 180 N 1 0 0 1 433 0 2
 Refer: 360 248 N 1 0 0 1 0 0 2
+Refer: 175 180 N 1 0 0 1 433 0 2
 EndChar
 
 StartChar: otilde
-Encoding: 182 245 362
+Encoding: 245 245 362
 Width: 1212
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -9684,9 +10040,10 @@ Refer: 340 111 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: p
-Encoding: 81 112 363
+Encoding: 112 112 363
 Width: 1210
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -9716,13 +10073,14 @@ SplineSet
  814 320 l 258
  814 211 746 166 622 166 c 256
 EndSplineSet
-Kerns2: 470 -12 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  468 -12 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  467 -12 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 
+Kerns2: 467 -12 "kernHorizontalKerninginLatinloo subtable"  468 -12 "kernHorizontalKerninginLatinloo subtable"  470 -12 "kernHorizontalKerninginLatinloo subtable" 
 EndChar
 
 StartChar: paragraph
-Encoding: 119 182 364
+Encoding: 182 182 364
 Width: 1222
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -9747,9 +10105,10 @@ EndSplineSet
 EndChar
 
 StartChar: parenleft
-Encoding: 9 40 365
+Encoding: 40 40 365
 Width: 946
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -9759,24 +10118,25 @@ s."
 LayerCount: 2
 Fore
 SplineSet
-782 -159 m 258
+782 -159 m 257
  782 56 l 257
  574 56 487 121 487 390 c 258
  487 1020 l 258
  487 1291 576 1359 782 1359 c 257
- 782 1575 l 258
- 781 1575 780 1575 779 1575 c 0
+ 782 1575 l 257
+ 779 1575 l 258
  343 1575 208 1341 208 986 c 258
  208 420 l 258
- 208 68 344 -159 779 -159 c 0
- 780 -159 781 -159 782 -159 c 258
+ 208 68 344 -159 779 -159 c 258
+ 782 -159 l 257
 EndSplineSet
 EndChar
 
 StartChar: parenright
-Encoding: 10 41 366
+Encoding: 41 41 366
 Width: 946
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -9786,24 +10146,25 @@ s."
 LayerCount: 2
 Fore
 SplineSet
-181 -159 m 258
- 182 -159 183 -159 184 -159 c 0
+181 -159 m 257
+ 184 -159 l 258
  620 -159 754 75 754 430 c 258
  754 996 l 258
- 754 1348 619 1575 184 1575 c 0
- 183 1575 182 1575 181 1575 c 258
+ 754 1348 619 1575 184 1575 c 258
+ 181 1575 l 257
  181 1359 l 257
  389 1359 476 1295 476 1025 c 258
  476 395 l 258
  476 125 387 57 181 57 c 257
- 181 -159 l 258
+ 181 -159 l 257
 EndSplineSet
 EndChar
 
 StartChar: partialdiff
-Encoding: 472 8706 367
+Encoding: 8706 8706 367
 Width: 1216
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -9819,8 +10180,8 @@ SplineSet
  457 1496 314 1454 206 1389 c 257
  247 1288 l 257
  350 1343 423 1364 501 1364 c 256
- 669 1364 822 1241 822 958 c 256
- 822 950 822 942 822 934 c 257
+ 669 1364 822 1241 822 958 c 258
+ 822 934 l 257
  362 906 111 573 111 310 c 256
  111 136 223 -20 474 -20 c 256
 488 130 m 256
@@ -9831,9 +10192,10 @@ EndSplineSet
 EndChar
 
 StartChar: uni1E57
-Encoding: 432 7767 368
+Encoding: 7767 7767 368
 Width: 1210
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -9842,14 +10204,15 @@ p2
 s."
 LayerCount: 2
 Fore
-Refer: 231 729 N 1 0 0 1 443 0 2
 Refer: 363 112 N 1 0 0 1 0 0 2
+Refer: 231 729 N 1 0 0 1 443 0 2
 EndChar
 
 StartChar: percent
-Encoding: 6 37 369
+Encoding: 37 37 369
 Width: 2114
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -9896,9 +10259,10 @@ EndSplineSet
 EndChar
 
 StartChar: period
-Encoding: 15 46 370
+Encoding: 46 46 370
 Width: 634
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -9917,9 +10281,10 @@ EndSplineSet
 EndChar
 
 StartChar: periodcentered
-Encoding: 120 183 371
+Encoding: 183 183 371
 Width: 512
 VWidth: 0
+GlyphClass: 4
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -9939,9 +10304,10 @@ EndSplineSet
 EndChar
 
 StartChar: perthousand
-Encoding: 462 8240 372
+Encoding: 8240 8240 372
 Width: 2769
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -10002,9 +10368,10 @@ EndSplineSet
 EndChar
 
 StartChar: pi
-Encoding: 422 960 373
+Encoding: 960 960 373
 Width: 1257
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -10021,8 +10388,8 @@ SplineSet
  490 893 l 257
  755 893 l 257
  755 297 l 258
- 755 39 870 -20 1093 -20 c 0
- 1099 -20 1104 -20 1110 -20 c 257
+ 755 39 870 -20 1093 -20 c 258
+ 1110 -20 l 257
  1155 156 l 257
  1027 181 1007 184 1007 343 c 258
  1007 893 l 257
@@ -10035,9 +10402,10 @@ EndSplineSet
 EndChar
 
 StartChar: plus
-Encoding: 12 43 374
+Encoding: 43 43 374
 Width: 966
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -10064,9 +10432,10 @@ EndSplineSet
 EndChar
 
 StartChar: plusminus
-Encoding: 114 177 375
+Encoding: 177 177 375
 Width: 1024
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -10098,9 +10467,10 @@ EndSplineSet
 EndChar
 
 StartChar: product
-Encoding: 475 8719 376
+Encoding: 8719 8719 376
 Width: 1776
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -10140,9 +10510,10 @@ EndSplineSet
 EndChar
 
 StartChar: q
-Encoding: 82 113 377
+Encoding: 113 113 377
 Width: 1210
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -10174,9 +10545,10 @@ EndSplineSet
 EndChar
 
 StartChar: question
-Encoding: 32 63 378
+Encoding: 63 63 378
 Width: 1244
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -10208,9 +10580,10 @@ EndSplineSet
 EndChar
 
 StartChar: questiondown
-Encoding: 128 191 379
+Encoding: 191 191 379
 Width: 1244
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -10223,9 +10596,10 @@ Refer: 378 63 N -1 0 0 -1 1226 1218 2
 EndChar
 
 StartChar: quotedbl
-Encoding: 3 34 380
+Encoding: 34 34 380
 Width: 1024
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -10249,9 +10623,10 @@ EndSplineSet
 EndChar
 
 StartChar: quotedblbase
-Encoding: 457 8222 381
+Encoding: 8222 8222 381
 Width: 1373
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -10281,9 +10656,10 @@ EndSplineSet
 EndChar
 
 StartChar: quotedblleft
-Encoding: 455 8220 382
+Encoding: 8220 8220 382
 Width: 1310
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -10313,9 +10689,10 @@ EndSplineSet
 EndChar
 
 StartChar: quotedblright
-Encoding: 456 8221 383
+Encoding: 8221 8221 383
 Width: 1350
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -10345,9 +10722,10 @@ EndSplineSet
 EndChar
 
 StartChar: quoteleft
-Encoding: 452 8216 384
+Encoding: 8216 8216 384
 Width: 874
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -10369,9 +10747,10 @@ EndSplineSet
 EndChar
 
 StartChar: quoteright
-Encoding: 453 8217 385
+Encoding: 8217 8217 385
 Width: 834
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -10393,9 +10772,10 @@ EndSplineSet
 EndChar
 
 StartChar: quotesinglbase
-Encoding: 454 8218 386
+Encoding: 8218 8218 386
 Width: 874
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -10417,9 +10797,10 @@ EndSplineSet
 EndChar
 
 StartChar: quotesingle
-Encoding: 8 39 387
+Encoding: 39 39 387
 Width: 769
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -10438,17 +10819,18 @@ EndSplineSet
 EndChar
 
 StartChar: r
-Encoding: 83 114 388
+Encoding: 114 114 388
 Width: 855
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
 (dp3
 s."
-AnchorPoint: "bot" 301 0 basechar 0
 AnchorPoint: "top" 542 1074 basechar 0
+AnchorPoint: "bot" 301 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -10457,19 +10839,20 @@ SplineSet
  432 720 l 257
  453 806 667 852 805 859 c 257
  811 1090 l 257
- 804 1091 796 1091 787 1091 c 0
+ 804 1091 796 1091 787 1091 c 256
  685 1091 479 1037 432 946 c 257
  432 1074 l 257
  160 1074 l 257
  160 0 l 257
 EndSplineSet
-Kerns2: 377 -24 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  221 -14 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  206 -12 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 
+Kerns2: 206 -12 "kernHorizontalKerninginLatinloo subtable"  221 -14 "kernHorizontalKerninginLatinloo subtable"  377 -24 "kernHorizontalKerninginLatinloo subtable" 
 EndChar
 
 StartChar: racute
-Encoding: 278 341 389
+Encoding: 341 341 389
 Width: 855
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -10483,9 +10866,10 @@ Refer: 175 180 N 1 0 0 1 375 0 2
 EndChar
 
 StartChar: radical
-Encoding: 480 8730 390
+Encoding: 8730 8730 390
 Width: 1298
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -10509,9 +10893,10 @@ EndSplineSet
 EndChar
 
 StartChar: rcaron
-Encoding: 282 345 391
+Encoding: 345 345 391
 Width: 855
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -10522,13 +10907,14 @@ LayerCount: 2
 Fore
 Refer: 388 114 N 1 0 0 1 0 0 2
 Refer: 208 711 N 1 0 0 1 275 0 2
-Kerns2: 377 -24 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  221 -14 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  206 -12 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 
+Kerns2: 206 -12 "kernHorizontalKerninginLatinloo subtable"  221 -14 "kernHorizontalKerninginLatinloo subtable"  377 -24 "kernHorizontalKerninginLatinloo subtable" 
 EndChar
 
 StartChar: uni0157
-Encoding: 280 343 392
+Encoding: 343 343 392
 Width: 855
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -10537,15 +10923,16 @@ p2
 s."
 LayerCount: 2
 Fore
-Refer: 388 114 N 1 0 0 1 0 0 2
 Refer: 454 806 N 1 0 0 1 -11 0 2
-Kerns2: 377 -24 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  221 -14 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  206 -12 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 
+Refer: 388 114 N 1 0 0 1 0 0 2
+Kerns2: 206 -12 "kernHorizontalKerninginLatinloo subtable"  221 -14 "kernHorizontalKerninginLatinloo subtable"  377 -24 "kernHorizontalKerninginLatinloo subtable" 
 EndChar
 
 StartChar: uni0211
-Encoding: 379 529 393
+Encoding: 529 529 393
 Width: 855
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -10554,15 +10941,16 @@ p2
 s."
 LayerCount: 2
 Fore
-Refer: 388 114 N 1 0 0 1 0 0 2
 Refer: 451 783 N 1 0 0 1 -96 0 2
-Kerns2: 377 -24 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  345 -28 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  271 -27 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  221 -20 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  212 -21 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  211 -21 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  206 -21 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 
+Refer: 388 114 N 1 0 0 1 0 0 2
+Kerns2: 206 -21 "kernHorizontalKerninginLatinloo subtable"  211 -21 "kernHorizontalKerninginLatinloo subtable"  212 -21 "kernHorizontalKerninginLatinloo subtable"  221 -20 "kernHorizontalKerninginLatinloo subtable"  271 -27 "kernHorizontalKerninginLatinloo subtable"  345 -28 "kernHorizontalKerninginLatinloo subtable"  377 -24 "kernHorizontalKerninginLatinloo subtable" 
 EndChar
 
 StartChar: registered
-Encoding: 111 174 394
+Encoding: 174 174 394
 Width: 1776
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -10605,9 +10993,10 @@ EndSplineSet
 EndChar
 
 StartChar: ring
-Encoding: 408 730 395
+Encoding: 730 730 395
 Width: 592
 VWidth: 0
+GlyphClass: 4
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -10632,9 +11021,10 @@ EndSplineSet
 EndChar
 
 StartChar: uni0213
-Encoding: 381 531 396
+Encoding: 531 531 396
 Width: 855
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -10643,15 +11033,16 @@ p2
 s."
 LayerCount: 2
 Fore
-Refer: 388 114 N 1 0 0 1 0 0 2
 Refer: 452 785 N 1 0 0 1 241 0 2
-Kerns2: 377 -24 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  221 -14 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  206 -12 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 
+Refer: 388 114 N 1 0 0 1 0 0 2
+Kerns2: 206 -12 "kernHorizontalKerninginLatinloo subtable"  221 -14 "kernHorizontalKerninginLatinloo subtable"  377 -24 "kernHorizontalKerninginLatinloo subtable" 
 EndChar
 
 StartChar: s
-Encoding: 84 115 397
+Encoding: 115 115 397
 Width: 1048
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -10661,13 +11052,13 @@ sS'com.typemytype.robofont.layerData'
 p4
 (dp5
 s."
-AnchorPoint: "bot" 534 0 basechar 0
 AnchorPoint: "top" 574 1074 basechar 0
+AnchorPoint: "bot" 534 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
 533 1094 m 256
- 321 1094 142 1011 142 785 c 0
+ 321 1094 142 1011 142 785 c 256
  142 646 199 541 364 489 c 258
  600 415 l 258
  669 393 691 354 691 307 c 256
@@ -10687,9 +11078,10 @@ EndSplineSet
 EndChar
 
 StartChar: sacute
-Encoding: 284 347 398
+Encoding: 347 347 398
 Width: 1048
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -10706,9 +11098,10 @@ Refer: 175 180 N 1 0 0 1 407 0 2
 EndChar
 
 StartChar: scaron
-Encoding: 290 353 399
+Encoding: 353 353 399
 Width: 1048
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -10725,9 +11118,10 @@ Refer: 208 711 N 1 0 0 1 307 0 2
 EndChar
 
 StartChar: scedilla
-Encoding: 288 351 400
+Encoding: 351 351 400
 Width: 1048
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -10739,16 +11133,17 @@ p4
 s."
 LayerCount: 2
 Fore
-Refer: 214 184 N 1 0 0 1 339 0 2
 Refer: 397 115 N 1 0 0 1 0 0 2
-Substitution2: "'locl' Localized Forms in Latin lookup 5 subtable" uni0219
-Substitution2: "'locl' Localized Forms in Latin lookup 4 subtable" uni0219
+Refer: 214 184 N 1 0 0 1 339 0 2
+Substitution2: "sub_single_locllatn_2 subtable" uni0219
+Substitution2: "sub_single_locllatn_0 subtable" uni0219
 EndChar
 
 StartChar: uni0259
-Encoding: 401 601 401
+Encoding: 601 601 401
 Width: 600
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -10759,9 +11154,10 @@ LayerCount: 2
 EndChar
 
 StartChar: scircumflex
-Encoding: 286 349 402
+Encoding: 349 349 402
 Width: 1048
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -10778,9 +11174,10 @@ Refer: 216 710 N 1 0 0 1 307 0 2
 EndChar
 
 StartChar: uni0219
-Encoding: 387 537 403
+Encoding: 537 537 403
 Width: 1048
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -10797,9 +11194,10 @@ Refer: 397 115 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: section
-Encoding: 104 167 404
+Encoding: 167 167 404
 Width: 1085
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -10831,8 +11229,8 @@ SplineSet
  440 176 332 207 218 281 c 257
  124 112 l 257
 738 579 m 257
- 403 733 l 258
- 339 761 318 795 318 848 c 0
+ 403 733 l 257
+ 339 761 318 795 318 848 c 256
  318 884 343 929 360 941 c 257
  661 797 l 257
  751 758 760 705 760 652 c 256
@@ -10841,9 +11239,10 @@ EndSplineSet
 EndChar
 
 StartChar: semicolon
-Encoding: 28 59 405
+Encoding: 59 59 405
 Width: 769
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -10857,9 +11256,10 @@ Refer: 218 44 N 1 0 0 1 14 198 2
 EndChar
 
 StartChar: seven
-Encoding: 24 55 406
+Encoding: 55 55 406
 Width: 1379
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -10881,9 +11281,10 @@ EndSplineSet
 EndChar
 
 StartChar: six
-Encoding: 23 54 407
+Encoding: 54 54 407
 Width: 1379
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -10911,9 +11312,10 @@ EndSplineSet
 EndChar
 
 StartChar: slash
-Encoding: 16 47 408
+Encoding: 47 47 408
 Width: 1024
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -10932,9 +11334,10 @@ EndSplineSet
 EndChar
 
 StartChar: space
-Encoding: 1 32 409
+Encoding: 32 32 409
 Width: 555
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -10945,9 +11348,10 @@ LayerCount: 2
 EndChar
 
 StartChar: sterling
-Encoding: 100 163 410
+Encoding: 163 163 410
 Width: 1285
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -10980,9 +11384,10 @@ EndSplineSet
 EndChar
 
 StartChar: summation
-Encoding: 476 8721 411
+Encoding: 8721 8721 411
 Width: 1196
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -11010,19 +11415,20 @@ EndSplineSet
 EndChar
 
 StartChar: t
-Encoding: 85 116 412
+Encoding: 116 116 412
 Width: 860
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
 (dp3
 s."
-AnchorPoint: "mid" 378 620 basechar 0
-AnchorPoint: "bot" 471 24 basechar 0
-AnchorPoint: "caron.alt" 402 1074 basechar 0
 AnchorPoint: "top" 398 1408 basechar 0
+AnchorPoint: "caron.alt" 402 1074 basechar 0
+AnchorPoint: "bot" 471 24 basechar 0
+AnchorPoint: "mid" 378 620 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -11047,9 +11453,10 @@ EndSplineSet
 EndChar
 
 StartChar: tbar
-Encoding: 296 359 413
+Encoding: 359 359 413
 Width: 860
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -11063,9 +11470,10 @@ Refer: 325 175 N 1 0 0 1 120 -709 2
 EndChar
 
 StartChar: tcaron
-Encoding: 294 357 414
+Encoding: 357 357 414
 Width: 860
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -11079,9 +11487,10 @@ Refer: 209 -1 N 1 0 0 1 20 0 2
 EndChar
 
 StartChar: uni0163
-Encoding: 292 355 415
+Encoding: 355 355 415
 Width: 860
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -11090,16 +11499,17 @@ p2
 s."
 LayerCount: 2
 Fore
-Refer: 214 184 N 1 0 0 1 276 24 2
 Refer: 412 116 N 1 0 0 1 0 0 2
-Substitution2: "'locl' Localized Forms in Latin lookup 5 subtable" uni0163
-Substitution2: "'locl' Localized Forms in Latin lookup 4 subtable" uni0163
+Refer: 214 184 N 1 0 0 1 276 24 2
+Substitution2: "sub_single_locllatn_2 subtable" uni0163
+Substitution2: "sub_single_locllatn_0 subtable" uni0163
 EndChar
 
 StartChar: uni1E6B
-Encoding: 436 7787 416
+Encoding: 7787 7787 416
 Width: 860
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -11108,14 +11518,15 @@ p2
 s."
 LayerCount: 2
 Fore
-Refer: 231 729 N 1 0 0 1 141 334 2
 Refer: 412 116 N 1 0 0 1 0 0 2
+Refer: 231 729 N 1 0 0 1 141 334 2
 EndChar
 
 StartChar: thorn
-Encoding: 191 254 417
+Encoding: 254 254 417
 Width: 1212
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -11147,9 +11558,10 @@ EndSplineSet
 EndChar
 
 StartChar: three
-Encoding: 20 51 418
+Encoding: 51 51 418
 Width: 1379
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -11176,13 +11588,14 @@ SplineSet
  215 436 l 257
  222 143 387 -20 705 -20 c 256
 EndSplineSet
-Substitution2: "'sups' Superscript lookup 11 subtable" uni00B3
+Substitution2: "supsSuperscriptlookup11 subtable" uni00B3
 EndChar
 
 StartChar: threequarters
-Encoding: 127 190 419
+Encoding: 190 190 419
 Width: 2882
 VWidth: 0
+GlyphClass: 3
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -11199,7 +11612,7 @@ SplineSet
  958 1392 844 1496 619 1496 c 256
  390 1496 250 1423 249 1156 c 257
  434 1156 l 257
- 434 1158 434 1160 434 1162 c 0
+ 434 1162 l 258
  434 1311 470 1344 611 1344 c 256
  735 1344 773 1297 773 1209 c 256
  773 1106 767 1059 562 1059 c 257
@@ -11231,13 +11644,14 @@ SplineSet
  1530 1505 l 257
  889 0 l 257
 EndSplineSet
-Ligature2: "'frac' Diagonal Fractions lookup 12 subtable" three slash four
+Ligature2: "fracDiagonalFractionslookup12 subtable" three slash four
 EndChar
 
 StartChar: uni00B3
-Encoding: 116 179 420
+Encoding: 179 179 420
 Width: 927
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -11248,10 +11662,10 @@ LayerCount: 2
 Fore
 SplineSet
 140 918 m 257
- 143 707 268 608 472 608 c 0
+ 143 707 268 608 472 608 c 256
  674 608 805 689 805 874 c 256
  805 997 755 1073 637 1104 c 257
- 746 1125 792 1214 792 1318 c 0
+ 746 1125 792 1214 792 1318 c 256
  792 1510 653 1582 466 1582 c 256
  258 1582 146 1485 145 1276 c 257
  334 1276 l 257
@@ -11267,9 +11681,10 @@ EndSplineSet
 EndChar
 
 StartChar: tilde
-Encoding: 410 732 421
+Encoding: 732 732 421
 Width: 759
 VWidth: 0
+GlyphClass: 4
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -11293,9 +11708,10 @@ EndSplineSet
 EndChar
 
 StartChar: trademark
-Encoding: 469 8482 422
+Encoding: 8482 8482 422
 Width: 1843
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -11332,9 +11748,10 @@ EndSplineSet
 EndChar
 
 StartChar: two
-Encoding: 19 50 423
+Encoding: 50 50 423
 Width: 1379
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -11359,13 +11776,14 @@ SplineSet
  241 226 l 257
  277 0 l 257
 EndSplineSet
-Substitution2: "'sups' Superscript lookup 11 subtable" uni00B2
+Substitution2: "supsSuperscriptlookup11 subtable" uni00B2
 EndChar
 
 StartChar: uni00B2
-Encoding: 115 178 424
+Encoding: 178 178 424
 Width: 1005
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -11393,22 +11811,23 @@ EndSplineSet
 EndChar
 
 StartChar: u
-Encoding: 86 117 425
+Encoding: 117 117 425
 Width: 1269
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
 (dp3
 s."
-AnchorPoint: "ogonek" 970 0 basechar 0
 AnchorPoint: "top" 643 1074 basechar 0
+AnchorPoint: "ogonek" 970 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
 162 291 m 258
- 162 104 299 -24 519 -24 c 0
+ 162 104 299 -24 519 -24 c 256
  660 -24 796 34 837 118 c 257
  845 0 l 257
  1101 0 l 257
@@ -11424,9 +11843,10 @@ EndSplineSet
 EndChar
 
 StartChar: uacute
-Encoding: 187 250 426
+Encoding: 250 250 426
 Width: 1269
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -11440,9 +11860,10 @@ Refer: 175 180 N 1 0 0 1 476 0 2
 EndChar
 
 StartChar: ubreve
-Encoding: 302 365 427
+Encoding: 365 365 427
 Width: 1269
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -11451,14 +11872,15 @@ p2
 s."
 LayerCount: 2
 Fore
-Refer: 202 728 N 1 0 0 1 376 0 2
 Refer: 425 117 N 1 0 0 1 0 0 2
+Refer: 202 728 N 1 0 0 1 376 0 2
 EndChar
 
 StartChar: uni01D4
-Encoding: 339 468 428
+Encoding: 468 468 428
 Width: 1269
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -11472,9 +11894,10 @@ Refer: 208 711 N 1 0 0 1 376 0 2
 EndChar
 
 StartChar: ucircumflex
-Encoding: 188 251 429
+Encoding: 251 251 429
 Width: 1269
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -11488,9 +11911,10 @@ Refer: 216 710 N 1 0 0 1 376 0 2
 EndChar
 
 StartChar: uni0215
-Encoding: 383 533 430
+Encoding: 533 533 430
 Width: 1269
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -11499,14 +11923,15 @@ p2
 s."
 LayerCount: 2
 Fore
-Refer: 425 117 N 1 0 0 1 0 0 2
 Refer: 451 783 N 1 0 0 1 5 0 2
+Refer: 425 117 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: udieresis
-Encoding: 189 252 431
+Encoding: 252 252 431
 Width: 1269
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -11520,9 +11945,10 @@ Refer: 228 168 N 1 0 0 1 148 0 2
 EndChar
 
 StartChar: ugrave
-Encoding: 186 249 432
+Encoding: 249 249 432
 Width: 1269
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -11531,14 +11957,15 @@ p2
 s."
 LayerCount: 2
 Fore
-Refer: 279 96 N 1 0 0 1 246 0 2
 Refer: 425 117 N 1 0 0 1 0 0 2
+Refer: 279 96 N 1 0 0 1 246 0 2
 EndChar
 
 StartChar: uhungarumlaut
-Encoding: 306 369 433
+Encoding: 369 369 433
 Width: 1269
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -11547,14 +11974,15 @@ p2
 s."
 LayerCount: 2
 Fore
-Refer: 289 733 N 1 0 0 1 277 0 2
 Refer: 425 117 N 1 0 0 1 0 0 2
+Refer: 289 733 N 1 0 0 1 277 0 2
 EndChar
 
 StartChar: uni0217
-Encoding: 385 535 434
+Encoding: 535 535 434
 Width: 1269
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -11563,14 +11991,15 @@ p2
 s."
 LayerCount: 2
 Fore
-Refer: 425 117 N 1 0 0 1 0 0 2
 Refer: 452 785 N 1 0 0 1 342 0 2
+Refer: 425 117 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: umacron
-Encoding: 300 363 435
+Encoding: 363 363 435
 Width: 1269
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -11579,14 +12008,15 @@ p2
 s."
 LayerCount: 2
 Fore
-Refer: 325 175 N 1 0 0 1 386 0 2
 Refer: 425 117 N 1 0 0 1 0 0 2
+Refer: 325 175 N 1 0 0 1 386 0 2
 EndChar
 
 StartChar: underscore
-Encoding: 64 95 436
+Encoding: 95 95 436
 Width: 904
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -11605,9 +12035,10 @@ EndSplineSet
 EndChar
 
 StartChar: uni00A0
-Encoding: 97 160 437
+Encoding: 160 160 437
 Width: 349
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -11618,9 +12049,10 @@ LayerCount: 2
 EndChar
 
 StartChar: mu
-Encoding: 118 181 438
+Encoding: 181 181 438
 Width: 1246
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -11633,9 +12065,10 @@ Refer: 328 956 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni01F8
-Encoding: 354 504 439
+Encoding: 504 504 439
 Width: 1678
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -11644,14 +12077,15 @@ p2
 s."
 LayerCount: 2
 Fore
-Refer: 89 78 N 1 0 0 1 0 0 2
 Refer: 279 96 N 1 0 0 1 467 402 2
+Refer: 89 78 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni01F9
-Encoding: 355 505 440
+Encoding: 505 505 440
 Width: 1272
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -11665,9 +12099,10 @@ Refer: 279 96 N 1 0 0 1 282 0 2
 EndChar
 
 StartChar: uni021A
-Encoding: 388 538 441
+Encoding: 538 538 441
 Width: 1194
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -11676,14 +12111,15 @@ p2
 s."
 LayerCount: 2
 Fore
-Refer: 132 84 N 1 0 0 1 0 0 2
 Refer: 454 806 N 1 0 0 1 263 0 2
+Refer: 132 84 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni021B
-Encoding: 389 539 442
+Encoding: 539 539 442
 Width: 860
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -11692,14 +12128,15 @@ p2
 s."
 LayerCount: 2
 Fore
-Refer: 412 116 N 1 0 0 1 0 0 2
 Refer: 454 806 N 1 0 0 1 159 24 2
+Refer: 412 116 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni021E
-Encoding: 390 542 443
+Encoding: 542 542 443
 Width: 1668
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -11708,14 +12145,15 @@ p2
 s."
 LayerCount: 2
 Fore
-Refer: 58 72 N 1 0 0 1 0 0 2
 Refer: 208 711 N 1 0 0 1 580 402 2
+Refer: 58 72 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni021F
-Encoding: 391 543 444
+Encoding: 543 543 444
 Width: 1272
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -11729,9 +12167,10 @@ Refer: 208 711 N 1 0 0 1 552 231 2
 EndChar
 
 StartChar: uni0228
-Encoding: 394 552 445
+Encoding: 552 552 445
 Width: 1316
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -11745,9 +12184,10 @@ Refer: 33 69 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni0229
-Encoding: 395 553 446
+Encoding: 553 553 446
 Width: 1181
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -11756,14 +12196,15 @@ p2
 s."
 LayerCount: 2
 Fore
-Refer: 214 184 N 1 0 0 1 407 0 2
 Refer: 236 101 N 1 0 0 1 0 0 2
+Refer: 214 184 N 1 0 0 1 407 0 2
 EndChar
 
 StartChar: uni022E
-Encoding: 396 558 447
+Encoding: 558 558 447
 Width: 1622
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -11777,9 +12218,10 @@ Refer: 96 79 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni022F
-Encoding: 397 559 448
+Encoding: 559 559 448
 Width: 1212
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -11788,14 +12230,15 @@ p2
 s."
 LayerCount: 2
 Fore
-Refer: 231 729 N 1 0 0 1 351 0 2
 Refer: 340 111 N 1 0 0 1 0 0 2
+Refer: 231 729 N 1 0 0 1 351 0 2
 EndChar
 
 StartChar: uni02BC
-Encoding: 402 700 449
+Encoding: 700 700 449
 Width: 600
 VWidth: 0
+GlyphClass: 4
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -11809,9 +12252,10 @@ Refer: 218 44 N 1 0 0 1 -200 1633 2
 EndChar
 
 StartChar: uni0307
-Encoding: 412 775 450
+Encoding: 775 775 450
 Width: 600
 VWidth: 0
+GlyphClass: 4
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -11831,9 +12275,10 @@ EndSplineSet
 EndChar
 
 StartChar: uni030F
-Encoding: 413 783 451
+Encoding: 783 783 451
 Width: 1024
 VWidth: 0
+GlyphClass: 4
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -11858,9 +12303,10 @@ EndSplineSet
 EndChar
 
 StartChar: uni0311
-Encoding: 414 785 452
+Encoding: 785 785 452
 Width: 575
 VWidth: 0
+GlyphClass: 4
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -11882,9 +12328,10 @@ EndSplineSet
 EndChar
 
 StartChar: uni0312
-Encoding: 415 786 453
+Encoding: 786 786 453
 Width: 600
 VWidth: 0
+GlyphClass: 4
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -11898,9 +12345,10 @@ Refer: 218 44 N -1 0 0 -1 697 1593 2
 EndChar
 
 StartChar: uni0326
-Encoding: 416 806 454
+Encoding: 806 806 454
 Width: 600
 VWidth: 0
+GlyphClass: 4
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -11914,9 +12362,10 @@ Refer: 218 44 N 1 0 0 1 -70 -448 2
 EndChar
 
 StartChar: uni0358
-Encoding: 417 856 455
+Encoding: 856 856 455
 Width: 600
 VWidth: 0
+GlyphClass: 4
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -11936,9 +12385,10 @@ EndSplineSet
 EndChar
 
 StartChar: uni2113
-Encoding: 468 8467 456
+Encoding: 8467 8467 456
 Width: 734
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -11951,9 +12401,10 @@ Refer: 313 108 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uogonek
-Encoding: 308 371 457
+Encoding: 371 371 457
 Width: 1269
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -11970,9 +12421,10 @@ Refer: 348 731 N 1 0 0 1 705 0 2
 EndChar
 
 StartChar: uring
-Encoding: 304 367 458
+Encoding: 367 367 458
 Width: 1269
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -11986,9 +12438,10 @@ Refer: 395 730 N 1 0 0 1 346 0 2
 EndChar
 
 StartChar: utilde
-Encoding: 298 361 459
+Encoding: 361 361 459
 Width: 1269
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -11997,14 +12450,15 @@ p2
 s."
 LayerCount: 2
 Fore
-Refer: 421 732 N 1 0 0 1 257 0 2
 Refer: 425 117 N 1 0 0 1 0 0 2
+Refer: 421 732 N 1 0 0 1 257 0 2
 EndChar
 
 StartChar: v
-Encoding: 87 118 460
+Encoding: 118 118 460
 Width: 1171
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -12023,13 +12477,14 @@ SplineSet
  68 1074 l 257
  450 0 l 257
 EndSplineSet
-Kerns2: 341 -13 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 
+Kerns2: 341 -13 "kernHorizontalKerninginLatinloo subtable" 
 EndChar
 
 StartChar: w
-Encoding: 88 119 461
+Encoding: 119 119 461
 Width: 1692
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -12055,13 +12510,14 @@ SplineSet
  68 1074 l 257
  365 0 l 257
 EndSplineSet
-Kerns2: 344 -6 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 
+Kerns2: 344 -6 "kernHorizontalKerninginLatinloo subtable" 
 EndChar
 
 StartChar: wacute
-Encoding: 440 7811 462
+Encoding: 7811 7811 462
 Width: 1692
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -12075,9 +12531,10 @@ Refer: 175 180 N 1 0 0 1 689 0 2
 EndChar
 
 StartChar: wcircumflex
-Encoding: 310 373 463
+Encoding: 373 373 463
 Width: 1692
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -12091,9 +12548,10 @@ Refer: 216 710 N 1 0 0 1 589 0 2
 EndChar
 
 StartChar: wdieresis
-Encoding: 442 7813 464
+Encoding: 7813 7813 464
 Width: 1692
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -12107,9 +12565,10 @@ Refer: 228 168 N 1 0 0 1 361 0 2
 EndChar
 
 StartChar: wgrave
-Encoding: 438 7809 465
+Encoding: 7809 7809 465
 Width: 1692
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -12118,14 +12577,15 @@ p2
 s."
 LayerCount: 2
 Fore
-Refer: 279 96 N 1 0 0 1 459 0 2
 Refer: 461 119 N 1 0 0 1 0 0 2
+Refer: 279 96 N 1 0 0 1 459 0 2
 EndChar
 
 StartChar: x
-Encoding: 89 120 466
+Encoding: 120 120 466
 Width: 1118
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -12149,13 +12609,14 @@ SplineSet
  424 540 l 257
  54 0 l 257
 EndSplineSet
-Kerns2: 362 -22 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  351 -22 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  349 -22 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  346 -22 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  345 -22 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  344 -22 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  341 -22 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  340 -11 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 
+Kerns2: 340 -11 "kernHorizontalKerninginLatinloo subtable"  341 -22 "kernHorizontalKerninginLatinloo subtable"  344 -22 "kernHorizontalKerninginLatinloo subtable"  345 -22 "kernHorizontalKerninginLatinloo subtable"  346 -22 "kernHorizontalKerninginLatinloo subtable"  349 -22 "kernHorizontalKerninginLatinloo subtable"  351 -22 "kernHorizontalKerninginLatinloo subtable"  362 -22 "kernHorizontalKerninginLatinloo subtable" 
 EndChar
 
 StartChar: y
-Encoding: 90 121 467
+Encoding: 121 121 467
 Width: 1120
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -12180,9 +12641,10 @@ EndSplineSet
 EndChar
 
 StartChar: yacute
-Encoding: 190 253 468
+Encoding: 253 253 468
 Width: 1120
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -12191,14 +12653,15 @@ p2
 s."
 LayerCount: 2
 Fore
-Refer: 175 180 N 1 0 0 1 412 0 2
 Refer: 467 121 N 1 0 0 1 0 0 2
+Refer: 175 180 N 1 0 0 1 412 0 2
 EndChar
 
 StartChar: ycircumflex
-Encoding: 312 375 469
+Encoding: 375 375 469
 Width: 1120
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -12207,14 +12670,15 @@ p2
 s."
 LayerCount: 2
 Fore
-Refer: 216 710 N 1 0 0 1 312 0 2
 Refer: 467 121 N 1 0 0 1 0 0 2
+Refer: 216 710 N 1 0 0 1 312 0 2
 EndChar
 
 StartChar: ydieresis
-Encoding: 192 255 470
+Encoding: 255 255 470
 Width: 1120
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -12223,14 +12687,15 @@ p2
 s."
 LayerCount: 2
 Fore
-Refer: 228 168 N 1 0 0 1 84 0 2
 Refer: 467 121 N 1 0 0 1 0 0 2
+Refer: 228 168 N 1 0 0 1 84 0 2
 EndChar
 
 StartChar: yen
-Encoding: 102 165 471
+Encoding: 165 165 471
 Width: 1304
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -12255,9 +12720,10 @@ Refer: 159 89 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: ygrave
-Encoding: 446 7923 472
+Encoding: 7923 7923 472
 Width: 1120
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -12266,14 +12732,15 @@ p2
 s."
 LayerCount: 2
 Fore
-Refer: 279 96 N 1 0 0 1 182 0 2
 Refer: 467 121 N 1 0 0 1 0 0 2
+Refer: 279 96 N 1 0 0 1 182 0 2
 EndChar
 
 StartChar: uni0233
-Encoding: 399 563 473
+Encoding: 563 563 473
 Width: 1120
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -12282,14 +12749,15 @@ p2
 s."
 LayerCount: 2
 Fore
-Refer: 325 175 N 1 0 0 1 322 0 2
 Refer: 467 121 N 1 0 0 1 0 0 2
+Refer: 325 175 N 1 0 0 1 322 0 2
 EndChar
 
 StartChar: uni1EF9
-Encoding: 448 7929 474
+Encoding: 7929 7929 474
 Width: 1120
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -12298,22 +12766,23 @@ p2
 s."
 LayerCount: 2
 Fore
-Refer: 421 732 N 1 0 0 1 193 0 2
 Refer: 467 121 N 1 0 0 1 0 0 2
+Refer: 421 732 N 1 0 0 1 193 0 2
 EndChar
 
 StartChar: z
-Encoding: 91 122 475
+Encoding: 122 122 475
 Width: 995
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
 (dp3
 s."
-AnchorPoint: "bot" 493 0 basechar 0
 AnchorPoint: "top" 529 1074 basechar 0
+AnchorPoint: "bot" 493 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -12329,13 +12798,14 @@ SplineSet
  121 167 l 257
  121 0 l 257
 EndSplineSet
-Kerns2: 345 -8 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 
+Kerns2: 345 -8 "kernHorizontalKerninginLatinloo subtable" 
 EndChar
 
 StartChar: zacute
-Encoding: 315 378 476
+Encoding: 378 378 476
 Width: 995
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -12349,9 +12819,10 @@ Refer: 175 180 N 1 0 0 1 362 0 2
 EndChar
 
 StartChar: zcaron
-Encoding: 319 382 477
+Encoding: 382 382 477
 Width: 995
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -12365,9 +12836,10 @@ Refer: 208 711 N 1 0 0 1 262 0 2
 EndChar
 
 StartChar: zdotaccent
-Encoding: 317 380 478
+Encoding: 380 380 478
 Width: 995
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -12376,14 +12848,15 @@ p2
 s."
 LayerCount: 2
 Fore
-Refer: 231 729 N 1 0 0 1 272 0 2
 Refer: 475 122 N 1 0 0 1 0 0 2
+Refer: 231 729 N 1 0 0 1 272 0 2
 EndChar
 
 StartChar: zero
-Encoding: 17 48 479
+Encoding: 48 48 479
 Width: 1420
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
@@ -12411,17 +12884,19 @@ EndSplineSet
 EndChar
 
 StartChar: idotaccent
-Encoding: 498 -1 480
+Encoding: 65540 -1 480
 Width: 2048
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 LayerCount: 2
 EndChar
 
 StartChar: uni00AD
-Encoding: 110 173 481
+Encoding: 173 173 481
 Width: 968
 VWidth: 0
+GlyphClass: 4
 Flags: HW
 AnchorPoint: "mid" 476 569 mark 0
 LayerCount: 2
@@ -12436,10 +12911,11 @@ EndSplineSet
 EndChar
 
 StartChar: uni01C4
-Encoding: 323 452 482
+Encoding: 452 452 482
 Width: 2786
 VWidth: 0
-Flags: H
+GlyphClass: 2
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 168 381 N 1 0 0 1 1564 0 2
@@ -12447,54 +12923,59 @@ Refer: 26 68 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni01C7
-Encoding: 326 455 483
+Encoding: 455 455 483
 Width: 2416
 VWidth: 0
-Flags: H
+GlyphClass: 2
+Flags: HW
 LayerCount: 2
 Fore
-Refer: 75 74 N 1 0 0 1 1194 0 2
 Refer: 80 76 N 1 0 0 1 0 0 2
+Refer: 75 74 N 1 0 0 1 1194 0 2
 EndChar
 
 StartChar: uni01CA
-Encoding: 329 458 484
+Encoding: 458 458 484
 Width: 2900
 VWidth: 0
-Flags: H
+GlyphClass: 2
+Flags: HW
 LayerCount: 2
 Fore
-Refer: 75 74 N 1 0 0 1 1678 0 2
 Refer: 89 78 N 1 0 0 1 0 0 2
+Refer: 75 74 N 1 0 0 1 1678 0 2
 EndChar
 
 StartChar: Aringacute
-Encoding: 356 506 485
+Encoding: 506 506 485
 Width: 1540
 VWidth: 0
-Flags: H
+GlyphClass: 2
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 175 180 N 1 0 0 1 600 912 2
-Refer: 15 197 N 1 0 0 1 0 0 3
+Refer: 15 197 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: aringacute
-Encoding: 357 507 486
+Encoding: 507 507 486
 Width: 1174
 VWidth: 0
-Flags: H
+GlyphClass: 2
+Flags: HW
 LayerCount: 2
 Fore
+Refer: 188 229 N 1 0 0 1 0 0 2
 Refer: 175 180 N 1 0 0 1 412 510 2
-Refer: 188 229 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni01F1
-Encoding: 349 497 487
+Encoding: 497 497 487
 Width: 2786
 VWidth: 0
-Flags: H
+GlyphClass: 2
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 166 90 N 1 0 0 1 1564 0 2
@@ -12502,94 +12983,102 @@ Refer: 26 68 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni1E61
-Encoding: 434 7777 488
+Encoding: 7777 7777 488
 Width: 1048
 VWidth: 0
-Flags: H
+GlyphClass: 2
+Flags: HW
 LayerCount: 2
 Fore
+Refer: 397 115 N 1 0 0 1 0 0 2
 Refer: 231 729 N 1 0 0 1 317 0 2
-Refer: 397 115 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni2015
-Encoding: 451 8213 489
+Encoding: 8213 8213 489
 Width: 4096
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 LayerCount: 2
 Fore
 SplineSet
-132 494 m 1
- 132 642 l 1
- 3964 642 l 1
- 3964 494 l 1
- 132 494 l 1
+132 494 m 257
+ 132 642 l 257
+ 3964 642 l 257
+ 3964 494 l 257
+ 132 494 l 257
 EndSplineSet
 EndChar
 
 StartChar: uni2215
-Encoding: 478 8725 490
+Encoding: 8725 8725 490
 Width: 1024
 VWidth: 0
-Flags: H
+GlyphClass: 2
+Flags: HW
 LayerCount: 2
 Fore
-Refer: 408 47 N 1 0 0 1 0 0 3
+Refer: 408 47 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: Delta
-Encoding: 474 8710 491
+Encoding: 8710 8710 491
 Width: 1419
 VWidth: 0
-Flags: H
+GlyphClass: 2
+Flags: HW
 LayerCount: 2
 Fore
-Refer: 30 916 N 1 0 0 1 0 0 3
+Refer: 30 916 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uniFB00
-Encoding: 488 64256 492
+Encoding: 64256 64256 492
 Width: 1556
 VWidth: 0
-Flags: H
+GlyphClass: 2
+Flags: HW
 LayerCount: 2
 Fore
-Refer: 260 102 N 1 0 0 1 778 0 2
 Refer: 260 102 N 1 0 0 1 0 0 2
+Refer: 260 102 N 1 0 0 1 778 0 2
 EndChar
 
 StartChar: uniFB03
-Encoding: 491 64259 493
+Encoding: 64259 64259 493
 Width: 2126
 VWidth: 0
-Flags: H
+GlyphClass: 2
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 291 105 N 1 0 0 1 1556 0 2
-Refer: 260 102 N 1 0 0 1 778 0 2
 Refer: 260 102 N 1 0 0 1 0 0 2
+Refer: 260 102 N 1 0 0 1 778 0 2
 EndChar
 
 StartChar: uniFB04
-Encoding: 492 64260 494
+Encoding: 64260 64260 494
 Width: 2290
 VWidth: 0
-Flags: H
+GlyphClass: 2
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 313 108 N 1 0 0 1 1556 0 2
-Refer: 260 102 N 1 0 0 1 778 0 2
 Refer: 260 102 N 1 0 0 1 0 0 2
+Refer: 260 102 N 1 0 0 1 778 0 2
 EndChar
 
 StartChar: uni02C9
-Encoding: 405 713 495
+Encoding: 713 713 495
 Width: 511
 VWidth: 0
+GlyphClass: 4
 Flags: HW
-AnchorPoint: "mid" 258 1329 mark 0
 AnchorPoint: "top" 257 1074 mark 0
+AnchorPoint: "mid" 258 1329 mark 0
 LayerCount: 2
 Fore
 SplineSet
