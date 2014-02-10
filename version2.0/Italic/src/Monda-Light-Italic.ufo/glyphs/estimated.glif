@@ -16,8 +16,11 @@
     </contour>
     <contour>
       <point x="95" y="730" type="curve" smooth="yes"/>
-      <point x="45" y="413"/>
-      <point x="195" y="178"/>
+      <point x="88.8075" y="690.74"/>
+      <point x="85.6828" y="652.737"/>
+      <point x="85.6828" y="616.283" type="curve" smooth="yes"/>
+      <point x="85.6828" y="358.395"/>
+      <point x="242.063" y="178"/>
       <point x="575" y="178" type="curve" smooth="yes"/>
       <point x="781" y="178"/>
       <point x="929" y="267"/>
@@ -31,8 +34,11 @@
       <point x="244" y="395" type="curve"/>
       <point x="294" y="715" type="line"/>
       <point x="1107" y="715" type="line"/>
-      <point x="1159" y="1044"/>
-      <point x="1042" y="1280"/>
+      <point x="1114.89" y="764.899"/>
+      <point x="1118.89" y="812.658"/>
+      <point x="1118.89" y="857.78" type="curve" smooth="yes"/>
+      <point x="1118.89" y="1110.16"/>
+      <point x="993.769" y="1280"/>
       <point x="724" y="1280" type="curve" smooth="yes"/>
       <point x="404" y="1280"/>
       <point x="144" y="1041"/>
@@ -40,7 +46,7 @@
   </outline>
   <lib>
     <dict>
-      <key>org.robofab.postScriptHintData</key>
+    <key>org.robofab.postScriptHintData</key>
       <dict>
       </dict>
     </dict>

@@ -5,8 +5,8 @@
     <component base="f"/>
     <component base="f" xOffset="810"/>
   </outline>
-  <lib>
-    <dict>
+</glyph>
+   <dict>
       <key>org.robofab.postScriptHintData</key>
       <dict/>
     </dict>

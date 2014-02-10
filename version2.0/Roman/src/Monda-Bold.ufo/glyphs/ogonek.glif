@@ -7,7 +7,7 @@
       <point x="265" y="0" type="move" name="_ogonek"/>
     </contour>
     <contour>
-      <point x="409" y="-508" type="curve"/>
+      <point x="409" y="-508" type="line"/>
       <point x="422" y="-367" type="line"/>
       <point x="333" y="-367"/>
       <point x="246" y="-350"/>
@@ -19,13 +19,14 @@
       <point x="124" y="-76"/>
       <point x="61" y="-194"/>
       <point x="61" y="-294" type="curve" smooth="yes"/>
-      <point x="61" y="-480"/>
-      <point x="248" y="-510"/>
+      <point x="61" y="-475"/>
+      <point x="237" y="-508"/>
+      <point x="395" y="-508" type="curve" smooth="yes"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>org.robofab.postScriptHintData</key>
+    <key>org.robofab.postScriptHintData</key>
       <dict>
       </dict>
     </dict>

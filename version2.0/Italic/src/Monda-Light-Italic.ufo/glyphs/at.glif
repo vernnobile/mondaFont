@@ -12,15 +12,21 @@
       <point x="1403" y="26"/>
       <point x="1206" y="-24"/>
       <point x="991" y="-24" type="curve" smooth="yes"/>
-      <point x="661" y="-24"/>
-      <point x="496" y="96"/>
+      <point x="682.805" y="-24"/>
+      <point x="518.526" y="80.6655"/>
+      <point x="518.526" y="227.274" type="curve" smooth="yes"/>
+      <point x="518.526" y="237.647"/>
+      <point x="519.348" y="248.229"/>
       <point x="521" y="259" type="curve" smooth="yes"/>
       <point x="647" y="1053" type="line" smooth="yes"/>
       <point x="672" y="1208"/>
       <point x="861" y="1338"/>
       <point x="1170" y="1338" type="curve" smooth="yes"/>
-      <point x="1586" y="1338"/>
-      <point x="1582" y="1176"/>
+      <point x="1495.42" y="1338"/>
+      <point x="1563.83" y="1238.86"/>
+      <point x="1563.83" y="1107.13" type="curve" smooth="yes"/>
+      <point x="1563.83" y="1070.47"/>
+      <point x="1558.53" y="1031.28"/>
       <point x="1552" y="991" type="curve"/>
       <point x="1550" y="991"/>
       <point x="1468" y="973"/>
@@ -28,37 +34,54 @@
       <point x="858" y="836"/>
       <point x="766" y="753"/>
       <point x="741" y="596" type="curve" smooth="yes"/>
-      <point x="720" y="451"/>
-      <point x="782" y="280"/>
+      <point x="738.556" y="579.124"/>
+      <point x="737.236" y="561.895"/>
+      <point x="737.236" y="544.626" type="curve" smooth="yes"/>
+      <point x="737.236" y="413.512"/>
+      <point x="813.308" y="280"/>
       <point x="1051" y="280" type="curve" smooth="yes"/>
       <point x="1303" y="280"/>
       <point x="1436" y="402"/>
       <point x="1495" y="477" type="curve"/>
       <point x="1500" y="394"/>
       <point x="1511" y="304"/>
-      <point x="1669" y="304" type="curve" smooth="yes"/>
-      <point x="1669" y="304" type="line"/>
+      <point x="1669" y="304" type="curve"/>
       <point x="1708" y="421" type="line"/>
-      <point x="1589" y="421"/>
-      <point x="1591" y="450"/>
-      <point x="1603" y="530" type="curve" smooth="yes"/>
-      <point x="1607" y="549"/>
-      <point x="1567" y="287"/>
+      <point x="1618.85" y="421"/>
+      <point x="1597.61" y="437.277"/>
+      <point x="1597.61" y="479.08" type="curve" smooth="yes"/>
+      <point x="1597.61" y="493.076"/>
+      <point x="1599.99" y="509.934"/>
+      <point x="1603" y="530" type="curve"/>
+      <point x="1602.52" y="524.936"/>
+      <point x="1599.58" y="502.673"/>
+      <point x="1599.58" y="500.795" type="curve" smooth="yes"/>
+      <point x="1599.58" y="497.032"/>
+      <point x="1612.32" y="575.066"/>
       <point x="1685" y="1037" type="curve" smooth="yes"/>
-      <point x="1690" y="1070"/>
-      <point x="1843" y="1459"/>
+      <point x="1686.68" y="1048.07"/>
+      <point x="1705" y="1099.18"/>
+      <point x="1705" y="1162.23" type="curve" smooth="yes"/>
+      <point x="1705" y="1287.18"/>
+      <point x="1633.04" y="1459"/>
       <point x="1217" y="1459" type="curve" smooth="yes"/>
       <point x="684" y="1459"/>
       <point x="523" y="1222"/>
       <point x="484" y="970" type="curve" smooth="yes"/>
       <point x="382" y="322" type="line" smooth="yes"/>
-      <point x="356" y="158"/>
-      <point x="421" y="-127"/>
+      <point x="379.047" y="303.373"/>
+      <point x="377.268" y="283.184"/>
+      <point x="377.268" y="262.03" type="curve" smooth="yes"/>
+      <point x="377.268" y="96.935"/>
+      <point x="485.628" y="-127"/>
     </contour>
     <contour>
       <point x="1089" y="389" type="curve" smooth="yes"/>
-      <point x="954" y="389"/>
-      <point x="890" y="460"/>
+      <point x="971.464" y="389"/>
+      <point x="907.747" y="442.818"/>
+      <point x="907.747" y="549.135" type="curve" smooth="yes"/>
+      <point x="907.747" y="564.932"/>
+      <point x="909.154" y="581.889"/>
       <point x="912" y="600" type="curve" smooth="yes"/>
       <point x="929" y="688"/>
       <point x="984" y="738"/>
@@ -73,7 +96,7 @@
   </outline>
   <lib>
     <dict>
-      <key>org.robofab.postScriptHintData</key>
+    <key>org.robofab.postScriptHintData</key>
       <dict>
       </dict>
     </dict>

@@ -6,7 +6,7 @@
     <contour>
       <point x="486" y="0" type="line"/>
       <point x="806" y="0" type="line"/>
-      <point x="1096" y="528" type="line" smooth="yes"/>
+      <point x="1096" y="528" type="line"/>
       <point x="1174" y="677"/>
       <point x="1231" y="833"/>
       <point x="1231" y="1024" type="curve" smooth="yes"/>
@@ -40,7 +40,7 @@
   </outline>
   <lib>
     <dict>
-      <key>org.robofab.postScriptHintData</key>
+    <key>org.robofab.postScriptHintData</key>
       <dict>
       </dict>
     </dict>

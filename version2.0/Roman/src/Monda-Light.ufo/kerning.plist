@@ -135,21 +135,6 @@
 		<key>C</key>
 		<integer>18</integer>
 	</dict>
-	<key>Tcommaaccent</key>
-	<dict>
-		<key>C</key>
-		<integer>18</integer>
-	</dict>
-	<key>Y</key>
-	<dict>
-		<key>o</key>
-		<integer>24</integer>
-	</dict>
-	<key>Yacute</key>
-	<dict>
-		<key>o</key>
-		<integer>29</integer>
-	</dict>
 	<key>b</key>
 	<dict>
 		<key>b</key>
@@ -315,8 +300,6 @@
 	</dict>
 	<key>x</key>
 	<dict>
-		<key>o</key>
-		<integer>7</integer>
 		<key>oacute</key>
 		<integer>13</integer>
 		<key>ocircumflex</key>

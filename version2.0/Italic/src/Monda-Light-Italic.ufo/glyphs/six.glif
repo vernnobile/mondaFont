@@ -4,12 +4,15 @@
   <unicode hex="0036"/>
   <outline>
     <contour>
-      <point x="494" y="-23" type="curve" smooth="yes"/>
+      <point x="494" y="-23" type="curve"/>
       <point x="737" y="-23"/>
       <point x="960" y="72"/>
       <point x="1013" y="408" type="curve" smooth="yes"/>
-      <point x="1062" y="721"/>
-      <point x="894" y="847"/>
+      <point x="1018.68" y="444.309"/>
+      <point x="1021.45" y="478.102"/>
+      <point x="1021.45" y="509.474" type="curve" smooth="yes"/>
+      <point x="1021.45" y="748.537"/>
+      <point x="860.939" y="847"/>
       <point x="609" y="847" type="curve" smooth="yes"/>
       <point x="531" y="847"/>
       <point x="461" y="827"/>
@@ -20,19 +23,28 @@
       <point x="209" y="675"/>
       <point x="142" y="519"/>
       <point x="126" y="406" type="curve" smooth="yes"/>
-      <point x="72" y="72"/>
-      <point x="245" y="-23"/>
+      <point x="119.301" y="364.563"/>
+      <point x="116.095" y="326.805"/>
+      <point x="116.095" y="292.451" type="curve" smooth="yes"/>
+      <point x="116.095" y="49.8904"/>
+      <point x="386.701" y="66.5662"/>
     </contour>
     <contour>
       <point x="510" y="105" type="curve" smooth="yes"/>
-      <point x="313" y="105"/>
-      <point x="210" y="136"/>
+      <point x="343.829" y="105"/>
+      <point x="244.54" y="127.057"/>
+      <point x="244.54" y="295.402" type="curve" smooth="yes"/>
+      <point x="244.54" y="326.635"/>
+      <point x="247.958" y="362.903"/>
       <point x="255" y="405" type="curve" smooth="yes"/>
       <point x="294" y="656"/>
       <point x="423" y="708"/>
       <point x="607" y="708" type="curve" smooth="yes"/>
-      <point x="779" y="708"/>
-      <point x="924" y="695"/>
+      <point x="756.706" y="708"/>
+      <point x="885.958" y="698.152"/>
+      <point x="885.958" y="500.423" type="curve" smooth="yes"/>
+      <point x="885.958" y="470.977"/>
+      <point x="883.092" y="437.366"/>
       <point x="877" y="399" type="curve" smooth="yes"/>
       <point x="834" y="135"/>
       <point x="704" y="105"/>
@@ -40,7 +52,7 @@
   </outline>
   <lib>
     <dict>
-      <key>org.robofab.postScriptHintData</key>
+    <key>org.robofab.postScriptHintData</key>
       <dict>
       </dict>
     </dict>

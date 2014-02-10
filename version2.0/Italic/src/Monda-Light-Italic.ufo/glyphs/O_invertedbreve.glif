@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Oinvertedbreve" format="1">
+  <advance width="1500"/>
+  <unicode hex="020E"/>
+  <outline>
+    <component base="O"/>
+    <component base="uni0311" xOffset="676" yOffset="376"/>
+  </outline>
+  <lib>
+    <dict>
+    <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

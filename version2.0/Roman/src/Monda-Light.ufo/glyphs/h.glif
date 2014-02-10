@@ -6,22 +6,22 @@
     <contour>
       <point x="196" y="0" type="line"/>
       <point x="333" y="0" type="line"/>
-      <point x="333" y="770" type="line" smooth="yes"/>
-      <point x="333" y="871"/>
-      <point x="399" y="961"/>
-      <point x="634" y="961" type="curve" smooth="yes"/>
-      <point x="793" y="961"/>
+      <point x="333" y="764" type="line" smooth="yes"/>
+      <point x="333" y="865"/>
+      <point x="422" y="961"/>
+      <point x="657" y="961" type="curve" smooth="yes"/>
+      <point x="816" y="961"/>
       <point x="876" y="899"/>
       <point x="876" y="799" type="curve" smooth="yes"/>
       <point x="876" y="0" type="line"/>
       <point x="1014" y="0" type="line"/>
       <point x="1014" y="760" type="line" smooth="yes"/>
       <point x="1014" y="920"/>
-      <point x="931" y="1070"/>
-      <point x="637" y="1070" type="curve" smooth="yes"/>
-      <point x="480" y="1070"/>
-      <point x="405" y="1024"/>
-      <point x="333" y="954" type="curve"/>
+      <point x="954" y="1070"/>
+      <point x="660" y="1070" type="curve" smooth="yes"/>
+      <point x="483" y="1070"/>
+      <point x="385" y="1014"/>
+      <point x="333" y="944" type="curve"/>
       <point x="333" y="1499" type="line"/>
       <point x="196" y="1499" type="line"/>
     </contour>

@@ -480,6 +480,7 @@
 		<string>Amacron</string>
 		<string>Aogonek</string>
 		<string>Aring</string>
+		<string>Aringacute</string>
 		<string>Atilde</string>
 		<string>AE</string>
 		<string>AEacute</string>
@@ -493,6 +494,8 @@
 		<string>Ccircumflex</string>
 		<string>Cdotaccent</string>
 		<string>D</string>
+		<string>DZ</string>
+		<string>DZcaron</string>
 		<string>Eth</string>
 		<string>Dcaron</string>
 		<string>Dcroat</string>
@@ -546,6 +549,7 @@
 		<string>Kcaron</string>
 		<string>Kcommaaccent</string>
 		<string>L</string>
+		<string>LJ</string>
 		<string>Lacute</string>
 		<string>Lcaron</string>
 		<string>Lcommaaccent</string>
@@ -555,6 +559,7 @@
 		<string>M</string>
 		<string>Mdotaccent</string>
 		<string>N</string>
+		<string>NJ</string>
 		<string>Nacute</string>
 		<string>Ncaron</string>
 		<string>Ncommaaccent</string>
@@ -647,6 +652,7 @@
 		<string>amacron</string>
 		<string>aogonek</string>
 		<string>aring</string>
+		<string>aringacute</string>
 		<string>atilde</string>
 		<string>ae</string>
 		<string>aeacute</string>
@@ -701,6 +707,7 @@
 		<string>icircumflex</string>
 		<string>idblgrave</string>
 		<string>idieresis</string>
+		<string>i.loclTRK</string>
 		<string>i.loclTRK</string>
 		<string>igrave</string>
 		<string>iinvertedbreve</string>
@@ -766,6 +773,7 @@
 		<string>scedilla</string>
 		<string>scircumflex</string>
 		<string>scommaaccent</string>
+		<string>sdotaccent</string>
 		<string>germandbls</string>
 		<string>schwa</string>
 		<string>t</string>
@@ -807,8 +815,12 @@
 		<string>zcaron</string>
 		<string>zdotaccent</string>
 		<string>f_f</string>
+		<string>f_f</string>
+		<string>f_f_i</string>
+		<string>f_f_l</string>
 		<string>fi</string>
 		<string>fl</string>
+		<string>ordfeminine</string>
 		<string>Delta</string>
 		<string>Sigma</string>
 		<string>Omega</string>
@@ -861,6 +873,7 @@
 		<string>emdash</string>
 		<string>endash</string>
 		<string>hyphen</string>
+		<string>softhyphen</string>
 		<string>guillemotleft</string>
 		<string>guillemotright</string>
 		<string>guilsinglleft</string>
@@ -881,11 +894,11 @@
 		<string>Euro</string>
 		<string>sterling</string>
 		<string>yen</string>
-		<string>Ohm</string>
 		<string>approxequal</string>
 		<string>asciitilde</string>
 		<string>bulletoperator</string>
 		<string>divide</string>
+		<string>divisionslash</string>
 		<string>emptyset</string>
 		<string>equal</string>
 		<string>greater</string>
@@ -893,7 +906,6 @@
 		<string>integral</string>
 		<string>less</string>
 		<string>logicalnot</string>
-		<string>uni00B5</string>
 		<string>minus</string>
 		<string>multiply</string>
 		<string>notequal</string>
@@ -942,15 +954,11 @@
 		<string>uni0358</string>
 		<string>uni0307</string>
 		<string>uni02BC</string>
-		<string>NULL</string>
-		<string>ff</string>
-		<string>ffi</string>
-		<string>ffl</string>
+		<string>firsttonechinese</string>
 		<string>fj</string>
 		<string>foundryicon</string>
 		<string>middot</string>
 		<string>slashbar</string>
-		<string>uc_main_stem</string>
 		<string>uni0002</string>
 		<string>uni0009</string>
 		<string>uni000A</string>

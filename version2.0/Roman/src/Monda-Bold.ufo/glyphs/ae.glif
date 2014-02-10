@@ -7,6 +7,9 @@
       <point x="890" y="1074" type="move" name="top"/>
     </contour>
     <contour>
+      <point x="112" y="293" type="curve" smooth="yes"/>
+      <point x="112" y="98"/>
+      <point x="225" y="-23"/>
       <point x="420" y="-23" type="curve" smooth="yes"/>
       <point x="621" y="-23"/>
       <point x="734" y="31"/>
@@ -51,19 +54,16 @@
       <point x="739" y="631"/>
       <point x="657" y="640"/>
       <point x="448" y="586" type="curve" smooth="yes"/>
-      <point x="141" y="508"/>
-      <point x="107" y="420"/>
-      <point x="112" y="268" type="curve" smooth="yes"/>
-      <point x="117" y="90"/>
-      <point x="236" y="-23"/>
+      <point x="158" y="512"/>
+      <point x="112" y="430"/>
     </contour>
     <contour>
       <point x="515" y="157" type="curve" smooth="yes"/>
-      <point x="425" y="157"/>
-      <point x="375" y="206"/>
-      <point x="373" y="290" type="curve" smooth="yes"/>
-      <point x="372" y="351"/>
-      <point x="396" y="418"/>
+      <point x="424" y="157"/>
+      <point x="373" y="208"/>
+      <point x="373" y="294" type="curve" smooth="yes"/>
+      <point x="373" y="354"/>
+      <point x="399" y="419"/>
       <point x="527" y="447" type="curve" smooth="yes"/>
       <point x="626" y="470"/>
       <point x="714" y="499"/>
@@ -86,7 +86,7 @@
   </outline>
   <lib>
     <dict>
-      <key>org.robofab.postScriptHintData</key>
+    <key>org.robofab.postScriptHintData</key>
       <dict>
       </dict>
     </dict>

@@ -36,10 +36,10 @@
       <point x="304" y="-20"/>
     </contour>
     <contour>
-      <point x="758" y="1428" type="move" name="top"/>
+      <point x="779" y="0" type="move" name="ogonek"/>
     </contour>
     <contour>
-      <point x="779" y="0" type="move" name="ogonek"/>
+      <point x="758" y="1428" type="move" name="top"/>
     </contour>
   </outline>
   <lib>

@@ -10,19 +10,19 @@
       <point x="1026" y="283" type="line"/>
       <point x="1133" y="0" type="line"/>
       <point x="1274" y="0" type="line"/>
-      <point x="705" y="1428" type="line"/>
-      <point x="658" y="1428" type="line"/>
+      <point x="735" y="1428" type="line"/>
+      <point x="628" y="1428" type="line"/>
     </contour>
     <contour>
-      <point x="386" y="393" type="line"/>
-      <point x="686" y="1199" type="line"/>
-      <point x="986" y="393" type="line"/>
-    </contour>
-    <contour>
-      <point x="677" y="1428" type="move" name="top"/>
+      <point x="380" y="393" type="line"/>
+      <point x="686" y="1229" type="line"/>
+      <point x="992" y="393" type="line"/>
     </contour>
     <contour>
       <point x="1283" y="0" type="move" name="ogonek"/>
+    </contour>
+    <contour>
+      <point x="677" y="1428" type="move" name="top"/>
     </contour>
   </outline>
   <lib>

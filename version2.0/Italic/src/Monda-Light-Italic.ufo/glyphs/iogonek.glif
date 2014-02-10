@@ -3,13 +3,13 @@
   <advance width="548"/>
   <unicode hex="012F"/>
   <outline>
+    <component base="dotaccent" xOffset="184"/>
     <component base="dotlessi"/>
     <component base="ogonek" xOffset="-174"/>
-    <component base="dotaccent" xOffset="184"/>
   </outline>
   <lib>
     <dict>
-      <key>org.robofab.postScriptHintData</key>
+    <key>org.robofab.postScriptHintData</key>
       <dict>
       </dict>
     </dict>

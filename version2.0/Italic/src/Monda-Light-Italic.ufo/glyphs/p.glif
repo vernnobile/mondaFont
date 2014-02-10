@@ -17,8 +17,11 @@
       <point x="996" y="124"/>
       <point x="1032" y="355" type="curve" smooth="yes"/>
       <point x="1089" y="716" type="line" smooth="yes"/>
-      <point x="1122" y="919"/>
-      <point x="1026" y="1070"/>
+      <point x="1093.12" y="741.317"/>
+      <point x="1095.22" y="765.824"/>
+      <point x="1095.22" y="789.331" type="curve" smooth="yes"/>
+      <point x="1095.22" y="954.314"/>
+      <point x="991.33" y="1070"/>
       <point x="748" y="1070" type="curve" smooth="yes"/>
       <point x="625" y="1070"/>
       <point x="494" y="1014"/>
@@ -35,8 +38,11 @@
       <point x="422" y="837"/>
       <point x="550" y="953"/>
       <point x="710" y="953" type="curve" smooth="yes"/>
-      <point x="863" y="953"/>
-      <point x="978" y="876"/>
+      <point x="850.337" y="953"/>
+      <point x="958.703" y="888.219"/>
+      <point x="958.703" y="770.231" type="curve" smooth="yes"/>
+      <point x="958.703" y="759.585"/>
+      <point x="957.821" y="748.505"/>
       <point x="956" y="737" type="curve" smooth="yes"/>
       <point x="890" y="326" type="line" smooth="yes"/>
       <point x="868" y="184"/>
@@ -45,7 +51,7 @@
   </outline>
   <lib>
     <dict>
-      <key>org.robofab.postScriptHintData</key>
+    <key>org.robofab.postScriptHintData</key>
       <dict>
       </dict>
     </dict>

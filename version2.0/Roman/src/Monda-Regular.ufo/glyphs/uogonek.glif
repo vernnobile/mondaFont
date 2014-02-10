@@ -3,15 +3,15 @@
   <advance width="1222"/>
   <unicode hex="0173"/>
   <outline>
-    <component base="u"/>
     <component base="ogonek" xOffset="635"/>
+    <component base="u"/>
   </outline>
   <lib>
     <dict>
-      <key>com.typemytype.robofont.layerData</key>
+    <key>org.robofab.postScriptHintData</key>
       <dict>
       </dict>
-      <key>org.robofab.postScriptHintData</key>
+    <key>com.typemytype.robofont.layerData</key>
       <dict>
       </dict>
     </dict>

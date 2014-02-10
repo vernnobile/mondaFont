@@ -24,10 +24,10 @@
       <point x="305" y="-20"/>
     </contour>
     <contour>
-      <point x="751" y="1428" type="move" name="top"/>
+      <point x="812" y="0" type="move" name="ogonek"/>
     </contour>
     <contour>
-      <point x="812" y="0" type="move" name="ogonek"/>
+      <point x="751" y="1428" type="move" name="top"/>
     </contour>
   </outline>
   <lib>

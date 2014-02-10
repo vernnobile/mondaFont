@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="firsttonechinese" format="1">
+  <advance width="514"/>
+  <unicode hex="02C9"/>
+  <outline>
+    <contour>
+      <point x="15" y="1265" type="line"/>
+      <point x="499" y="1265" type="line"/>
+      <point x="499" y="1376" type="line"/>
+      <point x="15" y="1376" type="line"/>
+    </contour>
+    <contour>
+      <point x="256" y="1325" type="move" name="_mid"/>
+    </contour>
+    <contour>
+      <point x="257" y="1052" type="move" name="_top"/>
+    </contour>
+  </outline>
+</glyph>

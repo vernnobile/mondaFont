@@ -2,11 +2,9 @@
 <glyph name="uni000A" format="1">
   <advance width="600"/>
   <unicode hex="000A"/>
-  <outline>
-  </outline>
   <lib>
     <dict>
-      <key>org.robofab.postScriptHintData</key>
+    <key>org.robofab.postScriptHintData</key>
       <dict>
       </dict>
     </dict>

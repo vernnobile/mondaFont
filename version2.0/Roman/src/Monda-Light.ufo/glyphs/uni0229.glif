@@ -3,8 +3,8 @@
   <advance width="1112"/>
   <unicode hex="0229"/>
   <outline>
-    <component base="e"/>
     <component base="cedilla" xOffset="370"/>
+    <component base="e"/>
   </outline>
   <lib>
     <dict>
