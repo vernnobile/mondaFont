@@ -4,9 +4,6 @@
   <unicode hex="0326"/>
   <outline>
     <component base="comma" xOffset="42" yOffset="-448"/>
-    <contour>
-      <point x="325" y="0" type="move" name="_bot"/>
-    </contour>
   </outline>
   <lib>
     <dict>

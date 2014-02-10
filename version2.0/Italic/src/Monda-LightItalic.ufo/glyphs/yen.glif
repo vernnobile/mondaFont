@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yen" format="1">
+  <advance width="1326"/>
+  <unicode hex="00A5"/>
+  <outline>
+    <component base="Y"/>
+    <contour>
+      <point x="1040" y="529" type="line"/>
+      <point x="1059" y="636" type="line"/>
+      <point x="219" y="636" type="line"/>
+      <point x="200" y="529" type="line"/>
+    </contour>
+    <contour>
+      <point x="991" y="251" type="line"/>
+      <point x="1010" y="357" type="line"/>
+      <point x="170" y="357" type="line"/>
+      <point x="151" y="251" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+    <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

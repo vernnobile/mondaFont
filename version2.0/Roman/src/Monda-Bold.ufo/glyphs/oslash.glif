@@ -5,9 +5,6 @@
   <outline>
     <component base="o"/>
     <contour>
-      <point x="600" y="1074" type="move" name="top"/>
-    </contour>
-    <contour>
       <point x="367" y="-214" type="line"/>
       <point x="896" y="1260" type="line"/>
       <point x="824" y="1281" type="line"/>
