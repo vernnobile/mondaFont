@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Omega" format="1">
   <advance width="1634"/>
-  <unicode hex="2126"/>
+  <unicode hex="03A9"/>
   <outline>
     <contour>
       <point x="817" y="1489" type="curve" smooth="yes"/>
@@ -40,9 +40,8 @@
   </outline>
   <lib>
     <dict>
-    <key>org.robofab.postScriptHintData</key>
-      <dict>
-      </dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict/>
     </dict>
   </lib>
 </glyph>

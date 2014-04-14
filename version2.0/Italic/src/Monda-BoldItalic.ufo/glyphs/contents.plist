@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
-    <dict>
+<dict>
 	<key>A</key>
 	<string>A_.glif</string>
 	<key>AE</key>
@@ -258,8 +258,8 @@
 	<string>S_chwa.glif</string>
 	<key>Scircumflex</key>
 	<string>S_circumflex.glif</string>
-	<key>uni0218</key>
-	<string>uni0218.glif</string>
+	<key>Scommaaccent</key>
+	<string>S_commaaccent.glif</string>
 	<key>Sdotaccent</key>
 	<string>S_dotaccent.glif</string>
 	<key>Sigma</key>
@@ -270,8 +270,8 @@
 	<string>T_bar.glif</string>
 	<key>Tcaron</key>
 	<string>T_caron.glif</string>
-	<key>uni0162</key>
-	<string>uni0162.glif</string>
+	<key>Tcedilla</key>
+	<string>T_cedilla.glif</string>
 	<key>Tdotaccent</key>
 	<string>T_dotaccent.glif</string>
 	<key>Thorn</key>
@@ -536,22 +536,22 @@
 	<string>f_j.glif</string>
 	<key>fdotaccent</key>
 	<string>fdotaccent.glif</string>
-	<key>uniFB01</key>
-	<string>uniF_B_01.glif</string>
+	<key>fi</key>
+	<string>fi.glif</string>
 	<key>firsttonechinese</key>
 	<string>firsttonechinese.glif</string>
 	<key>five</key>
 	<string>five.glif</string>
-	<key>uniFB02</key>
-	<string>uniF_B_02.glif</string>
+	<key>fl</key>
+	<string>fl.glif</string>
 	<key>florin</key>
 	<string>florin.glif</string>
 	<key>foundryicon</key>
 	<string>foundryicon.glif</string>
 	<key>four</key>
 	<string>four.glif</string>
-	<key>uni2074</key>
-	<string>uni2074.glif</string>
+	<key>foursuperior</key>
+	<string>foursuperior.glif</string>
 	<key>fraction</key>
 	<string>fraction.glif</string>
 	<key>g</key>
@@ -726,8 +726,8 @@
 	<string>onehalf.glif</string>
 	<key>onequarter</key>
 	<string>onequarter.glif</string>
-	<key>uni00B9</key>
-	<string>uni00B_9.glif</string>
+	<key>onesuperior</key>
+	<string>onesuperior.glif</string>
 	<key>oogonek</key>
 	<string>oogonek.glif</string>
 	<key>ordfeminine</key>
@@ -820,8 +820,8 @@
 	<string>schwa.glif</string>
 	<key>scircumflex</key>
 	<string>scircumflex.glif</string>
-	<key>uni0219</key>
-	<string>uni0219.glif</string>
+	<key>scommaaccent</key>
+	<string>scommaaccent.glif</string>
 	<key>sdotaccent</key>
 	<string>sdotaccent.glif</string>
 	<key>section</key>
@@ -848,8 +848,8 @@
 	<string>tbar.glif</string>
 	<key>tcaron</key>
 	<string>tcaron.glif</string>
-	<key>uni0163</key>
-	<string>uni0163.glif</string>
+	<key>tcedilla</key>
+	<string>tcedilla.glif</string>
 	<key>tdotaccent</key>
 	<string>tdotaccent.glif</string>
 	<key>thorn</key>
@@ -858,16 +858,16 @@
 	<string>three.glif</string>
 	<key>threequarters</key>
 	<string>threequarters.glif</string>
-	<key>uni00B3</key>
-	<string>uni00B_3.glif</string>
+	<key>threesuperior</key>
+	<string>threesuperior.glif</string>
 	<key>tilde</key>
 	<string>tilde.glif</string>
 	<key>trademark</key>
 	<string>trademark.glif</string>
 	<key>two</key>
 	<string>two.glif</string>
-	<key>uni00B2</key>
-	<string>uni00B_2.glif</string>
+	<key>twosuperior</key>
+	<string>twosuperior.glif</string>
 	<key>u</key>
 	<string>u.glif</string>
 	<key>uacute</key>
@@ -978,7 +978,5 @@
 	<string>zdotaccent.glif</string>
 	<key>zero</key>
 	<string>zero.glif</string>
-	<key>idotaccent</key>
-	<string>idotaccent.glif</string>
-    </dict>
+</dict>
 </plist>

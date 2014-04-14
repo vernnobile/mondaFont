@@ -4,12 +4,6 @@
   <unicode hex="0049"/>
   <outline>
     <contour>
-      <point x="453" y="0" type="move" name="ogonek"/>
-    </contour>
-    <contour>
-      <point x="726" y="1476" type="move" name="top"/>
-    </contour>
-    <contour>
       <point x="28" y="0" type="line"/>
       <point x="860" y="0" type="line"/>
       <point x="899" y="222" type="line"/>
@@ -23,12 +17,17 @@
       <point x="336" y="222" type="line"/>
       <point x="67" y="222" type="line"/>
     </contour>
+    <contour>
+      <point x="453" y="0" type="move" name="ogonek"/>
+    </contour>
+    <contour>
+      <point x="726" y="1476" type="move" name="top"/>
+    </contour>
   </outline>
   <lib>
     <dict>
-    <key>org.robofab.postScriptHintData</key>
-      <dict>
-      </dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict/>
     </dict>
   </lib>
 </glyph>

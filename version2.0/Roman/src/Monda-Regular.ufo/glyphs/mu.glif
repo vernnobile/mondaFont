@@ -1,15 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="mu" format="1">
   <advance width="1224"/>
-  <unicode hex="00B5"/>
+  <unicode hex="03BC"/>
   <outline>
-    <component base="uni03BC"/>
   </outline>
   <lib>
     <dict>
-    <key>org.robofab.postScriptHintData</key>
-      <dict>
-      </dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict/>
     </dict>
   </lib>
 </glyph>

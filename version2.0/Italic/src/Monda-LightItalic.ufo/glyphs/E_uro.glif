@@ -3,7 +3,6 @@
   <advance width="1442"/>
   <unicode hex="20AC"/>
   <outline>
-    <component base="C"/>
     <contour>
       <point x="738" y="838" type="line"/>
       <point x="756" y="942" type="line"/>
@@ -16,12 +15,12 @@
       <point x="-43" y="620" type="line"/>
       <point x="-61" y="516" type="line"/>
     </contour>
+    <component base="C"/>
   </outline>
   <lib>
     <dict>
-    <key>org.robofab.postScriptHintData</key>
-      <dict>
-      </dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict/>
     </dict>
   </lib>
 </glyph>
