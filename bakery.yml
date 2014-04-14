@@ -1,0 +1,22 @@
+copyright_license: ofl
+copyright_notice: Copyright (c) 2012, vernon adams (vern@newtypography.co.uk), with
+  Reserved Font Names 'Monda'
+design_category: sans
+design_quality: '3'
+hinting_level: '2'
+license_file: version1.00/OFL.txt
+prints_ok: 'yes'
+process_files: [version2.0/Roman/src/Monda-Regular.ufo, version2.0/Roman/src/Monda-Light.ufo,
+  version2.0/Roman/src/Monda-Bold.ufo, version2.0/Italic/src/Monda-BoldItalic.ufo,
+  version2.0/Italic/src/Monda-Italic.ufo, version2.0/Italic/src/Monda-LightItalic.ufo]
+rfn_asserted: 'yes'
+rfn_permission: 'no'
+source_cff_filetype: ''
+source_drawing_filetype: UFO
+source_ttf_filetype: None
+subset: [menu, latin, latin-ext+latin]
+trademark_notice: Monda is a trademark of Vernon Adams and may be registered in certain
+  jurisdictions.
+trademark_permission: ''
+ttfautohint: -l 8 -r 50 -G 200 -x 0 -f none -w G -W
+txt_files_copied: [README.md, version1.00/INFO.txt, version1.00/OFL.txt]
