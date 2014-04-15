@@ -1,38 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="trademark" format="1">
-  <advance width="1843"/>
+  <advance width="899"/>
   <unicode hex="2122"/>
   <outline>
     <contour>
-      <point x="825" y="766" type="line"/>
-      <point x="990" y="766" type="line"/>
-      <point x="990" y="1239" type="line"/>
-      <point x="1149" y="931" type="line"/>
-      <point x="1310" y="931" type="line"/>
-      <point x="1462" y="1239" type="line"/>
-      <point x="1462" y="766" type="line"/>
-      <point x="1629" y="766" type="line"/>
-      <point x="1629" y="1446" type="line"/>
-      <point x="1413" y="1446" type="line"/>
-      <point x="1227" y="1103" type="line"/>
-      <point x="1043" y="1446" type="line"/>
-      <point x="825" y="1446" type="line"/>
+      <point x="403" y="374" type="line"/>
+      <point x="483" y="374" type="line"/>
+      <point x="483" y="605" type="line"/>
+      <point x="561" y="455" type="line"/>
+      <point x="640" y="455" type="line"/>
+      <point x="714" y="605" type="line"/>
+      <point x="714" y="374" type="line"/>
+      <point x="795" y="374" type="line"/>
+      <point x="795" y="706" type="line"/>
+      <point x="690" y="706" type="line"/>
+      <point x="599" y="539" type="line"/>
+      <point x="509" y="706" type="line"/>
+      <point x="403" y="706" type="line"/>
     </contour>
     <contour>
-      <point x="315" y="766" type="line"/>
-      <point x="510" y="766" type="line"/>
-      <point x="510" y="1302" type="line"/>
-      <point x="692" y="1302" type="line"/>
-      <point x="692" y="1446" type="line"/>
-      <point x="133" y="1446" type="line"/>
-      <point x="133" y="1302" type="line"/>
-      <point x="315" y="1302" type="line"/>
+      <point x="154" y="374" type="line"/>
+      <point x="249" y="374" type="line"/>
+      <point x="249" y="636" type="line"/>
+      <point x="338" y="636" type="line"/>
+      <point x="338" y="706" type="line"/>
+      <point x="65" y="706" type="line"/>
+      <point x="65" y="636" type="line"/>
+      <point x="154" y="636" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>org.robofab.postScriptHintData</key>
-      <dict/>
+    <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
     </dict>
   </lib>
 </glyph>

@@ -1,15 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="gdotaccent" format="1">
-  <advance width="1145"/>
+  <advance width="559"/>
   <unicode hex="0121"/>
   <outline>
-    <component base="dotaccent" xOffset="302"/>
+    <component base="dotaccent" xOffset="147"/>
     <component base="g"/>
   </outline>
   <lib>
     <dict>
-      <key>org.robofab.postScriptHintData</key>
-      <dict/>
+    <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
     </dict>
   </lib>
 </glyph>

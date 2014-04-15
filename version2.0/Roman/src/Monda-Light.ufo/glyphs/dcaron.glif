@@ -1,15 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dcaron" format="1">
-  <advance width="1183"/>
+  <advance width="577"/>
   <unicode hex="010F"/>
   <outline>
-    <component base="caron.alt" xOffset="476"/>
+    <component base="caron.alt" xOffset="232"/>
     <component base="d"/>
   </outline>
   <lib>
     <dict>
-      <key>org.robofab.postScriptHintData</key>
-      <dict/>
+    <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
     </dict>
   </lib>
 </glyph>

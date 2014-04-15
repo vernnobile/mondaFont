@@ -1,15 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="semicolon" format="1">
-  <advance width="769"/>
+  <advance width="375"/>
   <unicode hex="003B"/>
   <outline>
-    <component base="comma" xOffset="14" yOffset="198"/>
-    <component base="period" xOffset="6" yOffset="854"/>
+    <component base="comma" xOffset="7" yOffset="97"/>
+    <component base="period" xOffset="3" yOffset="417"/>
   </outline>
   <lib>
     <dict>
-      <key>org.robofab.postScriptHintData</key>
-      <dict/>
+    <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
     </dict>
   </lib>
 </glyph>

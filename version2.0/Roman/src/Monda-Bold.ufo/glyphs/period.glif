@@ -1,19 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="period" format="1">
-  <advance width="634"/>
+  <advance width="309"/>
   <unicode hex="002E"/>
   <outline>
     <contour>
-      <point x="164" y="0" type="line"/>
-      <point x="462" y="0" type="line"/>
-      <point x="462" y="284" type="line"/>
-      <point x="164" y="284" type="line"/>
+      <point x="80" y="0" type="line"/>
+      <point x="226" y="0" type="line"/>
+      <point x="226" y="139" type="line"/>
+      <point x="80" y="139" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>org.robofab.postScriptHintData</key>
-      <dict/>
+    <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
     </dict>
   </lib>
 </glyph>

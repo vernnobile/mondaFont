@@ -1,15 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Idieresis" format="1">
-  <advance width="1122"/>
+  <advance width="547"/>
   <unicode hex="00CF"/>
   <outline>
     <component base="I"/>
-    <component base="dieresis" xOffset="27" yOffset="376"/>
+    <component base="dieresis" xOffset="13" yOffset="184"/>
   </outline>
   <lib>
     <dict>
-      <key>org.robofab.postScriptHintData</key>
-      <dict/>
+    <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
     </dict>
   </lib>
 </glyph>

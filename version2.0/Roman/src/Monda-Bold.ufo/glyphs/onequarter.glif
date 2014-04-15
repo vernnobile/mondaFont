@@ -1,49 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="onequarter" format="1">
-  <advance width="2433"/>
+  <advance width="1187"/>
   <unicode hex="00BC"/>
   <outline>
     <contour>
-      <point x="1978" y="0" type="line"/>
-      <point x="2137" y="0" type="line"/>
-      <point x="2137" y="210" type="line"/>
-      <point x="2305" y="210" type="line"/>
-      <point x="2305" y="373" type="line"/>
-      <point x="2137" y="373" type="line"/>
-      <point x="2137" y="615" type="line"/>
-      <point x="1978" y="615" type="line"/>
-      <point x="1978" y="373" type="line"/>
-      <point x="1679" y="373" type="line"/>
-      <point x="1948" y="1074" type="line"/>
-      <point x="1757" y="1074" type="line"/>
-      <point x="1477" y="369" type="line"/>
-      <point x="1477" y="210" type="line"/>
-      <point x="1978" y="210" type="line"/>
+      <point x="966" y="0" type="line"/>
+      <point x="1043" y="0" type="line"/>
+      <point x="1043" y="103" type="line"/>
+      <point x="1125" y="103" type="line"/>
+      <point x="1125" y="182" type="line"/>
+      <point x="1043" y="182" type="line"/>
+      <point x="1043" y="300" type="line"/>
+      <point x="966" y="300" type="line"/>
+      <point x="966" y="182" type="line"/>
+      <point x="820" y="182" type="line"/>
+      <point x="951" y="524" type="line"/>
+      <point x="858" y="524" type="line"/>
+      <point x="721" y="180" type="line"/>
+      <point x="721" y="103" type="line"/>
+      <point x="966" y="103" type="line"/>
     </contour>
     <contour>
-      <point x="131" y="422" type="line"/>
-      <point x="856" y="422" type="line"/>
-      <point x="856" y="569" type="line"/>
-      <point x="610" y="569" type="line"/>
-      <point x="610" y="1477" type="line"/>
-      <point x="464" y="1477" type="line"/>
-      <point x="128" y="1424" type="line"/>
-      <point x="146" y="1279" type="line"/>
-      <point x="398" y="1318" type="line"/>
-      <point x="398" y="569" type="line"/>
-      <point x="130" y="569" type="line"/>
+      <point x="64" y="206" type="line"/>
+      <point x="418" y="206" type="line"/>
+      <point x="418" y="278" type="line"/>
+      <point x="298" y="278" type="line"/>
+      <point x="298" y="721" type="line"/>
+      <point x="227" y="721" type="line"/>
+      <point x="62" y="695" type="line"/>
+      <point x="71" y="625" type="line"/>
+      <point x="194" y="644" type="line"/>
+      <point x="194" y="278" type="line"/>
+      <point x="63" y="278" type="line"/>
     </contour>
     <contour>
-      <point x="849" y="0" type="line"/>
-      <point x="1023" y="0" type="line"/>
-      <point x="1664" y="1505" type="line"/>
-      <point x="1490" y="1505" type="line"/>
+      <point x="415" y="0" type="line"/>
+      <point x="500" y="0" type="line"/>
+      <point x="812" y="735" type="line"/>
+      <point x="728" y="735" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>org.robofab.postScriptHintData</key>
-      <dict/>
+    <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
     </dict>
   </lib>
 </glyph>

@@ -1,15 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Idotaccent" format="1">
-  <advance width="1122"/>
+  <advance width="547"/>
   <unicode hex="0130"/>
   <outline>
     <component base="I"/>
-    <component base="dotaccent" xOffset="305" yOffset="376"/>
+    <component base="dotaccent" xOffset="149" yOffset="184"/>
   </outline>
   <lib>
     <dict>
-      <key>org.robofab.postScriptHintData</key>
-      <dict/>
+    <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
     </dict>
   </lib>
 </glyph>

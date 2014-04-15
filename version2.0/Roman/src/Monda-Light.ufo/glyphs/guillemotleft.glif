@@ -1,29 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="guillemotleft" format="1">
-  <advance width="1072"/>
+  <advance width="523"/>
   <unicode hex="00AB"/>
   <outline>
     <contour>
-      <point x="800" y="80" type="line"/>
-      <point x="890" y="130" type="line"/>
-      <point x="683" y="530" type="line"/>
-      <point x="890" y="930" type="line"/>
-      <point x="793" y="980" type="line"/>
-      <point x="530" y="530" type="line"/>
+      <point x="391" y="39" type="line"/>
+      <point x="435" y="63" type="line"/>
+      <point x="333" y="259" type="line"/>
+      <point x="435" y="454" type="line"/>
+      <point x="387" y="479" type="line"/>
+      <point x="259" y="259" type="line"/>
     </contour>
     <contour>
-      <point x="444" y="80" type="line"/>
-      <point x="534" y="130" type="line"/>
-      <point x="327" y="530" type="line"/>
-      <point x="534" y="930" type="line"/>
-      <point x="437" y="980" type="line"/>
-      <point x="174" y="530" type="line"/>
+      <point x="217" y="39" type="line"/>
+      <point x="261" y="63" type="line"/>
+      <point x="160" y="259" type="line"/>
+      <point x="261" y="454" type="line"/>
+      <point x="213" y="479" type="line"/>
+      <point x="85" y="259" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>org.robofab.postScriptHintData</key>
-      <dict/>
+    <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
     </dict>
   </lib>
 </glyph>

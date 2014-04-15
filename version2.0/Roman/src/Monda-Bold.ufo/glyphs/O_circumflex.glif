@@ -1,15 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ocircumflex" format="1">
-  <advance width="1622"/>
+  <advance width="791"/>
   <unicode hex="00D4"/>
   <outline>
     <component base="O"/>
-    <component base="circumflex" xOffset="555" yOffset="402"/>
+    <component base="circumflex" xOffset="271" yOffset="196"/>
   </outline>
   <lib>
     <dict>
-      <key>org.robofab.postScriptHintData</key>
-      <dict/>
+    <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
     </dict>
   </lib>
 </glyph>

@@ -1,15 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Jcircumflex" format="1">
-  <advance width="1196"/>
+  <advance width="583"/>
   <unicode hex="0134"/>
   <outline>
     <component base="J"/>
-    <component base="circumflex" xOffset="401" yOffset="376"/>
+    <component base="circumflex" xOffset="196" yOffset="184"/>
   </outline>
   <lib>
     <dict>
-      <key>org.robofab.postScriptHintData</key>
-      <dict/>
+    <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
     </dict>
   </lib>
 </glyph>

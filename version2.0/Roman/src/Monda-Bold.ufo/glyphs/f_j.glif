@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="f_j" format="1">
-  <advance width="600"/>
-  <outline>
-  </outline>
+  <advance width="292"/>
   <lib>
     <dict>
-      <key>org.robofab.postScriptHintData</key>
-      <dict/>
+    <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
     </dict>
   </lib>
 </glyph>

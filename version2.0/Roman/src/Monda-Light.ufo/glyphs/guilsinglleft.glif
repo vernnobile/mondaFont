@@ -1,21 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="guilsinglleft" format="1">
-  <advance width="768"/>
+  <advance width="375"/>
   <unicode hex="2039"/>
   <outline>
     <contour>
-      <point x="434" y="80" type="line"/>
-      <point x="524" y="130" type="line"/>
-      <point x="317" y="530" type="line"/>
-      <point x="524" y="930" type="line"/>
-      <point x="427" y="980" type="line"/>
-      <point x="164" y="530" type="line"/>
+      <point x="212" y="39" type="line"/>
+      <point x="256" y="63" type="line"/>
+      <point x="155" y="259" type="line"/>
+      <point x="256" y="454" type="line"/>
+      <point x="208" y="479" type="line"/>
+      <point x="80" y="259" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>org.robofab.postScriptHintData</key>
-      <dict/>
+    <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
     </dict>
   </lib>
 </glyph>

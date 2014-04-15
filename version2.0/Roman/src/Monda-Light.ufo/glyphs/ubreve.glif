@@ -1,15 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ubreve" format="1">
-  <advance width="1194"/>
+  <advance width="583"/>
   <unicode hex="016D"/>
   <outline>
-    <component base="breve" xOffset="342"/>
+    <component base="breve" xOffset="167"/>
     <component base="u"/>
   </outline>
   <lib>
     <dict>
-      <key>org.robofab.postScriptHintData</key>
-      <dict/>
+    <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
     </dict>
   </lib>
 </glyph>

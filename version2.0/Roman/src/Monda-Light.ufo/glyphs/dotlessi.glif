@@ -1,22 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dotlessi" format="1">
-  <advance width="548"/>
+  <advance width="267"/>
   <unicode hex="0131"/>
   <outline>
     <contour>
-      <point x="205" y="0" type="line"/>
-      <point x="355" y="0" type="line"/>
-      <point x="355" y="1052" type="line"/>
-      <point x="205" y="1052" type="line"/>
+      <point x="147" y="0" type="move" name="ogonek"/>
     </contour>
     <contour>
-      <point x="301" y="0" type="move" name="ogonek"/>
+      <point x="100" y="0" type="line"/>
+      <point x="173" y="0" type="line"/>
+      <point x="173" y="514" type="line"/>
+      <point x="100" y="514" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>org.robofab.postScriptHintData</key>
-      <dict/>
+    <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
     </dict>
   </lib>
 </glyph>

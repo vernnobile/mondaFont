@@ -1,15 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Aacute" format="1">
-  <advance width="1540"/>
+  <advance width="751"/>
   <unicode hex="00C1"/>
   <outline>
     <component base="A"/>
-    <component base="acute" xOffset="614" yOffset="402"/>
+    <component base="acute" xOffset="300" yOffset="196"/>
   </outline>
   <lib>
     <dict>
-      <key>org.robofab.postScriptHintData</key>
-      <dict/>
+    <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
     </dict>
   </lib>
 </glyph>

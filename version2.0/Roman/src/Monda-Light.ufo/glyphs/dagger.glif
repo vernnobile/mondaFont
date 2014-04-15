@@ -1,27 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dagger" format="1">
-  <advance width="810"/>
+  <advance width="395"/>
   <unicode hex="2020"/>
   <outline>
     <contour>
-      <point x="311" y="0" type="line"/>
-      <point x="489" y="0" type="line"/>
-      <point x="489" y="975" type="line"/>
-      <point x="764" y="975" type="line"/>
-      <point x="764" y="1088" type="line"/>
-      <point x="489" y="1088" type="line"/>
-      <point x="489" y="1519" type="line"/>
-      <point x="311" y="1519" type="line"/>
-      <point x="311" y="1088" type="line"/>
-      <point x="45" y="1088" type="line"/>
-      <point x="45" y="975" type="line"/>
-      <point x="311" y="975" type="line"/>
+      <point x="152" y="0" type="line"/>
+      <point x="239" y="0" type="line"/>
+      <point x="239" y="476" type="line"/>
+      <point x="373" y="476" type="line"/>
+      <point x="373" y="531" type="line"/>
+      <point x="239" y="531" type="line"/>
+      <point x="239" y="742" type="line"/>
+      <point x="152" y="742" type="line"/>
+      <point x="152" y="531" type="line"/>
+      <point x="22" y="531" type="line"/>
+      <point x="22" y="476" type="line"/>
+      <point x="152" y="476" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>org.robofab.postScriptHintData</key>
-      <dict/>
+    <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
     </dict>
   </lib>
 </glyph>

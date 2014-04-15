@@ -1,15 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="colon" format="1">
-  <advance width="769"/>
+  <advance width="375"/>
   <unicode hex="003A"/>
   <outline>
-    <component base="period" xOffset="6" yOffset="854"/>
-    <component base="period" xOffset="6" yOffset="197"/>
+    <component base="period" xOffset="3" yOffset="96"/>
+    <component base="period" xOffset="3" yOffset="417"/>
   </outline>
   <lib>
     <dict>
-      <key>org.robofab.postScriptHintData</key>
-      <dict/>
+    <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
     </dict>
   </lib>
 </glyph>

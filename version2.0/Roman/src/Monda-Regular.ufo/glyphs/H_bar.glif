@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Hbar" format="1">
+  <advance width="750"/>
+  <unicode hex="0126"/>
+  <outline>
+    <component base="H"/>
+    <contour>
+      <point x="70" y="518" type="line"/>
+      <point x="680" y="518" type="line"/>
+      <point x="680" y="578" type="line"/>
+      <point x="70" y="578" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+    <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

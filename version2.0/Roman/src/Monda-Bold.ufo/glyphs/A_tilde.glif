@@ -1,15 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Atilde" format="1">
-  <advance width="1540"/>
+  <advance width="751"/>
   <unicode hex="00C3"/>
   <outline>
     <component base="A"/>
-    <component base="tilde" xOffset="395" yOffset="402"/>
+    <component base="tilde" xOffset="193" yOffset="196"/>
   </outline>
   <lib>
     <dict>
-      <key>org.robofab.postScriptHintData</key>
-      <dict/>
+    <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
     </dict>
   </lib>
 </glyph>

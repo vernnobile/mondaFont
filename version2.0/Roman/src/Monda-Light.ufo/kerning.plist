@@ -1,324 +1,324 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
-<dict>
+    <dict>
 	<key>A</key>
 	<dict>
-		<key>Q</key>
-		<integer>9</integer>
+	    <key>Q</key>
+	    <integer>4</integer>
 	</dict>
 	<key>Aacute</key>
 	<dict>
-		<key>Q</key>
-		<integer>9</integer>
+	    <key>Q</key>
+	    <integer>4</integer>
 	</dict>
 	<key>Abreve</key>
 	<dict>
-		<key>Q</key>
-		<integer>9</integer>
+	    <key>Q</key>
+	    <integer>4</integer>
 	</dict>
 	<key>Acircumflex</key>
 	<dict>
-		<key>Q</key>
-		<integer>9</integer>
+	    <key>Q</key>
+	    <integer>4</integer>
 	</dict>
 	<key>Adieresis</key>
 	<dict>
-		<key>Q</key>
-		<integer>9</integer>
+	    <key>Q</key>
+	    <integer>4</integer>
 	</dict>
 	<key>Agrave</key>
 	<dict>
-		<key>Q</key>
-		<integer>9</integer>
+	    <key>Q</key>
+	    <integer>4</integer>
 	</dict>
-	<key>Ainvertedbreve</key>
+	<key>uni0202</key>
 	<dict>
-		<key>Q</key>
-		<integer>9</integer>
+	    <key>Q</key>
+	    <integer>4</integer>
 	</dict>
 	<key>Amacron</key>
 	<dict>
-		<key>Q</key>
-		<integer>9</integer>
+	    <key>Q</key>
+	    <integer>4</integer>
 	</dict>
 	<key>Aogonek</key>
 	<dict>
-		<key>Q</key>
-		<integer>9</integer>
+	    <key>Q</key>
+	    <integer>4</integer>
 	</dict>
 	<key>Aring</key>
 	<dict>
-		<key>Q</key>
-		<integer>9</integer>
+	    <key>Q</key>
+	    <integer>4</integer>
 	</dict>
 	<key>Atilde</key>
 	<dict>
-		<key>Q</key>
-		<integer>9</integer>
+	    <key>Q</key>
+	    <integer>4</integer>
 	</dict>
 	<key>D</key>
 	<dict>
-		<key>A</key>
-		<integer>11</integer>
-		<key>Aacute</key>
-		<integer>11</integer>
-		<key>Abreve</key>
-		<integer>11</integer>
-		<key>Acircumflex</key>
-		<integer>11</integer>
-		<key>Adieresis</key>
-		<integer>11</integer>
-		<key>Agrave</key>
-		<integer>11</integer>
-		<key>Ainvertedbreve</key>
-		<integer>11</integer>
-		<key>Amacron</key>
-		<integer>11</integer>
-		<key>Aogonek</key>
-		<integer>11</integer>
-		<key>Aring</key>
-		<integer>11</integer>
-		<key>Atilde</key>
-		<integer>11</integer>
-		<key>V</key>
-		<integer>7</integer>
-		<key>W</key>
-		<integer>10</integer>
-		<key>Y</key>
-		<integer>13</integer>
-		<key>Yacute</key>
-		<integer>13</integer>
-		<key>comma</key>
-		<integer>10</integer>
-		<key>period</key>
-		<integer>10</integer>
+	    <key>period</key>
+	    <integer>5</integer>
+	    <key>comma</key>
+	    <integer>5</integer>
+	    <key>Yacute</key>
+	    <integer>6</integer>
+	    <key>Y</key>
+	    <integer>6</integer>
+	    <key>W</key>
+	    <integer>5</integer>
+	    <key>V</key>
+	    <integer>3</integer>
+	    <key>Atilde</key>
+	    <integer>5</integer>
+	    <key>Aring</key>
+	    <integer>5</integer>
+	    <key>Aogonek</key>
+	    <integer>5</integer>
+	    <key>Amacron</key>
+	    <integer>5</integer>
+	    <key>uni0202</key>
+	    <integer>5</integer>
+	    <key>Agrave</key>
+	    <integer>5</integer>
+	    <key>Adieresis</key>
+	    <integer>5</integer>
+	    <key>Acircumflex</key>
+	    <integer>5</integer>
+	    <key>Abreve</key>
+	    <integer>5</integer>
+	    <key>Aacute</key>
+	    <integer>5</integer>
+	    <key>A</key>
+	    <integer>5</integer>
 	</dict>
 	<key>F</key>
 	<dict>
-		<key>comma</key>
-		<integer>71</integer>
-		<key>odblgrave</key>
-		<integer>13</integer>
-		<key>period</key>
-		<integer>85</integer>
-		<key>s</key>
-		<integer>8</integer>
+	    <key>s</key>
+	    <integer>4</integer>
+	    <key>period</key>
+	    <integer>42</integer>
+	    <key>uni020D</key>
+	    <integer>6</integer>
+	    <key>comma</key>
+	    <integer>35</integer>
 	</dict>
 	<key>J</key>
 	<dict>
-		<key>comma</key>
-		<integer>4</integer>
-		<key>period</key>
-		<integer>4</integer>
+	    <key>period</key>
+	    <integer>2</integer>
+	    <key>comma</key>
+	    <integer>2</integer>
 	</dict>
 	<key>K</key>
 	<dict>
-		<key>odblgrave</key>
-		<integer>6</integer>
-		<key>udblgrave</key>
-		<integer>9</integer>
-		<key>umacron</key>
-		<integer>9</integer>
-		<key>uogonek</key>
-		<integer>9</integer>
+	    <key>uogonek</key>
+	    <integer>4</integer>
+	    <key>umacron</key>
+	    <integer>4</integer>
+	    <key>uni0215</key>
+	    <integer>4</integer>
+	    <key>uni020D</key>
+	    <integer>3</integer>
 	</dict>
 	<key>L</key>
 	<dict>
-		<key>quotedblright</key>
-		<integer>21</integer>
-		<key>quoteright</key>
-		<integer>21</integer>
+	    <key>quoteright</key>
+	    <integer>10</integer>
+	    <key>quotedblright</key>
+	    <integer>10</integer>
 	</dict>
 	<key>T</key>
 	<dict>
-		<key>C</key>
-		<integer>18</integer>
+	    <key>C</key>
+	    <integer>9</integer>
 	</dict>
 	<key>b</key>
 	<dict>
-		<key>b</key>
-		<integer>6</integer>
-		<key>v</key>
-		<integer>5</integer>
-		<key>y</key>
-		<integer>5</integer>
-		<key>yacute</key>
-		<integer>5</integer>
-		<key>ydieresis</key>
-		<integer>5</integer>
+	    <key>ydieresis</key>
+	    <integer>2</integer>
+	    <key>yacute</key>
+	    <integer>2</integer>
+	    <key>y</key>
+	    <integer>2</integer>
+	    <key>v</key>
+	    <integer>2</integer>
+	    <key>b</key>
+	    <integer>3</integer>
 	</dict>
 	<key>c</key>
 	<dict>
-		<key>c</key>
-		<integer>2</integer>
+	    <key>c</key>
+	    <integer>1</integer>
 	</dict>
 	<key>d</key>
 	<dict>
-		<key>d</key>
-		<integer>9</integer>
+	    <key>d</key>
+	    <integer>4</integer>
 	</dict>
 	<key>e</key>
 	<dict>
-		<key>x</key>
-		<integer>9</integer>
+	    <key>x</key>
+	    <integer>4</integer>
 	</dict>
 	<key>eacute</key>
 	<dict>
-		<key>x</key>
-		<integer>9</integer>
+	    <key>x</key>
+	    <integer>4</integer>
 	</dict>
 	<key>ecircumflex</key>
 	<dict>
-		<key>x</key>
-		<integer>9</integer>
+	    <key>x</key>
+	    <integer>4</integer>
 	</dict>
 	<key>edieresis</key>
 	<dict>
-		<key>x</key>
-		<integer>9</integer>
+	    <key>x</key>
+	    <integer>4</integer>
 	</dict>
 	<key>egrave</key>
 	<dict>
-		<key>x</key>
-		<integer>9</integer>
+	    <key>x</key>
+	    <integer>4</integer>
 	</dict>
 	<key>f</key>
 	<dict>
-		<key>f</key>
-		<integer>26</integer>
-		<key>odblgrave</key>
-		<integer>8</integer>
+	    <key>uni020D</key>
+	    <integer>4</integer>
+	    <key>f</key>
+	    <integer>13</integer>
 	</dict>
 	<key>g</key>
 	<dict>
-		<key>d</key>
-		<integer>5</integer>
-		<key>odblgrave</key>
-		<integer>7</integer>
-		<key>udblgrave</key>
-		<integer>5</integer>
-		<key>umacron</key>
-		<integer>5</integer>
-		<key>uogonek</key>
-		<integer>5</integer>
+	    <key>uogonek</key>
+	    <integer>2</integer>
+	    <key>umacron</key>
+	    <integer>2</integer>
+	    <key>uni0215</key>
+	    <integer>2</integer>
+	    <key>uni020D</key>
+	    <integer>3</integer>
+	    <key>d</key>
+	    <integer>2</integer>
 	</dict>
 	<key>h</key>
 	<dict>
-		<key>y</key>
-		<integer>3</integer>
-		<key>yacute</key>
-		<integer>3</integer>
-		<key>ydieresis</key>
-		<integer>3</integer>
+	    <key>ydieresis</key>
+	    <integer>1</integer>
+	    <key>yacute</key>
+	    <integer>1</integer>
+	    <key>y</key>
+	    <integer>1</integer>
 	</dict>
 	<key>m</key>
 	<dict>
-		<key>y</key>
-		<integer>8</integer>
-		<key>yacute</key>
-		<integer>8</integer>
-		<key>ydieresis</key>
-		<integer>8</integer>
+	    <key>ydieresis</key>
+	    <integer>4</integer>
+	    <key>yacute</key>
+	    <integer>4</integer>
+	    <key>y</key>
+	    <integer>4</integer>
 	</dict>
-	<key>odblgrave</key>
+	<key>uni020D</key>
 	<dict>
-		<key>x</key>
-		<integer>15</integer>
+	    <key>x</key>
+	    <integer>7</integer>
 	</dict>
 	<key>p</key>
 	<dict>
-		<key>y</key>
-		<integer>7</integer>
-		<key>yacute</key>
-		<integer>7</integer>
-		<key>ydieresis</key>
-		<integer>7</integer>
+	    <key>ydieresis</key>
+	    <integer>3</integer>
+	    <key>yacute</key>
+	    <integer>3</integer>
+	    <key>y</key>
+	    <integer>3</integer>
 	</dict>
 	<key>r</key>
 	<dict>
-		<key>c</key>
-		<integer>7</integer>
-		<key>d</key>
-		<integer>8</integer>
-		<key>q</key>
-		<integer>14</integer>
+	    <key>q</key>
+	    <integer>7</integer>
+	    <key>d</key>
+	    <integer>4</integer>
+	    <key>c</key>
+	    <integer>3</integer>
 	</dict>
 	<key>rcaron</key>
 	<dict>
-		<key>c</key>
-		<integer>7</integer>
-		<key>d</key>
-		<integer>8</integer>
-		<key>q</key>
-		<integer>14</integer>
+	    <key>q</key>
+	    <integer>7</integer>
+	    <key>d</key>
+	    <integer>4</integer>
+	    <key>c</key>
+	    <integer>3</integer>
 	</dict>
-	<key>rcommaaccent</key>
+	<key>uni0157</key>
 	<dict>
-		<key>c</key>
-		<integer>7</integer>
-		<key>d</key>
-		<integer>8</integer>
-		<key>q</key>
-		<integer>14</integer>
+	    <key>q</key>
+	    <integer>7</integer>
+	    <key>d</key>
+	    <integer>4</integer>
+	    <key>c</key>
+	    <integer>3</integer>
 	</dict>
-	<key>rdblgrave</key>
+	<key>uni0211</key>
 	<dict>
-		<key>c</key>
-		<integer>13</integer>
-		<key>ccedilla</key>
-		<integer>13</integer>
-		<key>ccircumflex</key>
-		<integer>13</integer>
-		<key>d</key>
-		<integer>12</integer>
-		<key>g</key>
-		<integer>16</integer>
-		<key>odblgrave</key>
-		<integer>17</integer>
-		<key>q</key>
-		<integer>14</integer>
+	    <key>q</key>
+	    <integer>7</integer>
+	    <key>uni020D</key>
+	    <integer>8</integer>
+	    <key>g</key>
+	    <integer>8</integer>
+	    <key>d</key>
+	    <integer>6</integer>
+	    <key>ccircumflex</key>
+	    <integer>6</integer>
+	    <key>ccedilla</key>
+	    <integer>6</integer>
+	    <key>c</key>
+	    <integer>6</integer>
 	</dict>
-	<key>rinvertedbreve</key>
+	<key>uni0213</key>
 	<dict>
-		<key>c</key>
-		<integer>7</integer>
-		<key>d</key>
-		<integer>8</integer>
-		<key>q</key>
-		<integer>14</integer>
+	    <key>q</key>
+	    <integer>7</integer>
+	    <key>d</key>
+	    <integer>4</integer>
+	    <key>c</key>
+	    <integer>3</integer>
 	</dict>
 	<key>v</key>
 	<dict>
-		<key>oacute</key>
-		<integer>8</integer>
+	    <key>oacute</key>
+	    <integer>4</integer>
 	</dict>
 	<key>w</key>
 	<dict>
-		<key>ocircumflex</key>
-		<integer>4</integer>
+	    <key>ocircumflex</key>
+	    <integer>2</integer>
 	</dict>
 	<key>x</key>
 	<dict>
-		<key>oacute</key>
-		<integer>13</integer>
-		<key>ocircumflex</key>
-		<integer>13</integer>
-		<key>odblgrave</key>
-		<integer>13</integer>
-		<key>odieresis</key>
-		<integer>13</integer>
-		<key>ograve</key>
-		<integer>13</integer>
-		<key>oinvertedbreve</key>
-		<integer>13</integer>
-		<key>otilde</key>
-		<integer>13</integer>
+	    <key>otilde</key>
+	    <integer>6</integer>
+	    <key>uni020F</key>
+	    <integer>6</integer>
+	    <key>ograve</key>
+	    <integer>6</integer>
+	    <key>odieresis</key>
+	    <integer>6</integer>
+	    <key>uni020D</key>
+	    <integer>6</integer>
+	    <key>ocircumflex</key>
+	    <integer>6</integer>
+	    <key>oacute</key>
+	    <integer>6</integer>
 	</dict>
 	<key>z</key>
 	<dict>
-		<key>odblgrave</key>
-		<integer>5</integer>
+	    <key>uni020D</key>
+	    <integer>2</integer>
 	</dict>
-</dict>
+    </dict>
 </plist>

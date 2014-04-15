@@ -1,20 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Hbar" format="1">
-  <advance width="1444"/>
+  <advance width="705"/>
   <unicode hex="0126"/>
   <outline>
-    <contour>
-      <point x="130" y="1053" type="line"/>
-      <point x="1303" y="1053" type="line"/>
-      <point x="1303" y="1133" type="line"/>
-      <point x="130" y="1133" type="line"/>
-    </contour>
     <component base="H"/>
+    <contour>
+      <point x="63" y="514" type="line"/>
+      <point x="636" y="514" type="line"/>
+      <point x="636" y="553" type="line"/>
+      <point x="63" y="553" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>
-      <key>org.robofab.postScriptHintData</key>
-      <dict/>
+    <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
     </dict>
   </lib>
 </glyph>

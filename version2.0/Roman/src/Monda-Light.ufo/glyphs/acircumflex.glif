@@ -1,17 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="acircumflex" format="1">
-  <advance width="1171"/>
+  <advance width="571"/>
   <unicode hex="00E2"/>
   <outline>
     <component base="a"/>
-    <component base="circumflex" xOffset="329"/>
+    <component base="circumflex" xOffset="161"/>
   </outline>
   <lib>
     <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict/>
-      <key>org.robofab.postScriptHintData</key>
-      <dict/>
+    <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
     </dict>
   </lib>
 </glyph>

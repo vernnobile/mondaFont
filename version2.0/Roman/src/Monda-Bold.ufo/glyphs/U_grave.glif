@@ -1,15 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ugrave" format="1">
-  <advance width="1606"/>
+  <advance width="784"/>
   <unicode hex="00D9"/>
   <outline>
     <component base="U"/>
-    <component base="grave" xOffset="428" yOffset="402"/>
+    <component base="grave" xOffset="209" yOffset="196"/>
   </outline>
   <lib>
     <dict>
-      <key>org.robofab.postScriptHintData</key>
-      <dict/>
+    <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
     </dict>
   </lib>
 </glyph>

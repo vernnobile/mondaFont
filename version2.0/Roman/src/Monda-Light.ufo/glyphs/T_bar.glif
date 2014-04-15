@@ -1,15 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Tbar" format="1">
-  <advance width="1210"/>
+  <advance width="590"/>
   <unicode hex="0166"/>
   <outline>
     <component base="T"/>
-    <component base="macron" xOffset="347" yOffset="-577"/>
+    <component base="macron" xOffset="169" yOffset="-282"/>
   </outline>
   <lib>
     <dict>
-      <key>org.robofab.postScriptHintData</key>
-      <dict/>
+    <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
     </dict>
   </lib>
 </glyph>

@@ -1,15 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Aring" format="1">
-  <advance width="1540"/>
+  <advance width="751"/>
   <unicode hex="00C5"/>
   <outline>
     <component base="A"/>
-    <component base="ring" xOffset="484" yOffset="402"/>
+    <component base="ring" xOffset="236" yOffset="196"/>
   </outline>
   <lib>
     <dict>
-      <key>org.robofab.postScriptHintData</key>
-      <dict/>
+    <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
     </dict>
   </lib>
 </glyph>

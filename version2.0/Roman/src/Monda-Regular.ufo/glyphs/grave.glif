@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="grave" format="1">
+  <advance width="300"/>
+  <unicode hex="0060"/>
+  <outline>
+    <contour>
+      <point x="166" y="518" type="move" name="_top"/>
+    </contour>
+    <contour>
+      <point x="12" y="774" type="line"/>
+      <point x="127" y="588" type="line"/>
+      <point x="189" y="588" type="line"/>
+      <point x="122" y="774" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+    <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

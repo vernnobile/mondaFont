@@ -1,21 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="L" format="1">
-  <advance width="1116"/>
+  <advance width="544"/>
   <unicode hex="004C"/>
   <outline>
     <contour>
-      <point x="222" y="0" type="line"/>
-      <point x="1033" y="0" type="line"/>
-      <point x="1033" y="109" type="line"/>
-      <point x="365" y="109" type="line"/>
-      <point x="365" y="1428" type="line"/>
-      <point x="222" y="1428" type="line"/>
+      <point x="108" y="0" type="line"/>
+      <point x="504" y="0" type="line"/>
+      <point x="504" y="53" type="line"/>
+      <point x="178" y="53" type="line"/>
+      <point x="178" y="697" type="line"/>
+      <point x="108" y="697" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>org.robofab.postScriptHintData</key>
-      <dict/>
+    <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
     </dict>
   </lib>
 </glyph>

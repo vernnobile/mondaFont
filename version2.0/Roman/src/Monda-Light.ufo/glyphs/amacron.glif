@@ -1,17 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="amacron" format="1">
-  <advance width="1171"/>
+  <advance width="571"/>
   <unicode hex="0101"/>
   <outline>
     <component base="a"/>
-    <component base="macron" xOffset="321"/>
+    <component base="macron" xOffset="157"/>
   </outline>
   <lib>
     <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict/>
-      <key>org.robofab.postScriptHintData</key>
-      <dict/>
+    <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
     </dict>
   </lib>
 </glyph>

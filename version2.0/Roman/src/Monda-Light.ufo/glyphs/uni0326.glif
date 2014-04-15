@@ -1,14 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0326" format="1">
-  <advance width="600"/>
+  <advance width="292"/>
   <unicode hex="0326"/>
   <outline>
-    <component base="comma" xOffset="42" yOffset="-448"/>
+    <component base="comma" xOffset="21" yOffset="-219"/>
   </outline>
   <lib>
     <dict>
-      <key>org.robofab.postScriptHintData</key>
-      <dict/>
+    <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
     </dict>
   </lib>
 </glyph>

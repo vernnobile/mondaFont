@@ -1,20 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="notequal" format="1">
-  <advance width="919"/>
+  <advance width="448"/>
   <unicode hex="2260"/>
   <outline>
-    <contour>
-      <point x="126" y="150" type="line"/>
-      <point x="299" y="150" type="line"/>
-      <point x="738" y="1094" type="line"/>
-      <point x="565" y="1094" type="line"/>
-    </contour>
     <component base="equal"/>
+    <contour>
+      <point x="62" y="73" type="line"/>
+      <point x="146" y="73" type="line"/>
+      <point x="360" y="534" type="line"/>
+      <point x="276" y="534" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>
-      <key>org.robofab.postScriptHintData</key>
-      <dict/>
+    <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
     </dict>
   </lib>
 </glyph>

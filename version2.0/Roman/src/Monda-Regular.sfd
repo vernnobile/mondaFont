@@ -1,9 +1,9 @@
 SplineFontDB: 3.0
 FontName: Monda-Regular
 FullName: Monda Regular
-FamilyName: Monda-Regular
+FamilyName: Monda
 Weight: Regular
-Copyright: Digitized data Copyright (c) 2011-2013, vernon adams.
+Copyright: Digitized data Copyright (c) 2012-2014, vernon adams.
 Version: 2.0
 ItalicAngle: 0
 UnderlinePosition: 0
@@ -15,12 +15,13 @@ UFODescent: -329.59
 LayerCount: 2
 Layer: 0 0 "Back"  1
 Layer: 1 0 "Fore"  0
+FSType: 0
 OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
-OS2_UseTypoMetrics: 0
-CreationTime: 1397592996
-ModificationTime: 1397593040
-PfmFamily: 0
+OS2_UseTypoMetrics: 1
+CreationTime: 1397593428
+ModificationTime: 1397593983
+PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
 LineGap: 0
@@ -1053,7 +1054,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 0 34 14
+WinInfo: 34 34 14
 BeginPrivate: 0
 EndPrivate
 AnchorClass2: "caron.alt"  "" "center"  "" "mid"  "" "bot"  "" "ogonek"  "" "top"  "" 

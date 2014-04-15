@@ -1,29 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="kgreenlandic" format="1">
-  <advance width="1213"/>
+  <advance width="592"/>
   <unicode hex="0138"/>
   <outline>
     <contour>
-      <point x="171" y="0" type="line"/>
-      <point x="444" y="0" type="line"/>
-      <point x="444" y="385" type="line"/>
-      <point x="540" y="483" type="line"/>
-      <point x="864" y="0" type="line"/>
-      <point x="1190" y="0" type="line"/>
-      <point x="771" y="605" type="line"/>
-      <point x="1169" y="1074" type="line"/>
-      <point x="845" y="1074" type="line"/>
-      <point x="793" y="1018"/>
-      <point x="496" y="657"/>
-      <point x="444" y="602" type="curve"/>
-      <point x="444" y="1074" type="line"/>
-      <point x="171" y="1074" type="line"/>
+      <point x="83" y="0" type="line"/>
+      <point x="217" y="0" type="line"/>
+      <point x="217" y="188" type="line"/>
+      <point x="264" y="236" type="line"/>
+      <point x="422" y="0" type="line"/>
+      <point x="581" y="0" type="line"/>
+      <point x="376" y="295" type="line"/>
+      <point x="571" y="524" type="line"/>
+      <point x="413" y="524" type="line"/>
+      <point x="388" y="497"/>
+      <point x="242" y="321"/>
+      <point x="217" y="294" type="curve"/>
+      <point x="217" y="524" type="line"/>
+      <point x="83" y="524" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>org.robofab.postScriptHintData</key>
-      <dict/>
+    <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
     </dict>
   </lib>
 </glyph>

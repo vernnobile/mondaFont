@@ -1,28 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Sigma" format="1">
-  <advance width="1132"/>
+  <advance width="552"/>
   <unicode hex="03A3"/>
   <outline>
     <contour>
-      <point x="1068" y="0" type="line"/>
-      <point x="1068" y="124" type="line"/>
-      <point x="246" y="124" type="line"/>
-      <point x="719" y="740" type="line"/>
-      <point x="719" y="804" type="line"/>
-      <point x="238" y="1306" type="line"/>
-      <point x="1068" y="1306" type="line"/>
-      <point x="1068" y="1428" type="line"/>
-      <point x="124" y="1428" type="line"/>
-      <point x="124" y="1302" type="line"/>
-      <point x="611" y="763" type="line"/>
-      <point x="124" y="133" type="line"/>
-      <point x="124" y="0" type="line"/>
+      <point x="521" y="0" type="line"/>
+      <point x="521" y="61" type="line"/>
+      <point x="120" y="61" type="line"/>
+      <point x="351" y="361" type="line"/>
+      <point x="351" y="393" type="line"/>
+      <point x="116" y="638" type="line"/>
+      <point x="521" y="638" type="line"/>
+      <point x="521" y="697" type="line"/>
+      <point x="61" y="697" type="line"/>
+      <point x="61" y="636" type="line"/>
+      <point x="298" y="373" type="line"/>
+      <point x="61" y="65" type="line"/>
+      <point x="61" y="0" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>org.robofab.postScriptHintData</key>
-      <dict/>
+    <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
     </dict>
   </lib>
 </glyph>
