@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="circumflex" format="1">
+  <advance width="250"/>
+  <unicode hex="02C6"/>
+  <outline>
+    <contour>
+      <point x="-34" y="594" type="line"/>
+      <point x="79" y="594" type="line"/>
+      <point x="130" y="664" type="line"/>
+      <point x="178" y="594" type="line"/>
+      <point x="288" y="594" type="line"/>
+      <point x="186" y="739" type="line"/>
+      <point x="76" y="739" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+    <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
