@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tcedilla" format="1">
+  <advance width="397"/>
+  <unicode hex="0163"/>
+  <outline>
+    <component base="cedilla" xOffset="113" yOffset="18"/>
+    <component base="t"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict/>
+    </dict>
+  </lib>
+</glyph>

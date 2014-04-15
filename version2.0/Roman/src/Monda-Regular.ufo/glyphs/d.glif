@@ -4,15 +4,6 @@
   <unicode hex="0064"/>
   <outline>
     <contour>
-      <point x="448" y="623" type="move" name="mid"/>
-    </contour>
-    <contour>
-      <point x="403" y="518" type="move" name="caron.alt"/>
-    </contour>
-    <contour>
-      <point x="285" y="518" type="move" name="top"/>
-    </contour>
-    <contour>
       <point x="277" y="-11" type="curve" smooth="yes"/>
       <point x="330" y="-11"/>
       <point x="387" y="11"/>
@@ -48,12 +39,20 @@
       <point x="382" y="79"/>
       <point x="335" y="62"/>
     </contour>
+    <contour>
+      <point x="448" y="623" type="move" name="mid"/>
+    </contour>
+    <contour>
+      <point x="403" y="518" type="move" name="caron.alt"/>
+    </contour>
+    <contour>
+      <point x="285" y="518" type="move" name="top"/>
+    </contour>
   </outline>
   <lib>
     <dict>
-    <key>org.robofab.postScriptHintData</key>
-      <dict>
-      </dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict/>
     </dict>
   </lib>
 </glyph>

@@ -4,13 +4,12 @@
   <unicode hex="00C7"/>
   <outline>
     <component base="C"/>
-    <component base="cedilla" xOffset="278"/>
+    <component base="cedilla" xOffset="279"/>
   </outline>
   <lib>
     <dict>
-    <key>org.robofab.postScriptHintData</key>
-      <dict>
-      </dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict/>
     </dict>
   </lib>
 </glyph>

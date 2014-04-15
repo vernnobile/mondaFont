@@ -3,9 +3,6 @@
   <advance width="292"/>
   <outline>
     <contour>
-      <point x="137" y="514" type="move" name="_caron.alt"/>
-    </contour>
-    <contour>
       <point x="347" y="605" type="line"/>
       <point x="374" y="631"/>
       <point x="424" y="689"/>
@@ -18,12 +15,14 @@
       <point x="336" y="652"/>
       <point x="315" y="626" type="curve"/>
     </contour>
+    <contour>
+      <point x="137" y="514" type="move" name="_caron.alt"/>
+    </contour>
   </outline>
   <lib>
     <dict>
-    <key>org.robofab.postScriptHintData</key>
-      <dict>
-      </dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict/>
     </dict>
   </lib>
 </glyph>

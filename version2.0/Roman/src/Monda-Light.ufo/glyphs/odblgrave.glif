@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="odblgrave" format="1">
+  <advance width="556"/>
+  <unicode hex="020D"/>
+  <outline>
+    <component base="o"/>
+    <component base="uni030F" xOffset="-28"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict/>
+    </dict>
+  </lib>
+</glyph>
