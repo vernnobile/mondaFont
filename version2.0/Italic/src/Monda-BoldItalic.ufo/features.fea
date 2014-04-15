@@ -8,15 +8,11 @@ languagesystem latn ROM;
 languagesystem latn MOL;
 languagesystem latn TRK;
 
-# automatic
-@Uppercase = [ A Aacute Abreve Acaron Acircumflex Adblgrave Adieresis Adotaccent Agrave Ainvertedbreve Amacron Aogonek Aring Aringacute Atilde AE AEacute AEmacron B Bdotaccent C Cacute Ccaron Ccedilla Ccircumflex Cdotaccent D DZ DZcaron Eth Dcaron Dcroat Ddotaccent Dz Dzcaron E Eacute Ebreve Ecaron uni0228 Ecircumflex Edblgrave Edieresis Edotaccent Egrave Einvertedbreve Emacron Eogonek Etilde F Fdotaccent G Gacute Gbreve Gcaron Gcircumflex Gcommaaccent Gdotaccent H Hbar uni021E Hcircumflex I IJ Iacute Ibreve Icaron Icircumflex Idblgrave Idieresis Idotaccent Igrave Iinvertedbreve Imacron Iogonek Itilde J Jcircumflex K Kcaron Kcommaaccent L Lacute Lcaron Lcommaaccent Ldot Lslash M Mdotaccent N Nacute Ncaron Ncommaaccent uni01F8 Eng Ntilde O Oacute Obreve Ocaron Ocircumflex Odblgrave Odieresis Ograve Ohungarumlaut Oinvertedbreve Omacron Oogonek Oslash Oslashacute Otilde OE P Pdotaccent Thorn Q R Racute Rcaron Rcommaaccent Rdblgrave Rinvertedbreve S Sacute Scaron Scedilla Scircumflex Scommaaccent Sdotaccent Schwa T Tbar Tcaron Tcedilla uni021A Tdotaccent U Uacute Ubreve Ucaron Ucircumflex Udblgrave Udieresis Ugrave Uhungarumlaut Uinvertedbreve Umacron Uogonek Uring Utilde V W Wacute Wcircumflex Wdieresis Wgrave X Y Yacute Ycircumflex Ydieresis Ygrave Ymacron Ytilde Z Zacute Zcaron Zdotaccent Sigma Omega uni022E ];
-
 feature aalt {
 # automatic
 feature locl;
 feature sups;
 feature frac;
-feature ordn;
 } aalt;
 
 feature locl {
@@ -62,16 +58,6 @@ sub one slash two by onehalf;
 sub three slash four by threequarters;
 } frac;
 
-feature ordn {
-# automatic
-sub [zero one two three four five six seven eight nine] [A a]' by ordfeminine;
-sub [zero one two three four five six seven eight nine] [O o]' by ordmasculine;
-} ordn;
-
-feature dlig {
-# automatic
-sub f j by f_j;
-} dlig;
 
 feature liga {
 # automatic
