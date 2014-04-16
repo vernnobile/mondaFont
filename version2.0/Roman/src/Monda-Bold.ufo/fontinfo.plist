@@ -13,7 +13,7 @@
 	<key>note</key>
 	<string></string>
 	<key>openTypeHeadCreated</key>
-	<string>2014/04/15 20:33:50</string>
+	<string>2014/04/15 20:23:48</string>
 	<key>openTypeNameCompatibleFullName</key>
 	<string>Nunito-Light</string>
 	<key>openTypeNameDesigner</key>
@@ -73,6 +73,6 @@ http://scripts.sil.org/OFL
 	<key>versionMinor</key>
 	<integer>0</integer>
 	<key>xHeight</key>
-	<integer>524</integer>
+	<integer>518</integer>
 </dict>
 </plist>
